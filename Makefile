@@ -10,9 +10,9 @@ vpath %.cxx $(SRC)
 vpath %.C   $(SRC)
 vpath %.h   $(INC)
 
-all: expenser
+all: expenser.exe
 
-expenser: expenser.o TExpenser.o TExpenserDict.o
+expenser.exe: expenser.o TExpenser.o TExpenserDict.o
 	g++ -o $@ $(OBJ)/expenser.o $(OBJ)/TExpenser.o $(OBJ)/TExpenserDict.o  $(FLAGS)
 
 expenser.o: expenser.cxx TExpenser.h
