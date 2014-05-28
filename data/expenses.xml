@@ -11,4 +11,26 @@
     <category>Food</category>
     <description>LIDL</description>
   </expense>
+  <expense>
+    <amount>4.38</amount>
+    <date>
+      <day>5</day>
+      <month>5</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Restaurant</category>
+    <description>McDonalds</description>
+  </expense>
+  <expense>
+    <amount>15.92</amount>
+    <date>
+      <day>17</day>
+      <month>5</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
+  </expense>
 </expenses>
