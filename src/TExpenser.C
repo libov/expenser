@@ -66,7 +66,7 @@ TGMainFrame(p,w,h)
     hframe->AddFrame(fCategoryBox, new TGLayoutHints(kLHintsLeft,5,10,5,5));
 
     // description field
-    fDescription = new TGTextEntry(hframe, "d");
+    fDescription = new TGTextEntry(hframe, "");
     fDescription -> SetToolTipText("Description");
     fDescription -> Resize(200, fDescription->GetDefaultHeight());
     hframe -> AddFrame(fDescription, new TGLayoutHints(kLHintsLeft, 5,5,5,5));
