@@ -1,5 +1,6 @@
 #include <TGFrame.h>
 #include <TGNumberEntry.h>
+#include <TGComboBox.h>
 
 class TExpenser : public TGMainFrame {
 
@@ -12,7 +13,7 @@ class TExpenser : public TGMainFrame {
 
     private:
         
+        TGNumberEntryField * fAmountEntry;
         TGNumberEntry * fDateEntry;
-        TGNumberEntry * fAmountEntry;
-
+        TGComboBox    * fCategoryBox;
 };
