@@ -13,19 +13,19 @@ vpath %.h   $(INC)
 all: expenser.exe
 
 expenser.exe: expenser.o TExpenser.o TExpenserDict.o
-	g++ -o $@ $(OBJ)/expenser.o $(OBJ)/TExpenser.o $(OBJ)/TExpenserDict.o  $(FLAGS)
+	g++ -o $@ $(OBJ)/expenser.o $(OBJ)/TExpenser.o $(OBJ)/TExpenserDict.o $(FLAGS) -lMLP -lXMLIO -lTXMLParser -L$(TXMLPARSER)/lib 
 
 expenser.o: expenser.cxx TExpenser.h
-	g++ -o $(OBJ)/$@ -c $< -I inc $(FLAGS_OBJ)
+	g++ -o $(OBJ)/$@ -c $< -I inc $(FLAGS_OBJ) -I$(TXMLPARSER)/inc
 
 TExpenser.o: TExpenser.C TExpenser.h
-	g++ -o $(OBJ)/$@ -c $< -I inc $(FLAGS_OBJ)
+	g++ -o $(OBJ)/$@ -c $< -I inc $(FLAGS_OBJ) -I$(TXMLPARSER)/inc
 	
 TExpenserDict.C: TExpenser.h
-	rootcint -f $(OBJ)/$@ -c $< inc/TExpenserLinkDef.h
+	rootcint -f $(OBJ)/$@ -c -I$(TXMLPARSER)/inc $< inc/TExpenserLinkDef.h
 
 TExpenserDict.o: TExpenserDict.C
-	g++ -o $(OBJ)/$@ -c $(OBJ)/$< $(FLAGS_OBJ) -I.
+	g++ -o $(OBJ)/$@ -c $(OBJ)/$< $(FLAGS_OBJ) -I. -I$(TXMLPARSER)/inc
 
 
 .PHONY: clean
