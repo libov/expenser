@@ -9,6 +9,24 @@
 #include<iostream>
 using namespace std;
 
+// ========== helping functions ========== //
+TString toStr(Double_t arg, Int_t decimals);
+TString toStr(Int_t arg);
+
+TString toStr(Double_t arg, Int_t decimals) {
+    char tmp[256];
+    TString format = "%."+toStr(decimals)+"f";
+    sprintf(tmp, format, arg);
+    TString result(tmp);
+    return result;
+}
+
+TString toStr(Int_t arg) {
+    TString result;
+    result += arg;
+    return result;
+}
+
 TExpenser::TExpenser(const TGWindow *p, UInt_t w, UInt_t h):
 TGMainFrame(p,w,h)
 {
