@@ -1,6 +1,7 @@
 #include <TGFrame.h>
 #include <TGNumberEntry.h>
 #include <TGComboBox.h>
+#include<TGTextEntry.h>
 
 #include <TXMLParser.h>
 
@@ -18,6 +19,7 @@ class TExpenser : public TGMainFrame {
         TGNumberEntryField * fAmountEntry;
         TGNumberEntry * fDateEntry;
         TGComboBox    * fCategoryBox;
+        TGTextEntry   * fDescription;
 
         TXMLParser *fXMLParser;
 };
