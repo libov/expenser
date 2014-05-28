@@ -1,5 +1,6 @@
 #include<TGFrame.h>
 #include<TGNumberEntry.h>
+#include<TGTextEntry.h>
 #include <TGButton.h>
 #include <TApplication.h>
 #include <TGComboBox.h>
@@ -26,6 +27,10 @@ TString toStr(Int_t arg) {
     result += arg;
     return result;
 }
+
+// constants
+const unsigned NCATEGORIES = 2;
+TString CATEGORIES[]  = {"Food", "Flat"};
 
 TExpenser::TExpenser(const TGWindow *p, UInt_t w, UInt_t h):
 TGMainFrame(p,w,h)
