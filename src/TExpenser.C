@@ -30,10 +30,11 @@ TGMainFrame(p,w,h)
 
     // category selector
     TGComboBox *fCombo = new TGComboBox(hframe,100);
-    for (unsigned i = 0; i < 10; i++) {
-        char tmp[20];
-        sprintf(tmp, "Entry%i", i+1);
-        fCombo->AddEntry(tmp, i+1);
+    const unsigned ncategories = 2;
+    TString categories[]  = {"Food", "Flat"};
+    fCombo -> AddEntry("", 1);
+    for (unsigned i = 0; i < ncategories; i++) {
+        fCombo->AddEntry(categories[i], i+1);
     }
     fCombo->Resize(150, 20);
     // Entry3 is selected as current
