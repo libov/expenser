@@ -4,6 +4,7 @@
 #include <TGButton.h>
 #include <TApplication.h>
 #include <TGComboBox.h>
+#include <TDatime.h>
 
 #include<TExpenser.h>
 
@@ -40,29 +41,32 @@ TGMainFrame(p,w,h)
 
     // expense amount entry field
     fAmountEntry = new TGNumberEntryField(hframe, 0, 0, TGNumberFormat::kNESRealTwo, TGNumberFormat::kNEAAnyNumber);
-    hframe->AddFrame(fAmountEntry, new TGLayoutHints(kLHintsCenterX,5,5,3,4));
+    hframe->AddFrame(fAmountEntry, new TGLayoutHints(kLHintsLeft,5,5,3,4));
 
     // date entry field
-    fDateEntry = new TGNumberEntry(hframe, 20140418, 10, -1, TGNumberFormat::kNESDayMYear, TGNumberFormat::kNEAAnyNumber, TGNumberFormat::kNELLimitMinMax, 20090101., 20200101);
-    hframe->AddFrame(fDateEntry, new TGLayoutHints(kLHintsCenterX,5,5,3,4));
+    TDatime time;
+    fDateEntry = new TGNumberEntry(hframe, time.GetDate(), 10, -1, TGNumberFormat::kNESDayMYear, TGNumberFormat::kNEAAnyNumber, TGNumberFormat::kNELLimitMinMax, 20090101., 20200101);
+    hframe->AddFrame(fDateEntry, new TGLayoutHints(kLHintsLeft,5,5,3,4));
+
+    // category selector
+    fCategoryBox = new TGComboBox(hframe,100);
+    for (unsigned i = 0; i < NCATEGORIES; i++) {
+        fCategoryBox->AddEntry(CATEGORIES[i], i+1);
+    }
+    fCategoryBox->Resize(150, 20);
+    fCategoryBox->Select(1);
+    hframe->AddFrame(fCategoryBox, new TGLayoutHints(kLHintsLeft,5,10,5,5));
+
+    // description field
+    fDescription = new TGTextEntry(hframe, "d");
+    fDescription -> SetToolTipText("Description");
+    fDescription -> Resize(200, fDescription->GetDefaultHeight());
+    hframe -> AddFrame(fDescription, new TGLayoutHints(kLHintsLeft, 5,5,5,5));
 
     // add-button
     TGTextButton * add_button = new TGTextButton(hframe,"&Add");
     add_button -> Connect("Clicked()", "TExpenser", this, "add()");
-    hframe -> AddFrame(add_button, new TGLayoutHints(kLHintsCenterX,5,5,3,4));
-
-    // category selector
-    TGComboBox *fCombo = new TGComboBox(hframe,100);
-    const unsigned ncategories = 2;
-    TString categories[]  = {"Food", "Flat"};
-    fCombo -> AddEntry("", 1);
-    for (unsigned i = 0; i < ncategories; i++) {
-        fCombo->AddEntry(categories[i], i+1);
-    }
-    fCombo->Resize(150, 20);
-    // Entry3 is selected as current
-    fCombo->Select(2);
-    hframe->AddFrame(fCombo, new TGLayoutHints(kLHintsTop | kLHintsLeft,5,5,5,5));
+    hframe -> AddFrame(add_button, new TGLayoutHints(kLHintsLeft,5,5,3,4));
 
     // add frame to main frame
     AddFrame(hframe, new TGLayoutHints(kLHintsCenterX,2,2,2,2));
@@ -91,11 +95,22 @@ TExpenser::~TExpenser() {
 
 void TExpenser::add() {
 
-    Double_t amount = fAmountEntry -> GetNumber();
-    cout << "amount: " << amount << endl;
+    fXMLParser -> selectMainNode();
+    XMLNodePointer_t expense = fXMLParser -> NewChild(fXMLParser->getCurrentNode(), 0, "expense");
+
+    fXMLParser -> NewChild(expense, 0, "amount", toStr( fAmountEntry -> GetNumber(), 2) );
 
     Int_t year, month, day;
     fDateEntry -> GetDate(year, month, day);
-    cout << "year: " << year << " month: " << month << " day: " << day << endl;
+    XMLNodePointer_t date = fXMLParser -> NewChild(expense, 0, "date");
+    fXMLParser -> NewChild(date, 0, "day", toStr(day) );
+    fXMLParser -> NewChild(date, 0, "month", toStr(month) );
+    fXMLParser -> NewChild(date, 0, "year", toStr(year) );
 
+    unsigned selected_entry = fCategoryBox -> GetSelected ();
+    fXMLParser->NewChild(expense, 0, "category", CATEGORIES[selected_entry-1]);
+
+    fXMLParser->NewChild(expense, 0, "description", fDescription -> GetText());
+
+    fXMLParser -> SaveDoc(fXMLParser->getDocument(), "data/expenses.xml");
 }
