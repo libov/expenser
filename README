@@ -1,5 +1,7 @@
 Todo
 
+* hints/description of the fields (frame around?)
+* store previously entered values??
 * display entries from XML file
 * edit entries from XML file, in particular withdrawn or not
 * statistical analysis of data
