@@ -116,8 +116,8 @@ void TExpenser::add() {
     fXMLParser -> NewChild(date, 0, "year", toStr(year) );
 
     TString withdrawn;
-    if (fWithdrawn -> GetSelected () == 1) withdrawn = "Yes";
-    if (fWithdrawn -> GetSelected () == 2) withdrawn = "No";
+    if (fWithdrawn -> GetSelected () == 1) withdrawn = "No";
+    if (fWithdrawn -> GetSelected () == 2) withdrawn = "Yes";
     fXMLParser->NewChild(expense, 0, "withdrawn", withdrawn);
 
     unsigned selected_entry = fCategoryBox -> GetSelected ();
