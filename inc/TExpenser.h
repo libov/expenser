@@ -20,6 +20,7 @@ class TExpenser : public TGMainFrame {
         TGNumberEntry * fDateEntry;
         TGComboBox    * fCategoryBox;
         TGTextEntry   * fDescription;
+        TGComboBox    * fWithdrawn;
 
         TXMLParser *fXMLParser;
 };
