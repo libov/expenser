@@ -48,6 +48,14 @@ TGMainFrame(p,w,h)
     fDateEntry = new TGNumberEntry(hframe, time.GetDate(), 10, -1, TGNumberFormat::kNESDayMYear, TGNumberFormat::kNEAAnyNumber, TGNumberFormat::kNELLimitMinMax, 20090101., 20200101);
     hframe->AddFrame(fDateEntry, new TGLayoutHints(kLHintsLeft,5,5,3,4));
 
+    // withdrawn or not
+    fWithdrawn = new TGComboBox(hframe,30);
+    fWithdrawn->AddEntry("Not Withdrawn", 1);
+    fWithdrawn->AddEntry("Withdrawn", 2);
+    fWithdrawn->Select(1);
+    fWithdrawn->Resize(150, 20);
+    hframe->AddFrame(fWithdrawn, new TGLayoutHints(kLHintsLeft,5,10,5,5));
+
     // category selector
     fCategoryBox = new TGComboBox(hframe,100);
     for (unsigned i = 0; i < NCATEGORIES; i++) {
@@ -106,6 +114,11 @@ void TExpenser::add() {
     fXMLParser -> NewChild(date, 0, "day", toStr(day) );
     fXMLParser -> NewChild(date, 0, "month", toStr(month) );
     fXMLParser -> NewChild(date, 0, "year", toStr(year) );
+
+    TString withdrawn;
+    if (fWithdrawn -> GetSelected () == 1) withdrawn = "Yes";
+    if (fWithdrawn -> GetSelected () == 2) withdrawn = "No";
+    fXMLParser->NewChild(expense, 0, "withdrawn", withdrawn);
 
     unsigned selected_entry = fCategoryBox -> GetSelected ();
     fXMLParser->NewChild(expense, 0, "category", CATEGORIES[selected_entry-1]);
