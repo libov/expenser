@@ -1,3 +1,14 @@
 <?xml version="1.0"?>
 <expenses>
+  <expense>
+    <amount>10.24</amount>
+    <date>
+      <day>27</day>
+      <month>5</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
+  </expense>
 </expenses>
