@@ -12,7 +12,7 @@ class TExpenser : public TGMainFrame {
         ClassDef(TExpenser, 0)
 
     private:
-        
+
         TGNumberEntryField * fAmountEntry;
         TGNumberEntry * fDateEntry;
         TGComboBox    * fCategoryBox;
