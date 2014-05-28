@@ -55,6 +55,9 @@ TGMainFrame(p,w,h)
 
     // Map main frame
     MapWindow();
+
+    // open the xml file
+    fXMLParser = new TXMLParser("data/expenses.xml");
 }
 
 TExpenser::~TExpenser() {
