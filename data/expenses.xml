@@ -1,6 +1,8 @@
 <?xml version="1.0"?>
 <expenses>
+  <n_expenses>6</n_expenses>
   <expense>
+    <id>1</id>
     <amount>10.24</amount>
     <date>
       <day>27</day>
@@ -12,6 +14,7 @@
     <description>LIDL</description>
   </expense>
   <expense>
+    <id>2</id>
     <amount>4.38</amount>
     <date>
       <day>5</day>
@@ -23,6 +26,7 @@
     <description>McDonalds</description>
   </expense>
   <expense>
+    <id>3</id>
     <amount>15.92</amount>
     <date>
       <day>17</day>
@@ -34,6 +38,7 @@
     <description>LIDL</description>
   </expense>
   <expense>
+    <id>4</id>
     <amount>4.47</amount>
     <date>
       <day>26</day>
@@ -45,6 +50,7 @@
     <description>PENNY</description>
   </expense>
   <expense>
+    <id>5</id>
     <amount>11.89</amount>
     <date>
       <day>22</day>
@@ -56,6 +62,7 @@
     <description>PENNY</description>
   </expense>
   <expense>
+    <id>6</id>
     <amount>9.36</amount>
     <date>
       <day>28</day>
