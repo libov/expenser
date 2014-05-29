@@ -103,6 +103,11 @@ TExpenser::~TExpenser() {
 
 void TExpenser::add() {
 
+    // first get total number of entries in order to assign a new id
+    fXMLParser -> selectMainNode();
+    unsigned n_expenses = fXMLParser -> getNodeContent("n_expenses").Atoi();
+    XMLNodePointer_t n_expenses_node = fXMLParser -> getNode("n_expenses");
+
     fXMLParser -> selectMainNode();
     XMLNodePointer_t expense = fXMLParser -> NewChild(fXMLParser->getCurrentNode(), 0, "expense");
 
