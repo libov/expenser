@@ -9,6 +9,8 @@
 #include<TExpenser.h>
 
 #include<iostream>
+#include<fstream>
+#include <cstdlib>
 using namespace std;
 
 // ========== helping functions ========== //
@@ -108,8 +110,25 @@ void TExpenser::add() {
     unsigned n_expenses = fXMLParser -> getNodeContent("n_expenses").Atoi();
     XMLNodePointer_t n_expenses_node = fXMLParser -> getNode("n_expenses");
 
+    // temprorary solution
+    // read number of entries from file
+    TString filepath = "data/.nentries";
+    ifstream f(filepath);
+    string line;
+    getline (f,line);
+    TString line_tstring=line;
+    n_expenses = line_tstring.Atoi();
+    f.close();
+
     fXMLParser -> selectMainNode();
     XMLNodePointer_t expense = fXMLParser -> NewChild(fXMLParser->getCurrentNode(), 0, "expense");
+
+    fXMLParser -> NewChild(expense, 0, "id", toStr( n_expenses+1 ) );
+    system("rm data/.nentries");
+    ofstream o;
+    o.open("data/.nentries");
+    o <<  n_expenses+1 << endl;
+    o.close();
 
     fXMLParser -> NewChild(expense, 0, "amount", toStr( fAmountEntry -> GetNumber(), 2) );
 
