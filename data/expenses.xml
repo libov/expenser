@@ -73,4 +73,16 @@
     <category>Food</category>
     <description>LIDL</description>
   </expense>
+  <expense>
+    <id>7</id>
+    <amount>40.66</amount>
+    <date>
+      <day>31</day>
+      <month>5</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Other</category>
+    <description>presents for kids</description>
+  </expense>
 </expenses>
