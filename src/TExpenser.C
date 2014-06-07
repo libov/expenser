@@ -5,8 +5,10 @@
 #include <TApplication.h>
 #include <TGComboBox.h>
 #include <TDatime.h>
+#include <TGTable.h>
 
 #include<TExpenser.h>
+#include<TGExpenserTableInterface.h>
 
 #include<iostream>
 #include<fstream>
