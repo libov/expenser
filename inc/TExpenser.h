@@ -16,12 +16,12 @@ class TExpenser : public TGMainFrame {
 
     private:
 
-        TGNumberEntryField  * fAmountEntry;
-        TGNumberEntry       * fDateEntry;
-        TGComboBox          * fCategoryBox;
-        TGTextEntry         * fDescription;
-        TGComboBox          * fWithdrawn;
+        TGNumberEntryField          * fAmountEntry;
+        TGNumberEntry               * fDateEntry;
+        TGComboBox                  * fCategoryBox;
+        TGTextEntry                 * fDescription;
+        TGComboBox                  * fWithdrawn;
         TGExpenserTableInterface    * fTableInterface;
         TGTable                     * fTable;
-        TXMLParser          * fXMLParser;
+        TXMLParser                  * fXMLParser;
 };
