@@ -27,4 +27,5 @@ class TExpenser : public TGMainFrame {
         TGExpenserTableInterface    * fTableInterface;
         TGTable                     * fTable;
         TXMLParser                  * fXMLParser;
+        unsigned                      fTableEntries;
 };
