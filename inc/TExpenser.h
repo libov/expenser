@@ -2,7 +2,9 @@
 #include <TGNumberEntry.h>
 #include <TGComboBox.h>
 #include<TGTextEntry.h>
+#include <TGTable.h>
 
+#include <TGExpenserTableInterface.h>
 #include <TXMLParser.h>
 
 class TExpenser : public TGMainFrame {
