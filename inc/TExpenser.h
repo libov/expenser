@@ -21,6 +21,7 @@ class TExpenser : public TGMainFrame {
         TGComboBox          * fCategoryBox;
         TGTextEntry         * fDescription;
         TGComboBox          * fWithdrawn;
-
+        TGExpenserTableInterface    * fTableInterface;
+        TGTable                     * fTable;
         TXMLParser          * fXMLParser;
 };
