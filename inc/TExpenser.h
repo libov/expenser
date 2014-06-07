@@ -4,8 +4,9 @@
 #include<TGTextEntry.h>
 #include <TGTable.h>
 
-#include <TGExpenserTableInterface.h>
 #include <TXMLParser.h>
+
+class TGExpenserTableInterface;
 
 class TExpenser : public TGMainFrame {
 
