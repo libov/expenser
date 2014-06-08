@@ -157,4 +157,40 @@
     <category>Other</category>
     <description>zoo</description>
   </expense>
+  <expense>
+    <id>14</id>
+    <amount>35.31</amount>
+    <date>
+      <day>7</day>
+      <month>6</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>15</id>
+    <amount>14.32</amount>
+    <date>
+      <day>4</day>
+      <month>6</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>16</id>
+    <amount>6.52</amount>
+    <date>
+      <day>3</day>
+      <month>6</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
+  </expense>
 </expenses>
