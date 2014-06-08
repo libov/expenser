@@ -193,4 +193,52 @@
     <category>Food</category>
     <description>LIDL</description>
   </expense>
+  <expense>
+    <id>17</id>
+    <amount>2.49</amount>
+    <date>
+      <day>7</day>
+      <month>6</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Flat</category>
+    <description>Sicherung TOOM</description>
+  </expense>
+  <expense>
+    <id>18</id>
+    <amount>8.68</amount>
+    <date>
+      <day>7</day>
+      <month>6</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Flat</category>
+    <description>coffee machine cleaner etc.</description>
+  </expense>
+  <expense>
+    <id>19</id>
+    <amount>35.00</amount>
+    <date>
+      <day>1</day>
+      <month>6</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Restaurant</category>
+    <description>Einstein</description>
+  </expense>
+  <expense>
+    <id>20</id>
+    <amount>2.03</amount>
+    <date>
+      <day>4</day>
+      <month>6</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>PENNY</description>
+  </expense>
 </expenses>
