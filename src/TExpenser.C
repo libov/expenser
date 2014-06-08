@@ -40,6 +40,54 @@ TString CATEGORIES[]  = {"Food", "Restaurant", "Flat", "Cash", "Music equipment"
 TExpenser::TExpenser(const TGWindow *p, UInt_t w, UInt_t h):
 TGMainFrame(p,w,h)
 {
+    // open the xml file
+    fXMLParser = new TXMLParser("data/expenses.xml");
+
+    drawWindow();
+}
+
+TExpenser::~TExpenser() {
+    // Clean up used widgets: frames, buttons, layouthints
+    Cleanup();
+    gApplication->Terminate(0);
+}
+
+void TExpenser::drawTable() {
+
+    // create table interface
+    fTableInterface = new TGExpenserTableInterface();
+
+    fXMLParser->selectMainNode();
+    fXMLParser->selectNode("expense");
+    fTableEntries = 0;
+    const unsigned ncolumns =  5;
+    TString columns[ncolumns]={"amount", "category", "description", "withdrawn","date"};
+    fTableInterface -> setColumnNames(columns);
+    while (fXMLParser->getCurrentNode() != 0) {
+        XMLNodePointer_t current_node = fXMLParser->getCurrentNode();
+        for (unsigned i=0; i<ncolumns; i++) {
+            if (columns[i] != "date") {
+                fTableInterface -> addCell (fTableEntries, fXMLParser -> getNodeContent(columns[i]));
+            } else {
+                fXMLParser -> selectNode("date");
+                TString day = fXMLParser -> getNodeContent("day");
+                TString month = fXMLParser -> getNodeContent("month");
+                TString year = fXMLParser -> getNodeContent("year");
+                fTableInterface -> addCell (fTableEntries, day+"/"+month+"/"+year);
+                fXMLParser -> setCurrentNode(current_node);
+            }
+        }
+        fXMLParser->selectNextNode("expense");
+        fTableEntries++;
+    }
+
+    // Create the table
+    fTable = new TGTable(this, 999, fTableInterface, fTableInterface->GetNRows(), fTableInterface->GetNColumns());
+
+    AddFrame(fTable, new TGLayoutHints(kLHintsCenterY,2,2,2,2));
+}
+
+void TExpenser::drawWindow() {
     // create a frame holding all widgets
     TGHorizontalFrame *hframe = new TGHorizontalFrame(this, 500, 40);
 
@@ -96,15 +144,6 @@ TGMainFrame(p,w,h)
 
     // Map main frame
     MapWindow();
-
-    // open the xml file
-    fXMLParser = new TXMLParser("data/expenses.xml");
-}
-
-TExpenser::~TExpenser() {
-    // Clean up used widgets: frames, buttons, layouthints
-    Cleanup();
-    gApplication->Terminate(0);
 }
 
 void TExpenser::add() {
@@ -154,4 +193,11 @@ void TExpenser::add() {
     fXMLParser->NewChild(expense, 0, "description", fDescription -> GetText());
 
     fXMLParser -> SaveDoc(fXMLParser->getDocument(), "data/expenses.xml");
+
+    // add new entry to the table
+    fTableInterface -> addCell(fTableEntries, toStr( fAmountEntry -> GetNumber(), 2));
+    fTableEntries++;
+    HideFrame(fTable);
+    Cleanup();
+    drawWindow();
 }
