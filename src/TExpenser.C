@@ -196,6 +196,10 @@ void TExpenser::add() {
 
     // add new entry to the table
     fTableInterface -> addCell(fTableEntries, toStr( fAmountEntry -> GetNumber(), 2));
+    fTableInterface -> addCell(fTableEntries, CATEGORIES[selected_entry-1] );
+    fTableInterface -> addCell(fTableEntries, fDescription -> GetText() );
+    fTableInterface -> addCell(fTableEntries, withdrawn );
+    fTableInterface -> addCell(fTableEntries, toStr(day)+"/"+ toStr(month)+"/"+toStr(year) );
     fTableEntries++;
     HideFrame(fTable);
     Cleanup();
