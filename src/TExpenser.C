@@ -83,6 +83,8 @@ TGMainFrame(p,w,h)
     // add frame to main frame
     AddFrame(hframe, new TGLayoutHints(kLHintsCenterX,2,2,2,2));
 
+    drawTable();
+
     // Set a name to the main frame
     SetWindowName("Expenser");
 
