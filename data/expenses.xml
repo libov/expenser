@@ -349,4 +349,28 @@
     <category>Food</category>
     <description>LIDL</description>
   </expense>
+  <expense>
+    <id>30</id>
+    <amount>9.26</amount>
+    <date>
+      <day>10</day>
+      <month>5</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>PENNY</description>
+  </expense>
+  <expense>
+    <id>31</id>
+    <amount>19.46</amount>
+    <date>
+      <day>31</day>
+      <month>3</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Other</category>
+    <description>Fahrrad+food</description>
+  </expense>
 </expenses>
