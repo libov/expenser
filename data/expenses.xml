@@ -241,4 +241,52 @@
     <category>Food</category>
     <description>PENNY</description>
   </expense>
+  <expense>
+    <id>21</id>
+    <amount>4.37</amount>
+    <date>
+      <day>12</day>
+      <month>6</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>22</id>
+    <amount>30.55</amount>
+    <date>
+      <day>10</day>
+      <month>6</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>23</id>
+    <amount>2.00</amount>
+    <date>
+      <day>12</day>
+      <month>6</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Other</category>
+    <description>Fahrkarte</description>
+  </expense>
+  <expense>
+    <id>24</id>
+    <amount>39.00</amount>
+    <date>
+      <day>9</day>
+      <month>6</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Other</category>
+    <description>Schleswig-Holstein Ticket</description>
+  </expense>
 </expenses>
