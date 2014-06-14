@@ -373,4 +373,16 @@
     <category>Other</category>
     <description>Fahrrad+food</description>
   </expense>
+  <expense>
+    <id>32</id>
+    <amount>2.57</amount>
+    <date>
+      <day>14</day>
+      <month>6</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>NETTO</description>
+  </expense>
 </expenses>
