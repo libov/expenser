@@ -152,6 +152,7 @@ void TExpenser::add() {
     fXMLParser -> selectMainNode();
     unsigned n_expenses = fXMLParser -> getNodeContent("n_expenses").Atoi();
     XMLNodePointer_t n_expenses_node = fXMLParser -> getNode("n_expenses");
+    fXMLParser -> UnlinkFreeNode(n_expenses_node);
 
     // temprorary solution
     // read number of entries from file
@@ -192,6 +193,11 @@ void TExpenser::add() {
 
     fXMLParser->NewChild(expense, 0, "description", fDescription -> GetText());
 
+    // store current number of entries
+    fXMLParser -> selectMainNode();
+    fXMLParser -> NewChild(fXMLParser->getCurrentNode(), 0, "n_expenses", toStr(n_expenses+1));
+
+    // save the file!
     fXMLParser -> SaveDoc(fXMLParser->getDocument(), "data/expenses.xml");
 
     // add new entry to the table
