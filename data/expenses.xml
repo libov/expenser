@@ -1,6 +1,5 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>32</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -385,4 +384,53 @@
     <category>Food</category>
     <description>NETTO</description>
   </expense>
+  <expense>
+    <id>33</id>
+    <amount>1.59</amount>
+    <date>
+      <day>24</day>
+      <month>5</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>34</id>
+    <amount>11.90</amount>
+    <date>
+      <day>19</day>
+      <month>4</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Books</category>
+    <description>Fuehrerschein Fragen</description>
+  </expense>
+  <expense>
+    <id>35</id>
+    <amount>7.69</amount>
+    <date>
+      <day>7</day>
+      <month>5</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>PENNY</description>
+  </expense>
+  <expense>
+    <id>36</id>
+    <amount>4.90</amount>
+    <date>
+      <day>25</day>
+      <month>4</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Books</category>
+    <description>THALIA StVO</description>
+  </expense>
+  <n_expenses>36</n_expenses>
 </expenses>
