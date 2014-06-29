@@ -82,7 +82,7 @@ void TExpenser::drawTable() {
     }
 
     // Create the table
-    fTable = new TGTable(this, 999, fTableInterface, fTableInterface->GetNRows(), fTableInterface->GetNColumns());
+    fTable = new TGTable(this, 999, fTableInterface, 30, fTableInterface->GetNColumns());
 
     AddFrame(fTable, new TGLayoutHints(kLHintsCenterY,2,2,2,2));
 }
