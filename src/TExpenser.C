@@ -152,7 +152,7 @@ void TExpenser::add() {
     fXMLParser -> selectMainNode();
     unsigned n_expenses = fXMLParser -> getNodeContent("n_expenses").Atoi();
     XMLNodePointer_t n_expenses_node = fXMLParser -> getNode("n_expenses");
-    fXMLParser -> UnlinkFreeNode(n_expenses_node);
+    fXMLParser->SetNodeContent(n_expenses_node, toStr(n_expenses+1));
 
     fXMLParser -> selectMainNode();
     XMLNodePointer_t expense = fXMLParser -> NewChild(fXMLParser->getCurrentNode(), 0, "expense");
@@ -177,10 +177,6 @@ void TExpenser::add() {
     fXMLParser->NewChild(expense, 0, "category", CATEGORIES[selected_entry-1]);
 
     fXMLParser->NewChild(expense, 0, "description", fDescription -> GetText());
-
-    // store current number of entries
-    fXMLParser -> selectMainNode();
-    fXMLParser -> NewChild(fXMLParser->getCurrentNode(), 0, "n_expenses", toStr(n_expenses+1));
 
     // save the file!
     fXMLParser -> SaveDoc(fXMLParser->getDocument(), "data/expenses.xml");
