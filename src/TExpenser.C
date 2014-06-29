@@ -192,7 +192,7 @@ void TExpenser::add() {
     fTableInterface -> addCell(fTableEntries, withdrawn );
     fTableInterface -> addCell(fTableEntries, toStr(day)+"/"+ toStr(month)+"/"+toStr(year) );
     fTableEntries++;
-    HideFrame(fTable);
-    Cleanup();
-    drawWindow();
+//     HideFrame(fTable);
+//     Cleanup();
+//     drawWindow();
 }
