@@ -1,10 +1,11 @@
 Todo
 
-* by adding more entries, the table doesn't fit to the program window anymore...
+* how to make tabs? -> one tab for stat analysis, other for table display. maybe one more for editing...
+* how to make graphs (for stat analysis)
+
+* by adding more entries, the table doesn't fit to the program window anymore... -> fixed by setting max 30 entries to the table and not redrawing the window/table.. 
+   need to find a way to redraw the table, then everything should be ok.
 * hints/description of the fields (frame around?)
-* store previously entered values??
 * edit entries from XML file, in particular withdrawn or not
-* statistical analysis of data
 * automatic sorting according to date?
-* Check Sergeys updates to TXMLEngine
 * display total number of entries
