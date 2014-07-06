@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>60</n_expenses>
+  <n_expenses>63</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -720,5 +720,41 @@
     <withdrawn>No</withdrawn>
     <category>Clothes</category>
     <description>sunglasses new yorker</description>
+  </expense>
+  <expense>
+    <id>61</id>
+    <amount>13.84</amount>
+    <date>
+      <day>5</day>
+      <month>7</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>Marktkauf</description>
+  </expense>
+  <expense>
+    <id>62</id>
+    <amount>8.43</amount>
+    <date>
+      <day>5</day>
+      <month>7</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>EDEKA</description>
+  </expense>
+  <expense>
+    <id>63</id>
+    <amount>10.93</amount>
+    <date>
+      <day>5</day>
+      <month>7</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>MARKTKAUF</description>
   </expense>
 </expenses>
