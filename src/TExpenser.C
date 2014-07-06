@@ -82,14 +82,20 @@ void TExpenser::drawTable() {
     }
 
     // Create the table
-    fTable = new TGTable(this, 999, fTableInterface, 30, fTableInterface->GetNColumns());
+    fTable = new TGTable(fExpensesTab, 999, fTableInterface, 30, fTableInterface->GetNColumns());
 
-    AddFrame(fTable, new TGLayoutHints(kLHintsCenterY,2,2,2,2));
+    fExpensesTab -> AddFrame(fTable, new TGLayoutHints(kLHintsCenterY,2,2,2,2));
 }
 
 void TExpenser::drawWindow() {
+
+    fTab = new TGTab(this, 300, 300);
+    AddFrame(fTab, new TGLayoutHints(kLHintsCenterX,2,2,2,2));
+    fExpensesTab = fTab->AddTab("Expenses");
+
     // create a frame holding all widgets
-    TGHorizontalFrame *hframe = new TGHorizontalFrame(this, 500, 40);
+    TGHorizontalFrame *hframe = new TGHorizontalFrame(fExpensesTab, 500, 40);
+    fExpensesTab -> AddFrame(hframe, new TGLayoutHints(kLHintsCenterX,2,2,2,2));
 
     // expense amount entry field
     fAmountEntry = new TGNumberEntryField(hframe, 0, 0, TGNumberFormat::kNESRealTwo, TGNumberFormat::kNEAAnyNumber);
@@ -127,9 +133,6 @@ void TExpenser::drawWindow() {
     TGTextButton * add_button = new TGTextButton(hframe,"&Add");
     add_button -> Connect("Clicked()", "TExpenser", this, "add()");
     hframe -> AddFrame(add_button, new TGLayoutHints(kLHintsLeft,5,5,3,4));
-
-    // add frame to main frame
-    AddFrame(hframe, new TGLayoutHints(kLHintsCenterX,2,2,2,2));
 
     drawTable();
 
