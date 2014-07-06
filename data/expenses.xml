@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>64</n_expenses>
+  <n_expenses>65</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -768,5 +768,17 @@
     <withdrawn>No</withdrawn>
     <category>Music equipment</category>
     <description>plattformwagen TOOM</description>
+  </expense>
+  <expense>
+    <id>65</id>
+    <amount>12.47</amount>
+    <date>
+      <day>6</day>
+      <month>7</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Flat</category>
+    <description>IKEA kueche</description>
   </expense>
 </expenses>
