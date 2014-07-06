@@ -1,5 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
+  <n_expenses>59</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -504,7 +505,6 @@
     <category>Food</category>
     <description>LIDL</description>
   </expense>
-  <n_expenses>59</n_expenses>
   <expense>
     <id>43</id>
     <amount>2.79</amount>
