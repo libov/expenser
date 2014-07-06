@@ -3,6 +3,7 @@
 #include <TGComboBox.h>
 #include<TGTextEntry.h>
 #include <TGTable.h>
+#include <TGTab.h>
 
 #include <TXMLParser.h>
 
@@ -30,4 +31,6 @@ class TExpenser : public TGMainFrame {
         TGTable                     * fTable;
         TXMLParser                  * fXMLParser;
         unsigned                      fTableEntries;
+        TGTab                       * fTab;
+        TGCompositeFrame            * fExpensesTab;
 };
