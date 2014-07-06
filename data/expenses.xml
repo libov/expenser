@@ -504,7 +504,7 @@
     <category>Food</category>
     <description>LIDL</description>
   </expense>
-  <n_expenses>53</n_expenses>
+  <n_expenses>57</n_expenses>
   <expense>
     <id>43</id>
     <amount>2.79</amount>
@@ -631,6 +631,54 @@
     <date>
       <day>28</day>
       <month>6</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>54</id>
+    <amount>15.45</amount>
+    <date>
+      <day>3</day>
+      <month>7</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Flat</category>
+    <description>IKEA - Stange fuer die Kueche etc.</description>
+  </expense>
+  <expense>
+    <id>55</id>
+    <amount>14.57</amount>
+    <date>
+      <day>5</day>
+      <month>7</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>56</id>
+    <amount>10.41</amount>
+    <date>
+      <day>30</day>
+      <month>6</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>57</id>
+    <amount>11.24</amount>
+    <date>
+      <day>2</day>
+      <month>7</month>
       <year>2014</year>
     </date>
     <withdrawn>No</withdrawn>
