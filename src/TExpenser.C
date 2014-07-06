@@ -43,7 +43,23 @@ TGMainFrame(p,w,h)
     // open the xml file
     fXMLParser = new TXMLParser("data/expenses.xml");
 
+    // create tab manager and add to main window
+    fTab = new TGTab(this, 300, 300);
+    AddFrame(fTab, new TGLayoutHints(kLHintsCenterX,2,2,2,2));
+
     drawWindow();
+
+    // Set a name to the main frame
+    SetWindowName("Expenser");
+
+    // Map all subwindows of main frame
+    MapSubwindows();
+
+    // Initialize the layout algorithm
+    Resize(GetDefaultSize());
+
+    // Map main frame
+    MapWindow();
 }
 
 TExpenser::~TExpenser() {
@@ -89,8 +105,6 @@ void TExpenser::drawTable() {
 
 void TExpenser::drawWindow() {
 
-    fTab = new TGTab(this, 300, 300);
-    AddFrame(fTab, new TGLayoutHints(kLHintsCenterX,2,2,2,2));
     fExpensesTab = fTab->AddTab("Expenses");
 
     // create a frame holding all widgets
@@ -135,18 +149,6 @@ void TExpenser::drawWindow() {
     hframe -> AddFrame(add_button, new TGLayoutHints(kLHintsLeft,5,5,3,4));
 
     drawTable();
-
-    // Set a name to the main frame
-    SetWindowName("Expenser");
-
-    // Map all subwindows of main frame
-    MapSubwindows();
-
-    // Initialize the layout algorithm
-    Resize(GetDefaultSize());
-
-    // Map main frame
-    MapWindow();
 }
 
 void TExpenser::add() {
