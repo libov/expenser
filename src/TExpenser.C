@@ -47,7 +47,7 @@ TGMainFrame(p,w,h)
     fTab = new TGTab(this, 300, 300);
     AddFrame(fTab, new TGLayoutHints(kLHintsCenterX,2,2,2,2));
 
-    drawWindow();
+    drawExpensesTab();
 
     // Set a name to the main frame
     SetWindowName("Expenser");
@@ -103,7 +103,7 @@ void TExpenser::drawTable() {
     fExpensesTab -> AddFrame(fTable, new TGLayoutHints(kLHintsCenterY,2,2,2,2));
 }
 
-void TExpenser::drawWindow() {
+void TExpenser::drawExpensesTab() {
 
     fExpensesTab = fTab->AddTab("Expenses");
 
