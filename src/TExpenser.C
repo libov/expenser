@@ -34,8 +34,8 @@ TString toStr(Int_t arg) {
 }
 
 // constants
-const unsigned NCATEGORIES = 7;
-TString CATEGORIES[]  = {"Food", "Restaurant", "Flat", "Cash", "Music equipment", "Books", "Other"};
+const unsigned NCATEGORIES = 8;
+TString CATEGORIES[]  = {"Food", "Restaurant", "Flat", "Cash", "Music equipment", "Books", "Clothes", "Other"};
 
 TExpenser::TExpenser(const TGWindow *p, UInt_t w, UInt_t h):
 TGMainFrame(p,w,h)
