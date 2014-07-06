@@ -16,7 +16,7 @@ class TExpenser : public TGMainFrame {
         TExpenser(const TGWindow *p, UInt_t w, UInt_t h);
         virtual ~TExpenser();
         void add();
-        void drawTable();
+        void drawExpensesTable();
         void drawExpensesTab();
         ClassDef(TExpenser, 0)
 

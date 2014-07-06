@@ -68,7 +68,7 @@ TExpenser::~TExpenser() {
     gApplication->Terminate(0);
 }
 
-void TExpenser::drawTable() {
+void TExpenser::drawExpensesTable() {
 
     // create table interface
     fTableInterface = new TGExpenserTableInterface();
@@ -148,7 +148,7 @@ void TExpenser::drawExpensesTab() {
     add_button -> Connect("Clicked()", "TExpenser", this, "add()");
     hframe -> AddFrame(add_button, new TGLayoutHints(kLHintsLeft,5,5,3,4));
 
-    drawTable();
+    drawExpensesTable();
 }
 
 void TExpenser::add() {
