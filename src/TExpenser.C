@@ -48,6 +48,7 @@ TGMainFrame(p,w,h)
     AddFrame(fTab, new TGLayoutHints(kLHintsCenterX,2,2,2,2));
 
     drawExpensesTab();
+    drawStatisticsTab();
 
     // Set a name to the main frame
     SetWindowName("Expenser");
@@ -149,6 +150,11 @@ void TExpenser::drawExpensesTab() {
     hframe -> AddFrame(add_button, new TGLayoutHints(kLHintsLeft,5,5,3,4));
 
     drawExpensesTable();
+}
+
+void TExpenser::drawStatisticsTab() {
+
+    fStatisticsTab = fTab->AddTab("Statistics");
 }
 
 void TExpenser::add() {
