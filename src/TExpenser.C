@@ -164,6 +164,19 @@ void TExpenser::drawExpensesTab() {
 void TExpenser::drawStatisticsTab() {
 
     fStatisticsTab = fTab->AddTab("Statistics");
+
+    TRootEmbeddedCanvas * fEcanvas = new TRootEmbeddedCanvas("Ecanvas",fStatisticsTab,200,200);
+    fStatisticsTab -> AddFrame(fEcanvas, new TGLayoutHints(kLHintsExpandX| kLHintsExpandY, 10,10,10,1));
+    // TCanvas *fCanvas = fEcanvas->GetCanvas();
+    // fCanvas->cd();
+    TH1F * fCategoriesHistogram = new TH1F("fCategoriesHistogram", "Categories", NCATEGORIES, 0, NCATEGORIES);
+    fCategoriesHistogram -> SetStats(0);
+    map <TString, Float_t> monthly;
+    for (unsigned i=0; i<NCATEGORIES; i++) {
+        monthly[CATEGORIES[i]]=0;
+        fCategoriesHistogram -> Fill(CATEGORIES[i], 1);
+    }
+    fCategoriesHistogram -> Draw();
 }
 
 void TExpenser::add() {
