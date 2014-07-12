@@ -77,14 +77,14 @@ TExpenser::~TExpenser() {
 void TExpenser::drawExpensesTable() {
 
     // create table interface
-    fTableInterface = new TGExpenserTableInterface();
+    const unsigned ncolumns =  5;
+    fTableInterface = new TGExpenserTableInterface(ncolumns);
+    TString columns[ncolumns]={"amount", "category", "description", "withdrawn","date"};
+    fTableInterface -> setColumnNames(columns);
 
     fXMLParser->selectMainNode();
     fXMLParser->selectNode("expense");
     fTableEntries = 0;
-    const unsigned ncolumns =  5;
-    TString columns[ncolumns]={"amount", "category", "description", "withdrawn","date"};
-    fTableInterface -> setColumnNames(columns);
     while (fXMLParser->getCurrentNode() != 0) {
         XMLNodePointer_t current_node = fXMLParser->getCurrentNode();
 
