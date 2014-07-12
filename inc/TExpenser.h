@@ -6,6 +6,11 @@
 #include <TGTab.h>
 
 #include <TXMLParser.h>
+#include <TExpense.h>
+
+#include <map>
+#include <vector>
+using namespace std;
 
 class TGExpenserTableInterface;
 
@@ -16,6 +21,7 @@ class TExpenser : public TGMainFrame {
         TExpenser(const TGWindow *p, UInt_t w, UInt_t h);
         virtual ~TExpenser();
         void add();
+        void readData();
         void drawExpensesTable();
         void drawExpensesTab();
         void drawStatisticsTab();
@@ -35,4 +41,7 @@ class TExpenser : public TGMainFrame {
         TGTab                       * fTab;
         TGCompositeFrame            * fExpensesTab;
         TGCompositeFrame            * fStatisticsTab;
+
+        vector<TExpense>	      fExpenses;
+
 };
