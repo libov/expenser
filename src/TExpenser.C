@@ -87,16 +87,20 @@ void TExpenser::drawExpensesTable() {
     fTableInterface -> setColumnNames(columns);
     while (fXMLParser->getCurrentNode() != 0) {
         XMLNodePointer_t current_node = fXMLParser->getCurrentNode();
+
+        TString category = fXMLParser -> getNodeContent("category");
+        TString amount = fXMLParser -> getNodeContent("amount");
+        fXMLParser -> selectNode("date");
+        TString year = fXMLParser -> getNodeContent("year");
+        TString month = fXMLParser -> getNodeContent("month");
+        TString day = fXMLParser -> getNodeContent("day");
+        fXMLParser -> setCurrentNode(current_node);
+
         for (unsigned i=0; i<ncolumns; i++) {
             if (columns[i] != "date") {
                 fTableInterface -> addCell (fTableEntries, fXMLParser -> getNodeContent(columns[i]));
             } else {
-                fXMLParser -> selectNode("date");
-                TString day = fXMLParser -> getNodeContent("day");
-                TString month = fXMLParser -> getNodeContent("month");
-                TString year = fXMLParser -> getNodeContent("year");
                 fTableInterface -> addCell (fTableEntries, day+"/"+month+"/"+year);
-                fXMLParser -> setCurrentNode(current_node);
             }
         }
         fXMLParser->selectNextNode("expense");
