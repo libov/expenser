@@ -48,8 +48,6 @@ TGMainFrame(p,w,h)
     // open the xml file
     fXMLParser = new TXMLParser("data/expenses.xml");
 
-    readData();
-
     // create tab manager and add to main window
     fTab = new TGTab(this, 300, 300);
     AddFrame(fTab, new TGLayoutHints(kLHintsCenterX,2,2,2,2));
@@ -76,27 +74,6 @@ TExpenser::~TExpenser() {
     gApplication->Terminate(0);
 }
 
-void TExpenser::readData() {
-
-    fXMLParser->selectMainNode();
-    fXMLParser->selectNode("expense");
-    while (fXMLParser->getCurrentNode() != 0) {
-        XMLNodePointer_t current_node = fXMLParser->getCurrentNode();
-
-        TString amount = fXMLParser -> getNodeContent("amount");
-        TString category = fXMLParser -> getNodeContent("category");
-        fXMLParser -> selectNode("date");
-        TString year = fXMLParser -> getNodeContent("year");
-        TString month = fXMLParser -> getNodeContent("month");
-        TString day = fXMLParser -> getNodeContent("day");
-        fXMLParser -> setCurrentNode(current_node);
-
-        fExpenses.push_back(TExpense(category, amount.Atof(), year.Atoi(), month.Atoi(), day.Atoi()));
-
-        fXMLParser->selectNextNode("expense");
-    }
-}
-
 void TExpenser::drawExpensesTable() {
 
     // create table interface
@@ -111,21 +88,18 @@ void TExpenser::drawExpensesTable() {
     while (fXMLParser->getCurrentNode() != 0) {
         XMLNodePointer_t current_node = fXMLParser->getCurrentNode();
 
-        TString category = fXMLParser -> getNodeContent("category");
-        TString amount = fXMLParser -> getNodeContent("amount");
         fXMLParser -> selectNode("date");
         TString year = fXMLParser -> getNodeContent("year");
         TString month = fXMLParser -> getNodeContent("month");
         TString day = fXMLParser -> getNodeContent("day");
         fXMLParser -> setCurrentNode(current_node);
 
-        for (unsigned i=0; i<ncolumns; i++) {
-            if (columns[i] != "date") {
-                fTableInterface -> addCell (fTableEntries, fXMLParser -> getNodeContent(columns[i]));
-            } else {
-                fTableInterface -> addCell (fTableEntries, day+"/"+month+"/"+year);
-            }
-        }
+        fTableInterface -> addCell (fTableEntries, fXMLParser -> getNodeContent("amount"));
+        fTableInterface -> addCell (fTableEntries, fXMLParser -> getNodeContent("category"));
+        fTableInterface -> addCell (fTableEntries, fXMLParser -> getNodeContent("description"));
+        fTableInterface -> addCell (fTableEntries, fXMLParser -> getNodeContent("withdrawn"));
+        fTableInterface -> addCell (fTableEntries, day+"/"+month+"/"+year);
+
         fXMLParser->selectNextNode("expense");
         fTableEntries++;
     }
