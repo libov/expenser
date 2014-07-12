@@ -6,6 +6,10 @@
 #include <TGComboBox.h>
 #include <TDatime.h>
 #include <TGTable.h>
+#include <TRootEmbeddedCanvas.h>
+#include <TCanvas.h>
+#include <TF1.h>
+#include <TH1F.h>
 
 #include<TExpenser.h>
 #include<TGExpenserTableInterface.h>
@@ -13,6 +17,7 @@
 #include<iostream>
 #include<fstream>
 #include <cstdlib>
+#include <map>
 using namespace std;
 
 // ========== helping functions ========== //
