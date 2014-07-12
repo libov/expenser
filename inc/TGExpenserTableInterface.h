@@ -20,7 +20,7 @@ private:
 protected:
 
 public:
-   TGExpenserTableInterface();
+   TGExpenserTableInterface(unsigned ncolumns);
    virtual ~TGExpenserTableInterface();
 
    virtual Double_t    GetValue(UInt_t row, UInt_t column) {}
@@ -30,7 +30,7 @@ public:
    virtual UInt_t      GetNRows() { return fNRows; }
    virtual UInt_t      GetNColumns() { return fNColumns; }
    void                addCell(unsigned row, TString value);
-   void                setColumnNames(TString *columns) {fColumnNames = columns;}
+   void                setColumnNames(TString *columns);
 
    ClassDef(TGExpenserTableInterface, 0) // Interface to data in a 2D array of Double_t
 };
