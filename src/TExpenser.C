@@ -108,7 +108,7 @@ void TExpenser::drawExpensesTable() {
     }
 
     // Create the table
-    fTable = new TGTable(fExpensesTab, 999, fTableInterface, 30, fTableInterface->GetNColumns());
+    fTable = new TGTable(fExpensesTab, 999, fTableInterface, 15, fTableInterface->GetNColumns());
 
     fExpensesTab -> AddFrame(fTable, new TGLayoutHints(kLHintsCenterY,2,2,2,2));
 }
