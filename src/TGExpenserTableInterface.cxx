@@ -8,8 +8,9 @@
 
 ClassImp(TGExpenserTableInterface)
 
-TGExpenserTableInterface::TGExpenserTableInterface () 
-   : TVirtualTableInterface()
+TGExpenserTableInterface::TGExpenserTableInterface (unsigned ncolumns) 
+   : TVirtualTableInterface(),
+     fNColumns(ncolumns)
 {}
 
 TGExpenserTableInterface::~TGExpenserTableInterface() {}
@@ -21,10 +22,6 @@ const char *TGExpenserTableInterface::GetRowHeader(UInt_t row) {
 void  TGExpenserTableInterface::addCell(unsigned row, TString value) { 
     fData[row].push_back(value);
     fNRows = fData.size();
-    fNColumns = 0;
-    for (unsigned i=0; i<fNRows; i++) {
-        if (fData[i].size() > fNColumns) fNColumns = fData[i].size();
-    }
 }
 
 const char *TGExpenserTableInterface::GetValueAsString(UInt_t row, UInt_t column) {
@@ -32,5 +29,13 @@ const char *TGExpenserTableInterface::GetValueAsString(UInt_t row, UInt_t column
 }
 
 const char *TGExpenserTableInterface::GetColumnHeader(UInt_t column) {
-    return fColumnNames[column];
+    return fColumnNames[column].Data();
+}
+
+void TGExpenserTableInterface::setColumnNames(TString *columns) {
+    fColumnNames = new TString[fNColumns];
+    for (unsigned i=0; i<fNColumns; i++) {
+	fColumnNames[i] = columns[i];
+        cout << fColumnNames[i] << endl;
+    }
 }
