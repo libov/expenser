@@ -48,6 +48,8 @@ TGMainFrame(p,w,h)
     // open the xml file
     fXMLParser = new TXMLParser("data/expenses.xml");
 
+    readData();
+
     // create tab manager and add to main window
     fTab = new TGTab(this, 300, 300);
     AddFrame(fTab, new TGLayoutHints(kLHintsCenterX,2,2,2,2));
@@ -72,6 +74,27 @@ TExpenser::~TExpenser() {
     // Clean up used widgets: frames, buttons, layouthints
     Cleanup();
     gApplication->Terminate(0);
+}
+
+void TExpenser::readData() {
+
+    fXMLParser->selectMainNode();
+    fXMLParser->selectNode("expense");
+    while (fXMLParser->getCurrentNode() != 0) {
+        XMLNodePointer_t current_node = fXMLParser->getCurrentNode();
+
+        TString amount = fXMLParser -> getNodeContent("amount");
+        TString category = fXMLParser -> getNodeContent("category");
+        fXMLParser -> selectNode("date");
+        TString year = fXMLParser -> getNodeContent("year");
+        TString month = fXMLParser -> getNodeContent("month");
+        TString day = fXMLParser -> getNodeContent("day");
+        fXMLParser -> setCurrentNode(current_node);
+
+        fExpenses.push_back(TExpense(category, amount.Atof(), year.Atoi(), month.Atoi(), day.Atoi()));
+
+        fXMLParser->selectNextNode("expense");
+    }
 }
 
 void TExpenser::drawExpensesTable() {
