@@ -36,6 +36,5 @@ void TGExpenserTableInterface::setColumnNames(TString *columns) {
     fColumnNames = new TString[fNColumns];
     for (unsigned i=0; i<fNColumns; i++) {
 	fColumnNames[i] = columns[i];
-        cout << fColumnNames[i] << endl;
     }
 }
