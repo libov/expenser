@@ -10,6 +10,9 @@
 #include <TCanvas.h>
 #include <TF1.h>
 #include <TH1F.h>
+#include <TGLabel.h>
+#include <TColor.h>
+#include <TGFont.h>
 
 #include<TExpenser.h>
 #include<TGExpenserTableInterface.h>
@@ -200,6 +203,13 @@ void TExpenser::drawStatisticsTab() {
 void TExpenser::drawBalanceTab() {
 
     fBalanceTab = fTab->AddTab("Balance");
+
+    TGLabel * status_label = new TGLabel(fBalanceTab, "0 eur";
+    fBalanceTab->AddFrame(status_label, new TGLayoutHints(kLHintsNormal, 5, 5, 3, 4));
+    TColor *color = gROOT->GetColor(kBlue);
+    status_label->SetTextColor(color);
+    TGFont *font = gClient->GetFont("-*-times-bold-r-*-*-46-*-*-*-*-*-*-*");
+    status_label -> SetTextFont(font);
 }
 
 void TExpenser::add() {
