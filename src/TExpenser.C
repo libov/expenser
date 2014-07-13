@@ -54,6 +54,7 @@ TGMainFrame(p,w,h)
 
     drawExpensesTab();
     drawStatisticsTab();
+    drawAccountTab();
 
     // Set a name to the main frame
     SetWindowName("Expenser");
@@ -194,6 +195,11 @@ void TExpenser::drawStatisticsTab() {
         fCategoriesHistogram -> Fill(CATEGORIES[i], monthly_sum[CATEGORIES[i]]);
     }
     fCategoriesHistogram -> Draw();
+}
+
+void TExpenser::drawAccountTab() {
+
+    fAccountTab = fTab->AddTab("Account");
 }
 
 void TExpenser::add() {
