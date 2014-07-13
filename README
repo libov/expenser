@@ -9,3 +9,4 @@ Todo
 * edit entries from XML file, in particular withdrawn or not
 * automatic sorting according to date?
 * display total number of entries
+* test if statistics calculation works ok
