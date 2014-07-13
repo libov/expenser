@@ -1,10 +1,7 @@
 Todo
 
 * how to make tabs? -> one tab for stat analysis, other for table display. maybe one more for editing...
-* how to make graphs (for stat analysis)
 
-* by adding more entries, the table doesn't fit to the program window anymore... -> fixed by setting max 30 entries to the table and not redrawing the window/table.. 
-   need to find a way to redraw the table, then everything should be ok.
 * hints/description of the fields (frame around?)
 * edit entries from XML file, in particular withdrawn or not
 * automatic sorting according to date?
