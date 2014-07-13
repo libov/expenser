@@ -23,7 +23,7 @@ class TExpenser : public TGMainFrame {
         void drawExpensesTable();
         void drawExpensesTab();
         void drawStatisticsTab();
-        void drawAccountTab();
+        void drawBalanceTab();
         ClassDef(TExpenser, 0)
 
     private:
@@ -40,6 +40,6 @@ class TExpenser : public TGMainFrame {
         TGTab                       * fTab;
         TGCompositeFrame            * fExpensesTab;
         TGCompositeFrame            * fStatisticsTab;
-        TGCompositeFrame            * fAccountTab;
+        TGCompositeFrame            * fBalanceTab;
 
 };
