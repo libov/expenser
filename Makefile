@@ -12,7 +12,7 @@ vpath %.h   $(INC)
 
 all: expenser.exe
 
-expenser.exe: expenser.o TExpenser.o TExpenseDict.o  TExpenserDict.o TGExpenserTableInterface.o TGExpenserTableInterfaceDict.o
+expenser.exe: expenser.o TExpenser.o TExpenserDict.o TGExpenserTableInterface.o TGExpenserTableInterfaceDict.o
 	g++ -o $@ $(OBJ)/expenser.o $(OBJ)/TExpenser.o $(OBJ)/TExpenserDict.o $(OBJ)/TGExpenserTableInterface.o $(OBJ)/TGExpenserTableInterfaceDict.o $(FLAGS) -lMLP -lTXMLParser -lXMLIO -L$(TXMLPARSER)/lib 
 
 expenser.o: expenser.cxx TExpenser.h
