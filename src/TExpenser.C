@@ -168,10 +168,30 @@ void TExpenser::drawStatisticsTab() {
     // fCanvas->cd();
     TH1F * fCategoriesHistogram = new TH1F("fCategoriesHistogram", "Categories", NCATEGORIES, 0, NCATEGORIES);
     fCategoriesHistogram -> SetStats(0);
-    map <TString, Float_t> monthly;
+
+    map<TString, Float_t> monthly_sum;
     for (unsigned i=0; i<NCATEGORIES; i++) {
-        monthly[CATEGORIES[i]]=0;
-        fCategoriesHistogram -> Fill(CATEGORIES[i], 1);
+        monthly_sum[CATEGORIES[i]]=0;
+    }
+    fXMLParser->selectMainNode();
+    fXMLParser->selectNode("expense");
+    while (fXMLParser->getCurrentNode() != 0) {
+        XMLNodePointer_t current_node = fXMLParser->getCurrentNode();
+        fXMLParser -> selectNode("date");
+        unsigned year = fXMLParser -> getNodeContent("year").Atoi();
+        unsigned month = fXMLParser -> getNodeContent("month").Atoi();
+        unsigned day = fXMLParser -> getNodeContent("day").Atoi();
+        fXMLParser -> setCurrentNode(current_node);
+        Float_t amount = fXMLParser -> getNodeContent("amount").Atof();
+        fXMLParser->selectNextNode("expense");
+        if (year != 2014) continue;
+        if (month != 7) continue;
+
+        monthly_sum[fXMLParser -> getNodeContent("category")] += amount;
+    }
+
+    for (unsigned i=0; i<NCATEGORIES; i++) {
+        fCategoriesHistogram -> Fill(CATEGORIES[i], monthly_sum[CATEGORIES[i]]);
     }
     fCategoriesHistogram -> Draw();
 }
