@@ -24,6 +24,7 @@ class TExpenser : public TGMainFrame {
         void drawExpensesTab();
         void drawStatisticsTab();
         void drawBalanceTab();
+        void commit();
         ClassDef(TExpenser, 0)
 
     private:
