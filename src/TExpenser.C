@@ -256,3 +256,9 @@ void TExpenser::add() {
     fTableEntries++;
     fTable -> Update();
 }
+
+void TExpenser::commit() {
+    system ("git add data/expenses.xml");
+    system ("git commit -m \"XML database file update\"");
+    system ("git push");
+}
