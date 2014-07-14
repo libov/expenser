@@ -117,9 +117,12 @@ void TExpenser::drawExpensesTable() {
 void TExpenser::drawExpensesTab() {
 
     fExpensesTab = fTab->AddTab("Expenses");
+    fExpensesTab -> SetLayoutManager(new TGHorizontalLayout(fExpensesTab));
+
+    drawExpensesTable();
 
     // create a frame holding all widgets
-    TGHorizontalFrame *hframe = new TGHorizontalFrame(fExpensesTab, 500, 40);
+    TGVerticalFrame *hframe = new TGVerticalFrame(fExpensesTab, 500, 40);
     fExpensesTab -> AddFrame(hframe, new TGLayoutHints(kLHintsCenterX,2,2,2,2));
 
     // expense amount entry field
@@ -159,7 +162,10 @@ void TExpenser::drawExpensesTab() {
     add_button -> Connect("Clicked()", "TExpenser", this, "add()");
     hframe -> AddFrame(add_button, new TGLayoutHints(kLHintsLeft,5,5,3,4));
 
-    drawExpensesTable();
+    // commit-button
+    TGTextButton * commit_button = new TGTextButton(hframe,"&Commit");
+    commit_button -> Connect("Clicked()", "TExpenser", this, "commit()");
+    hframe -> AddFrame(commit_button, new TGLayoutHints(kLHintsLeft,5,5,3,4));
 }
 
 void TExpenser::drawStatisticsTab() {
