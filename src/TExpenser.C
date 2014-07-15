@@ -251,7 +251,7 @@ void TExpenser::drawBalanceTab() {
         fXMLParser->selectNextNode("expense");
 
         TString date = year+month+day;
-        if (date.Atoi()<balance_date.Atoi()) continue;
+        if (date.Atoi()<=balance_date.Atoi()) continue;
         expenses_since_last_status += fXMLParser -> getNodeContent("amount").Atof();
     }
 
