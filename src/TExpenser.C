@@ -202,7 +202,7 @@ void TExpenser::drawStatisticsTab() {
         fStatisticsYear->AddEntry(toStr(i), i+1-FIRST_YEAR);
     }
     fStatisticsYear->Resize(100, 20);
-    fStatisticsYear->Select(time.GetYear());
+    fStatisticsYear->Select(time.GetYear()-FIRST_YEAR+1);
     vframe->AddFrame(fStatisticsYear, new TGLayoutHints(kLHintsLeft,5,10,5,5));
 
     // update-button
