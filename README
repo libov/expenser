@@ -1,9 +1,9 @@
 Todo
 
-* how to make tabs? -> one tab for stat analysis, other for table display. maybe one more for editing...
+* balance. income. balance tab. - MAJOR
+* test if statistics calculation works ok - MAJOR
+* edit entries from XML file, in particular withdrawn or not - MAJOR
 
-* hints/description of the fields (frame around?)
-* edit entries from XML file, in particular withdrawn or not
+* improve overall layout - MINOR
+* hints/description of the fields (frame around?) - MINOR
 * automatic sorting according to date?
-* display total number of entries
-* test if statistics calculation works ok
