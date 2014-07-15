@@ -227,10 +227,10 @@ void TExpenser::drawBalanceTab() {
     TColor *color = gROOT->GetColor(kBlue);
     TGFont *font = gClient->GetFont("-*-times-bold-r-*-*-46-*-*-*-*-*-*-*");
 
-    TGLabel * status_label = new TGLabel(fBalanceTab, day+"/"+month+"/"+year+": " + balance + " eur");
-    fBalanceTab->AddFrame(status_label, new TGLayoutHints(kLHintsNormal, 5, 5, 3, 4));
-    status_label->SetTextColor(color);
-    status_label -> SetTextFont(font);
+    TGLabel * last_status_label = new TGLabel(fBalanceTab, day+"/"+month+"/"+year+": " + balance + " eur");
+    fBalanceTab->AddFrame(last_status_label, new TGLayoutHints(kLHintsNormal, 5, 5, 3, 4));
+    last_status_label->SetTextColor(color);
+    last_status_label -> SetTextFont(font);
 }
 
 void TExpenser::add() {
