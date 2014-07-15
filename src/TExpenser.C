@@ -174,39 +174,41 @@ void TExpenser::drawExpensesTab() {
 void TExpenser::drawStatisticsTab() {
 
     fStatisticsTab = fTab->AddTab("Statistics");
+    fStatisticsTab -> SetLayoutManager(new TGHorizontalLayout(fStatisticsTab));
 
     TRootEmbeddedCanvas * fEcanvas = new TRootEmbeddedCanvas("Ecanvas",fStatisticsTab,200,200);
     fStatisticsTab -> AddFrame(fEcanvas, new TGLayoutHints(kLHintsExpandX| kLHintsExpandY, 10,10,10,1));
-    // TCanvas *fCanvas = fEcanvas->GetCanvas();
-    // fCanvas->cd();
-    TH1F * fCategoriesHistogram = new TH1F("fCategoriesHistogram", "Categories", NCATEGORIES, 0, NCATEGORIES);
+    fCanvas = fEcanvas->GetCanvas();
+    fCategoriesHistogram = new TH1F("fCategoriesHistogram", "Categories", NCATEGORIES, 0, NCATEGORIES);
     fCategoriesHistogram -> SetStats(0);
 
-    map<TString, Float_t> monthly_sum;
-    for (unsigned i=0; i<NCATEGORIES; i++) {
-        monthly_sum[CATEGORIES[i]]=0;
-    }
-    fXMLParser->selectMainNode();
-    fXMLParser->selectNode("expense");
-    while (fXMLParser->getCurrentNode() != 0) {
-        XMLNodePointer_t current_node = fXMLParser->getCurrentNode();
-        fXMLParser -> selectNode("date");
-        unsigned year = fXMLParser -> getNodeContent("year").Atoi();
-        unsigned month = fXMLParser -> getNodeContent("month").Atoi();
-        unsigned day = fXMLParser -> getNodeContent("day").Atoi();
-        fXMLParser -> setCurrentNode(current_node);
-        Float_t amount = fXMLParser -> getNodeContent("amount").Atof();
-        fXMLParser->selectNextNode("expense");
-        if (year != 2014) continue;
-        if (month != 7) continue;
+    TGVerticalFrame *vframe = new TGVerticalFrame(fStatisticsTab, 60, 40);
+    fStatisticsTab -> AddFrame(vframe, new TGLayoutHints(kLHintsCenterX,2,2,2,2));
 
-        monthly_sum[fXMLParser -> getNodeContent("category")] += amount;
+    // month selector
+    fStatisticsMonth = new TGComboBox(vframe);
+    for (unsigned i = 0; i < 12; i++) {
+        fStatisticsMonth->AddEntry(MONTHS[i], i+1);
     }
+    fStatisticsMonth->Resize(100, 20);
+    fStatisticsMonth->Select(1);
+    vframe->AddFrame(fStatisticsMonth, new TGLayoutHints(kLHintsLeft,5,10,5,5));
 
-    for (unsigned i=0; i<NCATEGORIES; i++) {
-        fCategoriesHistogram -> Fill(CATEGORIES[i], monthly_sum[CATEGORIES[i]]);
+    // year selector
+    fStatisticsYear = new TGComboBox(vframe);
+    for (unsigned i = FIRST_YEAR; i <= LAST_YEAR; i++) {
+        fStatisticsYear->AddEntry(toStr(i), i+1-FIRST_YEAR);
     }
-    fCategoriesHistogram -> Draw();
+    fStatisticsYear->Resize(100, 20);
+    fStatisticsYear->Select(6);
+    vframe->AddFrame(fStatisticsYear, new TGLayoutHints(kLHintsLeft,5,10,5,5));
+
+    // update-button
+    TGTextButton * update_button = new TGTextButton(vframe,"&Update");
+    update_button -> Connect("Clicked()", "TExpenser", this, "calculate_monthly()");
+    vframe -> AddFrame(update_button, new TGLayoutHints(kLHintsLeft,5,5,3,4));
+
+    calculate_monthly();
 }
 
 void TExpenser::drawBalanceTab() {
@@ -270,4 +272,40 @@ void TExpenser::commit() {
     system ("git add data/expenses.xml");
     system ("git commit -m \"XML database file update\"");
     system ("git push");
+}
+
+void TExpenser::calculate_monthly() {
+
+    unsigned selected_month = fStatisticsMonth -> GetSelected ();
+    unsigned selected_year =  fStatisticsYear -> GetSelected () + FIRST_YEAR - 1;
+
+    map<TString, Float_t> monthly_sum;
+    for (unsigned i=0; i<NCATEGORIES; i++) {
+        monthly_sum[CATEGORIES[i]]=0;
+        fCategoriesHistogram -> SetBinContent(i+1, 0);
+    }
+    fXMLParser->selectMainNode();
+    fXMLParser->selectNode("expense");
+    while (fXMLParser->getCurrentNode() != 0) {
+        XMLNodePointer_t current_node = fXMLParser->getCurrentNode();
+        fXMLParser -> selectNode("date");
+        unsigned year = fXMLParser -> getNodeContent("year").Atoi();
+        unsigned month = fXMLParser -> getNodeContent("month").Atoi();
+        unsigned day = fXMLParser -> getNodeContent("day").Atoi();
+        fXMLParser -> setCurrentNode(current_node);
+        Float_t amount = fXMLParser -> getNodeContent("amount").Atof();
+        fXMLParser->selectNextNode("expense");
+
+        if (year != selected_year) continue;
+        if (month != selected_month) continue;
+
+        monthly_sum[fXMLParser -> getNodeContent("category")] += amount;
+    }
+
+    for (unsigned i=0; i<NCATEGORIES; i++) {
+        fCategoriesHistogram -> Fill(CATEGORIES[i], monthly_sum[CATEGORIES[i]]);
+    }
+    fCanvas -> cd();
+    fCategoriesHistogram -> Draw();
+    fCanvas -> Update();
 }
