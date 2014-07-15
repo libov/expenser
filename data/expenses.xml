@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>73</n_expenses>
+  <n_expenses>74</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -876,5 +876,17 @@
     <withdrawn>No</withdrawn>
     <category>Flat</category>
     <description>Kuechenwaage, MEDIA MARKT</description>
+  </expense>
+  <expense>
+    <id>74</id>
+    <amount>4.27</amount>
+    <date>
+      <day>15</day>
+      <month>7</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>PENNY</description>
   </expense>
 </expenses>
