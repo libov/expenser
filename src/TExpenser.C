@@ -216,7 +216,15 @@ void TExpenser::drawBalanceTab() {
 
     fBalanceTab = fTab->AddTab("Balance");
 
-    TGLabel * status_label = new TGLabel(fBalanceTab, "0 eur");
+    fBalanceXMLParser -> selectMainNode();
+    fBalanceXMLParser -> selectNode("entry");
+    TString balance = fBalanceXMLParser -> getNodeContent("amount");
+    fBalanceXMLParser -> selectNode("date");
+    TString year = fBalanceXMLParser -> getNodeContent("year");
+    TString month = fBalanceXMLParser -> getNodeContent("month");
+    TString day = fBalanceXMLParser -> getNodeContent("day");
+
+    TGLabel * status_label = new TGLabel(fBalanceTab, day+"/"+month+"/"+year+": " + balance + " eur");
     fBalanceTab->AddFrame(status_label, new TGLayoutHints(kLHintsNormal, 5, 5, 3, 4));
     TColor *color = gROOT->GetColor(kBlue);
     status_label->SetTextColor(color);
