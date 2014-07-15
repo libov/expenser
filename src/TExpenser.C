@@ -192,7 +192,8 @@ void TExpenser::drawStatisticsTab() {
         fStatisticsMonth->AddEntry(MONTHS[i], i+1);
     }
     fStatisticsMonth->Resize(100, 20);
-    fStatisticsMonth->Select(1);
+    TDatime time;
+    fStatisticsMonth->Select(time.GetMonth());
     vframe->AddFrame(fStatisticsMonth, new TGLayoutHints(kLHintsLeft,5,10,5,5));
 
     // year selector
@@ -201,7 +202,7 @@ void TExpenser::drawStatisticsTab() {
         fStatisticsYear->AddEntry(toStr(i), i+1-FIRST_YEAR);
     }
     fStatisticsYear->Resize(100, 20);
-    fStatisticsYear->Select(6);
+    fStatisticsYear->Select(time.GetYear());
     vframe->AddFrame(fStatisticsYear, new TGLayoutHints(kLHintsLeft,5,10,5,5));
 
     // update-button
