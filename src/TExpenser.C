@@ -176,10 +176,10 @@ void TExpenser::drawStatisticsTab() {
     fStatisticsTab = fTab->AddTab("Statistics");
     fStatisticsTab -> SetLayoutManager(new TGHorizontalLayout(fStatisticsTab));
 
-    TRootEmbeddedCanvas * fEcanvas = new TRootEmbeddedCanvas("Ecanvas",fStatisticsTab,200,200);
-    fStatisticsTab -> AddFrame(fEcanvas, new TGLayoutHints(kLHintsExpandX| kLHintsExpandY, 10,10,10,1));
+    TRootEmbeddedCanvas * fEcanvas = new TRootEmbeddedCanvas("Ecanvas",fStatisticsTab,600,600);
+    fStatisticsTab -> AddFrame(fEcanvas, new TGLayoutHints(kLHintsCenterX, 10,10,10,1));
     fCanvas = fEcanvas->GetCanvas();
-    fCategoriesHistogram = new TH1F("fCategoriesHistogram", "Categories", NCATEGORIES, 0, NCATEGORIES);
+    fCategoriesHistogram = new TH1F("fCategoriesHistogram", "Expenses for each category for in a given month", NCATEGORIES, 0, NCATEGORIES);
     fCategoriesHistogram -> SetStats(0);
 
     TGVerticalFrame *vframe = new TGVerticalFrame(fStatisticsTab, 60, 40);
