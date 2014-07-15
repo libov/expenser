@@ -53,6 +53,7 @@ TGMainFrame(p,w,h)
 {
     // open the xml file
     fXMLParser = new TXMLParser("data/expenses.xml");
+    fBalanceXMLParser = new TXMLParser("data/balance.xml");
 
     // create tab manager and add to main window
     fTab = new TGTab(this, 300, 300);

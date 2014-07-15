@@ -49,5 +49,6 @@ class TExpenser : public TGMainFrame {
         TCanvas                     * fCanvas;
         TGComboBox                  * fStatisticsMonth;
         TGComboBox                  * fStatisticsYear;
+        TXMLParser                  * fBalanceXMLParser;
 
 };
