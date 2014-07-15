@@ -1,5 +1,7 @@
 Todo
 
+*URGENT: fix the date comparison bug
+
 * balance. income. balance tab. - MAJOR
 * test if statistics calculation works ok - MAJOR
 * edit entries from XML file, in particular withdrawn or not - MAJOR
