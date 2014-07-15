@@ -4,6 +4,8 @@
 #include<TGTextEntry.h>
 #include <TGTable.h>
 #include <TGTab.h>
+#include <TH1F.h>
+#include <TCanvas.h>
 
 #include <TXMLParser.h>
 
@@ -25,6 +27,7 @@ class TExpenser : public TGMainFrame {
         void drawStatisticsTab();
         void drawBalanceTab();
         void commit();
+        void calculate_monthly();
         ClassDef(TExpenser, 0)
 
     private:
@@ -42,5 +45,9 @@ class TExpenser : public TGMainFrame {
         TGCompositeFrame            * fExpensesTab;
         TGCompositeFrame            * fStatisticsTab;
         TGCompositeFrame            * fBalanceTab;
+        TH1F                        * fCategoriesHistogram;
+        TCanvas                     * fCanvas;
+        TGComboBox                  * fStatisticsMonth;
+        TGComboBox                  * fStatisticsYear;
 
 };
