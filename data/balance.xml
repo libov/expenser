@@ -1,4 +1,12 @@
 <?xml version="1.0"?>
 <balance>
-  <n_entries>0</n_entries>
+  <n_entries>1</n_entries>
+  <entry>
+    <amount>0</amount>
+    <date>
+      <day>1</day>
+      <month>1</month>
+      <year>2014</year>
+    </date>
+  </entry>
 </balance>
