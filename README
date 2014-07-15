@@ -13,3 +13,6 @@ Todo
 
 
 Note: full control since August 2014
+Note: reference should be month beginning/end. All purchases within the month should be accounted for in the month!
+This means, if e.g. you bought it on 31th but it was withdrawn on 3rd next month, the balance in the beginning of the month
+should have the purchase subtracted (i.e. it won't be equal to what is shown on bank status page in the sparda system)
