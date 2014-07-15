@@ -220,17 +220,45 @@ void TExpenser::drawBalanceTab() {
     fBalanceXMLParser -> selectNode("entry");
     TString balance = fBalanceXMLParser -> getNodeContent("amount");
     fBalanceXMLParser -> selectNode("date");
-    TString year = fBalanceXMLParser -> getNodeContent("year");
-    TString month = fBalanceXMLParser -> getNodeContent("month");
-    TString day = fBalanceXMLParser -> getNodeContent("day");
+    TString balance_year = fBalanceXMLParser -> getNodeContent("year");
+    TString balance_month = fBalanceXMLParser -> getNodeContent("month");
+    TString balance_day = fBalanceXMLParser -> getNodeContent("day");
+    TString balance_date = balance_year+balance_month+balance_day;
 
     TColor *color = gROOT->GetColor(kBlue);
     TGFont *font = gClient->GetFont("-*-times-bold-r-*-*-46-*-*-*-*-*-*-*");
 
-    TGLabel * last_status_label = new TGLabel(fBalanceTab, day+"/"+month+"/"+year+": " + balance + " eur");
+    TGLabel * last_status_label = new TGLabel(fBalanceTab, balance_day+"/"+balance_month+"/"+balance_year+": " + balance + " eur");
     fBalanceTab->AddFrame(last_status_label, new TGLayoutHints(kLHintsNormal, 5, 5, 3, 4));
     last_status_label->SetTextColor(color);
     last_status_label -> SetTextFont(font);
+
+    // now calculate the current balance (last - expenses since the last)
+    TDatime time;
+
+    fXMLParser->selectMainNode();
+    fXMLParser->selectNode("expense");
+    Float_t expenses_since_last_status = 0;
+    while (fXMLParser->getCurrentNode() != 0) {
+        XMLNodePointer_t current_node = fXMLParser->getCurrentNode();
+
+        fXMLParser -> selectNode("date");
+        TString year = fXMLParser -> getNodeContent("year");
+        TString month = fXMLParser -> getNodeContent("month");
+        TString day = fXMLParser -> getNodeContent("day");
+        fXMLParser -> setCurrentNode(current_node);
+        fXMLParser->selectNextNode("expense");
+
+        TString date = year+month+day;
+        if (date.Atoi()<balance_date.Atoi()) continue;
+        expenses_since_last_status += fXMLParser -> getNodeContent("amount").Atof();
+    }
+
+    Float_t new_balance = balance.Atof() - expenses_since_last_status;
+    TGLabel * current_status_label = new TGLabel(fBalanceTab, toStr(time.GetDay())+"/"+toStr(time.GetMonth())+"/"+toStr(time.GetYear())+": " + toStr(new_balance,2) + " eur");
+    fBalanceTab->AddFrame(current_status_label, new TGLayoutHints(kLHintsNormal, 5, 5, 3, 4));
+    current_status_label->SetTextColor(color);
+    current_status_label -> SetTextFont(font);
 }
 
 void TExpenser::add() {
