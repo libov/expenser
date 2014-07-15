@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>72</n_expenses>
+  <n_expenses>73</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -864,5 +864,17 @@
     <withdrawn>Yes</withdrawn>
     <category>Books</category>
     <description>Amazon Jackson electrodynamics</description>
+  </expense>
+  <expense>
+    <id>73</id>
+    <amount>12.00</amount>
+    <date>
+      <day>15</day>
+      <month>7</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Flat</category>
+    <description>Kuechenwaage, MEDIA MARKT</description>
   </expense>
 </expenses>
