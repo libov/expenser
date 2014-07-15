@@ -44,6 +44,9 @@ TString toStr(Int_t arg) {
 // constants
 const unsigned NCATEGORIES = 8;
 TString CATEGORIES[]  = {"Food", "Restaurant", "Flat", "Cash", "Music equipment", "Books", "Clothes", "Other"};
+const TString MONTHS[12]={"January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"};
+const unsigned FIRST_YEAR = 2009;
+const unsigned LAST_YEAR = 2015;
 
 TExpenser::TExpenser(const TGWindow *p, UInt_t w, UInt_t h):
 TGMainFrame(p,w,h)
