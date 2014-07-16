@@ -48,6 +48,15 @@ const TString MONTHS[12]={"January", "February", "March", "April", "May", "June"
 const unsigned FIRST_YEAR = 2009;
 const unsigned LAST_YEAR = 2015;
 
+struct expense {
+    TString amount;
+    TString category;
+    TString description;
+    TString withdrawn;
+    TString date;
+    TString dateForCell;
+};
+
 TExpenser::TExpenser(const TGWindow *p, UInt_t w, UInt_t h):
 TGMainFrame(p,w,h)
 {
@@ -92,7 +101,7 @@ void TExpenser::drawExpensesTable() {
 
     fXMLParser->selectMainNode();
     fXMLParser->selectNode("expense");
-    fTableEntries = 0;
+    vector<expense> expenses;
     while (fXMLParser->getCurrentNode() != 0) {
         XMLNodePointer_t current_node = fXMLParser->getCurrentNode();
 
@@ -102,15 +111,29 @@ void TExpenser::drawExpensesTable() {
         TString day = fXMLParser -> getNodeContent("day");
         fXMLParser -> setCurrentNode(current_node);
 
-        fTableInterface -> addCell (fTableEntries, fXMLParser -> getNodeContent("amount"));
-        fTableInterface -> addCell (fTableEntries, fXMLParser -> getNodeContent("category"));
-        fTableInterface -> addCell (fTableEntries, fXMLParser -> getNodeContent("description"));
-        fTableInterface -> addCell (fTableEntries, fXMLParser -> getNodeContent("withdrawn"));
-        fTableInterface -> addCell (fTableEntries, day+"/"+month+"/"+year);
+        if (month.Atoi()<10) month="0"+month;
+        if (day.Atoi()<10) day="0"+day;
+
+        expense ex;
+        ex.amount = fXMLParser -> getNodeContent("amount");
+        ex.category = fXMLParser -> getNodeContent("category");
+        ex.description = fXMLParser -> getNodeContent("description");
+        ex.withdrawn = fXMLParser -> getNodeContent("withdrawn");
+        ex.date = year+month+day;
+        ex.dateForCell  = day+"/"+month+"/"+year;
+        expenses.push_back(ex);
 
         fXMLParser->selectNextNode("expense");
-        fTableEntries++;
     }
+
+    for (unsigned i=0; i<expenses.size(); i++) {
+        fTableInterface -> addCell (i, expenses[i].amount);
+        fTableInterface -> addCell (i, expenses[i].category);
+        fTableInterface -> addCell (i, expenses[i].description);
+        fTableInterface -> addCell (i, expenses[i].withdrawn);
+        fTableInterface -> addCell (i, expenses[i].dateForCell);
+    }
+    fTableEntries = expenses.size();
 
     // Create the table
     fTable = new TGTable(fExpensesTab, 999, fTableInterface, 15, fTableInterface->GetNColumns());
