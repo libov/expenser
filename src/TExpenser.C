@@ -21,6 +21,7 @@
 #include<fstream>
 #include <cstdlib>
 #include <map>
+#include <algorithm>
 using namespace std;
 
 // ========== helping functions ========== //
@@ -56,6 +57,8 @@ struct expense {
     TString date;
     TString dateForCell;
 };
+
+bool compare(expense a, expense b) { return (a.date.Atoi() > b.date.Atoi()); }
 
 TExpenser::TExpenser(const TGWindow *p, UInt_t w, UInt_t h):
 TGMainFrame(p,w,h)
@@ -125,6 +128,8 @@ void TExpenser::drawExpensesTable() {
 
         fXMLParser->selectNextNode("expense");
     }
+
+    sort(expenses.begin(), expenses.end(), compare);
 
     for (unsigned i=0; i<expenses.size(); i++) {
         fTableInterface -> addCell (i, expenses[i].amount);
