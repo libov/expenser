@@ -16,7 +16,7 @@ TGExpenserTableInterface::TGExpenserTableInterface (unsigned ncolumns)
 TGExpenserTableInterface::~TGExpenserTableInterface() {}
 
 const char *TGExpenserTableInterface::GetRowHeader(UInt_t row) {
-    return StrDup(TString::Format("Expense %d", row+1));
+    return StrDup(TString::Format("Row %d", row+1));
 }
 
 void  TGExpenserTableInterface::addCell(unsigned row, TString value) { 
