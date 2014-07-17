@@ -194,6 +194,15 @@ void TExpenser::drawExpensesTab() {
     add_button -> Connect("Clicked()", "TExpenser", this, "add()");
     hframe -> AddFrame(add_button, new TGLayoutHints(kLHintsLeft,5,5,3,4));
 
+    // withdrawn id entry field and withdrawn button
+    TGHorizontalFrame *hframe1 = new TGHorizontalFrame(hframe, 500, 40);
+    hframe -> AddFrame(hframe1,new TGLayoutHints(kLHintsLeft,5,5,3,4));
+    fWithdrawnIdEntry = new TGNumberEntryField(hframe1, 0, 0, TGNumberFormat::kNESInteger, TGNumberFormat::kNEAAnyNumber);
+    hframe1->AddFrame(fWithdrawnIdEntry, new TGLayoutHints(kLHintsLeft,5,5,3,4));
+    TGTextButton * withdrawn_button = new TGTextButton(hframe1,"&Withdrawn");
+    hframe1->AddFrame(withdrawn_button, new TGLayoutHints(kLHintsLeft,5,5,3,4));
+    withdrawn_button -> Connect("Clicked()", "TExpenser", this, "set_withdrawn()");
+
     // commit-button
     TGTextButton * commit_button = new TGTextButton(hframe,"&Commit");
     commit_button -> Connect("Clicked()", "TExpenser", this, "commit()");
