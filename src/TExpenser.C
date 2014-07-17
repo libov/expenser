@@ -377,3 +377,6 @@ void TExpenser::calculate_monthly() {
     fCategoriesHistogram -> Draw();
     fCanvas -> Update();
 }
+
+void TExpenser::set_withdrawn() {
+}
