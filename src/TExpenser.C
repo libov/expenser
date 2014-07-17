@@ -388,4 +388,22 @@ void TExpenser::calculate_monthly() {
 }
 
 void TExpenser::set_withdrawn() {
+
+    // id of the entry to be changed
+    unsigned id = fWithdrawnIdEntry -> GetNumber();
+
+    fXMLParser->selectMainNode();
+    fXMLParser->selectNode("expense");
+    while ( fXMLParser->getCurrentNode() != 0 ) {
+        XMLNodePointer_t expense_node = fXMLParser->getCurrentNode();
+        XMLNodePointer_t withdrawn_node = fXMLParser->getNode("withdrawn");
+        if ( fXMLParser -> getNodeContent("id").Atoi() == id ) {
+            fXMLParser->SetNodeContent(withdrawn_node, "Yes");
+            break;
+        }
+
+        fXMLParser->selectNextNode("expense");
+    }
+
+    fXMLParser -> SaveDoc(fXMLParser->getDocument(), "data/expenses.xml");
 }
