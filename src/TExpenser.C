@@ -56,6 +56,7 @@ struct expense {
     TString withdrawn;
     TString date;
     TString dateForCell;
+    TString id;
 };
 
 bool compare(expense a, expense b) { return (a.date.Atoi() > b.date.Atoi()); }
@@ -97,9 +98,9 @@ TExpenser::~TExpenser() {
 void TExpenser::drawExpensesTable() {
 
     // create table interface
-    const unsigned ncolumns =  5;
+    const unsigned ncolumns =  6;
     fTableInterface = new TGExpenserTableInterface(ncolumns);
-    TString columns[ncolumns]={"amount", "category", "description", "withdrawn","date"};
+    TString columns[ncolumns]={"amount", "category", "description", "withdrawn","date", "id"};
     fTableInterface -> setColumnNames(columns);
 
     fXMLParser->selectMainNode();
@@ -124,6 +125,7 @@ void TExpenser::drawExpensesTable() {
         ex.withdrawn = fXMLParser -> getNodeContent("withdrawn");
         ex.date = year+month+day;
         ex.dateForCell  = day+"/"+month+"/"+year;
+        ex.id  = fXMLParser -> getNodeContent("id");
         expenses.push_back(ex);
 
         fXMLParser->selectNextNode("expense");
@@ -137,6 +139,7 @@ void TExpenser::drawExpensesTable() {
         fTableInterface -> addCell (i, expenses[i].description);
         fTableInterface -> addCell (i, expenses[i].withdrawn);
         fTableInterface -> addCell (i, expenses[i].dateForCell);
+        fTableInterface -> addCell (i, expenses[i].id);
     }
     fTableEntries = expenses.size();
 
