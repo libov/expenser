@@ -28,6 +28,7 @@ class TExpenser : public TGMainFrame {
         void drawBalanceTab();
         void commit();
         void calculate_monthly();
+        void set_withdrawn();
         ClassDef(TExpenser, 0)
 
     private:
@@ -50,5 +51,6 @@ class TExpenser : public TGMainFrame {
         TGComboBox                  * fStatisticsMonth;
         TGComboBox                  * fStatisticsYear;
         TXMLParser                  * fBalanceXMLParser;
+        TGNumberEntryField          * fWithdrawnIdEntry;
 
 };
