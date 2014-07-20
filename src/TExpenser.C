@@ -374,12 +374,13 @@ void TExpenser::calculate_monthly() {
         unsigned day = fXMLParser -> getNodeContent("day").Atoi();
         fXMLParser -> setCurrentNode(current_node);
         Float_t amount = fXMLParser -> getNodeContent("amount").Atof();
+        TString category = fXMLParser -> getNodeContent("category");
         fXMLParser->selectNextNode("expense");
 
         if (year != selected_year) continue;
         if (month != selected_month) continue;
 
-        monthly_sum[fXMLParser -> getNodeContent("category")] += amount;
+        monthly_sum[category] += amount;
     }
 
     for (unsigned i=0; i<NCATEGORIES; i++) {
