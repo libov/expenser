@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>78</n_expenses>
+  <n_expenses>79</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -936,5 +936,17 @@
     <withdrawn>No</withdrawn>
     <category>Travel</category>
     <description>Schleswig-Holst. Ticket</description>
+  </expense>
+  <expense>
+    <id>79</id>
+    <amount>5.99</amount>
+    <date>
+      <day>19</day>
+      <month>7</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Restaurant</category>
+    <description>mc donald's</description>
   </expense>
 </expenses>
