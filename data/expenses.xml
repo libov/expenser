@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>79</n_expenses>
+  <n_expenses>85</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -657,7 +657,7 @@
       <month>7</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -693,7 +693,7 @@
       <month>7</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Clothes</category>
     <description>t-shirt</description>
   </expense>
@@ -705,7 +705,7 @@
       <month>7</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Clothes</category>
     <description>t-shirt</description>
   </expense>
@@ -729,7 +729,7 @@
       <month>7</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>Marktkauf</description>
   </expense>
@@ -753,7 +753,7 @@
       <month>7</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>MARKTKAUF</description>
   </expense>
@@ -765,7 +765,7 @@
       <month>7</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Music equipment</category>
     <description>plattformwagen TOOM</description>
   </expense>
@@ -777,7 +777,7 @@
       <month>7</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Flat</category>
     <description>IKEA kueche</description>
   </expense>
@@ -789,7 +789,7 @@
       <month>7</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -801,7 +801,7 @@
       <month>7</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>PENNY</description>
   </expense>
@@ -813,7 +813,7 @@
       <month>7</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -825,7 +825,7 @@
       <month>7</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>PENNY</description>
   </expense>
@@ -837,7 +837,7 @@
       <month>7</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>PENNY</description>
   </expense>
@@ -948,5 +948,77 @@
     <withdrawn>No</withdrawn>
     <category>Restaurant</category>
     <description>mc donald's</description>
+  </expense>
+  <expense>
+    <id>80</id>
+    <amount>20.00</amount>
+    <date>
+      <day>11</day>
+      <month>7</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Cash</category>
+    <description/>
+  </expense>
+  <expense>
+    <id>81</id>
+    <amount>131.75</amount>
+    <date>
+      <day>7</day>
+      <month>7</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Flat</category>
+    <description>WOHNGELD</description>
+  </expense>
+  <expense>
+    <id>82</id>
+    <amount>269.00</amount>
+    <date>
+      <day>5</day>
+      <month>7</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Music equipment</category>
+    <description>B612D</description>
+  </expense>
+  <expense>
+    <id>83</id>
+    <amount>269.00</amount>
+    <date>
+      <day>5</day>
+      <month>7</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Music equipment</category>
+    <description>B612D</description>
+  </expense>
+  <expense>
+    <id>84</id>
+    <amount>68.68</amount>
+    <date>
+      <day>5</day>
+      <month>7</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Music equipment</category>
+    <description>THOMANN various</description>
+  </expense>
+  <expense>
+    <id>85</id>
+    <amount>20.00</amount>
+    <date>
+      <day>7</day>
+      <month>7</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Cash</category>
+    <description/>
   </expense>
 </expenses>
