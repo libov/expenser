@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>85</n_expenses>
+  <n_expenses>87</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -933,7 +933,7 @@
       <month>7</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Travel</category>
     <description>Schleswig-Holst. Ticket</description>
   </expense>
@@ -945,7 +945,7 @@
       <month>7</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Restaurant</category>
     <description>mc donald's</description>
   </expense>
@@ -1020,5 +1020,29 @@
     <withdrawn>Yes</withdrawn>
     <category>Cash</category>
     <description/>
+  </expense>
+  <expense>
+    <id>86</id>
+    <amount>18.58</amount>
+    <date>
+      <day>21</day>
+      <month>7</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>EDEKA</description>
+  </expense>
+  <expense>
+    <id>87</id>
+    <amount>99.80</amount>
+    <date>
+      <day>20</day>
+      <month>7</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Transport HH</category>
+    <description>Monatskarte</description>
   </expense>
 </expenses>
