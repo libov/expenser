@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>88</n_expenses>
+  <n_expenses>92</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -645,7 +645,7 @@
       <month>7</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Flat</category>
     <description>IKEA - Stange fuer die Kueche etc.</description>
   </expense>
@@ -717,7 +717,7 @@
       <month>7</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Clothes</category>
     <description>sunglasses new yorker</description>
   </expense>
@@ -741,7 +741,7 @@
       <month>7</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>EDEKA</description>
   </expense>
@@ -1029,7 +1029,7 @@
       <month>7</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>EDEKA</description>
   </expense>
@@ -1056,5 +1056,53 @@
     <withdrawn>No</withdrawn>
     <category>Cash</category>
     <description>DESY for canteen</description>
+  </expense>
+  <expense>
+    <id>89</id>
+    <amount>11.50</amount>
+    <date>
+      <day>1</day>
+      <month>7</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Other</category>
+    <description/>
+  </expense>
+  <expense>
+    <id>90</id>
+    <amount>32.00</amount>
+    <date>
+      <day>3</day>
+      <month>7</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Other</category>
+    <description>VAF</description>
+  </expense>
+  <expense>
+    <id>91</id>
+    <amount>19.90</amount>
+    <date>
+      <day>22</day>
+      <month>7</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Flat</category>
+    <description>Kabel Deutschland</description>
+  </expense>
+  <expense>
+    <id>92</id>
+    <amount>20.00</amount>
+    <date>
+      <day>4</day>
+      <month>7</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Cash</category>
+    <description/>
   </expense>
 </expenses>
