@@ -284,14 +284,13 @@ void TExpenser::drawBalanceTab() {
         fXMLParser -> selectNode("date");
         TString year = fXMLParser -> getNodeContent("year");
         TString month = fXMLParser -> getNodeContent("month");
-        TString day = fXMLParser -> getNodeContent("day");
         fXMLParser -> setCurrentNode(current_node);
-        fXMLParser->selectNextNode("expense");
 
-        TString date = year+month+day;
-        //if (date.Atoi()<=balance_date.Atoi()) continue;
-        if ( month.Atoi()!=balance_month.Atoi() || fXMLParser -> getNodeContent("withdrawn") != "Yes" ) continue;
-        expenses_since_last_status += fXMLParser -> getNodeContent("amount").Atof();
+        if ( month.Atoi()==balance_month.Atoi() && fXMLParser -> getNodeContent("withdrawn") == "Yes" ) {
+            expenses_since_last_status += fXMLParser -> getNodeContent("amount").Atof();
+        }
+
+        fXMLParser->selectNextNode("expense");
     }
 
     Float_t new_balance = balance.Atof() - expenses_since_last_status;
