@@ -1,4 +1,12 @@
 <?xml version="1.0"?>
 <incomes>
-  <n_incomes>0</n_incomes>
+  <n_entries>1</n_entries>
+    <entry>
+        <amount>85.17</amount>
+        <date>
+            <month>7</month>
+            <year>2014</year>
+        </date>
+        <description>WEG Wohngeld 2013</description>
+  </entry>
 </incomes>
