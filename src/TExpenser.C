@@ -294,7 +294,26 @@ void TExpenser::drawBalanceTab() {
         fXMLParser->selectNextNode("expense");
     }
 
-    Float_t new_balance = balance.Atof() - expenses_since_last_status;
+    // calculate total income since last balance
+    fIncomeXMLParser->selectMainNode();
+    fIncomeXMLParser->selectNode("entry");
+    Float_t income_since_last_status = 0;
+    while (fIncomeXMLParser->getCurrentNode() != 0) {
+        XMLNodePointer_t current_node = fIncomeXMLParser->getCurrentNode();
+
+        fIncomeXMLParser -> selectNode("date");
+        TString year = fIncomeXMLParser -> getNodeContent("year");
+        TString month = fIncomeXMLParser -> getNodeContent("month");
+        fIncomeXMLParser -> setCurrentNode(current_node);
+
+        if ( month.Atoi()>=balance_month.Atoi() ) {
+            income_since_last_status += fIncomeXMLParser -> getNodeContent("amount").Atof();
+        }
+
+        fIncomeXMLParser->selectNextNode("entry");
+    }
+
+    Float_t new_balance = balance.Atof() - expenses_since_last_status + income_since_last_status;
     TGLabel * current_status_label = new TGLabel(fBalanceTab, toStr(time.GetDay())+"/"+toStr(time.GetMonth())+"/"+toStr(time.GetYear())+": " + toStr(new_balance,2) + " eur");
     fBalanceTab->AddFrame(current_status_label, new TGLayoutHints(kLHintsNormal, 5, 5, 3, 4));
     current_status_label->SetTextColor(color);
