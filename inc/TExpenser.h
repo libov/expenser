@@ -52,5 +52,6 @@ class TExpenser : public TGMainFrame {
         TGComboBox                  * fStatisticsYear;
         TXMLParser                  * fBalanceXMLParser;
         TGNumberEntryField          * fWithdrawnIdEntry;
+        TXMLParser                  * fIncomeXMLParser;
 
 };
