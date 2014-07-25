@@ -286,7 +286,7 @@ void TExpenser::drawBalanceTab() {
         TString month = fXMLParser -> getNodeContent("month");
         fXMLParser -> setCurrentNode(current_node);
 
-        if ( month.Atoi()==balance_month.Atoi() && fXMLParser -> getNodeContent("withdrawn") == "Yes" ) {
+        if ( month.Atoi()>=balance_month.Atoi() && fXMLParser -> getNodeContent("withdrawn") == "Yes" ) {
             expenses_since_last_status += fXMLParser -> getNodeContent("amount").Atof();
         }
 
