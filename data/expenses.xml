@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>108</n_expenses>
+  <n_expenses>111</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -501,7 +501,7 @@
       <month>6</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -513,7 +513,7 @@
       <month>6</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Other</category>
     <description>Arbeitshandschuhe, toom</description>
   </expense>
@@ -525,7 +525,7 @@
       <month>6</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>Rossmann</description>
   </expense>
@@ -573,7 +573,7 @@
       <month>6</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -585,7 +585,7 @@
       <month>6</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -597,7 +597,7 @@
       <month>6</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -609,7 +609,7 @@
       <month>6</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Restaurant</category>
     <description>McDonalds</description>
   </expense>
@@ -1296,5 +1296,41 @@
     <withdrawn>Yes</withdrawn>
     <category>Business trip</category>
     <description>DRESDEN IPAC 2014 HOTEL</description>
+  </expense>
+  <expense>
+    <id>109</id>
+    <amount>20.00</amount>
+    <date>
+      <day>21</day>
+      <month>6</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Cash</category>
+    <description/>
+  </expense>
+  <expense>
+    <id>110</id>
+    <amount>5.90</amount>
+    <date>
+      <day>19</day>
+      <month>6</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Restaurant</category>
+    <description>Dresden Pizza</description>
+  </expense>
+  <expense>
+    <id>111</id>
+    <amount>34.70</amount>
+    <date>
+      <day>18</day>
+      <month>6</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Other</category>
+    <description>Zamnesia</description>
   </expense>
 </expenses>
