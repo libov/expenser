@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>102</n_expenses>
+  <n_expenses>105</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -441,7 +441,7 @@
       <month>6</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -465,7 +465,7 @@
       <month>6</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -489,7 +489,7 @@
       <month>6</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -1224,5 +1224,41 @@
     <withdrawn>No</withdrawn>
     <category>Food</category>
     <description>MARKTKAUF</description>
+  </expense>
+  <expense>
+    <id>103</id>
+    <amount>1.40</amount>
+    <date>
+      <day>30</day>
+      <month>6</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Other</category>
+    <description>ZINSABSCHLUSS??</description>
+  </expense>
+  <expense>
+    <id>104</id>
+    <amount>21.58</amount>
+    <date>
+      <day>27</day>
+      <month>6</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Flat</category>
+    <description>Kabel Deutschland</description>
+  </expense>
+  <expense>
+    <id>105</id>
+    <amount>20.00</amount>
+    <date>
+      <day>27</day>
+      <month>6</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Cash</category>
+    <description/>
   </expense>
 </expenses>
