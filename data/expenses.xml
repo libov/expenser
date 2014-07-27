@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>112</n_expenses>
+  <n_expenses>120</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -249,7 +249,7 @@
       <month>6</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -273,7 +273,7 @@
       <month>6</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Other</category>
     <description>Fahrkarte</description>
   </expense>
@@ -381,7 +381,7 @@
       <month>6</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>NETTO</description>
   </expense>
@@ -561,7 +561,7 @@
       <month>6</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -1344,5 +1344,101 @@
     <withdrawn>No</withdrawn>
     <category>Other</category>
     <description>ARRIBA Erlebnis</description>
+  </expense>
+  <expense>
+    <id>113</id>
+    <amount>5.49</amount>
+    <date>
+      <day>12</day>
+      <month>6</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Presents</category>
+    <description>Minecraft</description>
+  </expense>
+  <expense>
+    <id>114</id>
+    <amount>52.90</amount>
+    <date>
+      <day>11</day>
+      <month>6</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Presents</category>
+    <description>MARES (money to Mum effectively)</description>
+  </expense>
+  <expense>
+    <id>115</id>
+    <amount>62.40</amount>
+    <date>
+      <day>11</day>
+      <month>6</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Presents</category>
+    <description>Lasty (money to Mum effectively)</description>
+  </expense>
+  <expense>
+    <id>116</id>
+    <amount>50.00</amount>
+    <date>
+      <day>15</day>
+      <month>6</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Cash</category>
+    <description/>
+  </expense>
+  <expense>
+    <id>117</id>
+    <amount>20.00</amount>
+    <date>
+      <day>12</day>
+      <month>6</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Cash</category>
+    <description/>
+  </expense>
+  <expense>
+    <id>118</id>
+    <amount>48.90</amount>
+    <date>
+      <day>16</day>
+      <month>6</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Books</category>
+    <description>Principles of Neural Science eBay</description>
+  </expense>
+  <expense>
+    <id>119</id>
+    <amount>10.80</amount>
+    <date>
+      <day>15</day>
+      <month>6</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Transport HH</category>
+    <description>10.8</description>
+  </expense>
+  <expense>
+    <id>120</id>
+    <amount>6.19</amount>
+    <date>
+      <day>15</day>
+      <month>6</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Restaurant</category>
+    <description>McDonalds Dresden</description>
   </expense>
 </expenses>
