@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>120</n_expenses>
+  <n_expenses>124</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -1440,5 +1440,53 @@
     <withdrawn>Yes</withdrawn>
     <category>Restaurant</category>
     <description>McDonalds Dresden</description>
+  </expense>
+  <expense>
+    <id>121</id>
+    <amount>57.60</amount>
+    <date>
+      <day>28</day>
+      <month>7</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Transport HH</category>
+    <description>Seniorenkarte - mama</description>
+  </expense>
+  <expense>
+    <id>122</id>
+    <amount>1.53</amount>
+    <date>
+      <day>28</day>
+      <month>7</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>PENNY</description>
+  </expense>
+  <expense>
+    <id>123</id>
+    <amount>27.00</amount>
+    <date>
+      <day>27</day>
+      <month>7</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Other</category>
+    <description>Cinemaxx</description>
+  </expense>
+  <expense>
+    <id>124</id>
+    <amount>20.00</amount>
+    <date>
+      <day>28</day>
+      <month>7</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Cash</category>
+    <description/>
   </expense>
 </expenses>
