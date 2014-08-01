@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>128</n_expenses>
+  <n_expenses>130</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -1536,5 +1536,29 @@
     <withdrawn>Yes</withdrawn>
     <category>Cash</category>
     <description>for Mum</description>
+  </expense>
+  <expense>
+    <id>129</id>
+    <amount>34.00</amount>
+    <date>
+      <day>31</day>
+      <month>7</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Music equipment</category>
+    <description>Polotno from Om Shankari</description>
+  </expense>
+  <expense>
+    <id>130</id>
+    <amount>24.26</amount>
+    <date>
+      <day>18</day>
+      <month>3</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Other</category>
+    <description>Fahrrad schaltwerk</description>
   </expense>
 </expenses>
