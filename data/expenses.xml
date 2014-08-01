@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>124</n_expenses>
+  <n_expenses>128</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -1149,19 +1149,19 @@
       <month>7</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
   <expense>
     <id>97</id>
-    <amount>16.60</amount>
+    <amount>16.50</amount>
     <date>
       <day>25</day>
       <month>7</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Other</category>
     <description>CONTACT LENSES</description>
   </expense>
@@ -1197,7 +1197,7 @@
       <month>7</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -1209,7 +1209,7 @@
       <month>7</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -1221,7 +1221,7 @@
       <month>7</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>MARKTKAUF</description>
   </expense>
@@ -1341,7 +1341,7 @@
       <month>7</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Other</category>
     <description>ARRIBA Erlebnis</description>
   </expense>
@@ -1449,7 +1449,7 @@
       <month>7</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Transport HH</category>
     <description>Seniorenkarte - mama</description>
   </expense>
@@ -1461,7 +1461,7 @@
       <month>7</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>PENNY</description>
   </expense>
@@ -1473,7 +1473,7 @@
       <month>7</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Other</category>
     <description>Cinemaxx</description>
   </expense>
@@ -1485,8 +1485,56 @@
       <month>7</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Cash</category>
     <description/>
+  </expense>
+  <expense>
+    <id>125</id>
+    <amount>136.00</amount>
+    <date>
+      <day>28</day>
+      <month>7</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Flat</category>
+    <description>Pinneberg Stadtwerke</description>
+  </expense>
+  <expense>
+    <id>126</id>
+    <amount>7.02</amount>
+    <date>
+      <day>29</day>
+      <month>7</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>127</id>
+    <amount>923.59</amount>
+    <date>
+      <day>30</day>
+      <month>7</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Degussa</category>
+    <description/>
+  </expense>
+  <expense>
+    <id>128</id>
+    <amount>100.00</amount>
+    <date>
+      <day>30</day>
+      <month>7</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Cash</category>
+    <description>for Mum</description>
   </expense>
 </expenses>
