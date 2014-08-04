@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>240</n_expenses>
+  <n_expenses>246</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -2880,5 +2880,77 @@
     <withdrawn>No</withdrawn>
     <category>Other</category>
     <description>Clothes</description>
+  </expense>
+  <expense>
+    <id>241</id>
+    <amount>16.74</amount>
+    <date>
+      <day>15</day>
+      <month>1</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>BUDNI</description>
+  </expense>
+  <expense>
+    <id>242</id>
+    <amount>8.00</amount>
+    <date>
+      <day>4</day>
+      <month>3</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>REWE</description>
+  </expense>
+  <expense>
+    <id>243</id>
+    <amount>10.26</amount>
+    <date>
+      <day>1</day>
+      <month>4</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>REAL</description>
+  </expense>
+  <expense>
+    <id>244</id>
+    <amount>10.68</amount>
+    <date>
+      <day>12</day>
+      <month>11</month>
+      <year>2013</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>REAL</description>
+  </expense>
+  <expense>
+    <id>245</id>
+    <amount>3.18</amount>
+    <date>
+      <day>12</day>
+      <month>3</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>REAL</description>
+  </expense>
+  <expense>
+    <id>246</id>
+    <amount>258.49</amount>
+    <date>
+      <day>12</day>
+      <month>10</month>
+      <year>2013</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Flat</category>
+    <description>REAL COFFEE MACHINE + FOOD</description>
   </expense>
 </expenses>
