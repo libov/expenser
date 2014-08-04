@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>223</n_expenses>
+  <n_expenses>226</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -2676,5 +2676,41 @@
     <withdrawn>No</withdrawn>
     <category>Food</category>
     <description>PENNY</description>
+  </expense>
+  <expense>
+    <id>224</id>
+    <amount>7.90</amount>
+    <date>
+      <day>9</day>
+      <month>3</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Restaurant</category>
+    <description>McDonalds</description>
+  </expense>
+  <expense>
+    <id>225</id>
+    <amount>4.69</amount>
+    <date>
+      <day>23</day>
+      <month>2</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Restaurant</category>
+    <description>McDonalds</description>
+  </expense>
+  <expense>
+    <id>226</id>
+    <amount>7.99</amount>
+    <date>
+      <day>9</day>
+      <month>4</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Restaurant</category>
+    <description>McDonalds</description>
   </expense>
 </expenses>
