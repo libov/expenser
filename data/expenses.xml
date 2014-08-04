@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>155</n_expenses>
+  <n_expenses>160</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -1860,5 +1860,65 @@
     <withdrawn>No</withdrawn>
     <category>Other</category>
     <description>Fahrrad</description>
+  </expense>
+  <expense>
+    <id>156</id>
+    <amount>37.50</amount>
+    <date>
+      <day>20</day>
+      <month>5</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Other</category>
+    <description>Fachdienst KFZ Pinneberg</description>
+  </expense>
+  <expense>
+    <id>157</id>
+    <amount>9.99</amount>
+    <date>
+      <day>21</day>
+      <month>2</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Other</category>
+    <description>Lernpaket Conrad</description>
+  </expense>
+  <expense>
+    <id>158</id>
+    <amount>44.10</amount>
+    <date>
+      <day>7</day>
+      <month>10</month>
+      <year>2013</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>REAL</description>
+  </expense>
+  <expense>
+    <id>159</id>
+    <amount>78.77</amount>
+    <date>
+      <day>5</day>
+      <month>10</month>
+      <year>2013</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Flat</category>
+    <description>Shtora+karniz  kuchnja KARSTADT</description>
+  </expense>
+  <expense>
+    <id>160</id>
+    <amount>15.64</amount>
+    <date>
+      <day>15</day>
+      <month>3</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>MARKTKAUF</description>
   </expense>
 </expenses>
