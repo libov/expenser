@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>196</n_expenses>
+  <n_expenses>199</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -2352,5 +2352,41 @@
     <withdrawn>No</withdrawn>
     <category>Restaurant</category>
     <description>McDonalds</description>
+  </expense>
+  <expense>
+    <id>197</id>
+    <amount>21.09</amount>
+    <date>
+      <day>12</day>
+      <month>10</month>
+      <year>2013</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>ROSSMANN</description>
+  </expense>
+  <expense>
+    <id>198</id>
+    <amount>2.47</amount>
+    <date>
+      <day>14</day>
+      <month>10</month>
+      <year>2013</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>ROSSMANN</description>
+  </expense>
+  <expense>
+    <id>199</id>
+    <amount>22.56</amount>
+    <date>
+      <day>13</day>
+      <month>12</month>
+      <year>2013</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>ROSSMANN</description>
   </expense>
 </expenses>
