@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>229</n_expenses>
+  <n_expenses>234</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -2748,5 +2748,65 @@
     <withdrawn>No</withdrawn>
     <category>Music equipment</category>
     <description>Handtacker</description>
+  </expense>
+  <expense>
+    <id>230</id>
+    <amount>5.98</amount>
+    <date>
+      <day>5</day>
+      <month>4</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>Marktkauf</description>
+  </expense>
+  <expense>
+    <id>231</id>
+    <amount>13.52</amount>
+    <date>
+      <day>28</day>
+      <month>3</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>Marktkauf</description>
+  </expense>
+  <expense>
+    <id>232</id>
+    <amount>22.85</amount>
+    <date>
+      <day>22</day>
+      <month>3</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>Marktkauf</description>
+  </expense>
+  <expense>
+    <id>233</id>
+    <amount>7.06</amount>
+    <date>
+      <day>13</day>
+      <month>3</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>Marktkauf</description>
+  </expense>
+  <expense>
+    <id>234</id>
+    <amount>59.97</amount>
+    <date>
+      <day>8</day>
+      <month>3</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>Marktkauf</description>
   </expense>
 </expenses>
