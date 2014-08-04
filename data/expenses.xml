@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>239</n_expenses>
+  <n_expenses>240</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -2868,5 +2868,17 @@
     <withdrawn>No</withdrawn>
     <category>Flat</category>
     <description>TOOM Schwingdeckeleimer etc.</description>
+  </expense>
+  <expense>
+    <id>240</id>
+    <amount>312.84</amount>
+    <date>
+      <day>10</day>
+      <month>12</month>
+      <year>2013</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Other</category>
+    <description>Clothes</description>
   </expense>
 </expenses>
