@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>169</n_expenses>
+  <n_expenses>178</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -2028,5 +2028,113 @@
     <withdrawn>No</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>170</id>
+    <amount>22.20</amount>
+    <date>
+      <day>4</day>
+      <month>8</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>171</id>
+    <amount>12.89</amount>
+    <date>
+      <day>4</day>
+      <month>8</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>MARKTKAUF</description>
+  </expense>
+  <expense>
+    <id>172</id>
+    <amount>29.76</amount>
+    <date>
+      <day>4</day>
+      <month>8</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Other</category>
+    <description>TOOM Kraski Mame</description>
+  </expense>
+  <expense>
+    <id>173</id>
+    <amount>2.13</amount>
+    <date>
+      <day>1</day>
+      <month>8</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>174</id>
+    <amount>2.99</amount>
+    <date>
+      <day>3</day>
+      <month>8</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Restaurant</category>
+    <description>McDonalds</description>
+  </expense>
+  <expense>
+    <id>175</id>
+    <amount>13.59</amount>
+    <date>
+      <day>2</day>
+      <month>8</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>Drinks for party</description>
+  </expense>
+  <expense>
+    <id>176</id>
+    <amount>1.24</amount>
+    <date>
+      <day>2</day>
+      <month>8</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>Rossmann</description>
+  </expense>
+  <expense>
+    <id>177</id>
+    <amount>7.47</amount>
+    <date>
+      <day>3</day>
+      <month>8</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>Party drinks</description>
+  </expense>
+  <expense>
+    <id>178</id>
+    <amount>10.78</amount>
+    <date>
+      <day>4</day>
+      <month>8</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Other</category>
+    <description>Apteka for Mum</description>
   </expense>
 </expenses>
