@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>246</n_expenses>
+  <n_expenses>248</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -2952,5 +2952,29 @@
     <withdrawn>No</withdrawn>
     <category>Flat</category>
     <description>REAL COFFEE MACHINE + FOOD</description>
+  </expense>
+  <expense>
+    <id>247</id>
+    <amount>20.83</amount>
+    <date>
+      <day>19</day>
+      <month>4</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>ROSSMANN</description>
+  </expense>
+  <expense>
+    <id>248</id>
+    <amount>10.97</amount>
+    <date>
+      <day>22</day>
+      <month>1</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>ROSSMANN</description>
   </expense>
 </expenses>
