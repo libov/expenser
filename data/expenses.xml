@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>192</n_expenses>
+  <n_expenses>196</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -2304,5 +2304,53 @@
     <withdrawn>No</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>193</id>
+    <amount>25.00</amount>
+    <date>
+      <day>12</day>
+      <month>6</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Other</category>
+    <description>Invitation Vika</description>
+  </expense>
+  <expense>
+    <id>194</id>
+    <amount>5.00</amount>
+    <date>
+      <day>22</day>
+      <month>5</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Other</category>
+    <description>Confirmation Propiska</description>
+  </expense>
+  <expense>
+    <id>195</id>
+    <amount>99.80</amount>
+    <date>
+      <day>12</day>
+      <month>5</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Transport HH</category>
+    <description>Monatskarte</description>
+  </expense>
+  <expense>
+    <id>196</id>
+    <amount>8.49</amount>
+    <date>
+      <day>2</day>
+      <month>3</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Restaurant</category>
+    <description>McDonalds</description>
   </expense>
 </expenses>
