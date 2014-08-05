@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>262</n_expenses>
+  <n_expenses>264</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -3144,5 +3144,29 @@
     <withdrawn>No</withdrawn>
     <category>Flat</category>
     <description>IKEA diff.</description>
+  </expense>
+  <expense>
+    <id>263</id>
+    <amount>29.95</amount>
+    <date>
+      <day>17</day>
+      <month>11</month>
+      <year>2012</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Other</category>
+    <description>Nokia phone Conrad</description>
+  </expense>
+  <expense>
+    <id>264</id>
+    <amount>24.25</amount>
+    <date>
+      <day>15</day>
+      <month>10</month>
+      <year>2013</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Other</category>
+    <description>WLAN router Conrad</description>
   </expense>
 </expenses>
