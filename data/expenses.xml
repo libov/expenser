@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>254</n_expenses>
+  <n_expenses>258</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -3048,5 +3048,53 @@
     <withdrawn>No</withdrawn>
     <category>Flat</category>
     <description>IKEA Papki</description>
+  </expense>
+  <expense>
+    <id>255</id>
+    <amount>85.29</amount>
+    <date>
+      <day>19</day>
+      <month>11</month>
+      <year>2013</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Flat</category>
+    <description>IKEA different</description>
+  </expense>
+  <expense>
+    <id>256</id>
+    <amount>31.22</amount>
+    <date>
+      <day>4</day>
+      <month>10</month>
+      <year>2013</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Flat</category>
+    <description>IKEA different</description>
+  </expense>
+  <expense>
+    <id>257</id>
+    <amount>54.94</amount>
+    <date>
+      <day>8</day>
+      <month>2</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Flat</category>
+    <description>IKEA BUecherschrank etc.</description>
+  </expense>
+  <expense>
+    <id>258</id>
+    <amount>91.87</amount>
+    <date>
+      <day>20</day>
+      <month>12</month>
+      <year>2013</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Flat</category>
+    <description>IKEA different</description>
   </expense>
 </expenses>
