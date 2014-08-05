@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>264</n_expenses>
+  <n_expenses>266</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -3168,5 +3168,29 @@
     <withdrawn>No</withdrawn>
     <category>Other</category>
     <description>WLAN router Conrad</description>
+  </expense>
+  <expense>
+    <id>265</id>
+    <amount>8.49</amount>
+    <date>
+      <day>7</day>
+      <month>3</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Music equipment</category>
+    <description>Conrad cable</description>
+  </expense>
+  <expense>
+    <id>266</id>
+    <amount>13.48</amount>
+    <date>
+      <day>23</day>
+      <month>12</month>
+      <year>2013</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Other</category>
+    <description>Conrad lernpaket</description>
   </expense>
 </expenses>
