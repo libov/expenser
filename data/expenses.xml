@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>251</n_expenses>
+  <n_expenses>254</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -3012,5 +3012,41 @@
     <withdrawn>No</withdrawn>
     <category>Flat</category>
     <description>TOOM Fahrrad etc.</description>
+  </expense>
+  <expense>
+    <id>252</id>
+    <amount>4.47</amount>
+    <date>
+      <day>23</day>
+      <month>11</month>
+      <year>2013</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Flat</category>
+    <description>IKEA DUFTKERZ</description>
+  </expense>
+  <expense>
+    <id>253</id>
+    <amount>42.46</amount>
+    <date>
+      <day>4</day>
+      <month>4</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Flat</category>
+    <description>IKEA TUSIG etc.</description>
+  </expense>
+  <expense>
+    <id>254</id>
+    <amount>10.94</amount>
+    <date>
+      <day>20</day>
+      <month>12</month>
+      <year>2013</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Flat</category>
+    <description>IKEA Papki</description>
   </expense>
 </expenses>
