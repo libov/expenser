@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>273</n_expenses>
+  <n_expenses>274</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -3276,5 +3276,17 @@
     <withdrawn>No</withdrawn>
     <category>Music equipment</category>
     <description>Just Music Slipmat</description>
+  </expense>
+  <expense>
+    <id>274</id>
+    <amount>195.98</amount>
+    <date>
+      <day>22</day>
+      <month>12</month>
+      <year>2012</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Presents</category>
+    <description>SATURN videocamera for Vika</description>
   </expense>
 </expenses>
