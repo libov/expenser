@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>278</n_expenses>
+  <n_expenses>279</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -3336,5 +3336,17 @@
     <withdrawn>No</withdrawn>
     <category>Music equipment</category>
     <description>Conrad Laser</description>
+  </expense>
+  <expense>
+    <id>279</id>
+    <amount>29.99</amount>
+    <date>
+      <day>6</day>
+      <month>8</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Presents</category>
+    <description>DOUGLAS Parfum Mame</description>
   </expense>
 </expenses>
