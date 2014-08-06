@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>274</n_expenses>
+  <n_expenses>276</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -3288,5 +3288,29 @@
     <withdrawn>No</withdrawn>
     <category>Presents</category>
     <description>SATURN videocamera for Vika</description>
+  </expense>
+  <expense>
+    <id>275</id>
+    <amount>442.79</amount>
+    <date>
+      <day>22</day>
+      <month>12</month>
+      <year>2012</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Presents</category>
+    <description>Conrad Tablett for Mum etc.</description>
+  </expense>
+  <expense>
+    <id>276</id>
+    <amount>176.00</amount>
+    <date>
+      <day>22</day>
+      <month>9</month>
+      <year>2012</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Music equipment</category>
+    <description>Conrad McCrypt speakers</description>
   </expense>
 </expenses>
