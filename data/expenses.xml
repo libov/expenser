@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>270</n_expenses>
+  <n_expenses>272</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -3240,5 +3240,29 @@
     <withdrawn>No</withdrawn>
     <category>Clothes</category>
     <description>Esprit</description>
+  </expense>
+  <expense>
+    <id>271</id>
+    <amount>19.00</amount>
+    <date>
+      <day>12</day>
+      <month>1</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Other</category>
+    <description>Cinemaxx</description>
+  </expense>
+  <expense>
+    <id>272</id>
+    <amount>2.99</amount>
+    <date>
+      <day>12</day>
+      <month>11</month>
+      <year>2013</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Flat</category>
+    <description>Praktiker Wasserwaage</description>
   </expense>
 </expenses>
