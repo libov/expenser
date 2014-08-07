@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>310</n_expenses>
+  <n_expenses>316</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -3720,5 +3720,77 @@
     <withdrawn>No</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>311</id>
+    <amount>8.49</amount>
+    <date>
+      <day>2</day>
+      <month>3</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Restaurant</category>
+    <description>McDonalds</description>
+  </expense>
+  <expense>
+    <id>312</id>
+    <amount>16.00</amount>
+    <date>
+      <day>15</day>
+      <month>1</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Restaurant</category>
+    <description>Wild Rice</description>
+  </expense>
+  <expense>
+    <id>313</id>
+    <amount>18.90</amount>
+    <date>
+      <day>6</day>
+      <month>4</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Restaurant</category>
+    <description>Kiel Pizzeria</description>
+  </expense>
+  <expense>
+    <id>314</id>
+    <amount>11.00</amount>
+    <date>
+      <day>2</day>
+      <month>2</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Restaurant</category>
+    <description>Einstein</description>
+  </expense>
+  <expense>
+    <id>315</id>
+    <amount>16.00</amount>
+    <date>
+      <day>13</day>
+      <month>2</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Restaurant</category>
+    <description>Einstein</description>
+  </expense>
+  <expense>
+    <id>316</id>
+    <amount>12.20</amount>
+    <date>
+      <day>14</day>
+      <month>11</month>
+      <year>2013</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Restaurant</category>
+    <description>Einstein</description>
   </expense>
 </expenses>
