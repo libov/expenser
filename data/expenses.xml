@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>295</n_expenses>
+  <n_expenses>300</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -3540,5 +3540,65 @@
     <withdrawn>No</withdrawn>
     <category>Other</category>
     <description>Haircut</description>
+  </expense>
+  <expense>
+    <id>296</id>
+    <amount>31.50</amount>
+    <date>
+      <day>7</day>
+      <month>12</month>
+      <year>2013</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Clothes</category>
+    <description>1982</description>
+  </expense>
+  <expense>
+    <id>297</id>
+    <amount>11.65</amount>
+    <date>
+      <day>10</day>
+      <month>12</month>
+      <year>2013</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Clothes</category>
+    <description>TomTailor</description>
+  </expense>
+  <expense>
+    <id>298</id>
+    <amount>14.95</amount>
+    <date>
+      <day>13</day>
+      <month>12</month>
+      <year>2013</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Clothes</category>
+    <description>H&M Trusy</description>
+  </expense>
+  <expense>
+    <id>299</id>
+    <amount>110.90</amount>
+    <date>
+      <day>13</day>
+      <month>12</month>
+      <year>2013</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Clothes</category>
+    <description>Gortz Shoes</description>
+  </expense>
+  <expense>
+    <id>300</id>
+    <amount>279.95</amount>
+    <date>
+      <day>24</day>
+      <month>11</month>
+      <year>2012</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Clothes</category>
+    <description>Suit for defence</description>
   </expense>
 </expenses>
