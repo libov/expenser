@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>289</n_expenses>
+  <n_expenses>292</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -3468,5 +3468,41 @@
     <withdrawn>No</withdrawn>
     <category>Presents</category>
     <description>Gerry Weber Mum</description>
+  </expense>
+  <expense>
+    <id>290</id>
+    <amount>16.50</amount>
+    <date>
+      <day>23</day>
+      <month>12</month>
+      <year>2013</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Other</category>
+    <description>Contact Lens</description>
+  </expense>
+  <expense>
+    <id>291</id>
+    <amount>16.50</amount>
+    <date>
+      <day>15</day>
+      <month>11</month>
+      <year>2013</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Other</category>
+    <description>Contact Lens</description>
+  </expense>
+  <expense>
+    <id>292</id>
+    <amount>16.50</amount>
+    <date>
+      <day>20</day>
+      <month>9</month>
+      <year>2013</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Other</category>
+    <description>Contact Lens</description>
   </expense>
 </expenses>
