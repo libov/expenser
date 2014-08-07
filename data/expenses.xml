@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>279</n_expenses>
+  <n_expenses>282</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -3348,5 +3348,41 @@
     <withdrawn>No</withdrawn>
     <category>Presents</category>
     <description>DOUGLAS Parfum Mame</description>
+  </expense>
+  <expense>
+    <id>280</id>
+    <amount>59.95</amount>
+    <date>
+      <day>1</day>
+      <month>3</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Clothes</category>
+    <description>Shoes Jack Wolfskin</description>
+  </expense>
+  <expense>
+    <id>281</id>
+    <amount>54.95</amount>
+    <date>
+      <day>2</day>
+      <month>2</month>
+      <year>2013</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Clothes</category>
+    <description>Shoes Jack Wolfskin</description>
+  </expense>
+  <expense>
+    <id>282</id>
+    <amount>49.95</amount>
+    <date>
+      <day>28</day>
+      <month>2</month>
+      <year>2013</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Cash</category>
+    <description>Sportscheck Helm for N, returned in cash</description>
   </expense>
 </expenses>
