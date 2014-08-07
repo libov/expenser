@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>302</n_expenses>
+  <n_expenses>304</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -3624,5 +3624,29 @@
     <withdrawn>No</withdrawn>
     <category>Other</category>
     <description>Remeshok Chasy?</description>
+  </expense>
+  <expense>
+    <id>303</id>
+    <amount>19.98</amount>
+    <date>
+      <day>4</day>
+      <month>10</month>
+      <year>2013</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Presents</category>
+    <description>Sweets for John</description>
+  </expense>
+  <expense>
+    <id>304</id>
+    <amount>2.65</amount>
+    <date>
+      <day>29</day>
+      <month>5</month>
+      <year>2013</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Presents</category>
+    <description>Magnet Wismar</description>
   </expense>
 </expenses>
