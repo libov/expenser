@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>300</n_expenses>
+  <n_expenses>302</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -3600,5 +3600,29 @@
     <withdrawn>No</withdrawn>
     <category>Clothes</category>
     <description>Suit for defence</description>
+  </expense>
+  <expense>
+    <id>301</id>
+    <amount>11.99</amount>
+    <date>
+      <day>26</day>
+      <month>4</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Other</category>
+    <description>Watch Batt. Wechsel</description>
+  </expense>
+  <expense>
+    <id>302</id>
+    <amount>20.00</amount>
+    <date>
+      <day>23</day>
+      <month>3</month>
+      <year>2013</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Other</category>
+    <description>Remeshok Chasy?</description>
   </expense>
 </expenses>
