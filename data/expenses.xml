@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>287</n_expenses>
+  <n_expenses>289</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -3444,5 +3444,29 @@
     <withdrawn>No</withdrawn>
     <category>Food</category>
     <description>DENNS BIOMARKT</description>
+  </expense>
+  <expense>
+    <id>288</id>
+    <amount>185.85</amount>
+    <date>
+      <day>7</day>
+      <month>12</month>
+      <year>2013</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Presents</category>
+    <description>Gerry Weber Mum</description>
+  </expense>
+  <expense>
+    <id>289</id>
+    <amount>159.85</amount>
+    <date>
+      <day>7</day>
+      <month>12</month>
+      <year>2013</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Presents</category>
+    <description>Gerry Weber Mum</description>
   </expense>
 </expenses>
