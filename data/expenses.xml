@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>282</n_expenses>
+  <n_expenses>287</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -3384,5 +3384,65 @@
     <withdrawn>No</withdrawn>
     <category>Cash</category>
     <description>Sportscheck Helm for N, returned in cash</description>
+  </expense>
+  <expense>
+    <id>283</id>
+    <amount>6.43</amount>
+    <date>
+      <day>10</day>
+      <month>4</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Other</category>
+    <description>FIELMANN Sehtest</description>
+  </expense>
+  <expense>
+    <id>284</id>
+    <amount>4.99</amount>
+    <date>
+      <day>3</day>
+      <month>2</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>Tchibo Coffee</description>
+  </expense>
+  <expense>
+    <id>285</id>
+    <amount>14.50</amount>
+    <date>
+      <day>30</day>
+      <month>3</month>
+      <year>2013</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Music equipment</category>
+    <description>JustMusic Cable</description>
+  </expense>
+  <expense>
+    <id>286</id>
+    <amount>6.47</amount>
+    <date>
+      <day>5</day>
+      <month>4</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Other</category>
+    <description>Tankstelle bier etc.</description>
+  </expense>
+  <expense>
+    <id>287</id>
+    <amount>5.73</amount>
+    <date>
+      <day>11</day>
+      <month>1</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>DENNS BIOMARKT</description>
   </expense>
 </expenses>
