@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>316</n_expenses>
+  <n_expenses>321</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -3792,5 +3792,65 @@
     <withdrawn>No</withdrawn>
     <category>Restaurant</category>
     <description>Einstein</description>
+  </expense>
+  <expense>
+    <id>317</id>
+    <amount>4.50</amount>
+    <date>
+      <day>8</day>
+      <month>2</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Other</category>
+    <description>Kinoteatr</description>
+  </expense>
+  <expense>
+    <id>318</id>
+    <amount>4.50</amount>
+    <date>
+      <day>4</day>
+      <month>2</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Other</category>
+    <description>Kinoteatr</description>
+  </expense>
+  <expense>
+    <id>319</id>
+    <amount>22.00</amount>
+    <date>
+      <day>28</day>
+      <month>2</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Other</category>
+    <description>Kinoteatr</description>
+  </expense>
+  <expense>
+    <id>320</id>
+    <amount>10.60</amount>
+    <date>
+      <day>12</day>
+      <month>1</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Other</category>
+    <description>Kinoteatr</description>
+  </expense>
+  <expense>
+    <id>321</id>
+    <amount>54.00</amount>
+    <date>
+      <day>8</day>
+      <month>2</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Cash</category>
+    <description>Kinoteatr for all returned in cash</description>
   </expense>
 </expenses>
