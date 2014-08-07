@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>306</n_expenses>
+  <n_expenses>307</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -3672,5 +3672,17 @@
     <withdrawn>No</withdrawn>
     <category>Other</category>
     <description>Auslaendergebuer</description>
+  </expense>
+  <expense>
+    <id>307</id>
+    <amount>21.80</amount>
+    <date>
+      <day>6</day>
+      <month>12</month>
+      <year>2013</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Presents</category>
+    <description>Mum drawing</description>
   </expense>
 </expenses>
