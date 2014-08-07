@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>324</n_expenses>
+  <n_expenses>326</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -3888,5 +3888,29 @@
     <withdrawn>No</withdrawn>
     <category>Presents</category>
     <description>Douglas Parfum for Mum</description>
+  </expense>
+  <expense>
+    <id>325</id>
+    <amount>12.98</amount>
+    <date>
+      <day>7</day>
+      <month>8</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Clothes</category>
+    <description>MARKTKAUF trusy</description>
+  </expense>
+  <expense>
+    <id>326</id>
+    <amount>30.88</amount>
+    <date>
+      <day>7</day>
+      <month>8</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>MARKTKAUF diff for VUUV</description>
   </expense>
 </expenses>
