@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>347</n_expenses>
+  <n_expenses>350</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -165,7 +165,7 @@
       <month>6</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -177,7 +177,7 @@
       <month>6</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -201,7 +201,7 @@
       <month>6</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Flat</category>
     <description>Sicherung TOOM</description>
   </expense>
@@ -213,7 +213,7 @@
       <month>6</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Flat</category>
     <description>coffee machine cleaner etc.</description>
   </expense>
@@ -237,7 +237,7 @@
       <month>6</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>PENNY</description>
   </expense>
@@ -261,7 +261,7 @@
       <month>6</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -285,7 +285,7 @@
       <month>6</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Other</category>
     <description>Schleswig-Holstein Ticket</description>
   </expense>
@@ -2313,7 +2313,7 @@
       <month>6</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Other</category>
     <description>Invitation Vika</description>
   </expense>
@@ -4107,18 +4107,6 @@
   </expense>
   <expense>
     <id>343</id>
-    <amount>39.00</amount>
-    <date>
-      <day>9</day>
-      <month>6</month>
-      <year>2014</year>
-    </date>
-    <withdrawn>No</withdrawn>
-    <category>Travel</category>
-    <description>Schleswig-Holstein Ticket</description>
-  </expense>
-  <expense>
-    <id>344</id>
     <amount>55.40</amount>
     <date>
       <day>2</day>
@@ -4130,7 +4118,7 @@
     <description>Monatskarte fuer Mama</description>
   </expense>
   <expense>
-    <id>345</id>
+    <id>344</id>
     <amount>115.20</amount>
     <date>
       <day>18</day>
@@ -4142,7 +4130,7 @@
     <description>Monatskarte fuer Mama and Papa</description>
   </expense>
   <expense>
-    <id>346</id>
+    <id>345</id>
     <amount>3.00</amount>
     <date>
       <day>5</day>
@@ -4154,7 +4142,7 @@
     <description>Fahrkarte Pinneberg</description>
   </expense>
   <expense>
-    <id>347</id>
+    <id>346</id>
     <amount>3.00</amount>
     <date>
       <day>14</day>
@@ -4164,5 +4152,53 @@
     <withdrawn>No</withdrawn>
     <category>Transport HH</category>
     <description>Fahrkarte Pinneberg</description>
+  </expense>
+  <expense>
+    <id>347</id>
+    <amount>20.00</amount>
+    <date>
+      <day>3</day>
+      <month>6</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Cash</category>
+    <description>DESY</description>
+  </expense>
+  <expense>
+    <id>348</id>
+    <amount>32.00</amount>
+    <date>
+      <day>5</day>
+      <month>6</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Other</category>
+    <description>VAF</description>
+  </expense>
+  <expense>
+    <id>349</id>
+    <amount>20.00</amount>
+    <date>
+      <day>5</day>
+      <month>6</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Cash</category>
+    <description>DESY</description>
+  </expense>
+  <expense>
+    <id>350</id>
+    <amount>120.00</amount>
+    <date>
+      <day>10</day>
+      <month>6</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Cash</category>
+    <description>dunno</description>
   </expense>
 </expenses>
