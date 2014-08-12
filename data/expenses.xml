@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>335</n_expenses>
+  <n_expenses>336</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -2037,7 +2037,7 @@
       <month>8</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -2049,7 +2049,7 @@
       <month>8</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>MARKTKAUF</description>
   </expense>
@@ -2061,7 +2061,7 @@
       <month>8</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Other</category>
     <description>TOOM Kraski Mame</description>
   </expense>
@@ -2085,7 +2085,7 @@
       <month>8</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Restaurant</category>
     <description>McDonalds</description>
   </expense>
@@ -2133,7 +2133,7 @@
       <month>8</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Other</category>
     <description>Apteka for Mum</description>
   </expense>
@@ -2745,7 +2745,7 @@
       <month>8</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Music equipment</category>
     <description>Handtacker</description>
   </expense>
@@ -3105,7 +3105,7 @@
       <month>8</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Travel</category>
     <description>Schlafsack</description>
   </expense>
@@ -3117,7 +3117,7 @@
       <month>8</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -3141,7 +3141,7 @@
       <month>8</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Flat</category>
     <description>IKEA diff.</description>
   </expense>
@@ -4020,5 +4020,17 @@
     <withdrawn>No</withdrawn>
     <category>Other</category>
     <description>Berushy etc.</description>
+  </expense>
+  <expense>
+    <id>336</id>
+    <amount>32.00</amount>
+    <date>
+      <day>5</day>
+      <month>8</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Other</category>
+    <description>VAF</description>
   </expense>
 </expenses>
