@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>331</n_expenses>
+  <n_expenses>335</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -3972,5 +3972,53 @@
     <withdrawn>No</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>332</id>
+    <amount>7.74</amount>
+    <date>
+      <day>7</day>
+      <month>8</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Travel</category>
+    <description>bier+ziggi</description>
+  </expense>
+  <expense>
+    <id>333</id>
+    <amount>45.90</amount>
+    <date>
+      <day>12</day>
+      <month>8</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Presents</category>
+    <description>Shoes Mame</description>
+  </expense>
+  <expense>
+    <id>334</id>
+    <amount>6.99</amount>
+    <date>
+      <day>12</day>
+      <month>8</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Presents</category>
+    <description>Kraska mame</description>
+  </expense>
+  <expense>
+    <id>335</id>
+    <amount>8.27</amount>
+    <date>
+      <day>12</day>
+      <month>8</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Other</category>
+    <description>Berushy etc.</description>
   </expense>
 </expenses>
