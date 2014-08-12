@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>342</n_expenses>
+  <n_expenses>345</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -4104,5 +4104,41 @@
     <withdrawn>No</withdrawn>
     <category>Transport HH</category>
     <description>Monatskarte HVV</description>
+  </expense>
+  <expense>
+    <id>343</id>
+    <amount>39.00</amount>
+    <date>
+      <day>9</day>
+      <month>6</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Travel</category>
+    <description>Schleswig-Holstein Ticket</description>
+  </expense>
+  <expense>
+    <id>344</id>
+    <amount>55.40</amount>
+    <date>
+      <day>2</day>
+      <month>12</month>
+      <year>2013</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Presents</category>
+    <description>Monatskarte fuer Mama</description>
+  </expense>
+  <expense>
+    <id>345</id>
+    <amount>115.20</amount>
+    <date>
+      <day>18</day>
+      <month>4</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Presents</category>
+    <description>Monatskarte fuer Mama and Papa</description>
   </expense>
 </expenses>
