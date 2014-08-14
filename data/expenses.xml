@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>357</n_expenses>
+  <n_expenses>363</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -4284,5 +4284,77 @@
     <withdrawn>Yes</withdrawn>
     <category>Flat</category>
     <description>Kabel Deutschland</description>
+  </expense>
+  <expense>
+    <id>358</id>
+    <amount>2.22</amount>
+    <date>
+      <day>13</day>
+      <month>8</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>359</id>
+    <amount>11.20</amount>
+    <date>
+      <day>13</day>
+      <month>8</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Music equipment</category>
+    <description>Bauhaus Maske+schutz brille - for acoustic panels</description>
+  </expense>
+  <expense>
+    <id>360</id>
+    <amount>20.59</amount>
+    <date>
+      <day>13</day>
+      <month>8</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Music equipment</category>
+    <description>TOOM - rockwool for acoustic panels</description>
+  </expense>
+  <expense>
+    <id>361</id>
+    <amount>8.58</amount>
+    <date>
+      <day>13</day>
+      <month>8</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Presents</category>
+    <description>TOOM - brush and liquid for cleaning - Mum</description>
+  </expense>
+  <expense>
+    <id>362</id>
+    <amount>5.99</amount>
+    <date>
+      <day>13</day>
+      <month>8</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Flat</category>
+    <description>Marktkauf - Saeco cleaning</description>
+  </expense>
+  <expense>
+    <id>363</id>
+    <amount>8.50</amount>
+    <date>
+      <day>13</day>
+      <month>8</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Presents</category>
+    <description>Marktkauf - sweets for Polina</description>
   </expense>
 </expenses>
