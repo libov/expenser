@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>364</n_expenses>
+  <n_expenses>365</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -4368,5 +4368,17 @@
     <withdrawn>No</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>365</id>
+    <amount>4.48</amount>
+    <date>
+      <day>14</day>
+      <month>8</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Presents</category>
+    <description>IKEA for Mum</description>
   </expense>
 </expenses>
