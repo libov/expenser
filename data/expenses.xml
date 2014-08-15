@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>366</n_expenses>
+  <n_expenses>368</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -4392,5 +4392,29 @@
     <withdrawn>No</withdrawn>
     <category>Presents</category>
     <description>Mame dlja risovanija</description>
+  </expense>
+  <expense>
+    <id>367</id>
+    <amount>9.00</amount>
+    <date>
+      <day>15</day>
+      <month>8</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Music equipment</category>
+    <description>IKEA Clothes for acoustic panels</description>
+  </expense>
+  <expense>
+    <id>368</id>
+    <amount>10.77</amount>
+    <date>
+      <day>15</day>
+      <month>8</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Flat</category>
+    <description>IKEA different</description>
   </expense>
 </expenses>
