@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>365</n_expenses>
+  <n_expenses>366</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -4380,5 +4380,17 @@
     <withdrawn>No</withdrawn>
     <category>Presents</category>
     <description>IKEA for Mum</description>
+  </expense>
+  <expense>
+    <id>366</id>
+    <amount>104.01</amount>
+    <date>
+      <day>15</day>
+      <month>8</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Presents</category>
+    <description>Mame dlja risovanija</description>
   </expense>
 </expenses>
