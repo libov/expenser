@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>372</n_expenses>
+  <n_expenses>373</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -4464,5 +4464,17 @@
     <withdrawn>No</withdrawn>
     <category>Music equipment</category>
     <description>THOMANN acoustic panel and glue</description>
+  </expense>
+  <expense>
+    <id>373</id>
+    <amount>122.00</amount>
+    <date>
+      <day>16</day>
+      <month>8</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Flat</category>
+    <description>MIKROWELLE</description>
   </expense>
 </expenses>
