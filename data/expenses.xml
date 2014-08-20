@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>373</n_expenses>
+  <n_expenses>376</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -4476,5 +4476,41 @@
     <withdrawn>No</withdrawn>
     <category>Flat</category>
     <description>MIKROWELLE</description>
+  </expense>
+  <expense>
+    <id>374</id>
+    <amount>17.27</amount>
+    <date>
+      <day>19</day>
+      <month>8</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>375</id>
+    <amount>13.80</amount>
+    <date>
+      <day>16</day>
+      <month>8</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>376</id>
+    <amount>99.80</amount>
+    <date>
+      <day>20</day>
+      <month>8</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Transport HH</category>
+    <description>Monatskarte HVV</description>
   </expense>
 </expenses>
