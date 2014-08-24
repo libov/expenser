@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>381</n_expenses>
+  <n_expenses>384</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -4572,5 +4572,41 @@
     <withdrawn>No</withdrawn>
     <category>Food</category>
     <description>MARKTKAUF</description>
+  </expense>
+  <expense>
+    <id>382</id>
+    <amount>19.33</amount>
+    <date>
+      <day>23</day>
+      <month>8</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>383</id>
+    <amount>14.96</amount>
+    <date>
+      <day>23</day>
+      <month>8</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Other</category>
+    <description>LIDL bandazhy</description>
+  </expense>
+  <expense>
+    <id>384</id>
+    <amount>7.05</amount>
+    <date>
+      <day>21</day>
+      <month>8</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
   </expense>
 </expenses>
