@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>379</n_expenses>
+  <n_expenses>381</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -4548,5 +4548,29 @@
     <withdrawn>No</withdrawn>
     <category>Presents</category>
     <description>Douglas mame</description>
+  </expense>
+  <expense>
+    <id>380</id>
+    <amount>3.43</amount>
+    <date>
+      <day>23</day>
+      <month>8</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Music equipment</category>
+    <description>TOOM planki dlja panelej</description>
+  </expense>
+  <expense>
+    <id>381</id>
+    <amount>7.76</amount>
+    <date>
+      <day>23</day>
+      <month>8</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>MARKTKAUF</description>
   </expense>
 </expenses>
