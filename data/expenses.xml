@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>377</n_expenses>
+  <n_expenses>379</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -4524,5 +4524,29 @@
     <withdrawn>No</withdrawn>
     <category>Other</category>
     <description>PAYPAL Army Phoenix Wings</description>
+  </expense>
+  <expense>
+    <id>378</id>
+    <amount>300.00</amount>
+    <date>
+      <day>23</day>
+      <month>8</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Presents</category>
+    <description>Pape na operacyju etc.</description>
+  </expense>
+  <expense>
+    <id>379</id>
+    <amount>42.26</amount>
+    <date>
+      <day>23</day>
+      <month>8</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Presents</category>
+    <description>Douglas mame</description>
   </expense>
 </expenses>
