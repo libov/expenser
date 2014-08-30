@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>386</n_expenses>
+  <n_expenses>388</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -4632,5 +4632,29 @@
     <withdrawn>Yes</withdrawn>
     <category>Flat</category>
     <description>KABEL DEUTSCHLAND</description>
+  </expense>
+  <expense>
+    <id>387</id>
+    <amount>5.90</amount>
+    <date>
+      <day>30</day>
+      <month>8</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Music equipment</category>
+    <description>TOOM planki etc.</description>
+  </expense>
+  <expense>
+    <id>388</id>
+    <amount>14.50</amount>
+    <date>
+      <day>30</day>
+      <month>8</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Books</category>
+    <description>AMAZON Nutt</description>
   </expense>
 </expenses>
