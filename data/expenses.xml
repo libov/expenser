@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>388</n_expenses>
+  <n_expenses>392</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -4656,5 +4656,53 @@
     <withdrawn>No</withdrawn>
     <category>Books</category>
     <description>AMAZON Nutt</description>
+  </expense>
+  <expense>
+    <id>389</id>
+    <amount>449.00</amount>
+    <date>
+      <day>27</day>
+      <month>8</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Music equipment</category>
+    <description>JUSTMUSIC HS8S</description>
+  </expense>
+  <expense>
+    <id>390</id>
+    <amount>7.04</amount>
+    <date>
+      <day>2</day>
+      <month>9</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>391</id>
+    <amount>6.87</amount>
+    <date>
+      <day>2</day>
+      <month>9</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Music equipment</category>
+    <description>TOOM different</description>
+  </expense>
+  <expense>
+    <id>392</id>
+    <amount>4.49</amount>
+    <date>
+      <day>2</day>
+      <month>9</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>MARKTKAUF</description>
   </expense>
 </expenses>
