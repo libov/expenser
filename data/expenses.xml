@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>400</n_expenses>
+  <n_expenses>401</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -4800,5 +4800,17 @@
     <withdrawn>No</withdrawn>
     <category>Restaurant</category>
     <description>McDonalds</description>
+  </expense>
+  <expense>
+    <id>401</id>
+    <amount>16.15</amount>
+    <date>
+      <day>25</day>
+      <month>8</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Music equipment</category>
+    <description>IKEA for absorbers</description>
   </expense>
 </expenses>
