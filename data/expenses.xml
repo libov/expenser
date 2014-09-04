@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>397</n_expenses>
+  <n_expenses>398</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -4764,5 +4764,17 @@
     <withdrawn>No</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>398</id>
+    <amount>50.00</amount>
+    <date>
+      <day>24</day>
+      <month>8</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Restaurant</category>
+    <description>EINSTEIN; paid for Andrew as well - got 27EUR from A. back in CASH</description>
   </expense>
 </expenses>
