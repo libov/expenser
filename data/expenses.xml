@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>401</n_expenses>
+  <n_expenses>402</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -4521,7 +4521,7 @@
       <month>8</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Other</category>
     <description>PAYPAL Army Phoenix Wings</description>
   </expense>
@@ -4545,7 +4545,7 @@
       <month>8</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Presents</category>
     <description>Douglas mame</description>
   </expense>
@@ -4557,7 +4557,7 @@
       <month>8</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Music equipment</category>
     <description>TOOM planki dlja panelej</description>
   </expense>
@@ -4569,7 +4569,7 @@
       <month>8</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>MARKTKAUF</description>
   </expense>
@@ -4581,7 +4581,7 @@
       <month>8</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -4593,7 +4593,7 @@
       <month>8</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Other</category>
     <description>LIDL bandazhy</description>
   </expense>
@@ -4773,7 +4773,7 @@
       <month>8</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Restaurant</category>
     <description>EINSTEIN; paid for Andrew as well - got 27EUR from A. back in CASH</description>
   </expense>
@@ -4809,8 +4809,20 @@
       <month>8</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Music equipment</category>
     <description>IKEA for absorbers</description>
+  </expense>
+  <expense>
+    <id>402</id>
+    <amount>30.00</amount>
+    <date>
+      <day>4</day>
+      <month>9</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Cash</category>
+    <description>MONEY FOR INDEPENDENCE DAY</description>
   </expense>
 </expenses>
