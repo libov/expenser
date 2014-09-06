@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>402</n_expenses>
+  <n_expenses>404</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -4824,5 +4824,29 @@
     <withdrawn>Yes</withdrawn>
     <category>Cash</category>
     <description>MONEY FOR INDEPENDENCE DAY</description>
+  </expense>
+  <expense>
+    <id>403</id>
+    <amount>21.98</amount>
+    <date>
+      <day>5</day>
+      <month>9</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Flat</category>
+    <description>IKEA posuda</description>
+  </expense>
+  <expense>
+    <id>404</id>
+    <amount>20.59</amount>
+    <date>
+      <day>6</day>
+      <month>9</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Music equipment</category>
+    <description>TOOM sonorock</description>
   </expense>
 </expenses>
