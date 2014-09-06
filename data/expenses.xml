@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>404</n_expenses>
+  <n_expenses>408</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -4641,7 +4641,7 @@
       <month>8</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Music equipment</category>
     <description>TOOM planki etc.</description>
   </expense>
@@ -4665,7 +4665,7 @@
       <month>8</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Music equipment</category>
     <description>JUSTMUSIC HS8S</description>
   </expense>
@@ -4713,7 +4713,7 @@
       <month>8</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -4725,7 +4725,7 @@
       <month>8</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -4737,7 +4737,7 @@
       <month>8</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -4749,7 +4749,7 @@
       <month>8</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -4785,7 +4785,7 @@
       <month>8</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>PENNY</description>
   </expense>
@@ -4797,7 +4797,7 @@
       <month>8</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Restaurant</category>
     <description>McDonalds</description>
   </expense>
@@ -4848,5 +4848,53 @@
     <withdrawn>No</withdrawn>
     <category>Music equipment</category>
     <description>TOOM sonorock</description>
+  </expense>
+  <expense>
+    <id>405</id>
+    <amount>136.00</amount>
+    <date>
+      <day>28</day>
+      <month>8</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Flat</category>
+    <description>Stadtwerke Pinneberg</description>
+  </expense>
+  <expense>
+    <id>406</id>
+    <amount>923.59</amount>
+    <date>
+      <day>29</day>
+      <month>8</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Degussa</category>
+    <description>DEGUSSA kredit</description>
+  </expense>
+  <expense>
+    <id>407</id>
+    <amount>30.00</amount>
+    <date>
+      <day>26</day>
+      <month>8</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Cash</category>
+    <description>various</description>
+  </expense>
+  <expense>
+    <id>408</id>
+    <amount>131.75</amount>
+    <date>
+      <day>1</day>
+      <month>9</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Flat</category>
+    <description>WEG Wohngeld</description>
   </expense>
 </expenses>
