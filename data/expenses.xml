@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>408</n_expenses>
+  <n_expenses>410</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -4896,5 +4896,29 @@
     <withdrawn>Yes</withdrawn>
     <category>Flat</category>
     <description>WEG Wohngeld</description>
+  </expense>
+  <expense>
+    <id>409</id>
+    <amount>30.00</amount>
+    <date>
+      <day>1</day>
+      <month>9</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Cash</category>
+    <description/>
+  </expense>
+  <expense>
+    <id>410</id>
+    <amount>20.00</amount>
+    <date>
+      <day>28</day>
+      <month>8</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Cash</category>
+    <description/>
   </expense>
 </expenses>
