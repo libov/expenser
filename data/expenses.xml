@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>410</n_expenses>
+  <n_expenses>412</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -4920,5 +4920,29 @@
     <withdrawn>Yes</withdrawn>
     <category>Cash</category>
     <description/>
+  </expense>
+  <expense>
+    <id>411</id>
+    <amount>10.32</amount>
+    <date>
+      <day>6</day>
+      <month>9</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>412</id>
+    <amount>27.00</amount>
+    <date>
+      <day>6</day>
+      <month>9</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Other</category>
+    <description>CINEMAXX kino</description>
   </expense>
 </expenses>
