@@ -4833,7 +4833,7 @@
       <month>9</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Flat</category>
     <description>IKEA posuda</description>
   </expense>
@@ -4845,7 +4845,7 @@
       <month>9</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Music equipment</category>
     <description>TOOM sonorock</description>
   </expense>
@@ -4941,7 +4941,7 @@
       <month>9</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Other</category>
     <description>CINEMAXX kino</description>
   </expense>
@@ -4953,7 +4953,7 @@
       <month>9</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -4965,7 +4965,7 @@
       <month>9</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Flat</category>
     <description>IKEA</description>
   </expense>
