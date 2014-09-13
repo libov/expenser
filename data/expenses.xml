@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>419</n_expenses>
+  <n_expenses>420</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -5028,5 +5028,17 @@
     <withdrawn>No</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>420</id>
+    <amount>1.99</amount>
+    <date>
+      <day>13</day>
+      <month>9</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Flat</category>
+    <description>IKEA BYGEL Stange</description>
   </expense>
 </expenses>
