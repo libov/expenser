@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>422</n_expenses>
+  <n_expenses>424</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -5064,5 +5064,29 @@
     <withdrawn>No</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>423</id>
+    <amount>8.55</amount>
+    <date>
+      <day>17</day>
+      <month>9</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>424</id>
+    <amount>20.00</amount>
+    <date>
+      <day>16</day>
+      <month>9</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Cash</category>
+    <description>DESY for Canteen</description>
   </expense>
 </expenses>
