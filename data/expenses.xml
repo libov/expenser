@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>424</n_expenses>
+  <n_expenses>431</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -5088,5 +5088,89 @@
     <withdrawn>No</withdrawn>
     <category>Cash</category>
     <description>DESY for Canteen</description>
+  </expense>
+  <expense>
+    <id>425</id>
+    <amount>20.00</amount>
+    <date>
+      <day>19</day>
+      <month>9</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Cash</category>
+    <description>DESY - for canteen and Artur birthday</description>
+  </expense>
+  <expense>
+    <id>426</id>
+    <amount>15.49</amount>
+    <date>
+      <day>20</day>
+      <month>9</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Flat</category>
+    <description>IKEA Regalboden</description>
+  </expense>
+  <expense>
+    <id>427</id>
+    <amount>6.79</amount>
+    <date>
+      <day>20</day>
+      <month>9</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Restaurant</category>
+    <description>BURGER KING Artur birthday Reperbahn</description>
+  </expense>
+  <expense>
+    <id>428</id>
+    <amount>2.83</amount>
+    <date>
+      <day>19</day>
+      <month>9</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>PENNY</description>
+  </expense>
+  <expense>
+    <id>429</id>
+    <amount>5.42</amount>
+    <date>
+      <day>18</day>
+      <month>9</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>430</id>
+    <amount>2.88</amount>
+    <date>
+      <day>16</day>
+      <month>9</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>431</id>
+    <amount>5.80</amount>
+    <date>
+      <day>19</day>
+      <month>9</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>STAR TANKSTELLE cigi</description>
   </expense>
 </expenses>
