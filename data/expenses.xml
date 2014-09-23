@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>433</n_expenses>
+  <n_expenses>434</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -5196,5 +5196,17 @@
     <withdrawn>No</withdrawn>
     <category>Flat</category>
     <description>IKEA Regalboden</description>
+  </expense>
+  <expense>
+    <id>434</id>
+    <amount>99.80</amount>
+    <date>
+      <day>22</day>
+      <month>9</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Transport HH</category>
+    <description>HOCHBAHN Monatskarte</description>
   </expense>
 </expenses>
