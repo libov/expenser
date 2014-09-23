@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>434</n_expenses>
+  <n_expenses>436</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -5208,5 +5208,29 @@
     <withdrawn>No</withdrawn>
     <category>Transport HH</category>
     <description>HOCHBAHN Monatskarte</description>
+  </expense>
+  <expense>
+    <id>435</id>
+    <amount>6.35</amount>
+    <date>
+      <day>23</day>
+      <month>9</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>436</id>
+    <amount>1.39</amount>
+    <date>
+      <day>23</day>
+      <month>9</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>PENNY</description>
   </expense>
 </expenses>
