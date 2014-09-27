@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>439</n_expenses>
+  <n_expenses>440</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -5097,7 +5097,7 @@
       <month>9</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Cash</category>
     <description>DESY - for canteen and Artur birthday</description>
   </expense>
@@ -5109,7 +5109,7 @@
       <month>9</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Flat</category>
     <description>IKEA Regalboden</description>
   </expense>
@@ -5121,7 +5121,7 @@
       <month>9</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Restaurant</category>
     <description>BURGER KING Artur birthday Reperbahn</description>
   </expense>
@@ -5133,7 +5133,7 @@
       <month>9</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>PENNY</description>
   </expense>
@@ -5145,7 +5145,7 @@
       <month>9</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -5169,7 +5169,7 @@
       <month>9</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>STAR TANKSTELLE cigi</description>
   </expense>
@@ -5241,7 +5241,7 @@
       <month>9</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -5268,5 +5268,17 @@
     <withdrawn>No</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>440</id>
+    <amount>19.90</amount>
+    <date>
+      <day>22</day>
+      <month>9</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Flat</category>
+    <description>KABEL DEUTSCHLAND</description>
   </expense>
 </expenses>
