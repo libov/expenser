@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>441</n_expenses>
+  <n_expenses>445</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -5292,5 +5292,53 @@
     <withdrawn>Yes</withdrawn>
     <category>Cash</category>
     <description>for Timons party</description>
+  </expense>
+  <expense>
+    <id>442</id>
+    <amount>15.08</amount>
+    <date>
+      <day>27</day>
+      <month>9</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>443</id>
+    <amount>14.24</amount>
+    <date>
+      <day>27</day>
+      <month>9</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>444</id>
+    <amount>17.60</amount>
+    <date>
+      <day>27</day>
+      <month>9</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>MARKTKAUF</description>
+  </expense>
+  <expense>
+    <id>445</id>
+    <amount>23.32</amount>
+    <date>
+      <day>27</day>
+      <month>9</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>EDEKA</description>
   </expense>
 </expenses>
