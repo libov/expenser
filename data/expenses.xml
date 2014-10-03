@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>451</n_expenses>
+  <n_expenses>454</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -5349,7 +5349,7 @@
       <month>9</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>PENNY</description>
   </expense>
@@ -5361,7 +5361,7 @@
       <month>10</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -5412,5 +5412,41 @@
     <withdrawn>Yes</withdrawn>
     <category>Other</category>
     <description>Zinsabschluss Rechnungsabschluss</description>
+  </expense>
+  <expense>
+    <id>452</id>
+    <amount>923.59</amount>
+    <date>
+      <day>30</day>
+      <month>9</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Degussa</category>
+    <description>DEGUSSA KREDIT</description>
+  </expense>
+  <expense>
+    <id>453</id>
+    <amount>131.75</amount>
+    <date>
+      <day>1</day>
+      <month>10</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Flat</category>
+    <description>WEG Wohngeld</description>
+  </expense>
+  <expense>
+    <id>454</id>
+    <amount>24.15</amount>
+    <date>
+      <day>29</day>
+      <month>9</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Other</category>
+    <description>Niemeyer real - Kaljan</description>
   </expense>
 </expenses>
