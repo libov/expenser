@@ -5457,7 +5457,7 @@
       <month>10</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Cash</category>
     <description>for John's birthday</description>
   </expense>
@@ -5469,7 +5469,7 @@
       <month>10</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Cash</category>
     <description>for Wismar</description>
   </expense>
