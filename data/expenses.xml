@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>454</n_expenses>
+  <n_expenses>456</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -5448,5 +5448,29 @@
     <withdrawn>Yes</withdrawn>
     <category>Other</category>
     <description>Niemeyer real - Kaljan</description>
+  </expense>
+  <expense>
+    <id>455</id>
+    <amount>20.00</amount>
+    <date>
+      <day>4</day>
+      <month>10</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Cash</category>
+    <description>for John's birthday</description>
+  </expense>
+  <expense>
+    <id>456</id>
+    <amount>50.00</amount>
+    <date>
+      <day>5</day>
+      <month>10</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Cash</category>
+    <description>for Wismar</description>
   </expense>
 </expenses>
