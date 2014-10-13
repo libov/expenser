@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>456</n_expenses>
+  <n_expenses>457</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -5472,5 +5472,17 @@
     <withdrawn>Yes</withdrawn>
     <category>Cash</category>
     <description>for Wismar</description>
+  </expense>
+  <expense>
+    <id>457</id>
+    <amount>20.00</amount>
+    <date>
+      <day>11</day>
+      <month>10</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Cash</category>
+    <description>cantine</description>
   </expense>
 </expenses>
