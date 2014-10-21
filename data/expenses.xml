@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>459</n_expenses>
+  <n_expenses>460</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -5508,5 +5508,17 @@
     <withdrawn>No</withdrawn>
     <category>Presents</category>
     <description>Oleg for Aushev</description>
+  </expense>
+  <expense>
+    <id>460</id>
+    <amount>2.72</amount>
+    <date>
+      <day>4</day>
+      <month>10</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
   </expense>
 </expenses>
