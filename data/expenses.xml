@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>458</n_expenses>
+  <n_expenses>459</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -5496,5 +5496,17 @@
     <withdrawn>No</withdrawn>
     <category>Cash</category>
     <description>for Einstein</description>
+  </expense>
+  <expense>
+    <id>459</id>
+    <amount>16.00</amount>
+    <date>
+      <day>21</day>
+      <month>10</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Presents</category>
+    <description>Oleg for Aushev</description>
   </expense>
 </expenses>
