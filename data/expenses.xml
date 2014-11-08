@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>481</n_expenses>
+  <n_expenses>485</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -5373,7 +5373,7 @@
       <month>10</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Restaurant</category>
     <description>BURGER KING</description>
   </expense>
@@ -5385,7 +5385,7 @@
       <month>10</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Other</category>
     <description>FAHRSCHULE</description>
   </expense>
@@ -5481,7 +5481,7 @@
       <month>10</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Cash</category>
     <description>cantine</description>
   </expense>
@@ -5517,7 +5517,7 @@
       <month>10</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -5649,7 +5649,7 @@
       <month>10</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>PENNY</description>
   </expense>
@@ -5685,7 +5685,7 @@
       <month>10</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -5772,5 +5772,53 @@
     <withdrawn>No</withdrawn>
     <category>Cash</category>
     <description>DESY for canteen</description>
+  </expense>
+  <expense>
+    <id>482</id>
+    <amount>9.79</amount>
+    <date>
+      <day>4</day>
+      <month>10</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Flat</category>
+    <description>TOOM razvodnoj kljuch</description>
+  </expense>
+  <expense>
+    <id>483</id>
+    <amount>8.98</amount>
+    <date>
+      <day>4</day>
+      <month>10</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Flat</category>
+    <description>TOOM zapchasti dlja krana/boiler</description>
+  </expense>
+  <expense>
+    <id>484</id>
+    <amount>19.99</amount>
+    <date>
+      <day>4</day>
+      <month>10</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Flat</category>
+    <description>TOOM tools</description>
+  </expense>
+  <expense>
+    <id>485</id>
+    <amount>32.00</amount>
+    <date>
+      <day>6</day>
+      <month>10</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Other</category>
+    <description>VAF Oktober</description>
   </expense>
 </expenses>
