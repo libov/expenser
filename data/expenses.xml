@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>496</n_expenses>
+  <n_expenses>497</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -5952,5 +5952,17 @@
     <withdrawn>No</withdrawn>
     <category>Restaurant</category>
     <description>BURGER KING</description>
+  </expense>
+  <expense>
+    <id>497</id>
+    <amount>7.78</amount>
+    <date>
+      <day>4</day>
+      <month>11</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Other</category>
+    <description>REWE durex</description>
   </expense>
 </expenses>
