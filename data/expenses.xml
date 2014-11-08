@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>485</n_expenses>
+  <n_expenses>487</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -5820,5 +5820,29 @@
     <withdrawn>Yes</withdrawn>
     <category>Other</category>
     <description>VAF Oktober</description>
+  </expense>
+  <expense>
+    <id>486</id>
+    <amount>34.74</amount>
+    <date>
+      <day>8</day>
+      <month>11</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>487</id>
+    <amount>29.95</amount>
+    <date>
+      <day>8</day>
+      <month>11</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Flat</category>
+    <description>IKEA</description>
   </expense>
 </expenses>
