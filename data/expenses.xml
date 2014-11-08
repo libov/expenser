@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>492</n_expenses>
+  <n_expenses>496</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -5904,5 +5904,53 @@
     <withdrawn>No</withdrawn>
     <category>Flat</category>
     <description>IKEA</description>
+  </expense>
+  <expense>
+    <id>493</id>
+    <amount>5.00</amount>
+    <date>
+      <day>21</day>
+      <month>10</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Presents</category>
+    <description>THALIA postcards for N</description>
+  </expense>
+  <expense>
+    <id>494</id>
+    <amount>1.99</amount>
+    <date>
+      <day>23</day>
+      <month>10</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Presents</category>
+    <description>BR SPIELWAREN Kerzen for N</description>
+  </expense>
+  <expense>
+    <id>495</id>
+    <amount>6.99</amount>
+    <date>
+      <day>25</day>
+      <month>10</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Presents</category>
+    <description>BLUME 2000 Blumen for N</description>
+  </expense>
+  <expense>
+    <id>496</id>
+    <amount>3.99</amount>
+    <date>
+      <day>18</day>
+      <month>10</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Restaurant</category>
+    <description>BURGER KING</description>
   </expense>
 </expenses>
