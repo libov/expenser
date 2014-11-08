@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>497</n_expenses>
+  <n_expenses>502</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -5964,5 +5964,65 @@
     <withdrawn>No</withdrawn>
     <category>Other</category>
     <description>REWE durex</description>
+  </expense>
+  <expense>
+    <id>498</id>
+    <amount>13.59</amount>
+    <date>
+      <day>4</day>
+      <month>11</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>SHELL diesel</description>
+  </expense>
+  <expense>
+    <id>499</id>
+    <amount>12.30</amount>
+    <date>
+      <day>6</day>
+      <month>11</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>TANKCENTER JULIA HOFER diesel</description>
+  </expense>
+  <expense>
+    <id>500</id>
+    <amount>25.78</amount>
+    <date>
+      <day>31</day>
+      <month>10</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>ARAL Diesel</description>
+  </expense>
+  <expense>
+    <id>501</id>
+    <amount>26.22</amount>
+    <date>
+      <day>28</day>
+      <month>10</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>JET Diesel</description>
+  </expense>
+  <expense>
+    <id>502</id>
+    <amount>13.50</amount>
+    <date>
+      <day>2</day>
+      <month>11</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>BFT Diesel</description>
   </expense>
 </expenses>
