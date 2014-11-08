@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>508</n_expenses>
+  <n_expenses>510</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -6096,5 +6096,29 @@
     <withdrawn>No</withdrawn>
     <category>Car</category>
     <description>TOOM Parkaufkleber</description>
+  </expense>
+  <expense>
+    <id>509</id>
+    <amount>27.00</amount>
+    <date>
+      <day>28</day>
+      <month>10</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>DB Shleswig Holstein Ticket trip to Kiel to get the car</description>
+  </expense>
+  <expense>
+    <id>510</id>
+    <amount>2.99</amount>
+    <date>
+      <day>18</day>
+      <month>10</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Other</category>
+    <description>ROSSMANN Ohropax</description>
   </expense>
 </expenses>
