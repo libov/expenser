@@ -278,7 +278,7 @@ void TExpenser::drawBalanceTab() {
 
     fXMLParser->selectMainNode();
     fXMLParser->selectNode("expense");
-    Float_t expenses_since_last_status = 0;
+    Double_t expenses_since_last_status = 0;
     while (fXMLParser->getCurrentNode() != 0) {
         XMLNodePointer_t current_node = fXMLParser->getCurrentNode();
 
