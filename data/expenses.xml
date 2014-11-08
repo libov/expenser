@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>469</n_expenses>
+  <n_expenses>470</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -5628,5 +5628,17 @@
     <withdrawn>No</withdrawn>
     <category>Presents</category>
     <description>REWE tort and ice Natashka birthday</description>
+  </expense>
+  <expense>
+    <id>470</id>
+    <amount>44.95</amount>
+    <date>
+      <day>18</day>
+      <month>10</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Clothes</category>
+    <description>TK-MAX noski-trusy</description>
   </expense>
 </expenses>
