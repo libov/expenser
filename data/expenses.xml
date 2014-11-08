@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>502</n_expenses>
+  <n_expenses>508</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -6024,5 +6024,77 @@
     <withdrawn>No</withdrawn>
     <category>Car</category>
     <description>BFT Diesel</description>
+  </expense>
+  <expense>
+    <id>503</id>
+    <amount>34.40</amount>
+    <date>
+      <day>31</day>
+      <month>10</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>KREIS PINNEBERG Kennzeichen PI-UA419</description>
+  </expense>
+  <expense>
+    <id>504</id>
+    <amount>8.30</amount>
+    <date>
+      <day>31</day>
+      <month>10</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Other</category>
+    <description>UCI Kinowelt Othmarschen Park</description>
+  </expense>
+  <expense>
+    <id>505</id>
+    <amount>13.54</amount>
+    <date>
+      <day>3</day>
+      <month>11</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>MARKTKAUF Entkalker etc.</description>
+  </expense>
+  <expense>
+    <id>506</id>
+    <amount>2.99</amount>
+    <date>
+      <day>23</day>
+      <month>10</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Presents</category>
+    <description>BUTLERS Partykueche for N</description>
+  </expense>
+  <expense>
+    <id>507</id>
+    <amount>9.89</amount>
+    <date>
+      <day>5</day>
+      <month>11</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>EDEKA</description>
+  </expense>
+  <expense>
+    <id>508</id>
+    <amount>2.29</amount>
+    <date>
+      <day>1</day>
+      <month>11</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>TOOM Parkaufkleber</description>
   </expense>
 </expenses>
