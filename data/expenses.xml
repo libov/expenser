@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>510</n_expenses>
+  <n_expenses>512</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -6120,5 +6120,29 @@
     <withdrawn>No</withdrawn>
     <category>Other</category>
     <description>ROSSMANN Ohropax</description>
+  </expense>
+  <expense>
+    <id>511</id>
+    <amount>19.95</amount>
+    <date>
+      <day>12</day>
+      <month>11</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>EDEKA</description>
+  </expense>
+  <expense>
+    <id>512</id>
+    <amount>12.89</amount>
+    <date>
+      <day>12</day>
+      <month>11</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
   </expense>
 </expenses>
