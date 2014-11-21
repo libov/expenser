@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>520</n_expenses>
+  <n_expenses>522</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -6240,5 +6240,29 @@
     <withdrawn>No</withdrawn>
     <category>Car</category>
     <description>SHELL Diesel 20.05liter </description>
+  </expense>
+  <expense>
+    <id>521</id>
+    <amount>12.49</amount>
+    <date>
+      <day>14</day>
+      <month>11</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>SHELL Diesel 10L</description>
+  </expense>
+  <expense>
+    <id>522</id>
+    <amount>25.66</amount>
+    <date>
+      <day>9</day>
+      <month>11</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>TOTAL-Autohof Diesel 20L</description>
   </expense>
 </expenses>
