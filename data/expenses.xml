@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>522</n_expenses>
+  <n_expenses>526</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -6264,5 +6264,53 @@
     <withdrawn>No</withdrawn>
     <category>Car</category>
     <description>TOTAL-Autohof Diesel 20L</description>
+  </expense>
+  <expense>
+    <id>523</id>
+    <amount>20.00</amount>
+    <date>
+      <day>21</day>
+      <month>11</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Cash</category>
+    <description>DESY</description>
+  </expense>
+  <expense>
+    <id>524</id>
+    <amount>4.10</amount>
+    <date>
+      <day>21</day>
+      <month>11</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>Marktkauf</description>
+  </expense>
+  <expense>
+    <id>525</id>
+    <amount>4.18</amount>
+    <date>
+      <day>21</day>
+      <month>11</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>EDEKA</description>
+  </expense>
+  <expense>
+    <id>526</id>
+    <amount>3.48</amount>
+    <date>
+      <day>21</day>
+      <month>11</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
   </expense>
 </expenses>
