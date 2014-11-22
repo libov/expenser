@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>530</n_expenses>
+  <n_expenses>533</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -6360,5 +6360,41 @@
     <withdrawn>No</withdrawn>
     <category>Car</category>
     <description>SHELL Diesel 10L</description>
+  </expense>
+  <expense>
+    <id>531</id>
+    <amount>12.21</amount>
+    <date>
+      <day>15</day>
+      <month>11</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>Lienau Diesel 10L</description>
+  </expense>
+  <expense>
+    <id>532</id>
+    <amount>7.59</amount>
+    <date>
+      <day>15</day>
+      <month>11</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>533</id>
+    <amount>23.00</amount>
+    <date>
+      <day>15</day>
+      <month>11</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Other</category>
+    <description>U-Boot Museum</description>
   </expense>
 </expenses>
