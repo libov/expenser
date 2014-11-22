@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>533</n_expenses>
+  <n_expenses>535</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -5493,7 +5493,7 @@
       <month>10</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Cash</category>
     <description>for Einstein</description>
   </expense>
@@ -5637,7 +5637,7 @@
       <month>10</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Clothes</category>
     <description>TK-MAX noski-trusy</description>
   </expense>
@@ -5877,7 +5877,7 @@
       <month>10</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>PENNY</description>
   </expense>
@@ -5901,7 +5901,7 @@
       <month>10</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Flat</category>
     <description>IKEA</description>
   </expense>
@@ -5949,7 +5949,7 @@
       <month>10</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Restaurant</category>
     <description>BURGER KING</description>
   </expense>
@@ -6117,7 +6117,7 @@
       <month>10</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Other</category>
     <description>ROSSMANN Ohropax</description>
   </expense>
@@ -6396,5 +6396,29 @@
     <withdrawn>No</withdrawn>
     <category>Other</category>
     <description>U-Boot Museum</description>
+  </expense>
+  <expense>
+    <id>534</id>
+    <amount>16.00</amount>
+    <date>
+      <day>21</day>
+      <month>10</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Presents</category>
+    <description>for Aushev</description>
+  </expense>
+  <expense>
+    <id>535</id>
+    <amount>20.00</amount>
+    <date>
+      <day>20</day>
+      <month>10</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Cash</category>
+    <description>DESY</description>
   </expense>
 </expenses>
