@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>527</n_expenses>
+  <n_expenses>530</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -6324,5 +6324,41 @@
     <withdrawn>No</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>528</id>
+    <amount>23.00</amount>
+    <date>
+      <day>22</day>
+      <month>11</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Other</category>
+    <description>SUPERCUT haircut</description>
+  </expense>
+  <expense>
+    <id>529</id>
+    <amount>14.89</amount>
+    <date>
+      <day>22</day>
+      <month>11</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>EDEKA</description>
+  </expense>
+  <expense>
+    <id>530</id>
+    <amount>12.41</amount>
+    <date>
+      <day>22</day>
+      <month>11</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>SHELL Diesel 10L</description>
   </expense>
 </expenses>
