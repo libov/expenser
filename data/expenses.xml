@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>535</n_expenses>
+  <n_expenses>538</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -6420,5 +6420,41 @@
     <withdrawn>Yes</withdrawn>
     <category>Cash</category>
     <description>DESY</description>
+  </expense>
+  <expense>
+    <id>536</id>
+    <amount>18.75</amount>
+    <date>
+      <day>2</day>
+      <month>12</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>Tankcenter Pinneberg Diesel 15L</description>
+  </expense>
+  <expense>
+    <id>537</id>
+    <amount>46.80</amount>
+    <date>
+      <day>29</day>
+      <month>11</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>Tankcenter Pinneberg Diesel 40L</description>
+  </expense>
+  <expense>
+    <id>538</id>
+    <amount>11.50</amount>
+    <date>
+      <day>4</day>
+      <month>12</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>Tankcenter Pinneberg Diesel 10L</description>
   </expense>
 </expenses>
