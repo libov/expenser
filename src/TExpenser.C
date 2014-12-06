@@ -42,7 +42,7 @@ TString toStr(Int_t arg) {
     return result;
 }
 
-// constants
+// ========== constants ========== //
 const unsigned NCATEGORIES = 14;
 TString CATEGORIES[]  = {"Food", "Restaurant", "Flat", "Cash", "Car", "Music equipment", "Books", "Clothes", "Presents", "Travel", "Transport HH", "Business trip", "Degussa", "Other"};
 const TString MONTHS[12]={"January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"};
