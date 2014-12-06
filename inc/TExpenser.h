@@ -46,6 +46,7 @@ class TExpenser : public TGMainFrame {
         TGTab                       * fTab;
         TGCompositeFrame            * fExpensesTab;
         TGCompositeFrame            * fStatisticsTab;
+        TGCompositeFrame            * fStatisticsYearTab;
         TGCompositeFrame            * fBalanceTab;
         TH1F                        * fCategoriesHistogram;
         TCanvas                     * fCanvas;

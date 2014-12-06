@@ -256,6 +256,7 @@ void TExpenser::drawStatisticsTab() {
 }
 
 void TExpenser::drawStatisticsYearTab() {
+    fStatisticsYearTab = fTab->AddTab("Statistics Year");
 }
 
 void TExpenser::drawBalanceTab() {
