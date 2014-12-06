@@ -75,6 +75,7 @@ TGMainFrame(p,w,h)
 
     drawExpensesTab();
     drawStatisticsTab();
+    drawStatisticsYearTab();
     drawBalanceTab();
 
     // Set a name to the main frame
@@ -252,6 +253,9 @@ void TExpenser::drawStatisticsTab() {
     vframe -> AddFrame(update_button, new TGLayoutHints(kLHintsLeft,5,5,3,4));
 
     calculate_monthly();
+}
+
+void TExpenser::drawStatisticsYearTab() {
 }
 
 void TExpenser::drawBalanceTab() {
