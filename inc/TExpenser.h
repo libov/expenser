@@ -49,9 +49,13 @@ class TExpenser : public TGMainFrame {
         TGCompositeFrame            * fStatisticsYearTab;
         TGCompositeFrame            * fBalanceTab;
         TH1F                        * fCategoriesHistogram;
+        TH1F                        * fMonthsHistogram;
         TCanvas                     * fCanvas;
+        TCanvas                     * fCanvasYear;
         TGComboBox                  * fStatisticsMonth;
         TGComboBox                  * fStatisticsYear;
+        TGComboBox                  * fStatisticsYear2;
+        TGComboBox                  * fStatisticsCategory;
         TXMLParser                  * fBalanceXMLParser;
         TGNumberEntryField          * fWithdrawnIdEntry;
         TXMLParser                  * fIncomeXMLParser;
