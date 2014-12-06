@@ -256,7 +256,42 @@ void TExpenser::drawStatisticsTab() {
 }
 
 void TExpenser::drawStatisticsYearTab() {
+
     fStatisticsYearTab = fTab->AddTab("Statistics Year");
+    fStatisticsYearTab -> SetLayoutManager(new TGHorizontalLayout(fStatisticsYearTab));
+
+    TRootEmbeddedCanvas * StatisticsYearCanvas = new TRootEmbeddedCanvas("StatisticsYearCanvas",fStatisticsYearTab,600,600);
+    fStatisticsYearTab -> AddFrame(StatisticsYearCanvas, new TGLayoutHints(kLHintsCenterX, 10,10,10,1));
+    fCanvasYear = StatisticsYearCanvas->GetCanvas();
+    fMonthsHistogram = new TH1F("fMonthsHistogram", "Expenses for a certain category for each month", 12, 1, 12);
+    fMonthsHistogram -> SetStats(0);
+
+    TGVerticalFrame *vframe = new TGVerticalFrame(fStatisticsYearTab, 60, 40);
+    fStatisticsYearTab -> AddFrame(vframe, new TGLayoutHints(kLHintsCenterX,2,2,2,2));
+
+    //  selector
+    fStatisticsCategory = new TGComboBox(vframe);
+    for (unsigned i = 0; i < NCATEGORIES; i++) {
+        fStatisticsCategory->AddEntry(CATEGORIES[i], i+1);
+    }
+    fStatisticsCategory->Resize(100, 20);
+    TDatime time;
+    fStatisticsCategory->Select(1);
+    vframe->AddFrame(fStatisticsCategory, new TGLayoutHints(kLHintsLeft,5,10,5,5));
+
+    // year selector
+    fStatisticsYear2 = new TGComboBox(vframe);
+    for (unsigned i = FIRST_YEAR; i <= LAST_YEAR; i++) {
+        fStatisticsYear2->AddEntry(toStr(i), i+1-FIRST_YEAR);
+    }
+    fStatisticsYear2->Resize(100, 20);
+    fStatisticsYear2->Select(time.GetYear()-FIRST_YEAR+1);
+    vframe->AddFrame(fStatisticsYear2, new TGLayoutHints(kLHintsLeft,5,10,5,5));
+
+    // update-button
+    TGTextButton * update_button = new TGTextButton(vframe,"&Update");
+    update_button -> Connect("Clicked()", "TExpenser", this, "calculate_yearly()");
+    vframe -> AddFrame(update_button, new TGLayoutHints(kLHintsLeft,5,5,3,4));
 }
 
 void TExpenser::drawBalanceTab() {
