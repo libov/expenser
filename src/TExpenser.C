@@ -448,6 +448,9 @@ void TExpenser::calculate_monthly() {
     fCanvas -> Update();
 }
 
+void TExpenser::calculate_yearly(){
+}
+
 void TExpenser::set_withdrawn() {
 
     // id of the entry to be changed
