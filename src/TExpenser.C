@@ -263,7 +263,7 @@ void TExpenser::drawStatisticsYearTab() {
     TRootEmbeddedCanvas * StatisticsYearCanvas = new TRootEmbeddedCanvas("StatisticsYearCanvas",fStatisticsYearTab,600,600);
     fStatisticsYearTab -> AddFrame(StatisticsYearCanvas, new TGLayoutHints(kLHintsCenterX, 10,10,10,1));
     fCanvasYear = StatisticsYearCanvas->GetCanvas();
-    fMonthsHistogram = new TH1F("fMonthsHistogram", "Expenses for a certain category for each month", 12, 1, 12);
+    fMonthsHistogram = new TH1F("fMonthsHistogram", "Expenses for a certain category for each month", 12, 0, 12);
     fMonthsHistogram -> SetStats(0);
 
     TGVerticalFrame *vframe = new TGVerticalFrame(fStatisticsYearTab, 60, 40);
@@ -458,7 +458,7 @@ void TExpenser::calculate_yearly(){
     map<TString, Float_t> monthly_sum;
     for (unsigned i=0; i<12; i++) {
         monthly_sum[i]=0;
-        fCategoriesHistogram -> SetBinContent(i+1, 0);
+        fMonthsHistogram -> SetBinContent(i+1, 0);
     }
     fXMLParser->selectMainNode();
     fXMLParser->selectNode("expense");
