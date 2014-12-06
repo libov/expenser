@@ -292,6 +292,8 @@ void TExpenser::drawStatisticsYearTab() {
     TGTextButton * update_button = new TGTextButton(vframe,"&Update");
     update_button -> Connect("Clicked()", "TExpenser", this, "calculate_yearly()");
     vframe -> AddFrame(update_button, new TGLayoutHints(kLHintsLeft,5,5,3,4));
+
+    calculate_yearly();
 }
 
 void TExpenser::drawBalanceTab() {
@@ -449,6 +451,40 @@ void TExpenser::calculate_monthly() {
 }
 
 void TExpenser::calculate_yearly(){
+
+    unsigned selected_category = fStatisticsCategory -> GetSelected ();
+    unsigned selected_year =  fStatisticsYear2 -> GetSelected () + FIRST_YEAR - 1;
+
+    map<TString, Float_t> monthly_sum;
+    for (unsigned i=0; i<12; i++) {
+        monthly_sum[i]=0;
+        fCategoriesHistogram -> SetBinContent(i+1, 0);
+    }
+    fXMLParser->selectMainNode();
+    fXMLParser->selectNode("expense");
+    while (fXMLParser->getCurrentNode() != 0) {
+        XMLNodePointer_t current_node = fXMLParser->getCurrentNode();
+        fXMLParser -> selectNode("date");
+        unsigned year = fXMLParser -> getNodeContent("year").Atoi();
+        unsigned month = fXMLParser -> getNodeContent("month").Atoi();
+        unsigned day = fXMLParser -> getNodeContent("day").Atoi();
+        fXMLParser -> setCurrentNode(current_node);
+        Float_t amount = fXMLParser -> getNodeContent("amount").Atof();
+        TString category = fXMLParser -> getNodeContent("category");
+        fXMLParser->selectNextNode("expense");
+
+        if (year != selected_year) continue;
+        if (category != CATEGORIES[selected_category-1]) continue;
+
+        monthly_sum[month-1] += amount;
+    }
+
+    for (unsigned i=0; i<12; i++) {
+        fMonthsHistogram -> Fill(MONTHS[i], monthly_sum[i]);
+    }
+    fCanvasYear -> cd();
+    fMonthsHistogram -> Draw();
+    fCanvasYear -> Update();
 }
 
 void TExpenser::set_withdrawn() {
