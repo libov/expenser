@@ -29,6 +29,7 @@ class TExpenser : public TGMainFrame {
         void drawBalanceTab();
         void commit();
         void calculate_monthly();
+        void calculate_yearly();
         void set_withdrawn();
         ClassDef(TExpenser, 0)
 
