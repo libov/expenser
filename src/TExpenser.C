@@ -216,7 +216,7 @@ void TExpenser::drawExpensesTab() {
 
 void TExpenser::drawStatisticsTab() {
 
-    fStatisticsTab = fTab->AddTab("Statistics");
+    fStatisticsTab = fTab->AddTab("Statistics (Month)");
     fStatisticsTab -> SetLayoutManager(new TGHorizontalLayout(fStatisticsTab));
 
     TRootEmbeddedCanvas * fEcanvas = new TRootEmbeddedCanvas("Ecanvas",fStatisticsTab,600,600);
@@ -257,13 +257,13 @@ void TExpenser::drawStatisticsTab() {
 
 void TExpenser::drawStatisticsYearTab() {
 
-    fStatisticsYearTab = fTab->AddTab("Statistics Year");
+    fStatisticsYearTab = fTab->AddTab("Statistics (Year)");
     fStatisticsYearTab -> SetLayoutManager(new TGHorizontalLayout(fStatisticsYearTab));
 
     TRootEmbeddedCanvas * StatisticsYearCanvas = new TRootEmbeddedCanvas("StatisticsYearCanvas",fStatisticsYearTab,600,600);
     fStatisticsYearTab -> AddFrame(StatisticsYearCanvas, new TGLayoutHints(kLHintsCenterX, 10,10,10,1));
     fCanvasYear = StatisticsYearCanvas->GetCanvas();
-    fMonthsHistogram = new TH1F("fMonthsHistogram", "Expenses for each months in a given category", 12, 0, 12);
+    fMonthsHistogram = new TH1F("fMonthsHistogram", "Expenses for each month for a given category", 12, 0, 12);
     fMonthsHistogram -> SetStats(0);
 
     TGVerticalFrame *vframe = new TGVerticalFrame(fStatisticsYearTab, 60, 40);
