@@ -296,6 +296,9 @@ void TExpenser::drawStatisticsYearTab() {
     calculate_yearly();
 }
 
+void TExpenser::drawCategoryTab(){
+}
+
 void TExpenser::drawBalanceTab() {
 
     fBalanceTab = fTab->AddTab("Balance");

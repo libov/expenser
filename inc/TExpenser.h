@@ -26,6 +26,7 @@ class TExpenser : public TGMainFrame {
         void drawExpensesTab();
         void drawStatisticsTab();
         void drawStatisticsYearTab();
+        void drawCategoryTab();
         void drawBalanceTab();
         void commit();
         void calculate_monthly();
@@ -48,6 +49,7 @@ class TExpenser : public TGMainFrame {
         TGCompositeFrame            * fExpensesTab;
         TGCompositeFrame            * fStatisticsTab;
         TGCompositeFrame            * fStatisticsYearTab;
+        TGCompositeFrame            * fCategoryTab;
         TGCompositeFrame            * fBalanceTab;
         TH1F                        * fCategoriesHistogram;
         TH1F                        * fMonthsHistogram;
