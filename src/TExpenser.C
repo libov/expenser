@@ -76,6 +76,7 @@ TGMainFrame(p,w,h)
     drawExpensesTab();
     drawStatisticsTab();
     drawStatisticsYearTab();
+    drawCategoryTab();
     drawBalanceTab();
 
     // Set a name to the main frame
@@ -297,6 +298,8 @@ void TExpenser::drawStatisticsYearTab() {
 }
 
 void TExpenser::drawCategoryTab(){
+    fCategoryTab = fTab->AddTab("Category");
+    fCategoryTab -> SetLayoutManager(new TGHorizontalLayout(fCategoryTab));
 }
 
 void TExpenser::drawBalanceTab() {
