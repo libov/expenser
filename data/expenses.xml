@@ -5499,7 +5499,7 @@
   </expense>
   <expense>
     <id>459</id>
-    <amount>16.00</amount>
+    <amount>0.00</amount>
     <date>
       <day>21</day>
       <month>10</month>
@@ -5507,7 +5507,7 @@
     </date>
     <withdrawn>No</withdrawn>
     <category>Presents</category>
-    <description>Oleg for Aushev</description>
+    <description>Oleg for Aushev --DUPLICATE ENTRY--</description>
   </expense>
   <expense>
     <id>460</id>
