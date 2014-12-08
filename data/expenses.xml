@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>549</n_expenses>
+  <n_expenses>553</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -5529,7 +5529,7 @@
       <month>10</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Cash</category>
     <description>DESY for Canteen</description>
   </expense>
@@ -5625,7 +5625,7 @@
       <month>10</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Presents</category>
     <description>REWE tort and ice Natashka birthday</description>
   </expense>
@@ -5661,7 +5661,7 @@
       <month>10</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -5757,7 +5757,7 @@
       <month>10</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Presents</category>
     <description>HVV projeznyje mame i pape</description>
   </expense>
@@ -5937,7 +5937,7 @@
       <month>10</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Presents</category>
     <description>BLUME 2000 Blumen for N</description>
   </expense>
@@ -6588,5 +6588,53 @@
     <withdrawn>Yes</withdrawn>
     <category>Presents</category>
     <description>Cash for Natashka's present</description>
+  </expense>
+  <expense>
+    <id>550</id>
+    <amount>3.49</amount>
+    <date>
+      <day>24</day>
+      <month>10</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Restaurant</category>
+    <description>Mcdonalds</description>
+  </expense>
+  <expense>
+    <id>551</id>
+    <amount>20.00</amount>
+    <date>
+      <day>25</day>
+      <month>10</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Cash</category>
+    <description>DESY</description>
+  </expense>
+  <expense>
+    <id>552</id>
+    <amount>20.00</amount>
+    <date>
+      <day>28</day>
+      <month>10</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Car</category>
+    <description>cash in Kiel for the ticket - to the guy who payed for me</description>
+  </expense>
+  <expense>
+    <id>553</id>
+    <amount>1650.00</amount>
+    <date>
+      <day>28</day>
+      <month>10</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Car</category>
+    <description>CASH FOR THE CAR</description>
   </expense>
 </expenses>
