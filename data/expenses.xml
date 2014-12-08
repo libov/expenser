@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>547</n_expenses>
+  <n_expenses>549</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -5553,7 +5553,7 @@
       <month>10</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>PENNY</description>
   </expense>
@@ -5577,7 +5577,7 @@
       <month>10</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -5613,7 +5613,7 @@
       <month>10</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>EDEKA</description>
   </expense>
@@ -5889,7 +5889,7 @@
       <month>10</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -5913,7 +5913,7 @@
       <month>10</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Presents</category>
     <description>THALIA postcards for N</description>
   </expense>
@@ -5925,7 +5925,7 @@
       <month>10</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Presents</category>
     <description>BR SPIELWAREN Kerzen for N</description>
   </expense>
@@ -6069,7 +6069,7 @@
       <month>10</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Presents</category>
     <description>BUTLERS Partykueche for N</description>
   </expense>
@@ -6564,5 +6564,29 @@
     <withdrawn>No</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>548</id>
+    <amount>30.87</amount>
+    <date>
+      <day>22</day>
+      <month>10</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Flat</category>
+    <description>KABEL DEUTSCHLAND Sonstige Zahlung October 2014</description>
+  </expense>
+  <expense>
+    <id>549</id>
+    <amount>120.00</amount>
+    <date>
+      <day>24</day>
+      <month>10</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Presents</category>
+    <description>Cash for Natashka's present</description>
   </expense>
 </expenses>
