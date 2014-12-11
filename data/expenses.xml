@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>555</n_expenses>
+  <n_expenses>562</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -6660,5 +6660,89 @@
     <withdrawn>No</withdrawn>
     <category>Music equipment</category>
     <description>BAUHAUS stuff for deco</description>
+  </expense>
+  <expense>
+    <id>556</id>
+    <amount>2.37</amount>
+    <date>
+      <day>9</day>
+      <month>12</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>PENNY</description>
+  </expense>
+  <expense>
+    <id>557</id>
+    <amount>5.29</amount>
+    <date>
+      <day>9</day>
+      <month>12</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>REAL</description>
+  </expense>
+  <expense>
+    <id>558</id>
+    <amount>2.49</amount>
+    <date>
+      <day>8</day>
+      <month>12</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>PENNY</description>
+  </expense>
+  <expense>
+    <id>559</id>
+    <amount>5.41</amount>
+    <date>
+      <day>8</day>
+      <month>12</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>560</id>
+    <amount>8.31</amount>
+    <date>
+      <day>8</day>
+      <month>12</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>REAL</description>
+  </expense>
+  <expense>
+    <id>561</id>
+    <amount>4.49</amount>
+    <date>
+      <day>8</day>
+      <month>12</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Music equipment</category>
+    <description>REAL nytky for deco</description>
+  </expense>
+  <expense>
+    <id>562</id>
+    <amount>11.70</amount>
+    <date>
+      <day>8</day>
+      <month>12</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>SHELL 10L diesel</description>
   </expense>
 </expenses>
