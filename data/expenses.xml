@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>553</n_expenses>
+  <n_expenses>555</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -6636,5 +6636,29 @@
     <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>CASH FOR THE CAR</description>
+  </expense>
+  <expense>
+    <id>554</id>
+    <amount>22.38</amount>
+    <date>
+      <day>11</day>
+      <month>12</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>TANKCENTER JULIA HOFER 20L diesel</description>
+  </expense>
+  <expense>
+    <id>555</id>
+    <amount>5.55</amount>
+    <date>
+      <day>10</day>
+      <month>12</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Music equipment</category>
+    <description>BAUHAUS stuff for deco</description>
   </expense>
 </expenses>
