@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>562</n_expenses>
+  <n_expenses>566</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -6744,5 +6744,53 @@
     <withdrawn>No</withdrawn>
     <category>Car</category>
     <description>SHELL 10L diesel</description>
+  </expense>
+  <expense>
+    <id>563</id>
+    <amount>13.55</amount>
+    <date>
+      <day>12</day>
+      <month>12</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Music equipment</category>
+    <description>BAUHAUS stuff for deco - 13 Dec party</description>
+  </expense>
+  <expense>
+    <id>564</id>
+    <amount>17.82</amount>
+    <date>
+      <day>12</day>
+      <month>12</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>REAL - mostly for the party 13 Dec 2014</description>
+  </expense>
+  <expense>
+    <id>565</id>
+    <amount>6.02</amount>
+    <date>
+      <day>11</day>
+      <month>12</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>566</id>
+    <amount>20.00</amount>
+    <date>
+      <day>12</day>
+      <month>12</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Cash</category>
+    <description>DESY</description>
   </expense>
 </expenses>
