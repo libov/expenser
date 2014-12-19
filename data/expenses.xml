@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>574</n_expenses>
+  <n_expenses>578</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -6888,5 +6888,53 @@
     <withdrawn>No</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>575</id>
+    <amount>2.28</amount>
+    <date>
+      <day>17</day>
+      <month>12</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>PENNY</description>
+  </expense>
+  <expense>
+    <id>576</id>
+    <amount>6.17</amount>
+    <date>
+      <day>17</day>
+      <month>12</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>REAL</description>
+  </expense>
+  <expense>
+    <id>577</id>
+    <amount>0.99</amount>
+    <date>
+      <day>17</day>
+      <month>12</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>578</id>
+    <amount>11.59</amount>
+    <date>
+      <day>17</day>
+      <month>12</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>JULIA HOFER Diesel 10L</description>
   </expense>
 </expenses>
