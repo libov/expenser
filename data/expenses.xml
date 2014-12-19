@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>566</n_expenses>
+  <n_expenses>570</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -6792,5 +6792,53 @@
     <withdrawn>No</withdrawn>
     <category>Cash</category>
     <description>DESY</description>
+  </expense>
+  <expense>
+    <id>567</id>
+    <amount>4.12</amount>
+    <date>
+      <day>19</day>
+      <month>12</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>EDEKA</description>
+  </expense>
+  <expense>
+    <id>568</id>
+    <amount>14.00</amount>
+    <date>
+      <day>19</day>
+      <month>12</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Presents</category>
+    <description>C and A</description>
+  </expense>
+  <expense>
+    <id>569</id>
+    <amount>24.95</amount>
+    <date>
+      <day>19</day>
+      <month>12</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Presents</category>
+    <description>Marktkauf Shoes Vika</description>
+  </expense>
+  <expense>
+    <id>570</id>
+    <amount>15.58</amount>
+    <date>
+      <day>19</day>
+      <month>12</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>MARKTKAUF</description>
   </expense>
 </expenses>
