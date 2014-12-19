@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>571</n_expenses>
+  <n_expenses>574</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -6852,5 +6852,41 @@
     <withdrawn>No</withdrawn>
     <category>Cash</category>
     <description>DESY for Canteen and Vika + Polina</description>
+  </expense>
+  <expense>
+    <id>572</id>
+    <amount>11.19</amount>
+    <date>
+      <day>18</day>
+      <month>12</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>ESSO Diesel 10L</description>
+  </expense>
+  <expense>
+    <id>573</id>
+    <amount>3.59</amount>
+    <date>
+      <day>18</day>
+      <month>12</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>EDEKA</description>
+  </expense>
+  <expense>
+    <id>574</id>
+    <amount>25.06</amount>
+    <date>
+      <day>18</day>
+      <month>12</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
   </expense>
 </expenses>
