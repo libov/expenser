@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>578</n_expenses>
+  <n_expenses>581</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -6936,5 +6936,41 @@
     <withdrawn>No</withdrawn>
     <category>Car</category>
     <description>JULIA HOFER Diesel 10L</description>
+  </expense>
+  <expense>
+    <id>579</id>
+    <amount>1.59</amount>
+    <date>
+      <day>15</day>
+      <month>12</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>PENNY</description>
+  </expense>
+  <expense>
+    <id>580</id>
+    <amount>7.98</amount>
+    <date>
+      <day>14</day>
+      <month>12</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Restaurant</category>
+    <description>BURGER KING</description>
+  </expense>
+  <expense>
+    <id>581</id>
+    <amount>5.36</amount>
+    <date>
+      <day>13</day>
+      <month>12</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
   </expense>
 </expenses>
