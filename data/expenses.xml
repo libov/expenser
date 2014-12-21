@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>581</n_expenses>
+  <n_expenses>584</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -6972,5 +6972,41 @@
     <withdrawn>No</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>582</id>
+    <amount>7.10</amount>
+    <date>
+      <day>20</day>
+      <month>12</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Presents</category>
+    <description>BUDNI omega for Mum etc.</description>
+  </expense>
+  <expense>
+    <id>583</id>
+    <amount>21.78</amount>
+    <date>
+      <day>20</day>
+      <month>12</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>JULIA HOFER Diesel 20L</description>
+  </expense>
+  <expense>
+    <id>584</id>
+    <amount>46.00</amount>
+    <date>
+      <day>20</day>
+      <month>12</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Presents</category>
+    <description>C&A clothes for Polina</description>
   </expense>
 </expenses>
