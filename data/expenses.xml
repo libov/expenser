@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>586</n_expenses>
+  <n_expenses>589</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -7032,5 +7032,41 @@
     <withdrawn>No</withdrawn>
     <category>Other</category>
     <description>MINIATUR WUNDERLAND</description>
+  </expense>
+  <expense>
+    <id>587</id>
+    <amount>20.00</amount>
+    <date>
+      <day>22</day>
+      <month>12</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Cash</category>
+    <description>ALTONA</description>
+  </expense>
+  <expense>
+    <id>588</id>
+    <amount>69.22</amount>
+    <date>
+      <day>22</day>
+      <month>12</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Presents</category>
+    <description>IKEA 30eur for kachelja, 20 for Polinas belje, 10 for my belje etc.</description>
+  </expense>
+  <expense>
+    <id>589</id>
+    <amount>39.95</amount>
+    <date>
+      <day>20</day>
+      <month>12</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Clothes</category>
+    <description>SIEMES SCHUHCENTER botinki</description>
   </expense>
 </expenses>
