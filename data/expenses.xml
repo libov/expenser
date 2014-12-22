@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>584</n_expenses>
+  <n_expenses>586</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -7008,5 +7008,29 @@
     <withdrawn>No</withdrawn>
     <category>Presents</category>
     <description>C&A clothes for Polina</description>
+  </expense>
+  <expense>
+    <id>585</id>
+    <amount>9.50</amount>
+    <date>
+      <day>21</day>
+      <month>12</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Restaurant</category>
+    <description>MINIATUR WUNDERLAND Cafe</description>
+  </expense>
+  <expense>
+    <id>586</id>
+    <amount>30.00</amount>
+    <date>
+      <day>21</day>
+      <month>12</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Other</category>
+    <description>MINIATUR WUNDERLAND</description>
   </expense>
 </expenses>
