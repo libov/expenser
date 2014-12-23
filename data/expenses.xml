@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>589</n_expenses>
+  <n_expenses>594</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -7068,5 +7068,65 @@
     <withdrawn>No</withdrawn>
     <category>Clothes</category>
     <description>SIEMES SCHUHCENTER botinki</description>
+  </expense>
+  <expense>
+    <id>590</id>
+    <amount>20.99</amount>
+    <date>
+      <day>23</day>
+      <month>12</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Clothes</category>
+    <description>ESPRIT Jeans</description>
+  </expense>
+  <expense>
+    <id>591</id>
+    <amount>7.12</amount>
+    <date>
+      <day>23</day>
+      <month>12</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>592</id>
+    <amount>15.69</amount>
+    <date>
+      <day>23</day>
+      <month>12</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>593</id>
+    <amount>6.16</amount>
+    <date>
+      <day>23</day>
+      <month>12</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Other</category>
+    <description>ROSSMAN Berushy etc.</description>
+  </expense>
+  <expense>
+    <id>594</id>
+    <amount>135.00</amount>
+    <date>
+      <day>23</day>
+      <month>12</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Other</category>
+    <description>KREIS PINNEBERG Gebuer Niederlassungserlaubnis</description>
   </expense>
 </expenses>
