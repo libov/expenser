@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>594</n_expenses>
+  <n_expenses>599</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -7128,5 +7128,65 @@
     <withdrawn>No</withdrawn>
     <category>Other</category>
     <description>KREIS PINNEBERG Gebuer Niederlassungserlaubnis</description>
+  </expense>
+  <expense>
+    <id>595</id>
+    <amount>16.50</amount>
+    <date>
+      <day>24</day>
+      <month>12</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Other</category>
+    <description>SCHONEWEG OPTIK Linsen</description>
+  </expense>
+  <expense>
+    <id>596</id>
+    <amount>7.19</amount>
+    <date>
+      <day>24</day>
+      <month>12</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Presents</category>
+    <description>COOKMAL Bottle for Andrjusha</description>
+  </expense>
+  <expense>
+    <id>597</id>
+    <amount>54.68</amount>
+    <date>
+      <day>24</day>
+      <month>12</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>EDEKA</description>
+  </expense>
+  <expense>
+    <id>598</id>
+    <amount>45.84</amount>
+    <date>
+      <day>24</day>
+      <month>12</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>ARAL Diesel 41.71L</description>
+  </expense>
+  <expense>
+    <id>599</id>
+    <amount>11.30</amount>
+    <date>
+      <day>24</day>
+      <month>12</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>JET Diesel 10L</description>
   </expense>
 </expenses>
