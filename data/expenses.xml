@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>599</n_expenses>
+  <n_expenses>601</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -7188,5 +7188,29 @@
     <withdrawn>No</withdrawn>
     <category>Car</category>
     <description>JET Diesel 10L</description>
+  </expense>
+  <expense>
+    <id>600</id>
+    <amount>1.33</amount>
+    <date>
+      <day>25</day>
+      <month>12</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Restaurant</category>
+    <description>MCDONALDS POLAND = 5.50 PLN</description>
+  </expense>
+  <expense>
+    <id>601</id>
+    <amount>60.43</amount>
+    <date>
+      <day>25</day>
+      <month>12</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>LOTOS PALIUA POLAND Diesel 49.24L  = 258.02 PLN</description>
   </expense>
 </expenses>
