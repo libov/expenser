@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>605</n_expenses>
+  <n_expenses>608</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -5601,7 +5601,7 @@
       <month>11</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -5997,7 +5997,7 @@
       <month>10</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>ARAL Diesel</description>
   </expense>
@@ -6021,7 +6021,7 @@
       <month>11</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>BFT Diesel</description>
   </expense>
@@ -6033,7 +6033,7 @@
       <month>10</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>KREIS PINNEBERG Kennzeichen PI-UA419</description>
   </expense>
@@ -6045,7 +6045,7 @@
       <month>10</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Other</category>
     <description>UCI Kinowelt Othmarschen Park</description>
   </expense>
@@ -6093,7 +6093,7 @@
       <month>11</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>TOOM Parkaufkleber</description>
   </expense>
@@ -7260,5 +7260,41 @@
     <withdrawn>Yes</withdrawn>
     <category>Cash</category>
     <description>DON'T REMEMBER</description>
+  </expense>
+  <expense>
+    <id>606</id>
+    <amount>33.98</amount>
+    <date>
+      <day>31</day>
+      <month>10</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Car</category>
+    <description>nomera</description>
+  </expense>
+  <expense>
+    <id>607</id>
+    <amount>131.75</amount>
+    <date>
+      <day>3</day>
+      <month>11</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Flat</category>
+    <description>Wohngeld November 2014</description>
+  </expense>
+  <expense>
+    <id>608</id>
+    <amount>20.00</amount>
+    <date>
+      <day>31</day>
+      <month>10</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Cash</category>
+    <description>DESY CASH don't remember</description>
   </expense>
 </expenses>
