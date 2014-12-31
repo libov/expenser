@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>622</n_expenses>
+  <n_expenses>624</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -7464,5 +7464,29 @@
     <withdrawn>Yes</withdrawn>
     <category>Flat</category>
     <description>KABEL DEUTSCHLAND December 2014</description>
+  </expense>
+  <expense>
+    <id>623</id>
+    <amount>23.50</amount>
+    <date>
+      <day>31</day>
+      <month>12</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>TESCO SLOVAKIA</description>
+  </expense>
+  <expense>
+    <id>624</id>
+    <amount>7.95</amount>
+    <date>
+      <day>31</day>
+      <month>12</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Presents</category>
+    <description>SPORTISIMO SLOVAKIA Skateboard for Andrew</description>
   </expense>
 </expenses>
