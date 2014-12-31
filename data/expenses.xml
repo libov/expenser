@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>610</n_expenses>
+  <n_expenses>612</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -6129,7 +6129,7 @@
       <month>11</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>EDEKA</description>
   </expense>
@@ -6141,7 +6141,7 @@
       <month>11</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -6153,7 +6153,7 @@
       <month>11</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Other</category>
     <description>DPG</description>
   </expense>
@@ -6165,7 +6165,7 @@
       <month>11</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Cash</category>
     <description>DESY for canteen</description>
   </expense>
@@ -6237,7 +6237,7 @@
       <month>11</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>SHELL Diesel 20.05liter </description>
   </expense>
@@ -6249,7 +6249,7 @@
       <month>11</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>SHELL Diesel 10L</description>
   </expense>
@@ -6369,7 +6369,7 @@
       <month>11</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>Lienau Diesel 10L</description>
   </expense>
@@ -6381,7 +6381,7 @@
       <month>11</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -6393,7 +6393,7 @@
       <month>11</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Other</category>
     <description>U-Boot Museum</description>
   </expense>
@@ -7320,5 +7320,29 @@
     <withdrawn>Yes</withdrawn>
     <category>Transport HH</category>
     <description>Projezdnoj na nedelju</description>
+  </expense>
+  <expense>
+    <id>611</id>
+    <amount>20.00</amount>
+    <date>
+      <day>13</day>
+      <month>11</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Cash</category>
+    <description>DESY not stored before</description>
+  </expense>
+  <expense>
+    <id>612</id>
+    <amount>100.00</amount>
+    <date>
+      <day>14</day>
+      <month>11</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Cash</category>
+    <description>DESY not stored before</description>
   </expense>
 </expenses>
