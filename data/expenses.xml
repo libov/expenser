@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>620</n_expenses>
+  <n_expenses>621</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -6753,7 +6753,7 @@
       <month>12</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Music equipment</category>
     <description>BAUHAUS stuff for deco - 13 Dec party</description>
   </expense>
@@ -6765,7 +6765,7 @@
       <month>12</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>REAL - mostly for the party 13 Dec 2014</description>
   </expense>
@@ -6789,7 +6789,7 @@
       <month>12</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Cash</category>
     <description>DESY</description>
   </expense>
@@ -6873,7 +6873,7 @@
       <month>12</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>EDEKA</description>
   </expense>
@@ -6897,7 +6897,7 @@
       <month>12</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>PENNY</description>
   </expense>
@@ -6909,7 +6909,7 @@
       <month>12</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>REAL</description>
   </expense>
@@ -6921,7 +6921,7 @@
       <month>12</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -6933,7 +6933,7 @@
       <month>12</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>JULIA HOFER Diesel 10L</description>
   </expense>
@@ -6945,7 +6945,7 @@
       <month>12</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>PENNY</description>
   </expense>
@@ -6957,7 +6957,7 @@
       <month>12</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Restaurant</category>
     <description>BURGER KING</description>
   </expense>
@@ -7440,5 +7440,17 @@
     <withdrawn>Yes</withdrawn>
     <category>Music equipment</category>
     <description>THOMANN Waves Gold Bundle</description>
+  </expense>
+  <expense>
+    <id>621</id>
+    <amount>262.00</amount>
+    <date>
+      <day>17</day>
+      <month>12</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Car</category>
+    <description>KFZ STEUER</description>
   </expense>
 </expenses>
