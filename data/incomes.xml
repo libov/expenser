@@ -57,4 +57,20 @@
         </date>
         <description>Salary</description>
   </entry>
+  <entry>
+        <amount>3159.74</amount>
+        <date>
+            <month>11</month>   
+            <year>2014</year>
+        </date>
+        <description>Salary</description>
+  </entry>
+  <entry>
+        <amount>331.82</amount>
+        <date>
+            <month>11</month>   
+            <year>2014</year>
+        </date>
+        <description>Business Trip Warsaw</description>
+  </entry>
  </incomes>

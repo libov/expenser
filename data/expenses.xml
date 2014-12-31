@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>612</n_expenses>
+  <n_expenses>616</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -6273,7 +6273,7 @@
       <month>11</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Cash</category>
     <description>DESY</description>
   </expense>
@@ -6345,7 +6345,7 @@
       <month>11</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>EDEKA</description>
   </expense>
@@ -6441,7 +6441,7 @@
       <month>11</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>Tankcenter Pinneberg Diesel 40L</description>
   </expense>
@@ -7344,5 +7344,53 @@
     <withdrawn>Yes</withdrawn>
     <category>Cash</category>
     <description>DESY not stored before</description>
+  </expense>
+  <expense>
+    <id>613</id>
+    <amount>923.59</amount>
+    <date>
+      <day>28</day>
+      <month>11</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Degussa</category>
+    <description/>
+  </expense>
+  <expense>
+    <id>614</id>
+    <amount>41.49</amount>
+    <date>
+      <day>28</day>
+      <month>11</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Flat</category>
+    <description>KABEL DEUTSCHLAND November 2014</description>
+  </expense>
+  <expense>
+    <id>615</id>
+    <amount>136.00</amount>
+    <date>
+      <day>28</day>
+      <month>11</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Flat</category>
+    <description>STADTWERKE PINNEBERG November 2014</description>
+  </expense>
+  <expense>
+    <id>616</id>
+    <amount>50.00</amount>
+    <date>
+      <day>29</day>
+      <month>11</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Cash</category>
+    <description>Cash probably for the Holland Party</description>
   </expense>
 </expenses>
