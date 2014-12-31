@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>621</n_expenses>
+  <n_expenses>622</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -6981,7 +6981,7 @@
       <month>12</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Presents</category>
     <description>BUDNI omega for Mum etc.</description>
   </expense>
@@ -7029,7 +7029,7 @@
       <month>12</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Other</category>
     <description>MINIATUR WUNDERLAND</description>
   </expense>
@@ -7041,7 +7041,7 @@
       <month>12</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Cash</category>
     <description>ALTONA</description>
   </expense>
@@ -7452,5 +7452,17 @@
     <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>KFZ STEUER</description>
+  </expense>
+  <expense>
+    <id>622</id>
+    <amount>39.90</amount>
+    <date>
+      <day>22</day>
+      <month>12</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Flat</category>
+    <description>KABEL DEUTSCHLAND December 2014</description>
   </expense>
 </expenses>
