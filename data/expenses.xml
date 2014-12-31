@@ -5769,7 +5769,7 @@
       <month>11</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Cash</category>
     <description>DESY for canteen</description>
   </expense>
@@ -5829,7 +5829,7 @@
       <month>11</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -5841,7 +5841,7 @@
       <month>11</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Flat</category>
     <description>IKEA</description>
   </expense>
@@ -6261,7 +6261,7 @@
       <month>11</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>TOTAL-Autohof Diesel 20L</description>
   </expense>
