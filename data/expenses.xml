@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>626</n_expenses>
+  <n_expenses>628</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -7512,5 +7512,29 @@
     <withdrawn>No</withdrawn>
     <category>Travel</category>
     <description>SHELL Diesel 25L back from Ukraine</description>
+  </expense>
+  <expense>
+    <id>627</id>
+    <amount>11.98</amount>
+    <date>
+      <day>3</day>
+      <month>1</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Presents</category>
+    <description>MARKTKAUF Coffee for Mum</description>
+  </expense>
+  <expense>
+    <id>628</id>
+    <amount>13.31</amount>
+    <date>
+      <day>3</day>
+      <month>1</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
   </expense>
 </expenses>
