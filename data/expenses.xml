@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>632</n_expenses>
+  <n_expenses>636</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -7584,5 +7584,53 @@
     <withdrawn>Yes</withdrawn>
     <category>Flat</category>
     <description>STADTWERKE PINNEBERG Dezember 2014</description>
+  </expense>
+  <expense>
+    <id>633</id>
+    <amount>923.59</amount>
+    <date>
+      <day>30</day>
+      <month>12</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Degussa</category>
+    <description>Dezember 2014</description>
+  </expense>
+  <expense>
+    <id>634</id>
+    <amount>19.74</amount>
+    <date>
+      <day>30</day>
+      <month>12</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Other</category>
+    <description>ZINSABSCHLUSS</description>
+  </expense>
+  <expense>
+    <id>635</id>
+    <amount>131.75</amount>
+    <date>
+      <day>2</day>
+      <month>1</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Flat</category>
+    <description>Wohngeld</description>
+  </expense>
+  <expense>
+    <id>636</id>
+    <amount>117.12</amount>
+    <date>
+      <day>2</day>
+      <month>1</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Car</category>
+    <description>HUK Erstbeitrag</description>
   </expense>
 </expenses>
