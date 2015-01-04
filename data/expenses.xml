@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>636</n_expenses>
+  <n_expenses>637</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -7473,7 +7473,7 @@
       <month>12</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>TESCO SLOVAKIA</description>
   </expense>
@@ -7485,7 +7485,7 @@
       <month>12</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Presents</category>
     <description>SPORTISIMO SLOVAKIA Skateboard for Andrew</description>
   </expense>
@@ -7632,5 +7632,17 @@
     <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>HUK Erstbeitrag</description>
+  </expense>
+  <expense>
+    <id>637</id>
+    <amount>691.18</amount>
+    <date>
+      <day>24</day>
+      <month>12</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Car</category>
+    <description>HUK Folgebeitrag</description>
   </expense>
 </expenses>
