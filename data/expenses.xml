@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>630</n_expenses>
+  <n_expenses>631</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -7053,7 +7053,7 @@
       <month>12</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Presents</category>
     <description>IKEA 30eur for kachelja, 20 for Polinas belje, 10 for my belje etc.</description>
   </expense>
@@ -7101,7 +7101,7 @@
       <month>12</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -7173,7 +7173,7 @@
       <month>12</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>ARAL Diesel 41.71L</description>
   </expense>
@@ -7185,7 +7185,7 @@
       <month>12</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>JET Diesel 10L</description>
   </expense>
@@ -7197,7 +7197,7 @@
       <month>12</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Restaurant</category>
     <description>MCDONALDS POLAND = 5.50 PLN</description>
   </expense>
@@ -7209,7 +7209,7 @@
       <month>12</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>LOTOS PALIUA POLAND Diesel 49.24L  = 258.02 PLN</description>
   </expense>
@@ -7560,5 +7560,17 @@
     <withdrawn>No</withdrawn>
     <category>Car</category>
     <description>ESSO Diesel 20L</description>
+  </expense>
+  <expense>
+    <id>631</id>
+    <amount>98.98</amount>
+    <date>
+      <day>24</day>
+      <month>12</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Travel</category>
+    <description>Paid for Vika in Tom Tailor, return in cash, spend for Uzhgorod trip</description>
   </expense>
 </expenses>
