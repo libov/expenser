@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>631</n_expenses>
+  <n_expenses>632</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -7077,7 +7077,7 @@
       <month>12</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Clothes</category>
     <description>ESPRIT Jeans</description>
   </expense>
@@ -7089,7 +7089,7 @@
       <month>12</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -7113,7 +7113,7 @@
       <month>12</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Other</category>
     <description>ROSSMAN Berushy etc.</description>
   </expense>
@@ -7125,7 +7125,7 @@
       <month>12</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Other</category>
     <description>KREIS PINNEBERG Gebuer Niederlassungserlaubnis</description>
   </expense>
@@ -7137,7 +7137,7 @@
       <month>12</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Other</category>
     <description>SCHONEWEG OPTIK Linsen</description>
   </expense>
@@ -7149,7 +7149,7 @@
       <month>12</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Presents</category>
     <description>COOKMAL Bottle for Andrjusha</description>
   </expense>
@@ -7161,7 +7161,7 @@
       <month>12</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>EDEKA</description>
   </expense>
@@ -7572,5 +7572,17 @@
     <withdrawn>Yes</withdrawn>
     <category>Travel</category>
     <description>Paid for Vika in Tom Tailor, return in cash, spend for Uzhgorod trip</description>
+  </expense>
+  <expense>
+    <id>632</id>
+    <amount>136.00</amount>
+    <date>
+      <day>29</day>
+      <month>12</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Flat</category>
+    <description>STADTWERKE PINNEBERG Dezember 2014</description>
   </expense>
 </expenses>
