@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>637</n_expenses>
+  <n_expenses>642</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -7644,5 +7644,65 @@
     <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>HUK Folgebeitrag</description>
+  </expense>
+  <expense>
+    <id>638</id>
+    <amount>50.00</amount>
+    <date>
+      <day>5</day>
+      <month>1</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Presents</category>
+    <description>Cash for Mum</description>
+  </expense>
+  <expense>
+    <id>639</id>
+    <amount>3.49</amount>
+    <date>
+      <day>5</day>
+      <month>1</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>ATU Scheibenreiniger</description>
+  </expense>
+  <expense>
+    <id>640</id>
+    <amount>20.89</amount>
+    <date>
+      <day>5</day>
+      <month>1</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>641</id>
+    <amount>2.68</amount>
+    <date>
+      <day>5</day>
+      <month>1</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>EDEKA</description>
+  </expense>
+  <expense>
+    <id>642</id>
+    <amount>8.97</amount>
+    <date>
+      <day>5</day>
+      <month>1</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Presents</category>
+    <description>WOOLWORTH dlja risovanija for Mum</description>
   </expense>
 </expenses>
