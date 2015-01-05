@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>642</n_expenses>
+  <n_expenses>643</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -7509,7 +7509,7 @@
       <month>1</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Travel</category>
     <description>SHELL Diesel 25L back from Ukraine</description>
   </expense>
@@ -7521,7 +7521,7 @@
       <month>1</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Presents</category>
     <description>MARKTKAUF Coffee for Mum</description>
   </expense>
@@ -7533,7 +7533,7 @@
       <month>1</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -7545,7 +7545,7 @@
       <month>1</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Cash</category>
     <description>SPARDA Bank</description>
   </expense>
@@ -7557,7 +7557,7 @@
       <month>1</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>ESSO Diesel 20L</description>
   </expense>
@@ -7653,7 +7653,7 @@
       <month>1</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Presents</category>
     <description>Cash for Mum</description>
   </expense>
@@ -7704,5 +7704,17 @@
     <withdrawn>No</withdrawn>
     <category>Presents</category>
     <description>WOOLWORTH dlja risovanija for Mum</description>
+  </expense>
+  <expense>
+    <id>643</id>
+    <amount>11.91</amount>
+    <date>
+      <day>2</day>
+      <month>1</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Travel</category>
+    <description>Diesel Poland 10 L</description>
   </expense>
 </expenses>
