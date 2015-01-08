@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>644</n_expenses>
+  <n_expenses>647</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -7728,5 +7728,41 @@
     <withdrawn>No</withdrawn>
     <category>Cash</category>
     <description>DESY</description>
+  </expense>
+  <expense>
+    <id>645</id>
+    <amount>5.48</amount>
+    <date>
+      <day>7</day>
+      <month>1</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>TOOM Folie fuer Hesckscheibe</description>
+  </expense>
+  <expense>
+    <id>646</id>
+    <amount>12.99</amount>
+    <date>
+      <day>7</day>
+      <month>1</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Presents</category>
+    <description>TKMAXX krem mame</description>
+  </expense>
+  <expense>
+    <id>647</id>
+    <amount>19.99</amount>
+    <date>
+      <day>7</day>
+      <month>1</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Clothes</category>
+    <description>TKMAXX sport shtany</description>
   </expense>
 </expenses>
