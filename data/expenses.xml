@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>651</n_expenses>
+  <n_expenses>652</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -7800,5 +7800,17 @@
     <withdrawn>No</withdrawn>
     <category>Car</category>
     <description>PAYPAL EBAY Heckklappe</description>
+  </expense>
+  <expense>
+    <id>652</id>
+    <amount>2.49</amount>
+    <date>
+      <day>10</day>
+      <month>1</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Music equipment</category>
+    <description>EBAY PAYPAL DVI CABLE</description>
   </expense>
 </expenses>
