@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>653</n_expenses>
+  <n_expenses>656</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -7824,5 +7824,41 @@
     <withdrawn>No</withdrawn>
     <category>Cash</category>
     <description>For Lenas birthday party</description>
+  </expense>
+  <expense>
+    <id>654</id>
+    <amount>10.81</amount>
+    <date>
+      <day>10</day>
+      <month>1</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>ESSO Diesel 10L</description>
+  </expense>
+  <expense>
+    <id>655</id>
+    <amount>4.99</amount>
+    <date>
+      <day>10</day>
+      <month>1</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Presents</category>
+    <description>BLUME 2000 flowers for Lena</description>
+  </expense>
+  <expense>
+    <id>656</id>
+    <amount>14.99</amount>
+    <date>
+      <day>10</day>
+      <month>1</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>TOOM tools</description>
   </expense>
 </expenses>
