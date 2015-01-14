@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>656</n_expenses>
+  <n_expenses>657</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -7860,5 +7860,17 @@
     <withdrawn>No</withdrawn>
     <category>Car</category>
     <description>TOOM tools</description>
+  </expense>
+  <expense>
+    <id>657</id>
+    <amount>20.00</amount>
+    <date>
+      <day>14</day>
+      <month>1</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Cash</category>
+    <description>DESY for canteen</description>
   </expense>
 </expenses>
