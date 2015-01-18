@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>668</n_expenses>
+  <n_expenses>670</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -8004,5 +8004,29 @@
     <withdrawn>No</withdrawn>
     <category>Cash</category>
     <description>DESY</description>
+  </expense>
+  <expense>
+    <id>669</id>
+    <amount>125.10</amount>
+    <date>
+      <day>17</day>
+      <month>1</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Presents</category>
+    <description>DOUGLAS COCO NOIR for Mum</description>
+  </expense>
+  <expense>
+    <id>670</id>
+    <amount>44.77</amount>
+    <date>
+      <day>16</day>
+      <month>1</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Presents</category>
+    <description>GERRY WEBER for Mum</description>
   </expense>
 </expenses>
