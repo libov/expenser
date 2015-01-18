@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>659</n_expenses>
+  <n_expenses>660</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -7896,5 +7896,17 @@
     <withdrawn>No</withdrawn>
     <category>Car</category>
     <description>Cash for the Tailgate</description>
+  </expense>
+  <expense>
+    <id>660</id>
+    <amount>4.49</amount>
+    <date>
+      <day>16</day>
+      <month>1</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Presents</category>
+    <description>DOUGLAS Creme for mum</description>
   </expense>
 </expenses>
