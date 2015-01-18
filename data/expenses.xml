@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>666</n_expenses>
+  <n_expenses>667</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -7980,5 +7980,17 @@
     <withdrawn>No</withdrawn>
     <category>Car</category>
     <description>TC Pinneberg 40L</description>
+  </expense>
+  <expense>
+    <id>667</id>
+    <amount>31.75</amount>
+    <date>
+      <day>17</day>
+      <month>1</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>MARKTKAUF</description>
   </expense>
 </expenses>
