@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>674</n_expenses>
+  <n_expenses>675</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -7869,7 +7869,7 @@
       <month>1</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Presents</category>
     <description>cash for Mum</description>
   </expense>
@@ -7893,7 +7893,7 @@
       <month>1</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Presents</category>
     <description>DOUGLAS Creme for mum</description>
   </expense>
@@ -7917,7 +7917,7 @@
       <month>1</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>REWE</description>
   </expense>
@@ -7965,7 +7965,7 @@
       <month>1</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>TC Pinneberg 40L</description>
   </expense>
@@ -7977,7 +7977,7 @@
       <month>1</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>MARKTKAUF</description>
   </expense>
@@ -7989,7 +7989,7 @@
       <month>1</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Cash</category>
     <description>DESY</description>
   </expense>
@@ -8001,7 +8001,7 @@
       <month>1</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Presents</category>
     <description>DOUGLAS COCO NOIR for Mum</description>
   </expense>
@@ -8013,7 +8013,7 @@
       <month>1</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Presents</category>
     <description>GERRY WEBER for Mum</description>
   </expense>
@@ -8025,7 +8025,7 @@
       <month>1</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>REWE</description>
   </expense>
@@ -8064,5 +8064,17 @@
     <withdrawn>Yes</withdrawn>
     <category>Entertainment</category>
     <description>UCI Kinowelt Kino</description>
+  </expense>
+  <expense>
+    <id>675</id>
+    <amount>10.69</amount>
+    <date>
+      <day>19</day>
+      <month>1</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Car</category>
+    <description>SHELL 10L Diesel</description>
   </expense>
 </expenses>
