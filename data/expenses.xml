@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>673</n_expenses>
+  <n_expenses>674</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -7713,7 +7713,7 @@
       <month>1</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Cash</category>
     <description>DESY</description>
   </expense>
@@ -7833,7 +7833,7 @@
       <month>1</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>ESSO Diesel 10L</description>
   </expense>
@@ -7845,7 +7845,7 @@
       <month>1</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Presents</category>
     <description>BLUME 2000 flowers for Lena</description>
   </expense>
@@ -7857,7 +7857,7 @@
       <month>1</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>TOOM tools</description>
   </expense>
@@ -7941,7 +7941,7 @@
       <month>1</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Other</category>
     <description>WOLSDORF Tobacco</description>
   </expense>
@@ -8064,5 +8064,17 @@
     <withdrawn>No</withdrawn>
     <category>Cash</category>
     <description>Sparda Altona</description>
+  </expense>
+  <expense>
+    <id>674</id>
+    <amount>34.60</amount>
+    <date>
+      <day>11</day>
+      <month>1</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Entertainment</category>
+    <description>UCI Kinowelt Kino</description>
   </expense>
 </expenses>
