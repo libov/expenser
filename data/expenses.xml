@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>682</n_expenses>
+  <n_expenses>685</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -8160,5 +8160,41 @@
     <withdrawn>No</withdrawn>
     <category>Food</category>
     <description>EDEKA</description>
+  </expense>
+  <expense>
+    <id>683</id>
+    <amount>17.69</amount>
+    <date>
+      <day>23</day>
+      <month>1</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Other</category>
+    <description>ROSSMANN</description>
+  </expense>
+  <expense>
+    <id>684</id>
+    <amount>10.49</amount>
+    <date>
+      <day>24</day>
+      <month>1</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>ARAL 10L</description>
+  </expense>
+  <expense>
+    <id>685</id>
+    <amount>10.85</amount>
+    <date>
+      <day>22</day>
+      <month>1</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>ESSO 10L</description>
   </expense>
 </expenses>
