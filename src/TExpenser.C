@@ -358,7 +358,7 @@ void TExpenser::drawBalanceTab() {
         TString month = fIncomeXMLParser -> getNodeContent("month");
         fIncomeXMLParser -> setCurrentNode(current_node);
 
-        if ( month.Atoi()>=balance_month.Atoi() ) {
+        if ( ( (month.Atoi()>=balance_month.Atoi()) && (year.Atoi()==balance_year.Atoi()) ) || (year.Atoi()>balance_year.Atoi()) ) {
             income_since_last_status += fIncomeXMLParser -> getNodeContent("amount").Atof();
         }
 
