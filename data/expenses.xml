@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>692</n_expenses>
+  <n_expenses>693</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -8280,5 +8280,17 @@
     <withdrawn>No</withdrawn>
     <category>Travel</category>
     <description>TOTAL 10 L back from Berlin</description>
+  </expense>
+  <expense>
+    <id>693</id>
+    <amount>19.41</amount>
+    <date>
+      <day>27</day>
+      <month>1</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>MARKTKAUF</description>
   </expense>
 </expenses>
