@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>687</n_expenses>
+  <n_expenses>689</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -8220,5 +8220,29 @@
     <withdrawn>No</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>688</id>
+    <amount>14.08</amount>
+    <date>
+      <day>30</day>
+      <month>1</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Entertainment</category>
+    <description>REAL for Berlin party</description>
+  </expense>
+  <expense>
+    <id>689</id>
+    <amount>8.09</amount>
+    <date>
+      <day>28</day>
+      <month>1</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>REAL</description>
   </expense>
 </expenses>
