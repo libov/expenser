@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>691</n_expenses>
+  <n_expenses>692</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -8268,5 +8268,17 @@
     <withdrawn>No</withdrawn>
     <category>Car</category>
     <description>ESSO Diesel 5L</description>
+  </expense>
+  <expense>
+    <id>692</id>
+    <amount>11.80</amount>
+    <date>
+      <day>31</day>
+      <month>1</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Travel</category>
+    <description>TOTAL 10 L back from Berlin</description>
   </expense>
 </expenses>
