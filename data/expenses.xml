@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>693</n_expenses>
+  <n_expenses>695</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -8292,5 +8292,29 @@
     <withdrawn>No</withdrawn>
     <category>Food</category>
     <description>MARKTKAUF</description>
+  </expense>
+  <expense>
+    <id>694</id>
+    <amount>20.00</amount>
+    <date>
+      <day>2</day>
+      <month>2</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Cash</category>
+    <description>DESY</description>
+  </expense>
+  <expense>
+    <id>695</id>
+    <amount>50.00</amount>
+    <date>
+      <day>29</day>
+      <month>1</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Cash</category>
+    <description>DESY</description>
   </expense>
 </expenses>
