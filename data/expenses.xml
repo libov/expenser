@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>695</n_expenses>
+  <n_expenses>698</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -8316,5 +8316,41 @@
     <withdrawn>No</withdrawn>
     <category>Cash</category>
     <description>DESY</description>
+  </expense>
+  <expense>
+    <id>696</id>
+    <amount>12.17</amount>
+    <date>
+      <day>3</day>
+      <month>2</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>697</id>
+    <amount>10.02</amount>
+    <date>
+      <day>4</day>
+      <month>2</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>KATTNERS 10L</description>
+  </expense>
+  <expense>
+    <id>698</id>
+    <amount>1.04</amount>
+    <date>
+      <day>2</day>
+      <month>2</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
   </expense>
 </expenses>
