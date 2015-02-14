@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>712</n_expenses>
+  <n_expenses>715</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -8520,5 +8520,41 @@
     <withdrawn>No</withdrawn>
     <category>Flat</category>
     <description>TOOM sverla</description>
+  </expense>
+  <expense>
+    <id>713</id>
+    <amount>7.99</amount>
+    <date>
+      <day>13</day>
+      <month>2</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Presents</category>
+    <description>BLUME 2000 flowers for Natali Kuzkova</description>
+  </expense>
+  <expense>
+    <id>714</id>
+    <amount>23.00</amount>
+    <date>
+      <day>9</day>
+      <month>2</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Other</category>
+    <description>SUPER CUT</description>
+  </expense>
+  <expense>
+    <id>715</id>
+    <amount>21.90</amount>
+    <date>
+      <day>11</day>
+      <month>2</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Other</category>
+    <description>SCHONEWEG OPTIK</description>
   </expense>
 </expenses>
