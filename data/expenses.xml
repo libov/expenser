@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>715</n_expenses>
+  <n_expenses>717</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -8556,5 +8556,29 @@
     <withdrawn>No</withdrawn>
     <category>Other</category>
     <description>SCHONEWEG OPTIK</description>
+  </expense>
+  <expense>
+    <id>716</id>
+    <amount>3.05</amount>
+    <date>
+      <day>14</day>
+      <month>2</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Other</category>
+    <description>REAL</description>
+  </expense>
+  <expense>
+    <id>717</id>
+    <amount>9.28</amount>
+    <date>
+      <day>14</day>
+      <month>2</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
   </expense>
 </expenses>
