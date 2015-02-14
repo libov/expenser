@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>700</n_expenses>
+  <n_expenses>702</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -8376,5 +8376,29 @@
     <withdrawn>No</withdrawn>
     <category>Cash</category>
     <description>for N.'s Birthday Party</description>
+  </expense>
+  <expense>
+    <id>701</id>
+    <amount>142.85</amount>
+    <date>
+      <day>12</day>
+      <month>2</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Other</category>
+    <description>AMAZON Smartphone</description>
+  </expense>
+  <expense>
+    <id>702</id>
+    <amount>1.99</amount>
+    <date>
+      <day>14</day>
+      <month>2</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Other</category>
+    <description>PAYPAL eBay Schutzfolie for smartphone</description>
   </expense>
 </expenses>
