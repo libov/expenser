@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>702</n_expenses>
+  <n_expenses>707</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -8400,5 +8400,65 @@
     <withdrawn>No</withdrawn>
     <category>Other</category>
     <description>PAYPAL eBay Schutzfolie for smartphone</description>
+  </expense>
+  <expense>
+    <id>703</id>
+    <amount>4.90</amount>
+    <date>
+      <day>6</day>
+      <month>2</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>704</id>
+    <amount>11.64</amount>
+    <date>
+      <day>7</day>
+      <month>2</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>705</id>
+    <amount>2.18</amount>
+    <date>
+      <day>28</day>
+      <month>1</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>REAL</description>
+  </expense>
+  <expense>
+    <id>706</id>
+    <amount>5.07</amount>
+    <date>
+      <day>27</day>
+      <month>1</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>707</id>
+    <amount>22.39</amount>
+    <date>
+      <day>6</day>
+      <month>2</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>ESSO 20L</description>
   </expense>
 </expenses>
