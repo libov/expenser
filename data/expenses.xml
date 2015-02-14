@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>707</n_expenses>
+  <n_expenses>708</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -8460,5 +8460,17 @@
     <withdrawn>No</withdrawn>
     <category>Car</category>
     <description>ESSO 20L</description>
+  </expense>
+  <expense>
+    <id>708</id>
+    <amount>22.00</amount>
+    <date>
+      <day>11</day>
+      <month>2</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Clothes</category>
+    <description>TK MAXX Jacket</description>
   </expense>
 </expenses>
