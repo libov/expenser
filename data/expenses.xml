@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>708</n_expenses>
+  <n_expenses>712</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -8472,5 +8472,53 @@
     <withdrawn>No</withdrawn>
     <category>Clothes</category>
     <description>TK MAXX Jacket</description>
+  </expense>
+  <expense>
+    <id>709</id>
+    <amount>5.46</amount>
+    <date>
+      <day>10</day>
+      <month>2</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>710</id>
+    <amount>1.96</amount>
+    <date>
+      <day>11</day>
+      <month>2</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>711</id>
+    <amount>22.56</amount>
+    <date>
+      <day>12</day>
+      <month>2</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>ESSO 20L</description>
+  </expense>
+  <expense>
+    <id>712</id>
+    <amount>9.99</amount>
+    <date>
+      <day>14</day>
+      <month>2</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Flat</category>
+    <description>TOOM sverla</description>
   </expense>
 </expenses>
