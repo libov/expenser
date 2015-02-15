@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>719</n_expenses>
+  <n_expenses>723</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -8241,7 +8241,7 @@
       <month>1</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>REAL</description>
   </expense>
@@ -8433,7 +8433,7 @@
       <month>1</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>REAL</description>
   </expense>
@@ -8604,5 +8604,53 @@
     <withdrawn>Yes</withdrawn>
     <category>Other</category>
     <description>SCHONEWEG LENSES</description>
+  </expense>
+  <expense>
+    <id>720</id>
+    <amount>21.37</amount>
+    <date>
+      <day>28</day>
+      <month>1</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Other</category>
+    <description>REAL for WG2 Meeting - back in cash</description>
+  </expense>
+  <expense>
+    <id>721</id>
+    <amount>7.20</amount>
+    <date>
+      <day>29</day>
+      <month>1</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Other</category>
+    <description>LIDL for WG2 Meeting - back in cash</description>
+  </expense>
+  <expense>
+    <id>722</id>
+    <amount>41.57</amount>
+    <date>
+      <day>29</day>
+      <month>1</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Flat</category>
+    <description>KABEL DEUTSCHLAND 01/2015</description>
+  </expense>
+  <expense>
+    <id>723</id>
+    <amount>5.00</amount>
+    <date>
+      <day>29</day>
+      <month>1</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Other</category>
+    <description>Parken Airport for WG2</description>
   </expense>
 </expenses>

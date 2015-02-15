@@ -88,4 +88,20 @@
         </date>
         <description>Business Trip Geneva 23.11.2014-29.11.2014</description>
   </entry>
+  <entry>
+        <amount>2515.52</amount>
+        <date>
+            <month>1</month>
+            <year>2015</year>
+        </date>
+        <description>Salary</description>
+  </entry>
+  <entry>
+        <amount>23.50</amount>
+        <date>
+            <month>1</month>
+            <year>2015</year>
+        </date>
+        <description>Business Trip Dresden 15.06.2016-20.06.2014</description>
+  </entry>
   </incomes>
