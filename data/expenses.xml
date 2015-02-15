@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>723</n_expenses>
+  <n_expenses>725</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -8229,7 +8229,7 @@
       <month>1</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Entertainment</category>
     <description>REAL for Berlin party</description>
   </expense>
@@ -8253,7 +8253,7 @@
       <month>1</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Travel</category>
     <description>ESSO - trip to Berlin - car diesel 38L</description>
   </expense>
@@ -8265,7 +8265,7 @@
       <month>1</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>ESSO Diesel 5L</description>
   </expense>
@@ -8313,7 +8313,7 @@
       <month>1</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Cash</category>
     <description>DESY</description>
   </expense>
@@ -8625,7 +8625,7 @@
       <month>1</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Other</category>
     <description>LIDL for WG2 Meeting - back in cash</description>
   </expense>
@@ -8652,5 +8652,29 @@
     <withdrawn>Yes</withdrawn>
     <category>Other</category>
     <description>Parken Airport for WG2</description>
+  </expense>
+  <expense>
+    <id>724</id>
+    <amount>923.59</amount>
+    <date>
+      <day>30</day>
+      <month>1</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Degussa</category>
+    <description>JANUARY 2015</description>
+  </expense>
+  <expense>
+    <id>725</id>
+    <amount>148.50</amount>
+    <date>
+      <day>2</day>
+      <month>2</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Degussa</category>
+    <description>ZD POL SHTRAF</description>
   </expense>
 </expenses>
