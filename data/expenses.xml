@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>733</n_expenses>
+  <n_expenses>734</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -8772,5 +8772,17 @@
     <withdrawn>No</withdrawn>
     <category>Car</category>
     <description>ESSO DIESEL 20L</description>
+  </expense>
+  <expense>
+    <id>734</id>
+    <amount>5.24</amount>
+    <date>
+      <day>21</day>
+      <month>2</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>PAYPAL eBay KFZ Halterung Smartphone</description>
   </expense>
 </expenses>
