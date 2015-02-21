@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>727</n_expenses>
+  <n_expenses>734</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -8700,5 +8700,89 @@
     <withdrawn>Yes</withdrawn>
     <category>Other</category>
     <description>douglas card</description>
+  </expense>
+  <expense>
+    <id>728</id>
+    <amount>39.98</amount>
+    <date>
+      <day>21</day>
+      <month>2</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Clothes</category>
+    <description>TK MAXX jeans and sweater</description>
+  </expense>
+  <expense>
+    <id>729</id>
+    <amount>1.54</amount>
+    <date>
+      <day>16</day>
+      <month>2</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>730</id>
+    <amount>1.28</amount>
+    <date>
+      <day>19</day>
+      <month>2</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>731</id>
+    <amount>8.50</amount>
+    <date>
+      <day>18</day>
+      <month>2</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>732</id>
+    <amount>8.01</amount>
+    <date>
+      <day>16</day>
+      <month>2</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>733</id>
+    <amount>22.98</amount>
+    <date>
+      <day>19</day>
+      <month>2</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>ESSO DIESEL 20L</description>
+  </expense>
+  <expense>
+    <id>734</id>
+    <amount>0.00</amount>
+    <date>
+      <day>21</day>
+      <month>2</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description/>
   </expense>
 </expenses>
