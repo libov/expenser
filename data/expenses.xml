@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>740</n_expenses>
+  <n_expenses>741</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -8856,5 +8856,17 @@
     <withdrawn>No</withdrawn>
     <category>Food</category>
     <description>EDEKA</description>
+  </expense>
+  <expense>
+    <id>741</id>
+    <amount>23.39</amount>
+    <date>
+      <day>25</day>
+      <month>2</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>SHELL 20L Diesel</description>
   </expense>
 </expenses>
