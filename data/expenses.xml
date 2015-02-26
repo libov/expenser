@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>743</n_expenses>
+  <n_expenses>744</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -8397,7 +8397,7 @@
       <month>2</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Other</category>
     <description>PAYPAL eBay Schutzfolie for smartphone</description>
   </expense>
@@ -8589,7 +8589,7 @@
       <month>2</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Other</category>
     <description>FONIC AUFLADEN</description>
   </expense>
@@ -8721,7 +8721,7 @@
       <month>2</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -8745,7 +8745,7 @@
       <month>2</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -8757,7 +8757,7 @@
       <month>2</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -8769,7 +8769,7 @@
       <month>2</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>ESSO DIESEL 20L</description>
   </expense>
@@ -8892,5 +8892,17 @@
     <withdrawn>No</withdrawn>
     <category>Cash</category>
     <description>SPARDA BANK OSDORF</description>
+  </expense>
+  <expense>
+    <id>744</id>
+    <amount>3.99</amount>
+    <date>
+      <day>16</day>
+      <month>2</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Car</category>
+    <description>ATU Lamp</description>
   </expense>
 </expenses>
