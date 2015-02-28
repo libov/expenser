@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>744</n_expenses>
+  <n_expenses>745</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -8904,5 +8904,17 @@
     <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>ATU Lamp</description>
+  </expense>
+  <expense>
+    <id>745</id>
+    <amount>2.38</amount>
+    <date>
+      <day>27</day>
+      <month>2</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>PENNY</description>
   </expense>
 </expenses>
