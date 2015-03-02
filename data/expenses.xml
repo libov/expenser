@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>747</n_expenses>
+  <n_expenses>749</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -8935,6 +8935,30 @@
     <date>
       <day>28</day>
       <month>2</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>748</id>
+    <amount>20.00</amount>
+    <date>
+      <day>1</day>
+      <month>3</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Cash</category>
+    <description>ALTONA SPARDA BANK</description>
+  </expense>
+  <expense>
+    <id>749</id>
+    <amount>4.23</amount>
+    <date>
+      <day>2</day>
+      <month>3</month>
       <year>2015</year>
     </date>
     <withdrawn>No</withdrawn>
