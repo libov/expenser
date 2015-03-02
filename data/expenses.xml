@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>749</n_expenses>
+  <n_expenses>752</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -8793,7 +8793,7 @@
       <month>2</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -8829,7 +8829,7 @@
       <month>2</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -8949,7 +8949,7 @@
       <month>3</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Cash</category>
     <description>ALTONA SPARDA BANK</description>
   </expense>
@@ -8964,5 +8964,41 @@
     <withdrawn>No</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>750</id>
+    <amount>923.59</amount>
+    <date>
+      <day>27</day>
+      <month>2</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Degussa</category>
+    <description>KREDIT</description>
+  </expense>
+  <expense>
+    <id>751</id>
+    <amount>2.19</amount>
+    <date>
+      <day>25</day>
+      <month>2</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Car</category>
+    <description>eBay PayPal Stereo removal key</description>
+  </expense>
+  <expense>
+    <id>752</id>
+    <amount>41.09</amount>
+    <date>
+      <day>27</day>
+      <month>2</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Flat</category>
+    <description>Kabel Deutschland Februar</description>
   </expense>
 </expenses>
