@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>752</n_expenses>
+  <n_expenses>756</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -9000,5 +9000,53 @@
     <withdrawn>Yes</withdrawn>
     <category>Flat</category>
     <description>Kabel Deutschland Februar</description>
+  </expense>
+  <expense>
+    <id>753</id>
+    <amount>9.35</amount>
+    <date>
+      <day>7</day>
+      <month>3</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>754</id>
+    <amount>11.70</amount>
+    <date>
+      <day>6</day>
+      <month>3</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>REAL</description>
+  </expense>
+  <expense>
+    <id>755</id>
+    <amount>4.58</amount>
+    <date>
+      <day>4</day>
+      <month>3</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>756</id>
+    <amount>5.31</amount>
+    <date>
+      <day>9</day>
+      <month>3</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
   </expense>
 </expenses>
