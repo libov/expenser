@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>768</n_expenses>
+  <n_expenses>770</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -9192,5 +9192,29 @@
     <withdrawn>No</withdrawn>
     <category>Flat</category>
     <description>IKEA</description>
+  </expense>
+  <expense>
+    <id>769</id>
+    <amount>5.99</amount>
+    <date>
+      <day>13</day>
+      <month>3</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Flat</category>
+    <description>TOOM</description>
+  </expense>
+  <expense>
+    <id>770</id>
+    <amount>1.49</amount>
+    <date>
+      <day>14</day>
+      <month>3</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Music equipment</category>
+    <description>TOOM</description>
   </expense>
 </expenses>
