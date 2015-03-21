@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>772</n_expenses>
+  <n_expenses>773</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -9240,5 +9240,17 @@
     <withdrawn>No</withdrawn>
     <category>Car</category>
     <description>ESSO 10L</description>
+  </expense>
+  <expense>
+    <id>773</id>
+    <amount>25.00</amount>
+    <date>
+      <day>9</day>
+      <month>3</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Presents</category>
+    <description>Kreis Pinneberg Auslaenderbehoerde Verpflichtungserklaerung Mama</description>
   </expense>
 </expenses>
