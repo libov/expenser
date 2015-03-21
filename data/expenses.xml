@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>770</n_expenses>
+  <n_expenses>772</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -9216,5 +9216,29 @@
     <withdrawn>No</withdrawn>
     <category>Music equipment</category>
     <description>TOOM</description>
+  </expense>
+  <expense>
+    <id>771</id>
+    <amount>22.79</amount>
+    <date>
+      <day>16</day>
+      <month>3</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>ESSO 20L</description>
+  </expense>
+  <expense>
+    <id>772</id>
+    <amount>12.29</amount>
+    <date>
+      <day>12</day>
+      <month>3</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>ESSO 10L</description>
   </expense>
 </expenses>
