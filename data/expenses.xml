@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>773</n_expenses>
+  <n_expenses>776</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -9252,5 +9252,41 @@
     <withdrawn>No</withdrawn>
     <category>Presents</category>
     <description>Kreis Pinneberg Auslaenderbehoerde Verpflichtungserklaerung Mama</description>
+  </expense>
+  <expense>
+    <id>774</id>
+    <amount>2.01</amount>
+    <date>
+      <day>12</day>
+      <month>3</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>PENNY</description>
+  </expense>
+  <expense>
+    <id>775</id>
+    <amount>3.26</amount>
+    <date>
+      <day>17</day>
+      <month>3</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>EDEKA</description>
+  </expense>
+  <expense>
+    <id>776</id>
+    <amount>18.83</amount>
+    <date>
+      <day>14</day>
+      <month>3</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>REAL,-</description>
   </expense>
 </expenses>
