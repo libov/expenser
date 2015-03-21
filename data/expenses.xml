@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>761</n_expenses>
+  <n_expenses>766</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -9108,5 +9108,65 @@
     <withdrawn>No</withdrawn>
     <category>Cash</category>
     <description>DESY</description>
+  </expense>
+  <expense>
+    <id>762</id>
+    <amount>10.26</amount>
+    <date>
+      <day>21</day>
+      <month>3</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>763</id>
+    <amount>13.21</amount>
+    <date>
+      <day>20</day>
+      <month>3</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>764</id>
+    <amount>6.91</amount>
+    <date>
+      <day>16</day>
+      <month>3</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>765</id>
+    <amount>14.19</amount>
+    <date>
+      <day>12</day>
+      <month>3</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>766</id>
+    <amount>7.63</amount>
+    <date>
+      <day>11</day>
+      <month>3</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
   </expense>
 </expenses>
