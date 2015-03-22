@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>779</n_expenses>
+  <n_expenses>782</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -9324,5 +9324,41 @@
     <withdrawn>No</withdrawn>
     <category>Presents</category>
     <description>NANU NANA for Vlad</description>
+  </expense>
+  <expense>
+    <id>780</id>
+    <amount>1.99</amount>
+    <date>
+      <day>21</day>
+      <month>3</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Presents</category>
+    <description>DEPOT for Vlad</description>
+  </expense>
+  <expense>
+    <id>781</id>
+    <amount>2.20</amount>
+    <date>
+      <day>21</day>
+      <month>3</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Presents</category>
+    <description>STRAUSS for Vlad</description>
+  </expense>
+  <expense>
+    <id>782</id>
+    <amount>2.99</amount>
+    <date>
+      <day>21</day>
+      <month>3</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Other</category>
+    <description>ROSSMANN BERUSHY</description>
   </expense>
 </expenses>
