@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>778</n_expenses>
+  <n_expenses>779</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -9312,5 +9312,17 @@
     <withdrawn>No</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>779</id>
+    <amount>3.95</amount>
+    <date>
+      <day>21</day>
+      <month>3</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Presents</category>
+    <description>NANU NANA for Vlad</description>
   </expense>
 </expenses>
