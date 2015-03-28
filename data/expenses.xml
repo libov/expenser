@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>789</n_expenses>
+  <n_expenses>792</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -9444,5 +9444,41 @@
     <withdrawn>No</withdrawn>
     <category>Presents</category>
     <description>LIDL Poroshok dlja Mamy</description>
+  </expense>
+  <expense>
+    <id>790</id>
+    <amount>2.18</amount>
+    <date>
+      <day>26</day>
+      <month>3</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>PENNY</description>
+  </expense>
+  <expense>
+    <id>791</id>
+    <amount>5.11</amount>
+    <date>
+      <day>27</day>
+      <month>3</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>792</id>
+    <amount>6.97</amount>
+    <date>
+      <day>25</day>
+      <month>3</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
   </expense>
 </expenses>
