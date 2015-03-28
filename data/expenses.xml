@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>788</n_expenses>
+  <n_expenses>789</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -9432,5 +9432,17 @@
     <withdrawn>No</withdrawn>
     <category>Presents</category>
     <description>IKEA various stuff for Mum and Vika</description>
+  </expense>
+  <expense>
+    <id>789</id>
+    <amount>23.98</amount>
+    <date>
+      <day>27</day>
+      <month>3</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Presents</category>
+    <description>LIDL Poroshok dlja Mamy</description>
   </expense>
 </expenses>
