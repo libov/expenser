@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>785</n_expenses>
+  <n_expenses>788</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -9396,5 +9396,41 @@
     <withdrawn>No</withdrawn>
     <category>Presents</category>
     <description>REAL Coffee for Mum and Vika plus some food</description>
+  </expense>
+  <expense>
+    <id>786</id>
+    <amount>18.75</amount>
+    <date>
+      <day>25</day>
+      <month>3</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>REIFENDIENST Pinneberg - Vulkanisierung</description>
+  </expense>
+  <expense>
+    <id>787</id>
+    <amount>11.90</amount>
+    <date>
+      <day>27</day>
+      <month>3</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>ARAL Diesel 10L</description>
+  </expense>
+  <expense>
+    <id>788</id>
+    <amount>12.93</amount>
+    <date>
+      <day>27</day>
+      <month>3</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Presents</category>
+    <description>IKEA various stuff for Mum and Vika</description>
   </expense>
 </expenses>
