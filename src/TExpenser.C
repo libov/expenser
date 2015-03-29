@@ -515,9 +515,4 @@ void TExpenser::set_withdrawn() {
     }
 
     fXMLParser -> SaveDoc(fXMLParser->getDocument(), "data/expenses.xml");
-
-    // redraw gui
-//     RemoveAll();
-//     create_ui();
-
 }
