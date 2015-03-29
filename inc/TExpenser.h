@@ -21,6 +21,7 @@ class TExpenser : public TGMainFrame {
 
         TExpenser(const TGWindow *p, UInt_t w, UInt_t h);
         virtual ~TExpenser();
+        void create_ui();
         void add();
         void drawExpensesTable();
         void drawExpensesTab();

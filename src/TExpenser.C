@@ -69,6 +69,16 @@ TGMainFrame(p,w,h)
     fBalanceXMLParser = new TXMLParser("data/balance.xml");
     fIncomeXMLParser = new TXMLParser("data/incomes.xml");
 
+    create_ui();
+}
+
+TExpenser::~TExpenser() {
+    // Clean up used widgets: frames, buttons, layouthints
+    Cleanup();
+    gApplication->Terminate(0);
+}
+
+void TExpenser::create_ui() {
     // create tab manager and add to main window
     fTab = new TGTab(this, 300, 300);
     AddFrame(fTab, new TGLayoutHints(kLHintsCenterX,2,2,2,2));
@@ -90,12 +100,6 @@ TGMainFrame(p,w,h)
 
     // Map main frame
     MapWindow();
-}
-
-TExpenser::~TExpenser() {
-    // Clean up used widgets: frames, buttons, layouthints
-    Cleanup();
-    gApplication->Terminate(0);
 }
 
 void TExpenser::drawExpensesTable() {
