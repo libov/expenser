@@ -411,14 +411,9 @@ void TExpenser::add() {
     // save the file!
     fXMLParser -> SaveDoc(fXMLParser->getDocument(), "data/expenses.xml");
 
-    // add new entry to the table
-    fTableInterface -> addCell(fTableEntries, toStr( fAmountEntry -> GetNumber(), 2));
-    fTableInterface -> addCell(fTableEntries, CATEGORIES[selected_entry-1] );
-    fTableInterface -> addCell(fTableEntries, fDescription -> GetText() );
-    fTableInterface -> addCell(fTableEntries, withdrawn );
-    fTableInterface -> addCell(fTableEntries, toStr(day)+"/"+ toStr(month)+"/"+toStr(year) );
-    fTableEntries++;
-    fTable -> Update();
+    // redraw gui
+    RemoveAll();
+    create_ui();
 }
 
 void TExpenser::commit() {
