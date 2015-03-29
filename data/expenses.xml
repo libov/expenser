@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>796</n_expenses>
+  <n_expenses>797</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -9189,7 +9189,7 @@
       <month>3</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Flat</category>
     <description>IKEA</description>
   </expense>
@@ -9297,7 +9297,7 @@
       <month>3</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Cash</category>
     <description>ALTONA</description>
   </expense>
@@ -9528,5 +9528,17 @@
     <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>Wohngeld March</description>
+  </expense>
+  <expense>
+    <id>797</id>
+    <amount>39.90</amount>
+    <date>
+      <day>20</day>
+      <month>3</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Flat</category>
+    <description>KABELDEUTSCHLAND March</description>
   </expense>
 </expenses>
