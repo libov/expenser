@@ -310,70 +310,25 @@ void TExpenser::drawBalanceTab() {
 
     fBalanceTab = fTab->AddTab("Balance");
 
-    fBalanceXMLParser -> selectMainNode();
-    fBalanceXMLParser -> selectNode("entry");
-    TString balance = fBalanceXMLParser -> getNodeContent("amount");
-    fBalanceXMLParser -> selectNode("date");
-    TString balance_year = fBalanceXMLParser -> getNodeContent("year");
-    TString balance_month = fBalanceXMLParser -> getNodeContent("month");
-
     TColor *color = gROOT->GetColor(kBlue);
     TGFont *font = gClient->GetFont("-*-times-bold-r-*-*-46-*-*-*-*-*-*-*");
 
-    TGLabel * last_status_label = new TGLabel(fBalanceTab, balance_month+"/"+balance_year+": " + balance + " eur");
-    fBalanceTab->AddFrame(last_status_label, new TGLayoutHints(kLHintsNormal, 5, 5, 3, 4));
-    last_status_label->SetTextColor(color);
-    last_status_label -> SetTextFont(font);
+    fLastStatusLabel = new TGLabel(fBalanceTab, "");
+    fBalanceTab->AddFrame(fLastStatusLabel, new TGLayoutHints(kLHintsNormal, 5, 5, 3, 4));
+    fLastStatusLabel->SetTextColor(color);
+    fLastStatusLabel -> SetTextFont(font);
 
-    // now calculate the current balance (last - expenses since the last)
-    TDatime time;
+    fCurrentStatusLabel = new TGLabel(fBalanceTab, "");
+    fBalanceTab->AddFrame(fCurrentStatusLabel, new TGLayoutHints(kLHintsNormal, 5, 5, 3, 4));
+    fCurrentStatusLabel->SetTextColor(color);
+    fCurrentStatusLabel -> SetTextFont(font);
 
-    fXMLParser->selectMainNode();
-    fXMLParser->selectNode("expense");
-    Double_t expenses_since_last_status = 0;
-    while (fXMLParser->getCurrentNode() != 0) {
-        XMLNodePointer_t current_node = fXMLParser->getCurrentNode();
+    // update-button
+    TGTextButton * update_button = new TGTextButton(fBalanceTab,"&Update");
+    update_button -> Connect("Clicked()", "TExpenser", this, "calculate_balance()");
+    fBalanceTab -> AddFrame(update_button, new TGLayoutHints(kLHintsNormal,5,5,3,4));
 
-        fXMLParser -> selectNode("date");
-        TString year = fXMLParser -> getNodeContent("year");
-        TString month = fXMLParser -> getNodeContent("month");
-        fXMLParser -> setCurrentNode(current_node);
-
-        bool year_more_recent = (year.Atoi() > balance_year.Atoi());
-        bool year_same = (year.Atoi() == balance_year.Atoi());
-        bool month_more_recent = (month.Atoi()>=balance_month.Atoi());
-        bool expense_more_recent_than_balance = (year_more_recent || (year_same && month_more_recent));
-        if (  expense_more_recent_than_balance && fXMLParser -> getNodeContent("withdrawn") == "Yes" ) {
-            expenses_since_last_status += fXMLParser -> getNodeContent("amount").Atof();
-        }
-
-        fXMLParser->selectNextNode("expense");
-    }
-
-    // calculate total income since last balance
-    fIncomeXMLParser->selectMainNode();
-    fIncomeXMLParser->selectNode("entry");
-    Float_t income_since_last_status = 0;
-    while (fIncomeXMLParser->getCurrentNode() != 0) {
-        XMLNodePointer_t current_node = fIncomeXMLParser->getCurrentNode();
-
-        fIncomeXMLParser -> selectNode("date");
-        TString year = fIncomeXMLParser -> getNodeContent("year");
-        TString month = fIncomeXMLParser -> getNodeContent("month");
-        fIncomeXMLParser -> setCurrentNode(current_node);
-
-        if ( ( (month.Atoi()>=balance_month.Atoi()) && (year.Atoi()==balance_year.Atoi()) ) || (year.Atoi()>balance_year.Atoi()) ) {
-            income_since_last_status += fIncomeXMLParser -> getNodeContent("amount").Atof();
-        }
-
-        fIncomeXMLParser->selectNextNode("entry");
-    }
-
-    Float_t new_balance = balance.Atof() - expenses_since_last_status + income_since_last_status;
-    TGLabel * current_status_label = new TGLabel(fBalanceTab, toStr(time.GetDay())+"/"+toStr(time.GetMonth())+"/"+toStr(time.GetYear())+": " + toStr(new_balance,2) + " eur");
-    fBalanceTab->AddFrame(current_status_label, new TGLayoutHints(kLHintsNormal, 5, 5, 3, 4));
-    current_status_label->SetTextColor(color);
-    current_status_label -> SetTextFont(font);
+    calculate_balance();
 }
 
 void TExpenser::add() {
@@ -515,4 +470,63 @@ void TExpenser::set_withdrawn() {
     }
 
     fXMLParser -> SaveDoc(fXMLParser->getDocument(), "data/expenses.xml");
+}
+
+void TExpenser::calculate_balance() {
+
+    fBalanceXMLParser -> selectMainNode();
+    fBalanceXMLParser -> selectNode("entry");
+    TString balance = fBalanceXMLParser -> getNodeContent("amount");
+    fBalanceXMLParser -> selectNode("date");
+    TString balance_year = fBalanceXMLParser -> getNodeContent("year");
+    TString balance_month = fBalanceXMLParser -> getNodeContent("month");
+
+    fLastStatusLabel -> SetText(balance_month+"/"+balance_year+": " + balance + " eur");
+
+    // now calculate the current balance (last - expenses since the last)
+    TDatime time;
+
+    fXMLParser->selectMainNode();
+    fXMLParser->selectNode("expense");
+    Double_t expenses_since_last_status = 0;
+    while (fXMLParser->getCurrentNode() != 0) {
+        XMLNodePointer_t current_node = fXMLParser->getCurrentNode();
+
+        fXMLParser -> selectNode("date");
+        TString year = fXMLParser -> getNodeContent("year");
+        TString month = fXMLParser -> getNodeContent("month");
+        fXMLParser -> setCurrentNode(current_node);
+
+        bool year_more_recent = (year.Atoi() > balance_year.Atoi());
+        bool year_same = (year.Atoi() == balance_year.Atoi());
+        bool month_more_recent = (month.Atoi()>=balance_month.Atoi());
+        bool expense_more_recent_than_balance = (year_more_recent || (year_same && month_more_recent));
+        if (  expense_more_recent_than_balance && fXMLParser -> getNodeContent("withdrawn") == "Yes" ) {
+            expenses_since_last_status += fXMLParser -> getNodeContent("amount").Atof();
+        }
+
+        fXMLParser->selectNextNode("expense");
+    }
+
+    // calculate total income since last balance
+    fIncomeXMLParser->selectMainNode();
+    fIncomeXMLParser->selectNode("entry");
+    Float_t income_since_last_status = 0;
+    while (fIncomeXMLParser->getCurrentNode() != 0) {
+        XMLNodePointer_t current_node = fIncomeXMLParser->getCurrentNode();
+
+        fIncomeXMLParser -> selectNode("date");
+        TString year = fIncomeXMLParser -> getNodeContent("year");
+        TString month = fIncomeXMLParser -> getNodeContent("month");
+        fIncomeXMLParser -> setCurrentNode(current_node);
+
+        if ( ( (month.Atoi()>=balance_month.Atoi()) && (year.Atoi()==balance_year.Atoi()) ) || (year.Atoi()>balance_year.Atoi()) ) {
+            income_since_last_status += fIncomeXMLParser -> getNodeContent("amount").Atof();
+        }
+
+        fIncomeXMLParser->selectNextNode("entry");
+    }
+
+    Float_t new_balance = balance.Atof() - expenses_since_last_status + income_since_last_status;
+    fCurrentStatusLabel -> SetText(toStr(time.GetDay())+"/"+toStr(time.GetMonth())+"/"+toStr(time.GetYear())+": " + toStr(new_balance,2) + " eur");
 }

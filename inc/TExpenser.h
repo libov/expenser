@@ -33,6 +33,7 @@ class TExpenser : public TGMainFrame {
         void calculate_monthly();
         void calculate_yearly();
         void set_withdrawn();
+        void calculate_balance();
         ClassDef(TExpenser, 0)
 
     private:
@@ -63,5 +64,7 @@ class TExpenser : public TGMainFrame {
         TXMLParser                  * fBalanceXMLParser;
         TGNumberEntryField          * fWithdrawnIdEntry;
         TXMLParser                  * fIncomeXMLParser;
+        TGLabel                     * fCurrentStatusLabel;
+        TGLabel                     * fLastStatusLabel;
 
 };
