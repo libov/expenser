@@ -9141,7 +9141,7 @@
       <month>3</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -9153,7 +9153,7 @@
       <month>3</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -9165,7 +9165,7 @@
       <month>3</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -9177,7 +9177,7 @@
       <month>3</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Flat</category>
     <description>IKEA</description>
   </expense>
@@ -9201,7 +9201,7 @@
       <month>3</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Flat</category>
     <description>TOOM</description>
   </expense>
@@ -9213,7 +9213,7 @@
       <month>3</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Music equipment</category>
     <description>TOOM</description>
   </expense>
@@ -9225,7 +9225,7 @@
       <month>3</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>ESSO 20L</description>
   </expense>
@@ -9237,7 +9237,7 @@
       <month>3</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>ESSO 10L</description>
   </expense>
@@ -9261,7 +9261,7 @@
       <month>3</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>PENNY</description>
   </expense>
@@ -9273,9 +9273,9 @@
       <month>3</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
-    <description>EDEKA</description>
+    <description>Marktkauf</description>
   </expense>
   <expense>
     <id>776</id>
@@ -9285,7 +9285,7 @@
       <month>3</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>REAL,-</description>
   </expense>
