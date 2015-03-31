@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>797</n_expenses>
+  <n_expenses>803</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -9540,5 +9540,77 @@
     <withdrawn>Yes</withdrawn>
     <category>Flat</category>
     <description>KABELDEUTSCHLAND March</description>
+  </expense>
+  <expense>
+    <id>798</id>
+    <amount>24.98</amount>
+    <date>
+      <day>30</day>
+      <month>3</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Presents</category>
+    <description>IKEA Bettwaesche</description>
+  </expense>
+  <expense>
+    <id>799</id>
+    <amount>8.63</amount>
+    <date>
+      <day>28</day>
+      <month>3</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>REAL</description>
+  </expense>
+  <expense>
+    <id>800</id>
+    <amount>7.86</amount>
+    <date>
+      <day>30</day>
+      <month>3</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>801</id>
+    <amount>12.02</amount>
+    <date>
+      <day>31</day>
+      <month>3</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>ARAL Diesel 10L</description>
+  </expense>
+  <expense>
+    <id>802</id>
+    <amount>16.97</amount>
+    <date>
+      <day>31</day>
+      <month>3</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Presents</category>
+    <description>MARKTKAUF coffee</description>
+  </expense>
+  <expense>
+    <id>803</id>
+    <amount>2.49</amount>
+    <date>
+      <day>31</day>
+      <month>3</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>TOOM ochistitel lobovogo stekla</description>
   </expense>
 </expenses>
