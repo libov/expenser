@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>808</n_expenses>
+  <n_expenses>812</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -9672,5 +9672,53 @@
     <withdrawn>Yes</withdrawn>
     <category>Presents</category>
     <description>Marktkauf Coffee</description>
+  </expense>
+  <expense>
+    <id>809</id>
+    <amount>0.66</amount>
+    <date>
+      <day>30</day>
+      <month>3</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Degussa</category>
+    <description>Tilgung</description>
+  </expense>
+  <expense>
+    <id>810</id>
+    <amount>20.00</amount>
+    <date>
+      <day>30</day>
+      <month>3</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Cash</category>
+    <description>Cash Altona</description>
+  </expense>
+  <expense>
+    <id>811</id>
+    <amount>95.74</amount>
+    <date>
+      <day>30</day>
+      <month>3</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Flat</category>
+    <description>Stadtwerke Nachzahlung</description>
+  </expense>
+  <expense>
+    <id>812</id>
+    <amount>159.00</amount>
+    <date>
+      <day>30</day>
+      <month>3</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Flat</category>
+    <description>Stadtwerke March</description>
   </expense>
 </expenses>
