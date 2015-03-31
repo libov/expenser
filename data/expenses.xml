@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>806</n_expenses>
+  <n_expenses>808</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -9417,7 +9417,7 @@
       <month>3</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>ARAL Diesel 10L</description>
   </expense>
@@ -9429,7 +9429,7 @@
       <month>3</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Presents</category>
     <description>IKEA various stuff for Mum and Vika</description>
   </expense>
@@ -9441,7 +9441,7 @@
       <month>3</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Presents</category>
     <description>LIDL Poroshok dlja Mamy</description>
   </expense>
@@ -9465,7 +9465,7 @@
       <month>3</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -9501,7 +9501,7 @@
       <month>3</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -9561,7 +9561,7 @@
       <month>3</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>REAL</description>
   </expense>
@@ -9648,5 +9648,29 @@
     <withdrawn>Yes</withdrawn>
     <category>Other</category>
     <description>Zinsen</description>
+  </expense>
+  <expense>
+    <id>807</id>
+    <amount>36.17</amount>
+    <date>
+      <day>30</day>
+      <month>3</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Flat</category>
+    <description>Steuer</description>
+  </expense>
+  <expense>
+    <id>808</id>
+    <amount>35.94</amount>
+    <date>
+      <day>27</day>
+      <month>3</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Presents</category>
+    <description>Marktkauf Coffee</description>
   </expense>
 </expenses>
