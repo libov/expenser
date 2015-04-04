@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>815</n_expenses>
+  <n_expenses>819</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -9756,5 +9756,53 @@
     <withdrawn>No</withdrawn>
     <category>Presents</category>
     <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>816</id>
+    <amount>3.98</amount>
+    <date>
+      <day>2</day>
+      <month>4</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>ARAL 3.5L Diesel</description>
+  </expense>
+  <expense>
+    <id>817</id>
+    <amount>50.08</amount>
+    <date>
+      <day>1</day>
+      <month>4</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Travel</category>
+    <description>ARAL 44.75 L Diesel</description>
+  </expense>
+  <expense>
+    <id>818</id>
+    <amount>25.00</amount>
+    <date>
+      <day>2</day>
+      <month>4</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Presents</category>
+    <description>Kreis Pinneberg Invitation</description>
+  </expense>
+  <expense>
+    <id>819</id>
+    <amount>26.97</amount>
+    <date>
+      <day>2</day>
+      <month>4</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Presents</category>
+    <description>MARKTKAUF</description>
   </expense>
 </expenses>
