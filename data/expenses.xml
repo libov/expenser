@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>819</n_expenses>
+  <n_expenses>820</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -9489,7 +9489,7 @@
       <month>3</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Other</category>
     <description>PAYPAL 321Linsen Oasys 6stk</description>
   </expense>
@@ -9549,7 +9549,7 @@
       <month>3</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Presents</category>
     <description>IKEA Bettwaesche</description>
   </expense>
@@ -9573,7 +9573,7 @@
       <month>3</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -9585,7 +9585,7 @@
       <month>3</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>ARAL Diesel 10L</description>
   </expense>
@@ -9597,7 +9597,7 @@
       <month>3</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Presents</category>
     <description>MARKTKAUF coffee</description>
   </expense>
@@ -9609,7 +9609,7 @@
       <month>3</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>TOOM ochistitel lobovogo stekla</description>
   </expense>
@@ -9804,5 +9804,17 @@
     <withdrawn>No</withdrawn>
     <category>Presents</category>
     <description>MARKTKAUF</description>
+  </expense>
+  <expense>
+    <id>820</id>
+    <amount>131.75</amount>
+    <date>
+      <day>1</day>
+      <month>4</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Flat</category>
+    <description>Wohngeld</description>
   </expense>
 </expenses>
