@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>828</n_expenses>
+  <n_expenses>832</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -9825,7 +9825,7 @@
       <month>4</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -9873,7 +9873,7 @@
       <month>4</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>TC J HOFER Diesel 20L</description>
   </expense>
@@ -9885,7 +9885,7 @@
       <month>4</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>REAL,-</description>
   </expense>
@@ -9912,5 +9912,53 @@
     <withdrawn>Yes</withdrawn>
     <category>Restaurant</category>
     <description>MACDAC Poland</description>
+  </expense>
+  <expense>
+    <id>829</id>
+    <amount>39.21</amount>
+    <date>
+      <day>6</day>
+      <month>4</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Travel</category>
+    <description>LOTOS Poland Travel back to HH</description>
+  </expense>
+  <expense>
+    <id>830</id>
+    <amount>2.37</amount>
+    <date>
+      <day>6</day>
+      <month>4</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Restaurant</category>
+    <description>MCDON POLAND</description>
+  </expense>
+  <expense>
+    <id>831</id>
+    <amount>100.00</amount>
+    <date>
+      <day>2</day>
+      <month>4</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Travel</category>
+    <description>CASH Money to Ungvar</description>
+  </expense>
+  <expense>
+    <id>832</id>
+    <amount>100.00</amount>
+    <date>
+      <day>2</day>
+      <month>4</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Cash</category>
+    <description>Money for Ungvar but didnt spend most so used back in HH</description>
   </expense>
 </expenses>
