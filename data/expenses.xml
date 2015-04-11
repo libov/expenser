@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>826</n_expenses>
+  <n_expenses>828</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -9729,7 +9729,7 @@
       <month>4</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Presents</category>
     <description>LIDL</description>
   </expense>
@@ -9765,7 +9765,7 @@
       <month>4</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>ARAL 3.5L Diesel</description>
   </expense>
@@ -9789,7 +9789,7 @@
       <month>4</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Presents</category>
     <description>Kreis Pinneberg Invitation</description>
   </expense>
@@ -9801,7 +9801,7 @@
       <month>4</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Presents</category>
     <description>MARKTKAUF</description>
   </expense>
@@ -9861,7 +9861,7 @@
       <month>4</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Travel</category>
     <description>ESSO 15L Diesel</description>
   </expense>
@@ -9888,5 +9888,29 @@
     <withdrawn>No</withdrawn>
     <category>Food</category>
     <description>REAL,-</description>
+  </expense>
+  <expense>
+    <id>827</id>
+    <amount>31.65</amount>
+    <date>
+      <day>3</day>
+      <month>4</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Travel</category>
+    <description>SHELL POLAND Diesel 25L way to Ungvar</description>
+  </expense>
+  <expense>
+    <id>828</id>
+    <amount>1.29</amount>
+    <date>
+      <day>3</day>
+      <month>4</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Restaurant</category>
+    <description>MACDAC Poland</description>
   </expense>
 </expenses>
