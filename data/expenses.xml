@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>845</n_expenses>
+  <n_expenses>849</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -10104,5 +10104,53 @@
     <withdrawn>Yes</withdrawn>
     <category>Cash</category>
     <description>CAN'T CHECK!</description>
+  </expense>
+  <expense>
+    <id>846</id>
+    <amount>9.30</amount>
+    <date>
+      <day>1</day>
+      <month>5</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Restaurant</category>
+    <description>WIKING POLAND</description>
+  </expense>
+  <expense>
+    <id>847</id>
+    <amount>5.19</amount>
+    <date>
+      <day>1</day>
+      <month>5</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Other</category>
+    <description>NOT CLEAR; Poland Tickets for all???</description>
+  </expense>
+  <expense>
+    <id>848</id>
+    <amount>2.05</amount>
+    <date>
+      <day>3</day>
+      <month>5</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Other</category>
+    <description>Poland Ticket</description>
+  </expense>
+  <expense>
+    <id>849</id>
+    <amount>1.99</amount>
+    <date>
+      <day>2</day>
+      <month>5</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Food</category>
+    <description>DISCOVERY POLAND Cola</description>
   </expense>
 </expenses>
