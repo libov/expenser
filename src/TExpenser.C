@@ -373,6 +373,8 @@ void TExpenser::add() {
 
 void TExpenser::commit() {
     system ("git add data/expenses.xml");
+    system ("git add data/incomes.xml");
+    system ("git add data/balance.xml");
     system ("git commit -m \"XML database file update\"");
     system ("git push");
 }
