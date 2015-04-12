@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>840</n_expenses>
+  <n_expenses>843</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -417,7 +417,7 @@
       <month>5</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>PENNY</description>
   </expense>
@@ -10050,6 +10050,30 @@
     <amount>20.00</amount>
     <date>
       <day>15</day>
+      <month>5</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Cash</category>
+    <description>CAN'T CHECK!</description>
+  </expense>
+  <expense>
+    <id>841</id>
+    <amount>20.00</amount>
+    <date>
+      <day>5</day>
+      <month>5</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Cash</category>
+    <description>CAN'T CHECK!</description>
+  </expense>
+  <expense>
+    <id>843</id>
+    <amount>20.00</amount>
+    <date>
+      <day>7</day>
       <month>5</month>
       <year>2014</year>
     </date>
