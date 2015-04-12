@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>849</n_expenses>
+  <n_expenses>858</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -10152,5 +10152,113 @@
     <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>DISCOVERY POLAND Cola</description>
+  </expense>
+  <expense>
+    <id>850</id>
+    <amount>127.77</amount>
+    <date>
+      <day>2</day>
+      <month>5</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Flat</category>
+    <description>Wohngeld</description>
+  </expense>
+  <expense>
+    <id>851</id>
+    <amount>6.59</amount>
+    <date>
+      <day>2</day>
+      <month>5</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Restaurant</category>
+    <description>KFC POLAND</description>
+  </expense>
+  <expense>
+    <id>852</id>
+    <amount>28.40</amount>
+    <date>
+      <day>1</day>
+      <month>5</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Restaurant</category>
+    <description>BROWARMIA POLAND</description>
+  </expense>
+  <expense>
+    <id>853</id>
+    <amount>12.91</amount>
+    <date>
+      <day>1</day>
+      <month>5</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Restaurant</category>
+    <description>COFFEE POLAND</description>
+  </expense>
+  <expense>
+    <id>854</id>
+    <amount>5.74</amount>
+    <date>
+      <day>27</day>
+      <month>4</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Restaurant</category>
+    <description>KFC POLAND</description>
+  </expense>
+  <expense>
+    <id>855</id>
+    <amount>3.37</amount>
+    <date>
+      <day>27</day>
+      <month>4</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Restaurant</category>
+    <description>KFC POLAND</description>
+  </expense>
+  <expense>
+    <id>856</id>
+    <amount>5.09</amount>
+    <date>
+      <day>27</day>
+      <month>4</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Food</category>
+    <description>CARREFOUR</description>
+  </expense>
+  <expense>
+    <id>857</id>
+    <amount>1.71</amount>
+    <date>
+      <day>28</day>
+      <month>4</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Food</category>
+    <description>CARREFOUR POLAND</description>
+  </expense>
+  <expense>
+    <id>858</id>
+    <amount>923.59</amount>
+    <date>
+      <day>30</day>
+      <month>4</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Degussa</category>
+    <description>Kredit</description>
   </expense>
 </expenses>
