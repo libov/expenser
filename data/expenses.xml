@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>862</n_expenses>
+  <n_expenses>870</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -4125,7 +4125,7 @@
       <month>4</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Presents</category>
     <description>Monatskarte fuer Mama and Papa</description>
   </expense>
@@ -10308,5 +10308,101 @@
     <withdrawn>Yes</withdrawn>
     <category>Books</category>
     <description>CAN'T CHECK!</description>
+  </expense>
+  <expense>
+    <id>863</id>
+    <amount>20.00</amount>
+    <date>
+      <day>22</day>
+      <month>4</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Cash</category>
+    <description>CAN'T CHECK</description>
+  </expense>
+  <expense>
+    <id>864</id>
+    <amount>19.90</amount>
+    <date>
+      <day>24</day>
+      <month>4</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Flat</category>
+    <description>KABEL DEUTSCHLAND April 2014</description>
+  </expense>
+  <expense>
+    <id>865</id>
+    <amount>3.00</amount>
+    <date>
+      <day>15</day>
+      <month>4</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Other</category>
+    <description>SOUNDCLOUD April 2014</description>
+  </expense>
+  <expense>
+    <id>866</id>
+    <amount>5.51</amount>
+    <date>
+      <day>11</day>
+      <month>4</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Business trip</category>
+    <description>AUSLANDSEINSATZENTGELT</description>
+  </expense>
+  <expense>
+    <id>867</id>
+    <amount>457.53</amount>
+    <date>
+      <day>7</day>
+      <month>4</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Business trip</category>
+    <description>WARSZAWA DIS 2014 FEE</description>
+  </expense>
+  <expense>
+    <id>868</id>
+    <amount>9.15</amount>
+    <date>
+      <day>8</day>
+      <month>4</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Business trip</category>
+    <description>AUSLANDSEINSATZENTGELT</description>
+  </expense>
+  <expense>
+    <id>869</id>
+    <amount>560.00</amount>
+    <date>
+      <day>10</day>
+      <month>4</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Business trip</category>
+    <description>IPAC2014 FEE?</description>
+  </expense>
+  <expense>
+    <id>870</id>
+    <amount>275.55</amount>
+    <date>
+      <day>10</day>
+      <month>4</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Business trip</category>
+    <description>DIS2014 WARSZAWA HOTEL</description>
   </expense>
 </expenses>
