@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>858</n_expenses>
+  <n_expenses>862</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -429,7 +429,7 @@
       <month>4</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Books</category>
     <description>THALIA StVO</description>
   </expense>
@@ -3609,7 +3609,7 @@
       <month>4</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Other</category>
     <description>Watch Batt. Wechsel</description>
   </expense>
@@ -10260,5 +10260,53 @@
     <withdrawn>Yes</withdrawn>
     <category>Degussa</category>
     <description>Kredit</description>
+  </expense>
+  <expense>
+    <id>859</id>
+    <amount>3.20</amount>
+    <date>
+      <day>27</day>
+      <month>4</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Other</category>
+    <description>GOA CD</description>
+  </expense>
+  <expense>
+    <id>860</id>
+    <amount>300.00</amount>
+    <date>
+      <day>25</day>
+      <month>4</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Cash</category>
+    <description>CANT CHECK</description>
+  </expense>
+  <expense>
+    <id>861</id>
+    <amount>136.00</amount>
+    <date>
+      <day>28</day>
+      <month>4</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Flat</category>
+    <description>STADTWERKE April 2014</description>
+  </expense>
+  <expense>
+    <id>862</id>
+    <amount>14.99</amount>
+    <date>
+      <day>26</day>
+      <month>4</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Books</category>
+    <description>CAN'T CHECK!</description>
   </expense>
 </expenses>
