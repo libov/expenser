@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>870</n_expenses>
+  <n_expenses>872</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -405,7 +405,7 @@
       <month>4</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Books</category>
     <description>Fuehrerschein Fragen</description>
   </expense>
@@ -2265,7 +2265,7 @@
       <month>4</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -2397,7 +2397,7 @@
       <month>4</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -2553,7 +2553,7 @@
       <month>4</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>PENNY</description>
   </expense>
@@ -2961,7 +2961,7 @@
       <month>4</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>ROSSMANN</description>
   </expense>
@@ -3537,7 +3537,7 @@
       <month>4</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Other</category>
     <description>Haircut</description>
   </expense>
@@ -10404,5 +10404,29 @@
     <withdrawn>Yes</withdrawn>
     <category>Business trip</category>
     <description>DIS2014 WARSZAWA HOTEL</description>
+  </expense>
+  <expense>
+    <id>871</id>
+    <amount>20.00</amount>
+    <date>
+      <day>19</day>
+      <month>4</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Cash</category>
+    <description>CAN'T CHECK</description>
+  </expense>
+  <expense>
+    <id>872</id>
+    <amount>20.00</amount>
+    <date>
+      <day>16</day>
+      <month>4</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Cash</category>
+    <description>CAN'T CHECK</description>
   </expense>
 </expenses>
