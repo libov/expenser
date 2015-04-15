@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>883</n_expenses>
+  <n_expenses>886</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -369,7 +369,7 @@
       <month>3</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Other</category>
     <description>Fahrrad+food</description>
   </expense>
@@ -1821,7 +1821,7 @@
       <month>4</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>Rewe</description>
   </expense>
@@ -1941,7 +1941,7 @@
       <month>4</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -2239,9 +2239,9 @@
     <date>
       <day>31</day>
       <month>3</month>
-      <year>2013</year>
+      <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -2817,7 +2817,7 @@
       <month>4</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Flat</category>
     <description>TOOM BAUMARKT basket, kiste</description>
   </expense>
@@ -2829,7 +2829,7 @@
       <month>3</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Flat</category>
     <description>TOOM Klappbox, Universalmesser</description>
   </expense>
@@ -10011,15 +10011,15 @@
   </expense>
   <expense>
     <id>837</id>
-    <amount>5.03</amount>
+    <amount>49.00</amount>
     <date>
-      <day>12</day>
+      <day>7</day>
       <month>5</month>
       <year>2014</year>
     </date>
     <withdrawn>Yes</withdrawn>
     <category>Music equipment</category>
-    <description>CAN'T FIND THIS ANYWHERE!</description>
+    <description>THOMANN ECM800 Behgringer Microphone</description>
   </expense>
   <expense>
     <id>838</id>
@@ -10560,5 +10560,41 @@
     <withdrawn>Yes</withdrawn>
     <category>Cash</category>
     <description>CAN'T CHECK!</description>
+  </expense>
+  <expense>
+    <id>884</id>
+    <amount>20.00</amount>
+    <date>
+      <day>31</day>
+      <month>3</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Cash</category>
+    <description>CAN'T CHECK!</description>
+  </expense>
+  <expense>
+    <id>885</id>
+    <amount>3.00</amount>
+    <date>
+      <day>30</day>
+      <month>3</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Transport HH</category>
+    <description>DB PINNEBERG Fahrkarte</description>
+  </expense>
+  <expense>
+    <id>886</id>
+    <amount>127.77</amount>
+    <date>
+      <day>1</day>
+      <month>4</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Flat</category>
+    <description>WOHNGELD</description>
   </expense>
 </expenses>
