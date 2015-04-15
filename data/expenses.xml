@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>877</n_expenses>
+  <n_expenses>881</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -1965,7 +1965,7 @@
       <month>4</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -2757,7 +2757,7 @@
       <month>4</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>Marktkauf</description>
   </expense>
@@ -2829,7 +2829,7 @@
       <month>3</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Flat</category>
     <description>TOOM Klappbox, Universalmesser</description>
   </expense>
@@ -3033,7 +3033,7 @@
       <month>4</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Flat</category>
     <description>IKEA TUSIG etc.</description>
   </expense>
@@ -3429,7 +3429,7 @@
       <month>4</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Other</category>
     <description>Tankstelle bier etc.</description>
   </expense>
@@ -3753,7 +3753,7 @@
       <month>4</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Restaurant</category>
     <description>Kiel Pizzeria</description>
   </expense>
@@ -10488,5 +10488,53 @@
     <withdrawn>Yes</withdrawn>
     <category>Cash</category>
     <description>CAN'T CHECK!</description>
+  </expense>
+  <expense>
+    <id>878</id>
+    <amount>20.00</amount>
+    <date>
+      <day>4</day>
+      <month>4</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Cash</category>
+    <description>CAN'T CHECK!</description>
+  </expense>
+  <expense>
+    <id>879</id>
+    <amount>20.00</amount>
+    <date>
+      <day>7</day>
+      <month>4</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Cash</category>
+    <description>CAN'T CHECK!</description>
+  </expense>
+  <expense>
+    <id>880</id>
+    <amount>30.00</amount>
+    <date>
+      <day>6</day>
+      <month>4</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Travel</category>
+    <description>DB TICKET CAN'T CHECK!</description>
+  </expense>
+  <expense>
+    <id>881</id>
+    <amount>59.00</amount>
+    <date>
+      <day>4</day>
+      <month>4</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Music equipment</category>
+    <description>JUSTMUSIC Neusonik iBoard</description>
   </expense>
 </expenses>
