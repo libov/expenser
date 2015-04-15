@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>886</n_expenses>
+  <n_expenses>889</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -10596,5 +10596,41 @@
     <withdrawn>Yes</withdrawn>
     <category>Flat</category>
     <description>WOHNGELD</description>
+  </expense>
+  <expense>
+    <id>887</id>
+    <amount>9.44</amount>
+    <date>
+      <day>15</day>
+      <month>4</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>888</id>
+    <amount>20.00</amount>
+    <date>
+      <day>15</day>
+      <month>4</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Cash</category>
+    <description>DESY</description>
+  </expense>
+  <expense>
+    <id>889</id>
+    <amount>25.00</amount>
+    <date>
+      <day>15</day>
+      <month>4</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>IKD Mitgliedschaft</description>
   </expense>
 </expenses>
