@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>881</n_expenses>
+  <n_expenses>883</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -2829,7 +2829,7 @@
       <month>3</month>
       <year>2014</year>
     </date>
-    <withdrawn>Yes</withdrawn>
+    <withdrawn>No</withdrawn>
     <category>Flat</category>
     <description>TOOM Klappbox, Universalmesser</description>
   </expense>
@@ -10536,5 +10536,29 @@
     <withdrawn>Yes</withdrawn>
     <category>Music equipment</category>
     <description>JUSTMUSIC Neusonik iBoard</description>
+  </expense>
+  <expense>
+    <id>882</id>
+    <amount>32.00</amount>
+    <date>
+      <day>3</day>
+      <month>4</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Other</category>
+    <description>VAF April 2014</description>
+  </expense>
+  <expense>
+    <id>883</id>
+    <amount>20.00</amount>
+    <date>
+      <day>6</day>
+      <month>4</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Cash</category>
+    <description>CAN'T CHECK!</description>
   </expense>
 </expenses>
