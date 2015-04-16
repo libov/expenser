@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>893</n_expenses>
+  <n_expenses>895</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -1701,7 +1701,7 @@
       <month>3</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -2169,7 +2169,7 @@
       <month>3</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -2445,7 +2445,7 @@
       <month>3</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -2577,7 +2577,7 @@
       <month>3</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>PENNY</description>
   </expense>
@@ -2781,7 +2781,7 @@
       <month>3</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>Marktkauf</description>
   </expense>
@@ -3009,7 +3009,7 @@
       <month>3</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Flat</category>
     <description>TOOM Fahrrad etc.</description>
   </expense>
@@ -10680,5 +10680,29 @@
     <withdrawn>Yes</withdrawn>
     <category>Other</category>
     <description>ZINSEN...</description>
+  </expense>
+  <expense>
+    <id>894</id>
+    <amount>20.00</amount>
+    <date>
+      <day>24</day>
+      <month>3</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Cash</category>
+    <description>CAN'T CHECK!</description>
+  </expense>
+  <expense>
+    <id>895</id>
+    <amount>3.00</amount>
+    <date>
+      <day>17</day>
+      <month>3</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Other</category>
+    <description>soundcloud</description>
   </expense>
 </expenses>
