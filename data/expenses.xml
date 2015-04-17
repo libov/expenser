@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>906</n_expenses>
+  <n_expenses>910</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -2301,7 +2301,7 @@
       <month>3</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -2457,7 +2457,7 @@
       <month>3</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -2685,7 +2685,7 @@
       <month>3</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Restaurant</category>
     <description>McDonalds</description>
   </expense>
@@ -2805,7 +2805,7 @@
       <month>3</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>Marktkauf</description>
   </expense>
@@ -2937,7 +2937,7 @@
       <month>3</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>REAL</description>
   </expense>
@@ -3177,7 +3177,7 @@
       <month>3</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Music equipment</category>
     <description>Conrad cable</description>
   </expense>
@@ -10836,5 +10836,53 @@
     <withdrawn>Yes</withdrawn>
     <category>Presents</category>
     <description>For Timon</description>
+  </expense>
+  <expense>
+    <id>907</id>
+    <amount>150.00</amount>
+    <date>
+      <day>6</day>
+      <month>3</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Other</category>
+    <description>Probably for Maydan</description>
+  </expense>
+  <expense>
+    <id>908</id>
+    <amount>2.00</amount>
+    <date>
+      <day>7</day>
+      <month>3</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Transport HH</category>
+    <description>HH Stellingen Fahrkahrte</description>
+  </expense>
+  <expense>
+    <id>909</id>
+    <amount>20.00</amount>
+    <date>
+      <day>10</day>
+      <month>3</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Cash</category>
+    <description>CAN'T CHECK</description>
+  </expense>
+  <expense>
+    <id>910</id>
+    <amount>225.11</amount>
+    <date>
+      <day>11</day>
+      <month>3</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Music equipment</category>
+    <description>PAYPAL RUBADUB KOMPLETE 9 CROSSGRADE</description>
   </expense>
 </expenses>
