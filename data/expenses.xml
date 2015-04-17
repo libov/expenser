@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>901</n_expenses>
+  <n_expenses>903</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -9837,7 +9837,7 @@
       <month>4</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -9849,7 +9849,7 @@
       <month>4</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -10605,7 +10605,7 @@
       <month>4</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -10617,7 +10617,7 @@
       <month>4</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Cash</category>
     <description>DESY</description>
   </expense>
@@ -10629,7 +10629,7 @@
       <month>4</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>IKD Mitgliedschaft</description>
   </expense>
@@ -10749,7 +10749,7 @@
       <month>4</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -10761,7 +10761,7 @@
       <month>4</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>ARAL 15L Diesel</description>
   </expense>
@@ -10773,8 +10773,32 @@
       <month>4</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>902</id>
+    <amount>274.05</amount>
+    <date>
+      <day>9</day>
+      <month>4</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Business trip</category>
+    <description>FLIGHTS TO FRASCATI</description>
+  </expense>
+  <expense>
+    <id>903</id>
+    <amount>25.78</amount>
+    <date>
+      <day>13</day>
+      <month>4</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Car</category>
+    <description>PAYPAL AUTOTEILEMANN Oil</description>
   </expense>
 </expenses>

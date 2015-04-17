@@ -1,6 +1,22 @@
 <?xml version="1.0"?>
 <incomes>
     <entry>
+        <amount>20.02</amount>
+        <date>
+            <month>4</month>
+            <year>2015</year>
+        </date>
+        <description>Reimbursement VI WG 2 meeting from January 2015</description>
+   </entry>
+    <entry>
+        <amount>400</amount>
+        <date>
+            <month>4</month>
+            <year>2015</year>
+        </date>
+        <description>Advance Business Trip Frascati</description>
+   </entry>
+    <entry>
         <amount>2555.46</amount>
         <date>
             <month>3</month>
