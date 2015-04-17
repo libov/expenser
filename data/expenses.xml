@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>898</n_expenses>
+  <n_expenses>901</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -10740,5 +10740,41 @@
     <withdrawn>Yes</withdrawn>
     <category>Cash</category>
     <description>CAN'T CHECK</description>
+  </expense>
+  <expense>
+    <id>899</id>
+    <amount>2.74</amount>
+    <date>
+      <day>16</day>
+      <month>4</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>900</id>
+    <amount>18.03</amount>
+    <date>
+      <day>16</day>
+      <month>4</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>ARAL 15L Diesel</description>
+  </expense>
+  <expense>
+    <id>901</id>
+    <amount>1.84</amount>
+    <date>
+      <day>16</day>
+      <month>4</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
   </expense>
 </expenses>
