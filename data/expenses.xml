@@ -2342,18 +2342,6 @@
     <description>Monatskarte</description>
   </expense>
   <expense>
-    <id>196</id>
-    <amount>8.49</amount>
-    <date>
-      <day>2</day>
-      <month>3</month>
-      <year>2014</year>
-    </date>
-    <withdrawn>No</withdrawn>
-    <category>Restaurant</category>
-    <description>McDonalds</description>
-  </expense>
-  <expense>
     <id>197</id>
     <amount>21.09</amount>
     <date>
