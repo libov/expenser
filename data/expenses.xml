@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>903</n_expenses>
+  <n_expenses>906</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -1917,7 +1917,7 @@
       <month>3</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>MARKTKAUF</description>
   </expense>
@@ -2601,7 +2601,7 @@
       <month>3</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>PENNY</description>
   </expense>
@@ -2793,7 +2793,7 @@
       <month>3</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>Marktkauf</description>
   </expense>
@@ -2985,7 +2985,7 @@
       <month>3</month>
       <year>2014</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>ROSSMANN</description>
   </expense>
@@ -10800,5 +10800,41 @@
     <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>PAYPAL AUTOTEILEMANN Oil</description>
+  </expense>
+  <expense>
+    <id>904</id>
+    <amount>20.00</amount>
+    <date>
+      <day>12</day>
+      <month>3</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Cash</category>
+    <description>CAN'T CHECK!</description>
+  </expense>
+  <expense>
+    <id>905</id>
+    <amount>50.00</amount>
+    <date>
+      <day>16</day>
+      <month>3</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Cash</category>
+    <description>CAN'T CHECK!</description>
+  </expense>
+  <expense>
+    <id>906</id>
+    <amount>6.00</amount>
+    <date>
+      <day>17</day>
+      <month>3</month>
+      <year>2014</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Presents</category>
+    <description>For Timon</description>
   </expense>
 </expenses>
