@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>910</n_expenses>
+  <n_expenses>911</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -10872,5 +10872,17 @@
     <withdrawn>Yes</withdrawn>
     <category>Music equipment</category>
     <description>PAYPAL RUBADUB KOMPLETE 9 CROSSGRADE</description>
+  </expense>
+  <expense>
+    <id>911</id>
+    <amount>11.98</amount>
+    <date>
+      <day>18</day>
+      <month>4</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Clothes</category>
+    <description>TKMAXX T-Shirt and Socks</description>
   </expense>
 </expenses>
