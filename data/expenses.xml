@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>911</n_expenses>
+  <n_expenses>912</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -10884,5 +10884,17 @@
     <withdrawn>No</withdrawn>
     <category>Clothes</category>
     <description>TKMAXX T-Shirt and Socks</description>
+  </expense>
+  <expense>
+    <id>912</id>
+    <amount>20.00</amount>
+    <date>
+      <day>27</day>
+      <month>4</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Cash</category>
+    <description>for Turkish Dinner</description>
   </expense>
 </expenses>
