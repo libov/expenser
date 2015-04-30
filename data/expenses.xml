@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>912</n_expenses>
+  <n_expenses>913</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -10896,5 +10896,17 @@
     <withdrawn>No</withdrawn>
     <category>Cash</category>
     <description>for Turkish Dinner</description>
+  </expense>
+  <expense>
+    <id>913</id>
+    <amount>20.00</amount>
+    <date>
+      <day>29</day>
+      <month>4</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Cash</category>
+    <description>For canteen and for Waschmuenze</description>
   </expense>
 </expenses>
