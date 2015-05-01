@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>925</n_expenses>
+  <n_expenses>926</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -11052,5 +11052,17 @@
     <withdrawn>No</withdrawn>
     <category>Business trip</category>
     <description>DB Fahrkarte</description>
+  </expense>
+  <expense>
+    <id>926</id>
+    <amount>49.99</amount>
+    <date>
+      <day>25</day>
+      <month>4</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>TOOM Tools for car</description>
   </expense>
 </expenses>
