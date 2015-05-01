@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>919</n_expenses>
+  <n_expenses>923</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -10931,7 +10931,7 @@
     </date>
     <withdrawn>No</withdrawn>
     <category>Food</category>
-    <description> LIDL</description>
+    <description>LIDL</description>
   </expense>
   <expense>
     <id>916</id>
@@ -10980,5 +10980,53 @@
     <withdrawn>No</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>920</id>
+    <amount>12.87</amount>
+    <date>
+      <day>28</day>
+      <month>4</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>BFT 10L Diesel</description>
+  </expense>
+  <expense>
+    <id>921</id>
+    <amount>3.21</amount>
+    <date>
+      <day>25</day>
+      <month>4</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>MARKTKAUF</description>
+  </expense>
+  <expense>
+    <id>922</id>
+    <amount>17.71</amount>
+    <date>
+      <day>22</day>
+      <month>4</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>JULIA HOFER 10L Diesel</description>
+  </expense>
+  <expense>
+    <id>923</id>
+    <amount>3.13</amount>
+    <date>
+      <day>19</day>
+      <month>4</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>EDEKA</description>
   </expense>
 </expenses>
