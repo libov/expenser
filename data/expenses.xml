@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>926</n_expenses>
+  <n_expenses>927</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -11064,5 +11064,17 @@
     <withdrawn>No</withdrawn>
     <category>Car</category>
     <description>TOOM Tools for car</description>
+  </expense>
+  <expense>
+    <id>927</id>
+    <amount>118.20</amount>
+    <date>
+      <day>18</day>
+      <month>5</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Presents</category>
+    <description>DB Fahrkarten fuer Eltern</description>
   </expense>
 </expenses>
