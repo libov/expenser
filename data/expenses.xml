@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>951</n_expenses>
+  <n_expenses>952</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -11364,5 +11364,17 @@
     <withdrawn>No</withdrawn>
     <category>Presents</category>
     <description>MARKTKAUF Beer for Andrew</description>
+  </expense>
+  <expense>
+    <id>952</id>
+    <amount>7.80</amount>
+    <date>
+      <day>9</day>
+      <month>5</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>REAL,-</description>
   </expense>
 </expenses>
