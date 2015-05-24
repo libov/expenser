@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>970</n_expenses>
+  <n_expenses>972</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -11592,5 +11592,29 @@
     <withdrawn>No</withdrawn>
     <category>Food</category>
     <description>HERZAPFELHOF LUEHS Aepfel, Erdbeeren</description>
+  </expense>
+  <expense>
+    <id>971</id>
+    <amount>50.00</amount>
+    <date>
+      <day>24</day>
+      <month>5</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>CASH for FOOD</description>
+  </expense>
+  <expense>
+    <id>972</id>
+    <amount>10.10</amount>
+    <date>
+      <day>23</day>
+      <month>5</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
   </expense>
 </expenses>
