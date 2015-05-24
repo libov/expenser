@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>969</n_expenses>
+  <n_expenses>970</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -11580,5 +11580,17 @@
     <withdrawn>Yes</withdrawn>
     <category>Travel</category>
     <description>for Ungvar Trip</description>
+  </expense>
+  <expense>
+    <id>970</id>
+    <amount>5.15</amount>
+    <date>
+      <day>24</day>
+      <month>5</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>HERZAPFELHOF LUEHS Aepfel, Erdbeeren</description>
   </expense>
 </expenses>
