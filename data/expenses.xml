@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>959</n_expenses>
+  <n_expenses>961</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -11025,7 +11025,7 @@
       <month>4</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>EDEKA</description>
   </expense>
@@ -11037,7 +11037,7 @@
       <month>4</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Business trip</category>
     <description>DB Fahrkarte</description>
   </expense>
@@ -11049,7 +11049,7 @@
       <month>4</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Business trip</category>
     <description>DB Fahrkarte</description>
   </expense>
@@ -11460,5 +11460,29 @@
     <withdrawn>No</withdrawn>
     <category>Cash</category>
     <description/>
+  </expense>
+  <expense>
+    <id>960</id>
+    <amount>100.00</amount>
+    <date>
+      <day>19</day>
+      <month>4</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Travel</category>
+    <description>For the trip to Frascati</description>
+  </expense>
+  <expense>
+    <id>961</id>
+    <amount>50.00</amount>
+    <date>
+      <day>19</day>
+      <month>4</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Travel</category>
+    <description>Cash Frascati trip</description>
   </expense>
 </expenses>
