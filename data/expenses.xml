@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>953</n_expenses>
+  <n_expenses>954</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -11388,5 +11388,17 @@
     <withdrawn>No</withdrawn>
     <category>Restaurant</category>
     <description>EINSTEIN</description>
+  </expense>
+  <expense>
+    <id>954</id>
+    <amount>5.50</amount>
+    <date>
+      <day>9</day>
+      <month>5</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>DM Calcium</description>
   </expense>
 </expenses>
