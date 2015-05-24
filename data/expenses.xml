@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>934</n_expenses>
+  <n_expenses>935</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -11160,5 +11160,17 @@
     <withdrawn>No</withdrawn>
     <category>Presents</category>
     <description>Apotheke Marktkauf Heparini</description>
+  </expense>
+  <expense>
+    <id>935</id>
+    <amount>12.82</amount>
+    <date>
+      <day>22</day>
+      <month>5</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>BFT Tankstelle 10L Diesel</description>
   </expense>
 </expenses>
