@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>961</n_expenses>
+  <n_expenses>962</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -10881,7 +10881,7 @@
       <month>4</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Clothes</category>
     <description>TKMAXX T-Shirt and Socks</description>
   </expense>
@@ -11484,5 +11484,17 @@
     <withdrawn>Yes</withdrawn>
     <category>Travel</category>
     <description>Cash Frascati trip</description>
+  </expense>
+  <expense>
+    <id>962</id>
+    <amount>39.90</amount>
+    <date>
+      <day>22</day>
+      <month>4</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Flat</category>
+    <description>KABEL DEUTSCHLAND 04/2015</description>
   </expense>
 </expenses>
