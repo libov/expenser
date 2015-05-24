@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>962</n_expenses>
+  <n_expenses>964</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -10953,7 +10953,7 @@
       <month>4</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -10965,7 +10965,7 @@
       <month>4</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -10977,7 +10977,7 @@
       <month>4</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -11001,7 +11001,7 @@
       <month>4</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>MARKTKAUF</description>
   </expense>
@@ -11061,7 +11061,7 @@
       <month>4</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>TOOM Tools for car</description>
   </expense>
@@ -11496,5 +11496,29 @@
     <withdrawn>Yes</withdrawn>
     <category>Flat</category>
     <description>KABEL DEUTSCHLAND 04/2015</description>
+  </expense>
+  <expense>
+    <id>963</id>
+    <amount>161.00</amount>
+    <date>
+      <day>21</day>
+      <month>4</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Business trip</category>
+    <description>VILLA MERCEDE Frascati trip Hotel</description>
+  </expense>
+  <expense>
+    <id>964</id>
+    <amount>159.00</amount>
+    <date>
+      <day>28</day>
+      <month>4</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Flat</category>
+    <description>Stadtwerke 04/2015</description>
   </expense>
 </expenses>
