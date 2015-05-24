@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>974</n_expenses>
+  <n_expenses>975</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -11640,5 +11640,17 @@
     <withdrawn>No</withdrawn>
     <category>Flat</category>
     <description>TOOM Schimmelentferner</description>
+  </expense>
+  <expense>
+    <id>975</id>
+    <amount>3.04</amount>
+    <date>
+      <day>23</day>
+      <month>5</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>MARKTKAUF</description>
   </expense>
 </expenses>
