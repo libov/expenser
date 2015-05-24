@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>935</n_expenses>
+  <n_expenses>936</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -11172,5 +11172,17 @@
     <withdrawn>No</withdrawn>
     <category>Car</category>
     <description>BFT Tankstelle 10L Diesel</description>
+  </expense>
+  <expense>
+    <id>936</id>
+    <amount>58.74</amount>
+    <date>
+      <day>12</day>
+      <month>5</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Travel</category>
+    <description>ESSO Trip to Ukraine 50L Diesel</description>
   </expense>
 </expenses>
