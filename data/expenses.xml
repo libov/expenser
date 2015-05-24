@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>975</n_expenses>
+  <n_expenses>976</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -11085,7 +11085,7 @@
       <month>5</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Restaurant</category>
     <description>McDonalds</description>
   </expense>
@@ -11109,7 +11109,7 @@
       <month>5</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>TESCO</description>
   </expense>
@@ -11121,7 +11121,7 @@
       <month>5</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -11145,7 +11145,7 @@
       <month>5</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>MERCEDES Feder</description>
   </expense>
@@ -11181,7 +11181,7 @@
       <month>5</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Travel</category>
     <description>ESSO Trip to Ukraine 50L Diesel</description>
   </expense>
@@ -11652,5 +11652,17 @@
     <withdrawn>No</withdrawn>
     <category>Food</category>
     <description>MARKTKAUF</description>
+  </expense>
+  <expense>
+    <id>976</id>
+    <amount>38.74</amount>
+    <date>
+      <day>13</day>
+      <month>5</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Travel</category>
+    <description>LOTOS Diesel 30L trip to Ungvar</description>
   </expense>
 </expenses>
