@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>967</n_expenses>
+  <n_expenses>969</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -11556,5 +11556,29 @@
     <withdrawn>Yes</withdrawn>
     <category>Restaurant</category>
     <description>McDonalds</description>
+  </expense>
+  <expense>
+    <id>968</id>
+    <amount>130.00</amount>
+    <date>
+      <day>12</day>
+      <month>5</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Music equipment</category>
+    <description>MAKUS MASTERING</description>
+  </expense>
+  <expense>
+    <id>969</id>
+    <amount>150.00</amount>
+    <date>
+      <day>12</day>
+      <month>5</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Travel</category>
+    <description>for Ungvar Trip</description>
   </expense>
 </expenses>
