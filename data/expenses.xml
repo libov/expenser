@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>956</n_expenses>
+  <n_expenses>959</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -11424,5 +11424,41 @@
     <withdrawn>No</withdrawn>
     <category>Car</category>
     <description>SHELL Diesel 15L</description>
+  </expense>
+  <expense>
+    <id>957</id>
+    <amount>20.00</amount>
+    <date>
+      <day>9</day>
+      <month>5</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Cash</category>
+    <description/>
+  </expense>
+  <expense>
+    <id>958</id>
+    <amount>20.00</amount>
+    <date>
+      <day>8</day>
+      <month>5</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Cash</category>
+    <description/>
+  </expense>
+  <expense>
+    <id>959</id>
+    <amount>20.00</amount>
+    <date>
+      <day>5</day>
+      <month>5</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Cash</category>
+    <description/>
   </expense>
 </expenses>
