@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>954</n_expenses>
+  <n_expenses>955</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -11400,5 +11400,17 @@
     <withdrawn>No</withdrawn>
     <category>Food</category>
     <description>DM Calcium</description>
+  </expense>
+  <expense>
+    <id>955</id>
+    <amount>24.00</amount>
+    <date>
+      <day>9</day>
+      <month>5</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>ARAL Diesel 10L</description>
   </expense>
 </expenses>
