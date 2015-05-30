@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>981</n_expenses>
+  <n_expenses>982</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -11724,5 +11724,17 @@
     <withdrawn>No</withdrawn>
     <category>Flat</category>
     <description>TOOM cvety</description>
+  </expense>
+  <expense>
+    <id>982</id>
+    <amount>17.62</amount>
+    <date>
+      <day>28</day>
+      <month>5</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>JULIA HOFER Diesel 15L</description>
   </expense>
 </expenses>
