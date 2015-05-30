@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>990</n_expenses>
+  <n_expenses>992</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -11673,7 +11673,7 @@
       <month>5</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -11733,7 +11733,7 @@
       <month>5</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>JULIA HOFER Diesel 15L</description>
   </expense>
@@ -11793,7 +11793,7 @@
       <month>5</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>CASH to Mum</description>
   </expense>
@@ -11805,7 +11805,7 @@
       <month>5</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Presents</category>
     <description>CASH for Mum</description>
   </expense>
@@ -11832,5 +11832,29 @@
     <withdrawn>No</withdrawn>
     <category>Music equipment</category>
     <description>PAYPAL MUSICSTORE Korg MS-20 mini</description>
+  </expense>
+  <expense>
+    <id>991</id>
+    <amount>30.00</amount>
+    <date>
+      <day>26</day>
+      <month>5</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Other</category>
+    <description>DEUTSCHKURS</description>
+  </expense>
+  <expense>
+    <id>992</id>
+    <amount>159.00</amount>
+    <date>
+      <day>28</day>
+      <month>5</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Flat</category>
+    <description>STADTWERKE Mai 2015</description>
   </expense>
 </expenses>
