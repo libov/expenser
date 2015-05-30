@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>989</n_expenses>
+  <n_expenses>990</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -11820,5 +11820,17 @@
     <withdrawn>No</withdrawn>
     <category>Other</category>
     <description>PAYPAL LINSEPATE Contact Lenses</description>
+  </expense>
+  <expense>
+    <id>990</id>
+    <amount>485.72</amount>
+    <date>
+      <day>28</day>
+      <month>5</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Music equipment</category>
+    <description>PAYPAL MUSICSTORE Korg MS-20 mini</description>
   </expense>
 </expenses>
