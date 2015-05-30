@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>986</n_expenses>
+  <n_expenses>988</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -11784,5 +11784,29 @@
     <withdrawn>Yes</withdrawn>
     <category>Flat</category>
     <description>KABEL DEUTSCHLAND 05/2015</description>
+  </expense>
+  <expense>
+    <id>987</id>
+    <amount>50.00</amount>
+    <date>
+      <day>30</day>
+      <month>5</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>CASH to Mum</description>
+  </expense>
+  <expense>
+    <id>988</id>
+    <amount>50.00</amount>
+    <date>
+      <day>30</day>
+      <month>5</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Presents</category>
+    <description>CASH for Mum</description>
   </expense>
 </expenses>
