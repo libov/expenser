@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>988</n_expenses>
+  <n_expenses>989</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -11808,5 +11808,17 @@
     <withdrawn>No</withdrawn>
     <category>Presents</category>
     <description>CASH for Mum</description>
+  </expense>
+  <expense>
+    <id>989</id>
+    <amount>62.12</amount>
+    <date>
+      <day>30</day>
+      <month>5</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Other</category>
+    <description>PAYPAL LINSEPATE Contact Lenses</description>
   </expense>
 </expenses>
