@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>985</n_expenses>
+  <n_expenses>986</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -11601,7 +11601,7 @@
       <month>5</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>CASH for FOOD</description>
   </expense>
@@ -11772,5 +11772,17 @@
     <withdrawn>Yes</withdrawn>
     <category>Cash</category>
     <description>TOOM Lock, return in cash</description>
+  </expense>
+  <expense>
+    <id>986</id>
+    <amount>39.90</amount>
+    <date>
+      <day>21</day>
+      <month>5</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Flat</category>
+    <description>KABEL DEUTSCHLAND 05/2015</description>
   </expense>
 </expenses>
