@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>982</n_expenses>
+  <n_expenses>985</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -11073,7 +11073,7 @@
       <month>5</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Presents</category>
     <description>DB Fahrkarten fuer Eltern</description>
   </expense>
@@ -11097,7 +11097,7 @@
       <month>5</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>TESCO</description>
   </expense>
@@ -11217,7 +11217,7 @@
       <month>5</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>BFT 10L Diesel</description>
   </expense>
@@ -11736,5 +11736,41 @@
     <withdrawn>No</withdrawn>
     <category>Car</category>
     <description>JULIA HOFER Diesel 15L</description>
+  </expense>
+  <expense>
+    <id>983</id>
+    <amount>6.62</amount>
+    <date>
+      <day>17</day>
+      <month>5</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Restaurant</category>
+    <description>McDonalds Poland</description>
+  </expense>
+  <expense>
+    <id>984</id>
+    <amount>47.95</amount>
+    <date>
+      <day>17</day>
+      <month>5</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Travel</category>
+    <description>LOTOS trip back to HH</description>
+  </expense>
+  <expense>
+    <id>985</id>
+    <amount>11.99</amount>
+    <date>
+      <day>19</day>
+      <month>5</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Cash</category>
+    <description>TOOM Lock, return in cash</description>
   </expense>
 </expenses>
