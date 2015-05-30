@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>980</n_expenses>
+  <n_expenses>981</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -11712,5 +11712,17 @@
     <withdrawn>No</withdrawn>
     <category>Flat</category>
     <description>MARKTKAUF gorshki dlja cvetov</description>
+  </expense>
+  <expense>
+    <id>981</id>
+    <amount>11.97</amount>
+    <date>
+      <day>30</day>
+      <month>5</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Flat</category>
+    <description>TOOM cvety</description>
   </expense>
 </expenses>
