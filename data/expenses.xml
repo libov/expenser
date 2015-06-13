@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>992</n_expenses>
+  <n_expenses>996</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -11856,5 +11856,53 @@
     <withdrawn>Yes</withdrawn>
     <category>Flat</category>
     <description>STADTWERKE Mai 2015</description>
+  </expense>
+  <expense>
+    <id>993</id>
+    <amount>5.07</amount>
+    <date>
+      <day>6</day>
+      <month>6</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>994</id>
+    <amount>2.49</amount>
+    <date>
+      <day>6</day>
+      <month>6</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>TOOM SCHEIBENKLAR</description>
+  </expense>
+  <expense>
+    <id>995</id>
+    <amount>17.69</amount>
+    <date>
+      <day>5</day>
+      <month>6</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>BFT 15L</description>
+  </expense>
+  <expense>
+    <id>996</id>
+    <amount>18.30</amount>
+    <date>
+      <day>1</day>
+      <month>6</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>SHELL 15L</description>
   </expense>
 </expenses>
