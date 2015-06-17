@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1006</n_expenses>
+  <n_expenses>1008</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -12024,5 +12024,29 @@
     <withdrawn>No</withdrawn>
     <category>Other</category>
     <description>FONIC GUTHABEN</description>
+  </expense>
+  <expense>
+    <id>1007</id>
+    <amount>250.00</amount>
+    <date>
+      <day>17</day>
+      <month>6</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Presents</category>
+    <description>CASH mame</description>
+  </expense>
+  <expense>
+    <id>1008</id>
+    <amount>100.00</amount>
+    <date>
+      <day>17</day>
+      <month>6</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Travel</category>
+    <description>CASH for Ungvar</description>
   </expense>
 </expenses>
