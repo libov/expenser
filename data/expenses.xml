@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1013</n_expenses>
+  <n_expenses>1014</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -12108,5 +12108,17 @@
     <withdrawn>No</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>1014</id>
+    <amount>24.95</amount>
+    <date>
+      <day>17</day>
+      <month>6</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Clothes</category>
+    <description>SCHUHCENTER Adidas shoes</description>
   </expense>
 </expenses>
