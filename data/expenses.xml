@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1017</n_expenses>
+  <n_expenses>1018</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -12156,5 +12156,17 @@
     <withdrawn>No</withdrawn>
     <category>Books</category>
     <description>AMAZON Music Theory, Duden Gramatik</description>
+  </expense>
+  <expense>
+    <id>1018</id>
+    <amount>10.00</amount>
+    <date>
+      <day>8</day>
+      <month>7</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Other</category>
+    <description>FONIC Aufladung</description>
   </expense>
 </expenses>
