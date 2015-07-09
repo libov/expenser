@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1026</n_expenses>
+  <n_expenses>1032</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -12264,5 +12264,77 @@
     <withdrawn>No</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>1027</id>
+    <amount>12.64</amount>
+    <date>
+      <day>28</day>
+      <month>6</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>ARAL 10L</description>
+  </expense>
+  <expense>
+    <id>1028</id>
+    <amount>23.18</amount>
+    <date>
+      <day>22</day>
+      <month>6</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>ARAL</description>
+  </expense>
+  <expense>
+    <id>1029</id>
+    <amount>17.36</amount>
+    <date>
+      <day>1</day>
+      <month>7</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>ESSO 15L</description>
+  </expense>
+  <expense>
+    <id>1030</id>
+    <amount>54.96</amount>
+    <date>
+      <day>5</day>
+      <month>6</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Travel</category>
+    <description>ESSO trip Berlin 40L+cishki</description>
+  </expense>
+  <expense>
+    <id>1031</id>
+    <amount>17.47</amount>
+    <date>
+      <day>5</day>
+      <month>7</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>BFT 15L</description>
+  </expense>
+  <expense>
+    <id>1032</id>
+    <amount>36.40</amount>
+    <date>
+      <day>21</day>
+      <month>6</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Travel</category>
+    <description>AGIP 30L trip to HH</description>
   </expense>
 </expenses>
