@@ -1,6 +1,14 @@
 <?xml version="1.0"?>
 <incomes>
     <entry>
+        <amount>185.95</amount>
+        <date>
+            <month>6</month>
+            <year>2015</year>
+        </date>
+        <description>Trip Frascati Reimbursement</description>
+   </entry>
+   <entry>
         <amount>2479.98</amount>
         <date>
             <month>5</month>
