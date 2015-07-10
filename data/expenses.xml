@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1046</n_expenses>
+  <n_expenses>1047</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -11865,7 +11865,7 @@
       <month>6</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -11889,7 +11889,7 @@
       <month>6</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>BFT 15L</description>
   </expense>
@@ -11973,7 +11973,7 @@
       <month>6</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>STAR 15L</description>
   </expense>
@@ -12309,7 +12309,7 @@
       <month>6</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Travel</category>
     <description>ESSO trip Berlin 40L+cishki</description>
   </expense>
@@ -12504,5 +12504,17 @@
     <withdrawn>Yes</withdrawn>
     <category>Cash</category>
     <description>FOOD</description>
+  </expense>
+  <expense>
+    <id>1047</id>
+    <amount>20.00</amount>
+    <date>
+      <day>8</day>
+      <month>6</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Cash</category>
+    <description>not sure</description>
   </expense>
 </expenses>
