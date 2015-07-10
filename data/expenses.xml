@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1035</n_expenses>
+  <n_expenses>1036</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -12372,5 +12372,17 @@
     <withdrawn>No</withdrawn>
     <category>Other</category>
     <description>REAL APOTHEKE condoms</description>
+  </expense>
+  <expense>
+    <id>1036</id>
+    <amount>25.20</amount>
+    <date>
+      <day>18</day>
+      <month>6</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>TESCO</description>
   </expense>
 </expenses>
