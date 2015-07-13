@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1049</n_expenses>
+  <n_expenses>1050</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -12540,5 +12540,17 @@
     <withdrawn>No</withdrawn>
     <category>Restaurant</category>
     <description>JIM BLOCK</description>
+  </expense>
+  <expense>
+    <id>1050</id>
+    <amount>2.63</amount>
+    <date>
+      <day>11</day>
+      <month>7</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>PENNY</description>
   </expense>
 </expenses>
