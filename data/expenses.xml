@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1047</n_expenses>
+  <n_expenses>1048</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -12516,5 +12516,17 @@
     <withdrawn>Yes</withdrawn>
     <category>Cash</category>
     <description>not sure</description>
+  </expense>
+  <expense>
+    <id>1048</id>
+    <amount>34.48</amount>
+    <date>
+      <day>11</day>
+      <month>7</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>ESSO 30L</description>
   </expense>
 </expenses>
