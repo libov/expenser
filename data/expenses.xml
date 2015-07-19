@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1066</n_expenses>
+  <n_expenses>1068</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -12744,5 +12744,29 @@
     <withdrawn>No</withdrawn>
     <category>Car</category>
     <description>STAR 20L</description>
+  </expense>
+  <expense>
+    <id>1067</id>
+    <amount>20.00</amount>
+    <date>
+      <day>19</day>
+      <month>7</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Travel</category>
+    <description>Verwarnungsgeld</description>
+  </expense>
+  <expense>
+    <id>1068</id>
+    <amount>20.00</amount>
+    <date>
+      <day>19</day>
+      <month>7</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Travel</category>
+    <description>Verwarnungsgeld</description>
   </expense>
 </expenses>
