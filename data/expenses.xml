@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1072</n_expenses>
+  <n_expenses>1073</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -12816,5 +12816,17 @@
     <withdrawn>No</withdrawn>
     <category>Car</category>
     <description>ARAL 10L</description>
+  </expense>
+  <expense>
+    <id>1073</id>
+    <amount>6.95</amount>
+    <date>
+      <day>20</day>
+      <month>7</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Other</category>
+    <description>K PRESSE</description>
   </expense>
 </expenses>
