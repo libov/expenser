@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1069</n_expenses>
+  <n_expenses>1070</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -12780,5 +12780,17 @@
     <withdrawn>No</withdrawn>
     <category>Car</category>
     <description>ARAL Diesel 15L</description>
+  </expense>
+  <expense>
+    <id>1070</id>
+    <amount>7.95</amount>
+    <date>
+      <day>23</day>
+      <month>7</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>REAL</description>
   </expense>
 </expenses>
