@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1071</n_expenses>
+  <n_expenses>1072</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -12804,5 +12804,17 @@
     <withdrawn>No</withdrawn>
     <category>Food</category>
     <description>REWE</description>
+  </expense>
+  <expense>
+    <id>1072</id>
+    <amount>11.40</amount>
+    <date>
+      <day>19</day>
+      <month>7</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>ARAL 10L</description>
   </expense>
 </expenses>
