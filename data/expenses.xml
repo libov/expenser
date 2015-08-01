@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1085</n_expenses>
+  <n_expenses>1087</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -12057,7 +12057,7 @@
       <month>6</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>BFT  15L</description>
   </expense>
@@ -12069,7 +12069,7 @@
       <month>6</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>HAGEBAUMARKT Gubka</description>
   </expense>
@@ -12081,7 +12081,7 @@
       <month>6</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Travel</category>
     <description>ESSO 55L to Ungvar</description>
   </expense>
@@ -12093,7 +12093,7 @@
       <month>6</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -12105,7 +12105,7 @@
       <month>6</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -12117,7 +12117,7 @@
       <month>6</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Clothes</category>
     <description>SCHUHCENTER Adidas shoes</description>
   </expense>
@@ -12129,7 +12129,7 @@
       <month>6</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>MARKTKAUF</description>
   </expense>
@@ -12972,5 +12972,29 @@
     <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>SHTRAF</description>
+  </expense>
+  <expense>
+    <id>1086</id>
+    <amount>20.00</amount>
+    <date>
+      <day>16</day>
+      <month>6</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Cash</category>
+    <description>FOOD</description>
+  </expense>
+  <expense>
+    <id>1087</id>
+    <amount>64.90</amount>
+    <date>
+      <day>17</day>
+      <month>6</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Other</category>
+    <description>SCHUHCENTER shoes for Andrew, effectively cash (not sure)</description>
   </expense>
 </expenses>
