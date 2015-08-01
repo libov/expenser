@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1087</n_expenses>
+  <n_expenses>1091</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -12021,7 +12021,7 @@
       <month>6</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Other</category>
     <description>FONIC GUTHABEN</description>
   </expense>
@@ -12033,7 +12033,7 @@
       <month>6</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Presents</category>
     <description>CASH mame</description>
   </expense>
@@ -12045,7 +12045,7 @@
       <month>6</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Travel</category>
     <description>CASH for Ungvar</description>
   </expense>
@@ -12249,7 +12249,7 @@
       <month>6</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -12261,7 +12261,7 @@
       <month>6</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -12333,7 +12333,7 @@
       <month>6</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Travel</category>
     <description>AGIP 30L trip to HH</description>
   </expense>
@@ -12381,7 +12381,7 @@
       <month>6</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>TESCO</description>
   </expense>
@@ -12996,5 +12996,53 @@
     <withdrawn>Yes</withdrawn>
     <category>Other</category>
     <description>SCHUHCENTER shoes for Andrew, effectively cash (not sure)</description>
+  </expense>
+  <expense>
+    <id>1088</id>
+    <amount>37.48</amount>
+    <date>
+      <day>18</day>
+      <month>6</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Travel</category>
+    <description>LOTOS POLAND 30L Diesel</description>
+  </expense>
+  <expense>
+    <id>1089</id>
+    <amount>8.65</amount>
+    <date>
+      <day>18</day>
+      <month>6</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Restaurant</category>
+    <description>POLAND McDonalds</description>
+  </expense>
+  <expense>
+    <id>1090</id>
+    <amount>3.65</amount>
+    <date>
+      <day>18</day>
+      <month>6</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Restaurant</category>
+    <description>McDonalds Poland</description>
+  </expense>
+  <expense>
+    <id>1091</id>
+    <amount>34.94</amount>
+    <date>
+      <day>21</day>
+      <month>6</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Travel</category>
+    <description>LOTOS 25L</description>
   </expense>
 </expenses>
