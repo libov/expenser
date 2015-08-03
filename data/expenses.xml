@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1102</n_expenses>
+  <n_expenses>1103</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -13176,5 +13176,17 @@
     <withdrawn>No</withdrawn>
     <category>Clothes</category>
     <description>TK MAXX jeans, 2xkofta</description>
+  </expense>
+  <expense>
+    <id>1103</id>
+    <amount>21.50</amount>
+    <date>
+      <day>1</day>
+      <month>8</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Travel</category>
+    <description>HEM 20L trip to St Peter Ording</description>
   </expense>
 </expenses>
