@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1101</n_expenses>
+  <n_expenses>1102</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -13164,5 +13164,17 @@
     <withdrawn>No</withdrawn>
     <category>Food</category>
     <description>PENNY</description>
+  </expense>
+  <expense>
+    <id>1102</id>
+    <amount>53.97</amount>
+    <date>
+      <day>1</day>
+      <month>8</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Clothes</category>
+    <description>TK MAXX jeans, 2xkofta</description>
   </expense>
 </expenses>
