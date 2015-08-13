@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1105</n_expenses>
+  <n_expenses>1106</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -13212,5 +13212,17 @@
     <withdrawn>No</withdrawn>
     <category>Food</category>
     <description>FAMILA</description>
+  </expense>
+  <expense>
+    <id>1106</id>
+    <amount>3.00</amount>
+    <date>
+      <day>11</day>
+      <month>8</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Presents</category>
+    <description>FAMILA Ruecksack</description>
   </expense>
 </expenses>
