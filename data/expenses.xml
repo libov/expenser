@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1109</n_expenses>
+  <n_expenses>1110</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -13260,5 +13260,17 @@
     <withdrawn>No</withdrawn>
     <category>Flat</category>
     <description>IKEA podushki na stulja</description>
+  </expense>
+  <expense>
+    <id>1110</id>
+    <amount>17.75</amount>
+    <date>
+      <day>4</day>
+      <month>8</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>MEYERS</description>
   </expense>
 </expenses>
