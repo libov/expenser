@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1108</n_expenses>
+  <n_expenses>1109</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -13248,5 +13248,17 @@
     <withdrawn>No</withdrawn>
     <category>Other</category>
     <description>BUDNI Apotheke</description>
+  </expense>
+  <expense>
+    <id>1109</id>
+    <amount>19.96</amount>
+    <date>
+      <day>7</day>
+      <month>8</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Flat</category>
+    <description>IKEA podushki na stulja</description>
   </expense>
 </expenses>
