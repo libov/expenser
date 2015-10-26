@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1130</n_expenses>
+  <n_expenses>1131</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -13512,5 +13512,17 @@
     <withdrawn>No</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>1131</id>
+    <amount>25.00</amount>
+    <date>
+      <day>1</day>
+      <month>8</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Other</category>
+    <description>REAL Klapsessel</description>
   </expense>
 </expenses>
