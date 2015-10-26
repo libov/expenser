@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1126</n_expenses>
+  <n_expenses>1129</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -13464,5 +13464,41 @@
     <withdrawn>No</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>1127</id>
+    <amount>7.44</amount>
+    <date>
+      <day>13</day>
+      <month>10</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>1128</id>
+    <amount>6.45</amount>
+    <date>
+      <day>26</day>
+      <month>9</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>1129</id>
+    <amount>41.77</amount>
+    <date>
+      <day>22</day>
+      <month>10</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Presents</category>
+    <description>LIDL Sweets for Ungvar</description>
   </expense>
 </expenses>
