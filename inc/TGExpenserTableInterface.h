@@ -23,7 +23,7 @@ public:
    TGExpenserTableInterface(unsigned ncolumns);
    virtual ~TGExpenserTableInterface();
 
-   virtual Double_t    GetValue(UInt_t row, UInt_t column) {}
+   virtual Double_t    GetValue(UInt_t row, UInt_t column) { return 0; };
    virtual const char *GetValueAsString(UInt_t row, UInt_t column);
    virtual const char *GetRowHeader(UInt_t row);
    virtual const char *GetColumnHeader(UInt_t column);
