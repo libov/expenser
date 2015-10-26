@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1131</n_expenses>
+  <n_expenses>1137</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -13524,5 +13524,77 @@
     <withdrawn>No</withdrawn>
     <category>Other</category>
     <description>REAL Klapsessel</description>
+  </expense>
+  <expense>
+    <id>1132</id>
+    <amount>9.56</amount>
+    <date>
+      <day>16</day>
+      <month>10</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>REAL</description>
+  </expense>
+  <expense>
+    <id>1133</id>
+    <amount>2.99</amount>
+    <date>
+      <day>17</day>
+      <month>9</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>REAL</description>
+  </expense>
+  <expense>
+    <id>1134</id>
+    <amount>18.51</amount>
+    <date>
+      <day>25</day>
+      <month>9</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>REAL</description>
+  </expense>
+  <expense>
+    <id>1135</id>
+    <amount>15.28</amount>
+    <date>
+      <day>22</day>
+      <month>8</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>REAL</description>
+  </expense>
+  <expense>
+    <id>1136</id>
+    <amount>9.49</amount>
+    <date>
+      <day>22</day>
+      <month>10</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Presents</category>
+    <description>REAL Bier for Ungvar</description>
+  </expense>
+  <expense>
+    <id>1137</id>
+    <amount>10.20</amount>
+    <date>
+      <day>30</day>
+      <month>9</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>REAL</description>
   </expense>
 </expenses>
