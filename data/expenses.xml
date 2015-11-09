@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1139</n_expenses>
+  <n_expenses>1140</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -13620,5 +13620,17 @@
     <withdrawn>No</withdrawn>
     <category>Car</category>
     <description>AUTOTEILEMANN Oil, Fussmatten</description>
+  </expense>
+  <expense>
+    <id>1140</id>
+    <amount>36.17</amount>
+    <date>
+      <day>10</day>
+      <month>11</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Flat</category>
+    <description>GRUNDSTEUER B</description>
   </expense>
 </expenses>
