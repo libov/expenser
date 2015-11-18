@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1145</n_expenses>
+  <n_expenses>1150</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -13692,5 +13692,65 @@
     <withdrawn>No</withdrawn>
     <category>Car</category>
     <description>ESSO Diesel 20L</description>
+  </expense>
+  <expense>
+    <id>1146</id>
+    <amount>11.30</amount>
+    <date>
+      <day>10</day>
+      <month>11</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>BFT Diesel 10L</description>
+  </expense>
+  <expense>
+    <id>1147</id>
+    <amount>15.52</amount>
+    <date>
+      <day>7</day>
+      <month>11</month>
+      <year>2013</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>1148</id>
+    <amount>21.03</amount>
+    <date>
+      <day>7</day>
+      <month>11</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>1149</id>
+    <amount>3.54</amount>
+    <date>
+      <day>13</day>
+      <month>11</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>1150</id>
+    <amount>2.33</amount>
+    <date>
+      <day>13</day>
+      <month>8</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
   </expense>
 </expenses>
