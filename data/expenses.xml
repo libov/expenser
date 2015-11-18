@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1140</n_expenses>
+  <n_expenses>1145</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -13632,5 +13632,65 @@
     <withdrawn>No</withdrawn>
     <category>Flat</category>
     <description>GRUNDSTEUER B</description>
+  </expense>
+  <expense>
+    <id>1141</id>
+    <amount>12.95</amount>
+    <date>
+      <day>11</day>
+      <month>11</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>PENNY</description>
+  </expense>
+  <expense>
+    <id>1142</id>
+    <amount>15.90</amount>
+    <date>
+      <day>12</day>
+      <month>11</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>ESSO Diesel 15L</description>
+  </expense>
+  <expense>
+    <id>1143</id>
+    <amount>11.31</amount>
+    <date>
+      <day>5</day>
+      <month>11</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>BFT DIesel 10L</description>
+  </expense>
+  <expense>
+    <id>1144</id>
+    <amount>16.95</amount>
+    <date>
+      <day>6</day>
+      <month>11</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>ESSO Diesel 15L</description>
+  </expense>
+  <expense>
+    <id>1145</id>
+    <amount>22.09</amount>
+    <date>
+      <day>4</day>
+      <month>8</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>ESSO Diesel 20L</description>
   </expense>
 </expenses>
