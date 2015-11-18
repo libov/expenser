@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1155</n_expenses>
+  <n_expenses>1161</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -13812,5 +13812,77 @@
     <withdrawn>No</withdrawn>
     <category>Presents</category>
     <description>MARKTKAUF for Ungvar</description>
+  </expense>
+  <expense>
+    <id>1156</id>
+    <amount>15.01</amount>
+    <date>
+      <day>8</day>
+      <month>10</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>HEM Diesel 15L</description>
+  </expense>
+  <expense>
+    <id>1157</id>
+    <amount>6.89</amount>
+    <date>
+      <day>16</day>
+      <month>9</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Restaurant</category>
+    <description>JUNGE DIE BAECKEREI</description>
+  </expense>
+  <expense>
+    <id>1158</id>
+    <amount>21.68</amount>
+    <date>
+      <day>3</day>
+      <month>10</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>TOTAL Diesel 20L</description>
+  </expense>
+  <expense>
+    <id>1159</id>
+    <amount>16.14</amount>
+    <date>
+      <day>12</day>
+      <month>10</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>ESSO Diesel 15L</description>
+  </expense>
+  <expense>
+    <id>1160</id>
+    <amount>51.43</amount>
+    <date>
+      <day>20</day>
+      <month>10</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Presents</category>
+    <description>FAMILIA for Ungvar</description>
+  </expense>
+  <expense>
+    <id>1161</id>
+    <amount>25.98</amount>
+    <date>
+      <day>22</day>
+      <month>10</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Presents</category>
+    <description>DOUGLAS for Ungvar</description>
   </expense>
 </expenses>
