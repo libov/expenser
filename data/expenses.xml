@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1165</n_expenses>
+  <n_expenses>1174</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -13932,5 +13932,113 @@
     <withdrawn>No</withdrawn>
     <category>Food</category>
     <description>MARKTKAUF</description>
+  </expense>
+  <expense>
+    <id>1166</id>
+    <amount>3.63</amount>
+    <date>
+      <day>2</day>
+      <month>11</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>1167</id>
+    <amount>7.90</amount>
+    <date>
+      <day>14</day>
+      <month>11</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>NETTO</description>
+  </expense>
+  <expense>
+    <id>1168</id>
+    <amount>7.00</amount>
+    <date>
+      <day>18</day>
+      <month>11</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Other</category>
+    <description>TKMAXX Swim Goggles</description>
+  </expense>
+  <expense>
+    <id>1169</id>
+    <amount>5.99</amount>
+    <date>
+      <day>18</day>
+      <month>11</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Other</category>
+    <description>INTERSPORT Badekappen</description>
+  </expense>
+  <expense>
+    <id>1170</id>
+    <amount>4.75</amount>
+    <date>
+      <day>16</day>
+      <month>11</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>1171</id>
+    <amount>4.02</amount>
+    <date>
+      <day>17</day>
+      <month>11</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>PENNY</description>
+  </expense>
+  <expense>
+    <id>1172</id>
+    <amount>2.43</amount>
+    <date>
+      <day>14</day>
+      <month>11</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>PENNY</description>
+  </expense>
+  <expense>
+    <id>1173</id>
+    <amount>4.94</amount>
+    <date>
+      <day>17</day>
+      <month>11</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>REAL</description>
+  </expense>
+  <expense>
+    <id>1174</id>
+    <amount>26.08</amount>
+    <date>
+      <day>16</day>
+      <month>11</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>JET Diesel 25L</description>
   </expense>
 </expenses>
