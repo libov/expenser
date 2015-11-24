@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1182</n_expenses>
+  <n_expenses>1185</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -14136,5 +14136,41 @@
     <withdrawn>No</withdrawn>
     <category>Entertainment</category>
     <description>UCI Kinowelt</description>
+  </expense>
+  <expense>
+    <id>1183</id>
+    <amount>3.00</amount>
+    <date>
+      <day>31</day>
+      <month>7</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Other</category>
+    <description>HAMBURG AIRPORT Parken</description>
+  </expense>
+  <expense>
+    <id>1184</id>
+    <amount>10.00</amount>
+    <date>
+      <day>14</day>
+      <month>9</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Other</category>
+    <description>WAITZ APOTHEKE</description>
+  </expense>
+  <expense>
+    <id>1185</id>
+    <amount>11.06</amount>
+    <date>
+      <day>15</day>
+      <month>8</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Other</category>
+    <description>APOTHEKE</description>
   </expense>
 </expenses>
