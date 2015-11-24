@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1202</n_expenses>
+  <n_expenses>1209</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -14376,5 +14376,89 @@
     <withdrawn>No</withdrawn>
     <category>Car</category>
     <description>PREISOASE Lufterfrischer</description>
+  </expense>
+  <expense>
+    <id>1203</id>
+    <amount>21.39</amount>
+    <date>
+      <day>7</day>
+      <month>11</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Clothes</category>
+    <description>TK MAXX</description>
+  </expense>
+  <expense>
+    <id>1204</id>
+    <amount>3.99</amount>
+    <date>
+      <day>18</day>
+      <month>10</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Restaurant</category>
+    <description>BURGER KING</description>
+  </expense>
+  <expense>
+    <id>1205</id>
+    <amount>5.60</amount>
+    <date>
+      <day>14</day>
+      <month>10</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>FAMILA</description>
+  </expense>
+  <expense>
+    <id>1206</id>
+    <amount>7.99</amount>
+    <date>
+      <day>26</day>
+      <month>9</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Other</category>
+    <description>BLUME 2000</description>
+  </expense>
+  <expense>
+    <id>1207</id>
+    <amount>54.97</amount>
+    <date>
+      <day>17</day>
+      <month>9</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Clothes</category>
+    <description>TKMAXX</description>
+  </expense>
+  <expense>
+    <id>1208</id>
+    <amount>13.70</amount>
+    <date>
+      <day>28</day>
+      <month>8</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Other</category>
+    <description>MINI MARKET don't know what</description>
+  </expense>
+  <expense>
+    <id>1209</id>
+    <amount>22.00</amount>
+    <date>
+      <day>5</day>
+      <month>8</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Clothes</category>
+    <description>TKMAXX</description>
   </expense>
 </expenses>
