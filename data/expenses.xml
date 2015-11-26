@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1211</n_expenses>
+  <n_expenses>1214</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -12213,7 +12213,7 @@
       <month>6</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -12363,13 +12363,13 @@
   </expense>
   <expense>
     <id>1035</id>
-    <amount>4.89</amount>
+    <amount>4.99</amount>
     <date>
       <day>27</day>
       <month>6</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Other</category>
     <description>REAL APOTHEKE condoms</description>
   </expense>
@@ -14484,5 +14484,41 @@
     <withdrawn>Yes</withdrawn>
     <category>Flat</category>
     <description>STADTWERKE PINNEBERG Juni 2015</description>
+  </expense>
+  <expense>
+    <id>1212</id>
+    <amount>50.00</amount>
+    <date>
+      <day>26</day>
+      <month>6</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Food</category>
+    <description>DESY CASH - don't find it in my records!</description>
+  </expense>
+  <expense>
+    <id>1213</id>
+    <amount>131.75</amount>
+    <date>
+      <day>1</day>
+      <month>7</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Flat</category>
+    <description>Wohngeld Juli 2015</description>
+  </expense>
+  <expense>
+    <id>1214</id>
+    <amount>20.00</amount>
+    <date>
+      <day>29</day>
+      <month>6</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Cash</category>
+    <description>FOR FOOD</description>
   </expense>
 </expenses>
