@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1214</n_expenses>
+  <n_expenses>1218</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -12201,7 +12201,7 @@
       <month>7</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -12297,7 +12297,7 @@
       <month>7</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>ESSO 15L</description>
   </expense>
@@ -12321,7 +12321,7 @@
       <month>7</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>BFT 15L</description>
   </expense>
@@ -12393,7 +12393,7 @@
       <month>7</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>NETTO</description>
   </expense>
@@ -12417,7 +12417,7 @@
       <month>7</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>PENNY</description>
   </expense>
@@ -12453,7 +12453,7 @@
       <month>7</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>EDEKA MEYER'S</description>
   </expense>
@@ -14520,5 +14520,53 @@
     <withdrawn>Yes</withdrawn>
     <category>Cash</category>
     <description>FOR FOOD</description>
+  </expense>
+  <expense>
+    <id>1215</id>
+    <amount>40.00</amount>
+    <date>
+      <day>30</day>
+      <month>6</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Cash</category>
+    <description>not clear why</description>
+  </expense>
+  <expense>
+    <id>1216</id>
+    <amount>20.00</amount>
+    <date>
+      <day>3</day>
+      <month>7</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Cash</category>
+    <description>not clear what</description>
+  </expense>
+  <expense>
+    <id>1217</id>
+    <amount>40.00</amount>
+    <date>
+      <day>3</day>
+      <month>7</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Cash</category>
+    <description>not clear what</description>
+  </expense>
+  <expense>
+    <id>1218</id>
+    <amount>50.00</amount>
+    <date>
+      <day>7</day>
+      <month>7</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Piano lessons</category>
+    <description>PIANO</description>
   </expense>
 </expenses>
