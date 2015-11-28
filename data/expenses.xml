@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1235</n_expenses>
+  <n_expenses>1238</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -12705,7 +12705,7 @@
       <month>7</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Other</category>
     <description>APOTHEKE</description>
   </expense>
@@ -13089,7 +13089,7 @@
       <month>7</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>PENNY</description>
   </expense>
@@ -13137,7 +13137,7 @@
       <month>8</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -13149,7 +13149,7 @@
       <month>8</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>MARKTKAUF</description>
   </expense>
@@ -13161,7 +13161,7 @@
       <month>8</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>PENNY</description>
   </expense>
@@ -13185,7 +13185,7 @@
       <month>8</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Travel</category>
     <description>HEM 20L trip to St Peter Ording</description>
   </expense>
@@ -13197,7 +13197,7 @@
       <month>8</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Cash</category>
     <description>DESY food</description>
   </expense>
@@ -14772,5 +14772,41 @@
     <withdrawn>Yes</withdrawn>
     <category>Flat</category>
     <description>STADTWERKE Juli 2015</description>
+  </expense>
+  <expense>
+    <id>1236</id>
+    <amount>131.75</amount>
+    <date>
+      <day>3</day>
+      <month>8</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Flat</category>
+    <description>WOHNGELD 08/2015</description>
+  </expense>
+  <expense>
+    <id>1237</id>
+    <amount>12.00</amount>
+    <date>
+      <day>3</day>
+      <month>8</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Car</category>
+    <description>WITTHOFT Faltenbalgsatz</description>
+  </expense>
+  <expense>
+    <id>1238</id>
+    <amount>25.20</amount>
+    <date>
+      <day>1</day>
+      <month>8</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Car</category>
+    <description>AMAZON Gleichlaufgelenk</description>
   </expense>
 </expenses>
