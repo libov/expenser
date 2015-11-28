@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1231</n_expenses>
+  <n_expenses>1232</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -12681,7 +12681,7 @@
       <month>7</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>ALDI</description>
   </expense>
@@ -12693,7 +12693,7 @@
       <month>7</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>REAL</description>
   </expense>
@@ -12729,7 +12729,7 @@
       <month>7</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -12801,7 +12801,7 @@
       <month>7</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>REWE</description>
   </expense>
@@ -12813,7 +12813,7 @@
       <month>7</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>ARAL 10L</description>
   </expense>
@@ -12825,7 +12825,7 @@
       <month>7</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Other</category>
     <description>K PRESSE</description>
   </expense>
@@ -12849,7 +12849,7 @@
       <month>7</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Other</category>
     <description>BUDNI</description>
   </expense>
@@ -12861,7 +12861,7 @@
       <month>7</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>TC JULIA HOFER 15L</description>
   </expense>
@@ -14145,7 +14145,7 @@
       <month>7</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Other</category>
     <description>HAMBURG AIRPORT Parken</description>
   </expense>
@@ -14724,5 +14724,17 @@
     <withdrawn>No</withdrawn>
     <category>Cash</category>
     <description>FOOD?</description>
+  </expense>
+  <expense>
+    <id>1232</id>
+    <amount>3.94</amount>
+    <date>
+      <day>21</day>
+      <month>7</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Other</category>
+    <description>MASTER CARD = ??</description>
   </expense>
 </expenses>
