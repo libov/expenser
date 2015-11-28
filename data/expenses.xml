@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1218</n_expenses>
+  <n_expenses>1223</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -14568,5 +14568,65 @@
     <withdrawn>Yes</withdrawn>
     <category>Piano lessons</category>
     <description>PIANO</description>
+  </expense>
+  <expense>
+    <id>1219</id>
+    <amount>5.83</amount>
+    <date>
+      <day>19</day>
+      <month>11</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>1220</id>
+    <amount>11.49</amount>
+    <date>
+      <day>23</day>
+      <month>11</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>1221</id>
+    <amount>1.38</amount>
+    <date>
+      <day>20</day>
+      <month>11</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>1222</id>
+    <amount>5.01</amount>
+    <date>
+      <day>26</day>
+      <month>11</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>1223</id>
+    <amount>1.93</amount>
+    <date>
+      <day>27</day>
+      <month>11</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
   </expense>
 </expenses>
