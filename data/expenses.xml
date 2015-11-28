@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1232</n_expenses>
+  <n_expenses>1233</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -12777,7 +12777,7 @@
       <month>7</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>ARAL Diesel 15L</description>
   </expense>
@@ -12789,7 +12789,7 @@
       <month>7</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>REAL</description>
   </expense>
@@ -12837,7 +12837,7 @@
       <month>7</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -12873,7 +12873,7 @@
       <month>7</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -12897,7 +12897,7 @@
       <month>7</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>PENNY</description>
   </expense>
@@ -14709,7 +14709,7 @@
       <month>7</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Cash</category>
     <description>FOOD?</description>
   </expense>
@@ -14721,7 +14721,7 @@
       <month>7</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Cash</category>
     <description>FOOD?</description>
   </expense>
@@ -14736,5 +14736,17 @@
     <withdrawn>Yes</withdrawn>
     <category>Other</category>
     <description>MASTER CARD = ??</description>
+  </expense>
+  <expense>
+    <id>1233</id>
+    <amount>39.90</amount>
+    <date>
+      <day>22</day>
+      <month>7</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Flat</category>
+    <description>KABEL DEUTSCHLAND 07/2015</description>
   </expense>
 </expenses>
