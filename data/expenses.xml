@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1238</n_expenses>
+  <n_expenses>1240</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -13209,7 +13209,7 @@
       <month>8</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>FAMILA</description>
   </expense>
@@ -13221,7 +13221,7 @@
       <month>8</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Presents</category>
     <description>FAMILA Ruecksack</description>
   </expense>
@@ -13233,7 +13233,7 @@
       <month>8</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -13245,7 +13245,7 @@
       <month>8</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Other</category>
     <description>BUDNI Apotheke</description>
   </expense>
@@ -13257,7 +13257,7 @@
       <month>8</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Flat</category>
     <description>IKEA podushki na stulja</description>
   </expense>
@@ -13269,7 +13269,7 @@
       <month>8</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>MEYERS</description>
   </expense>
@@ -13281,7 +13281,7 @@
       <month>8</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>MARKTKAUF</description>
   </expense>
@@ -13689,7 +13689,7 @@
       <month>8</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>ESSO Diesel 20L</description>
   </expense>
@@ -14049,7 +14049,7 @@
       <month>8</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>MARKTKAUF</description>
   </expense>
@@ -14229,7 +14229,7 @@
       <month>8</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>HEM Diesel 20L</description>
   </expense>
@@ -14457,7 +14457,7 @@
       <month>8</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Clothes</category>
     <description>TKMAXX</description>
   </expense>
@@ -14808,5 +14808,29 @@
     <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>AMAZON Gleichlaufgelenk</description>
+  </expense>
+  <expense>
+    <id>1239</id>
+    <amount>20.00</amount>
+    <date>
+      <day>11</day>
+      <month>8</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Cash</category>
+    <description>FOOD</description>
+  </expense>
+  <expense>
+    <id>1240</id>
+    <amount>70.00</amount>
+    <date>
+      <day>12</day>
+      <month>8</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Cash</category>
+    <description>????????????</description>
   </expense>
 </expenses>
