@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1247</n_expenses>
+  <n_expenses>1250</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -13377,7 +13377,7 @@
       <month>8</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -13569,7 +13569,7 @@
       <month>8</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>REAL</description>
   </expense>
@@ -13761,7 +13761,7 @@
       <month>8</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Restaurant</category>
     <description>KFC Hannover</description>
   </expense>
@@ -14181,7 +14181,7 @@
       <month>8</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>HEM Diesel 15L</description>
   </expense>
@@ -14253,7 +14253,7 @@
       <month>8</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>JET Diesel 15L</description>
   </expense>
@@ -14289,7 +14289,7 @@
       <month>8</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>MEYERS</description>
   </expense>
@@ -14916,5 +14916,41 @@
     <withdrawn>No</withdrawn>
     <category>Food</category>
     <description>PENNY</description>
+  </expense>
+  <expense>
+    <id>1248</id>
+    <amount>39.90</amount>
+    <date>
+      <day>21</day>
+      <month>8</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Flat</category>
+    <description>KABEL DEUTSCHLAND 08/2015</description>
+  </expense>
+  <expense>
+    <id>1249</id>
+    <amount>29.50</amount>
+    <date>
+      <day>20</day>
+      <month>8</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Presents</category>
+    <description>MEINFERNBUS for Marusya</description>
+  </expense>
+  <expense>
+    <id>1250</id>
+    <amount>1.99</amount>
+    <date>
+      <day>21</day>
+      <month>8</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Other</category>
+    <description>PAYPAL Schutzfolien</description>
   </expense>
 </expenses>
