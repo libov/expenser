@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1244</n_expenses>
+  <n_expenses>1247</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -14880,5 +14880,41 @@
     <withdrawn>Yes</withdrawn>
     <category>Presents</category>
     <description>PAYPAL - ticket for Marusya - don't remember if got back -> presents</description>
+  </expense>
+  <expense>
+    <id>1245</id>
+    <amount>10.59</amount>
+    <date>
+      <day>28</day>
+      <month>11</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>BFT Diesel 10L</description>
+  </expense>
+  <expense>
+    <id>1246</id>
+    <amount>11.43</amount>
+    <date>
+      <day>28</day>
+      <month>11</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>1247</id>
+    <amount>6.30</amount>
+    <date>
+      <day>28</day>
+      <month>11</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>PENNY</description>
   </expense>
 </expenses>
