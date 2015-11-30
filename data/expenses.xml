@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1253</n_expenses>
+  <n_expenses>1256</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -14988,5 +14988,41 @@
     <withdrawn>Yes</withdrawn>
     <category>Presents</category>
     <description>WESTERNUNION money for Mum</description>
+  </expense>
+  <expense>
+    <id>1254</id>
+    <amount>2.86</amount>
+    <date>
+      <day>30</day>
+      <month>11</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>1255</id>
+    <amount>20.59</amount>
+    <date>
+      <day>30</day>
+      <month>11</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>HEM Diesel 20L</description>
+  </expense>
+  <expense>
+    <id>1256</id>
+    <amount>98.90</amount>
+    <date>
+      <day>30</day>
+      <month>11</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>TUEV NORD - Hauptuntersuchung</description>
   </expense>
 </expenses>
