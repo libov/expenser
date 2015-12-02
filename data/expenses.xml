@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1276</n_expenses>
+  <n_expenses>1278</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -13929,7 +13929,7 @@
       <month>9</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>MARKTKAUF</description>
   </expense>
@@ -14157,7 +14157,7 @@
       <month>9</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Other</category>
     <description>WAITZ APOTHEKE</description>
   </expense>
@@ -15264,5 +15264,29 @@
     <withdrawn>Yes</withdrawn>
     <category>Other</category>
     <description>KLINIK FLEETINSEL Eigenanteil</description>
+  </expense>
+  <expense>
+    <id>1277</id>
+    <amount>3.69</amount>
+    <date>
+      <day>10</day>
+      <month>9</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Presents</category>
+    <description>AMAZON Cable for Mom's Tablet</description>
+  </expense>
+  <expense>
+    <id>1278</id>
+    <amount>200.00</amount>
+    <date>
+      <day>16</day>
+      <month>9</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Cash</category>
+    <description>DON'T KNOW WHAT!! ??</description>
   </expense>
 </expenses>
