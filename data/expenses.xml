@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1272</n_expenses>
+  <n_expenses>1276</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -15216,5 +15216,53 @@
     <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>KASSE HAMBURG Falschparken Verwarnungsgeld</description>
+  </expense>
+  <expense>
+    <id>1273</id>
+    <amount>10.00</amount>
+    <date>
+      <day>11</day>
+      <month>9</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Other</category>
+    <description>ASKLEPIOS KLINIK ALTONA</description>
+  </expense>
+  <expense>
+    <id>1274</id>
+    <amount>85.82</amount>
+    <date>
+      <day>9</day>
+      <month>9</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Presents</category>
+    <description>PAYPAL KUNSTPARK stuff for Mom</description>
+  </expense>
+  <expense>
+    <id>1275</id>
+    <amount>31.92</amount>
+    <date>
+      <day>9</day>
+      <month>9</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Car</category>
+    <description>PAYPAL AUTOTEILEMANN Scheibenwischer</description>
+  </expense>
+  <expense>
+    <id>1276</id>
+    <amount>30.00</amount>
+    <date>
+      <day>9</day>
+      <month>9</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Other</category>
+    <description>KLINIK FLEETINSEL Eigenanteil</description>
   </expense>
 </expenses>
