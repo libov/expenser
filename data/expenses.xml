@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1264</n_expenses>
+  <n_expenses>1265</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -15120,5 +15120,17 @@
     <withdrawn>No</withdrawn>
     <category>Cash</category>
     <description>DESY ATM, food</description>
+  </expense>
+  <expense>
+    <id>1265</id>
+    <amount>6.31</amount>
+    <date>
+      <day>1</day>
+      <month>12</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>FAMILA</description>
   </expense>
 </expenses>
