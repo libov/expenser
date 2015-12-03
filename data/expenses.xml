@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1278</n_expenses>
+  <n_expenses>1279</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -15288,5 +15288,17 @@
     <withdrawn>Yes</withdrawn>
     <category>Cash</category>
     <description>DON'T KNOW WHAT!! ??</description>
+  </expense>
+  <expense>
+    <id>1279</id>
+    <amount>16.63</amount>
+    <date>
+      <day>3</day>
+      <month>12</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>REAL</description>
   </expense>
 </expenses>
