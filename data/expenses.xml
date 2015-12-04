@@ -13869,7 +13869,7 @@
       <month>10</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Presents</category>
     <description>FAMILIA for Ungvar</description>
   </expense>
@@ -13905,7 +13905,7 @@
       <month>10</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>HEM Diesel 20L</description>
   </expense>
@@ -14241,7 +14241,7 @@
       <month>10</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>SHELL Diesel 15L</description>
   </expense>
@@ -14397,7 +14397,7 @@
       <month>10</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Restaurant</category>
     <description>BURGER KING</description>
   </expense>
