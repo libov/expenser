@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1296</n_expenses>
+  <n_expenses>1298</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -15492,5 +15492,29 @@
     <withdrawn>Yes</withdrawn>
     <category>Other</category>
     <description>MASTERCARD AUSLANDEINSATZ</description>
+  </expense>
+  <expense>
+    <id>1297</id>
+    <amount>24.73</amount>
+    <date>
+      <day>4</day>
+      <month>12</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>HEM Diesel 25L</description>
+  </expense>
+  <expense>
+    <id>1298</id>
+    <amount>8.50</amount>
+    <date>
+      <day>4</day>
+      <month>12</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>WITTHOEFT Autoteile Birne, Fett, etc.</description>
   </expense>
 </expenses>
