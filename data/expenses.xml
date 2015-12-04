@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1295</n_expenses>
+  <n_expenses>1296</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -14715,7 +14715,7 @@
   </expense>
   <expense>
     <id>1232</id>
-    <amount>3.94</amount>
+    <amount>3.86</amount>
     <date>
       <day>21</day>
       <month>7</month>
@@ -14723,7 +14723,7 @@
     </date>
     <withdrawn>Yes</withdrawn>
     <category>Other</category>
-    <description>MASTER CARD = ??</description>
+    <description>MASTER CARD: Poland autobahn 16.20 zl from 21.06</description>
   </expense>
   <expense>
     <id>1233</id>
@@ -15480,5 +15480,17 @@
     <withdrawn>Yes</withdrawn>
     <category>Travel</category>
     <description>CASH for Ungvar Trip</description>
+  </expense>
+  <expense>
+    <id>1296</id>
+    <amount>0.08</amount>
+    <date>
+      <day>21</day>
+      <month>7</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Other</category>
+    <description>MASTERCARD AUSLANDEINSATZ</description>
   </expense>
 </expenses>
