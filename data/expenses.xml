@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1293</n_expenses>
+  <n_expenses>1295</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -15468,5 +15468,29 @@
     <withdrawn>Yes</withdrawn>
     <category>Other</category>
     <description>CASH for Krankengymnastik</description>
+  </expense>
+  <expense>
+    <id>1294</id>
+    <amount>100.00</amount>
+    <date>
+      <day>22</day>
+      <month>10</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Presents</category>
+    <description>CASH for Mum</description>
+  </expense>
+  <expense>
+    <id>1295</id>
+    <amount>100.00</amount>
+    <date>
+      <day>22</day>
+      <month>10</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Travel</category>
+    <description>CASH for Ungvar Trip</description>
   </expense>
 </expenses>
