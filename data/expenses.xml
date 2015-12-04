@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1290</n_expenses>
+  <n_expenses>1293</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -13341,7 +13341,7 @@
       <month>10</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -13821,7 +13821,7 @@
       <month>10</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>HEM Diesel 15L</description>
   </expense>
@@ -13857,7 +13857,7 @@
       <month>10</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>ESSO Diesel 15L</description>
   </expense>
@@ -14277,7 +14277,7 @@
       <month>10</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>MEYER EDEKA</description>
   </expense>
@@ -14325,7 +14325,7 @@
       <month>10</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Other</category>
     <description>MARKTKAUF ziggi</description>
   </expense>
@@ -14361,7 +14361,7 @@
       <month>10</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Restaurant</category>
     <description>McDonalds</description>
   </expense>
@@ -15432,5 +15432,41 @@
     <withdrawn>Yes</withdrawn>
     <category>Other</category>
     <description>WORMANN and BEYLE Strumpf</description>
+  </expense>
+  <expense>
+    <id>1291</id>
+    <amount>20.00</amount>
+    <date>
+      <day>7</day>
+      <month>10</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Cash</category>
+    <description>DESY Food</description>
+  </expense>
+  <expense>
+    <id>1292</id>
+    <amount>25.00</amount>
+    <date>
+      <day>12</day>
+      <month>10</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Piano lessons</category>
+    <description>PIANO</description>
+  </expense>
+  <expense>
+    <id>1293</id>
+    <amount>20.00</amount>
+    <date>
+      <day>11</day>
+      <month>10</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Other</category>
+    <description>CASH for Krankengymnastik</description>
   </expense>
 </expenses>
