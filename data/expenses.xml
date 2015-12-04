@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1283</n_expenses>
+  <n_expenses>1290</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -13401,7 +13401,7 @@
       <month>9</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -13425,7 +13425,7 @@
       <month>10</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -13593,7 +13593,7 @@
       <month>9</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>REAL</description>
   </expense>
@@ -13797,7 +13797,7 @@
       <month>9</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>HEM Diesel 15L</description>
   </expense>
@@ -13845,7 +13845,7 @@
       <month>10</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>TOTAL Diesel 20L</description>
   </expense>
@@ -15348,5 +15348,89 @@
     <withdrawn>Yes</withdrawn>
     <category>Other</category>
     <description>RECHNUNGSABSCHLUS ??</description>
+  </expense>
+  <expense>
+    <id>1284</id>
+    <amount>159.00</amount>
+    <date>
+      <day>28</day>
+      <month>9</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Flat</category>
+    <description>STADTWERKE 09/2015</description>
+  </expense>
+  <expense>
+    <id>1285</id>
+    <amount>40.19</amount>
+    <date>
+      <day>28</day>
+      <month>9</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Flat</category>
+    <description>KABELDEUTSCHLAND 09/2015</description>
+  </expense>
+  <expense>
+    <id>1286</id>
+    <amount>20.00</amount>
+    <date>
+      <day>25</day>
+      <month>9</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Cash</category>
+    <description>DESY not clear what ??</description>
+  </expense>
+  <expense>
+    <id>1287</id>
+    <amount>155.53</amount>
+    <date>
+      <day>1</day>
+      <month>10</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Flat</category>
+    <description>WOHNGELD 10/2015</description>
+  </expense>
+  <expense>
+    <id>1288</id>
+    <amount>20.00</amount>
+    <date>
+      <day>5</day>
+      <month>10</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Cash</category>
+    <description>DESY food</description>
+  </expense>
+  <expense>
+    <id>1289</id>
+    <amount>70.00</amount>
+    <date>
+      <day>28</day>
+      <month>9</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Cash</category>
+    <description>DESY not clear what ??</description>
+  </expense>
+  <expense>
+    <id>1290</id>
+    <amount>5.00</amount>
+    <date>
+      <day>6</day>
+      <month>10</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Other</category>
+    <description>WORMANN and BEYLE Strumpf</description>
   </expense>
 </expenses>
