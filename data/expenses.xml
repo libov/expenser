@@ -13550,18 +13550,6 @@
     <description>REAL</description>
   </expense>
   <expense>
-    <id>1134</id>
-    <amount>18.51</amount>
-    <date>
-      <day>25</day>
-      <month>9</month>
-      <year>2015</year>
-    </date>
-    <withdrawn>No</withdrawn>
-    <category>Food</category>
-    <description>REAL</description>
-  </expense>
-  <expense>
     <id>1135</id>
     <amount>15.28</amount>
     <date>
