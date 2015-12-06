@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1302</n_expenses>
+  <n_expenses>1303</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -15564,5 +15564,17 @@
     <withdrawn>No</withdrawn>
     <category>Presents</category>
     <description>WANDERZEIT ski stuff</description>
+  </expense>
+  <expense>
+    <id>1303</id>
+    <amount>111.00</amount>
+    <date>
+      <day>6</day>
+      <month>12</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Travel</category>
+    <description>Trip to Ungvar October 2015- money to Natali</description>
   </expense>
 </expenses>
