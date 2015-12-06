@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1298</n_expenses>
+  <n_expenses>1302</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -15516,5 +15516,53 @@
     <withdrawn>No</withdrawn>
     <category>Car</category>
     <description>WITTHOEFT Autoteile Birne, Fett, etc.</description>
+  </expense>
+  <expense>
+    <id>1299</id>
+    <amount>4.41</amount>
+    <date>
+      <day>5</day>
+      <month>12</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>PENNY</description>
+  </expense>
+  <expense>
+    <id>1300</id>
+    <amount>16.12</amount>
+    <date>
+      <day>5</day>
+      <month>12</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>REWE</description>
+  </expense>
+  <expense>
+    <id>1301</id>
+    <amount>13.32</amount>
+    <date>
+      <day>5</day>
+      <month>12</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>REAL</description>
+  </expense>
+  <expense>
+    <id>1302</id>
+    <amount>35.20</amount>
+    <date>
+      <day>5</day>
+      <month>12</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Presents</category>
+    <description>WANDERZEIT ski stuff</description>
   </expense>
 </expenses>
