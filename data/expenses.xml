@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1306</n_expenses>
+  <n_expenses>1311</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -13449,7 +13449,7 @@
       <month>10</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -13497,7 +13497,7 @@
       <month>10</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Presents</category>
     <description>LIDL Sweets for Ungvar</description>
   </expense>
@@ -13569,7 +13569,7 @@
       <month>10</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Presents</category>
     <description>REAL Bier for Ungvar</description>
   </expense>
@@ -13863,13 +13863,13 @@
   </expense>
   <expense>
     <id>1161</id>
-    <amount>25.98</amount>
+    <amount>23.38</amount>
     <date>
       <day>22</day>
       <month>10</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Presents</category>
     <description>DOUGLAS for Ungvar</description>
   </expense>
@@ -13881,7 +13881,7 @@
       <month>10</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Presents</category>
     <description>MARKTKAUF for Ungvar</description>
   </expense>
@@ -14253,7 +14253,7 @@
       <month>10</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>TESCO</description>
   </expense>
@@ -15612,5 +15612,65 @@
     <withdrawn>No</withdrawn>
     <category>Cash</category>
     <description>DESY for Food</description>
+  </expense>
+  <expense>
+    <id>1307</id>
+    <amount>20.00</amount>
+    <date>
+      <day>21</day>
+      <month>10</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Cash</category>
+    <description>FOOD</description>
+  </expense>
+  <expense>
+    <id>1308</id>
+    <amount>10.00</amount>
+    <date>
+      <day>25</day>
+      <month>10</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Other</category>
+    <description>WORTMANN & BEYLE Kniescheine</description>
+  </expense>
+  <expense>
+    <id>1309</id>
+    <amount>159.00</amount>
+    <date>
+      <day>28</day>
+      <month>10</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Flat</category>
+    <description>STADTWERKE 10/2015</description>
+  </expense>
+  <expense>
+    <id>1310</id>
+    <amount>41.35</amount>
+    <date>
+      <day>29</day>
+      <month>10</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Flat</category>
+    <description>KABELDEUTSCHLAND 10/2015</description>
+  </expense>
+  <expense>
+    <id>1311</id>
+    <amount>20.00</amount>
+    <date>
+      <day>19</day>
+      <month>10</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Cash</category>
+    <description>DESY ??</description>
   </expense>
 </expenses>
