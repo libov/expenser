@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1311</n_expenses>
+  <n_expenses>1314</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -13653,7 +13653,7 @@
       <month>11</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>BFT DIesel 10L</description>
   </expense>
@@ -13665,7 +13665,7 @@
       <month>11</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>ESSO Diesel 15L</description>
   </expense>
@@ -13713,7 +13713,7 @@
       <month>11</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -13761,7 +13761,7 @@
       <month>11</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>REAL</description>
   </expense>
@@ -13929,7 +13929,7 @@
       <month>11</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -15672,5 +15672,41 @@
     <withdrawn>Yes</withdrawn>
     <category>Cash</category>
     <description>DESY ??</description>
+  </expense>
+  <expense>
+    <id>1312</id>
+    <amount>20.00</amount>
+    <date>
+      <day>4</day>
+      <month>11</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Cash</category>
+    <description>DESY for Food</description>
+  </expense>
+  <expense>
+    <id>1313</id>
+    <amount>155.53</amount>
+    <date>
+      <day>2</day>
+      <month>11</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Flat</category>
+    <description>WOHNGELD 11/2015</description>
+  </expense>
+  <expense>
+    <id>1314</id>
+    <amount>262.00</amount>
+    <date>
+      <day>2</day>
+      <month>11</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Car</category>
+    <description>AUTO STEUER 2016</description>
   </expense>
 </expenses>
