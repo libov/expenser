@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1316</n_expenses>
+  <n_expenses>1320</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -13641,7 +13641,7 @@
       <month>11</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>ESSO Diesel 15L</description>
   </expense>
@@ -13725,7 +13725,7 @@
       <month>11</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -13941,7 +13941,7 @@
       <month>11</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>NETTO</description>
   </expense>
@@ -13953,7 +13953,7 @@
       <month>11</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Other</category>
     <description>TKMAXX Swim Goggles</description>
   </expense>
@@ -13965,7 +13965,7 @@
       <month>11</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Other</category>
     <description>INTERSPORT Badekappen</description>
   </expense>
@@ -13977,7 +13977,7 @@
       <month>11</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -13989,7 +13989,7 @@
       <month>11</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>PENNY</description>
   </expense>
@@ -14001,7 +14001,7 @@
       <month>11</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>PENNY</description>
   </expense>
@@ -14013,7 +14013,7 @@
       <month>11</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>REAL</description>
   </expense>
@@ -14025,7 +14025,7 @@
       <month>11</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>JET Diesel 25L</description>
   </expense>
@@ -14565,7 +14565,7 @@
       <month>11</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -14625,7 +14625,7 @@
       <month>11</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Restaurant</category>
     <description>BURGER KING</description>
   </expense>
@@ -14649,7 +14649,7 @@
       <month>11</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Restaurant</category>
     <description>JIM BLOCK</description>
   </expense>
@@ -15021,7 +15021,7 @@
       <month>11</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Restaurant</category>
     <description>McDonalds Berlin</description>
   </expense>
@@ -15732,5 +15732,53 @@
     <withdrawn>Yes</withdrawn>
     <category>Other</category>
     <description>DESY for Deutschkurs</description>
+  </expense>
+  <expense>
+    <id>1317</id>
+    <amount>50.00</amount>
+    <date>
+      <day>14</day>
+      <month>11</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Travel</category>
+    <description>Cash for Berlin</description>
+  </expense>
+  <expense>
+    <id>1318</id>
+    <amount>30.00</amount>
+    <date>
+      <day>12</day>
+      <month>11</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Cash</category>
+    <description>for Food</description>
+  </expense>
+  <expense>
+    <id>1319</id>
+    <amount>31.67</amount>
+    <date>
+      <day>16</day>
+      <month>11</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Flat</category>
+    <description>GRUNDSTEUER B</description>
+  </expense>
+  <expense>
+    <id>1320</id>
+    <amount>33.12</amount>
+    <date>
+      <day>14</day>
+      <month>11</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Car</category>
+    <description>MERCEDES-BENZ diverse Teile</description>
   </expense>
 </expenses>
