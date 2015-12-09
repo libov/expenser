@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1327</n_expenses>
+  <n_expenses>1328</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -15864,5 +15864,17 @@
     <withdrawn>No</withdrawn>
     <category>Car</category>
     <description>BAUHAUS Zange</description>
+  </expense>
+  <expense>
+    <id>1328</id>
+    <amount>5.00</amount>
+    <date>
+      <day>8</day>
+      <month>12</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>WITTHOEFT diverse Art</description>
   </expense>
 </expenses>
