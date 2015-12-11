@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1331</n_expenses>
+  <n_expenses>1334</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -15912,5 +15912,41 @@
     <withdrawn>No</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>1332</id>
+    <amount>12.00</amount>
+    <date>
+      <day>11</day>
+      <month>12</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>WITTHOEFT div. Artikel</description>
+  </expense>
+  <expense>
+    <id>1333</id>
+    <amount>29.08</amount>
+    <date>
+      <day>11</day>
+      <month>12</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>HEM Diesel 30L</description>
+  </expense>
+  <expense>
+    <id>1334</id>
+    <amount>3.13</amount>
+    <date>
+      <day>10</day>
+      <month>12</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>PENNY</description>
   </expense>
 </expenses>
