@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1329</n_expenses>
+  <n_expenses>1330</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -15888,5 +15888,17 @@
     <withdrawn>No</withdrawn>
     <category>Car</category>
     <description>ATU Schlauchschellen</description>
+  </expense>
+  <expense>
+    <id>1330</id>
+    <amount>18.99</amount>
+    <date>
+      <day>10</day>
+      <month>12</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Clothes</category>
+    <description>TK MAXX Unterwaesche</description>
   </expense>
 </expenses>
