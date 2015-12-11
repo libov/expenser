@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1334</n_expenses>
+  <n_expenses>1335</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -15948,5 +15948,17 @@
     <withdrawn>No</withdrawn>
     <category>Food</category>
     <description>PENNY</description>
+  </expense>
+  <expense>
+    <id>1335</id>
+    <amount>8.95</amount>
+    <date>
+      <day>11</day>
+      <month>12</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>AMAZON Klemmzange</description>
   </expense>
 </expenses>
