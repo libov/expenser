@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1330</n_expenses>
+  <n_expenses>1331</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -15900,5 +15900,17 @@
     <withdrawn>No</withdrawn>
     <category>Clothes</category>
     <description>TK MAXX Unterwaesche</description>
+  </expense>
+  <expense>
+    <id>1331</id>
+    <amount>2.14</amount>
+    <date>
+      <day>11</day>
+      <month>12</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
   </expense>
 </expenses>
