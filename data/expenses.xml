@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1335</n_expenses>
+  <n_expenses>1336</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -15960,5 +15960,17 @@
     <withdrawn>No</withdrawn>
     <category>Car</category>
     <description>AMAZON Klemmzange</description>
+  </expense>
+  <expense>
+    <id>1336</id>
+    <amount>31.00</amount>
+    <date>
+      <day>11</day>
+      <month>12</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>PAYPAL EBAY Rueckleuchte</description>
   </expense>
 </expenses>
