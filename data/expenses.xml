@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1337</n_expenses>
+  <n_expenses>1338</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -15984,5 +15984,17 @@
     <withdrawn>No</withdrawn>
     <category>Food</category>
     <description>REWE drinks for British Christmas</description>
+  </expense>
+  <expense>
+    <id>1338</id>
+    <amount>3.99</amount>
+    <date>
+      <day>13</day>
+      <month>12</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Restaurant</category>
+    <description>BURGER KING</description>
   </expense>
 </expenses>
