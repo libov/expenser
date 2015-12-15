@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1338</n_expenses>
+  <n_expenses>1339</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -15996,5 +15996,17 @@
     <withdrawn>No</withdrawn>
     <category>Restaurant</category>
     <description>BURGER KING</description>
+  </expense>
+  <expense>
+    <id>1339</id>
+    <amount>3.58</amount>
+    <date>
+      <day>15</day>
+      <month>12</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
   </expense>
 </expenses>
