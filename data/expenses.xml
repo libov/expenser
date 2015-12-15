@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1339</n_expenses>
+  <n_expenses>1341</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -16008,5 +16008,29 @@
     <withdrawn>No</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>1340</id>
+    <amount>20.00</amount>
+    <date>
+      <day>14</day>
+      <month>12</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Restaurant</category>
+    <description>Timons party Ashoka restaurant</description>
+  </expense>
+  <expense>
+    <id>1341</id>
+    <amount>40.00</amount>
+    <date>
+      <day>14</day>
+      <month>12</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Other</category>
+    <description>Krankengymnastik Zuzahlung+Ausfallgebuehr</description>
   </expense>
 </expenses>
