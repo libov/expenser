@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1343</n_expenses>
+  <n_expenses>1345</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -16056,5 +16056,29 @@
     <withdrawn>No</withdrawn>
     <category>Car</category>
     <description>AMAZON OBD device</description>
+  </expense>
+  <expense>
+    <id>1344</id>
+    <amount>28.47</amount>
+    <date>
+      <day>16</day>
+      <month>12</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>HEM Diesel 30L</description>
+  </expense>
+  <expense>
+    <id>1345</id>
+    <amount>2.47</amount>
+    <date>
+      <day>16</day>
+      <month>12</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
   </expense>
 </expenses>
