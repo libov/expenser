@@ -15921,7 +15921,7 @@
       <month>12</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>WITTHOEFT div. Artikel</description>
   </expense>
@@ -15945,7 +15945,7 @@
       <month>12</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>PENNY</description>
   </expense>
@@ -16017,7 +16017,7 @@
       <month>12</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Restaurant</category>
     <description>Timons party Ashoka restaurant</description>
   </expense>
@@ -16029,7 +16029,7 @@
       <month>12</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Other</category>
     <description>Krankengymnastik Zuzahlung+Ausfallgebuehr</description>
   </expense>
