@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1351</n_expenses>
+  <n_expenses>1352</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -16152,5 +16152,17 @@
     <withdrawn>No</withdrawn>
     <category>Other</category>
     <description>PAYPAL Linsenpate.de Lenses</description>
+  </expense>
+  <expense>
+    <id>1352</id>
+    <amount>12.95</amount>
+    <date>
+      <day>20</day>
+      <month>12</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>PAYPAL eBay Werkzeug Torx Nuesse</description>
   </expense>
 </expenses>
