@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1356</n_expenses>
+  <n_expenses>1358</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -16212,5 +16212,29 @@
     <withdrawn>No</withdrawn>
     <category>Car</category>
     <description>AUTOTEILE WITTHOEFT - Querlenkerlagerung set</description>
+  </expense>
+  <expense>
+    <id>1357</id>
+    <amount>50.00</amount>
+    <date>
+      <day>21</day>
+      <month>12</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Piano lessons</category>
+    <description/>
+  </expense>
+  <expense>
+    <id>1358</id>
+    <amount>60.00</amount>
+    <date>
+      <day>21</day>
+      <month>12</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Cash</category>
+    <description>FISCHMARKT</description>
   </expense>
 </expenses>
