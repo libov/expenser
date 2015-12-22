@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1363</n_expenses>
+  <n_expenses>1364</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -16296,5 +16296,17 @@
     <withdrawn>Yes</withdrawn>
     <category>Restaurant</category>
     <description>McDonalds</description>
+  </expense>
+  <expense>
+    <id>1364</id>
+    <amount>7.49</amount>
+    <date>
+      <day>22</day>
+      <month>12</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Presents</category>
+    <description>AMAZON Charge Port Mums Tablet</description>
   </expense>
 </expenses>
