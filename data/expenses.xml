@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1359</n_expenses>
+  <n_expenses>1362</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -16248,5 +16248,41 @@
     <withdrawn>No</withdrawn>
     <category>Presents</category>
     <description>TCHIBO coffee for Mum</description>
+  </expense>
+  <expense>
+    <id>1360</id>
+    <amount>94.94</amount>
+    <date>
+      <day>22</day>
+      <month>12</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Presents</category>
+    <description>TK MAXX stuff for Kids and Mum</description>
+  </expense>
+  <expense>
+    <id>1361</id>
+    <amount>5.99</amount>
+    <date>
+      <day>22</day>
+      <month>12</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Books</category>
+    <description>TK MAXX Digital Photography</description>
+  </expense>
+  <expense>
+    <id>1362</id>
+    <amount>25.00</amount>
+    <date>
+      <day>22</day>
+      <month>12</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Clothes</category>
+    <description>TK MAXX Kedy Diesel</description>
   </expense>
 </expenses>
