@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1355</n_expenses>
+  <n_expenses>1356</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -16200,5 +16200,17 @@
     <withdrawn>No</withdrawn>
     <category>Presents</category>
     <description>MARKTKAUF Lego etc. for Andrju</description>
+  </expense>
+  <expense>
+    <id>1356</id>
+    <amount>30.90</amount>
+    <date>
+      <day>21</day>
+      <month>12</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>AUTOTEILE WITTHOEFT - Querlenkerlagerung set</description>
   </expense>
 </expenses>
