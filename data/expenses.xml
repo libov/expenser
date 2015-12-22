@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1362</n_expenses>
+  <n_expenses>1363</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -16101,7 +16101,7 @@
       <month>12</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -16125,7 +16125,7 @@
       <month>12</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>ATU Fehlerspeicher auslesen</description>
   </expense>
@@ -16173,7 +16173,7 @@
       <month>12</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Presents</category>
     <description>H&M Kostljum Andrjushe</description>
   </expense>
@@ -16185,7 +16185,7 @@
       <month>12</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Presents</category>
     <description>Apotheke for Mum</description>
   </expense>
@@ -16197,7 +16197,7 @@
       <month>12</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Presents</category>
     <description>MARKTKAUF Lego etc. for Andrju</description>
   </expense>
@@ -16284,5 +16284,17 @@
     <withdrawn>No</withdrawn>
     <category>Clothes</category>
     <description>TK MAXX Kedy Diesel</description>
+  </expense>
+  <expense>
+    <id>1363</id>
+    <amount>7.19</amount>
+    <date>
+      <day>18</day>
+      <month>12</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Restaurant</category>
+    <description>McDonalds</description>
   </expense>
 </expenses>
