@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1369</n_expenses>
+  <n_expenses>1370</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -16368,5 +16368,17 @@
     <withdrawn>No</withdrawn>
     <category>Car</category>
     <description>WITTHOFT Befestigungsschellen fuer die Achsmanschette</description>
+  </expense>
+  <expense>
+    <id>1370</id>
+    <amount>139.34</amount>
+    <date>
+      <day>26</day>
+      <month>12</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Music equipment</category>
+    <description>PAYPAL Studio One 3 !!!</description>
   </expense>
 </expenses>
