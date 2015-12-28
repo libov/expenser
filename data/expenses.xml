@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1373</n_expenses>
+  <n_expenses>1374</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -16416,5 +16416,17 @@
     <withdrawn>No</withdrawn>
     <category>Presents</category>
     <description>INTERSPORT swimming suites for kids/mum</description>
+  </expense>
+  <expense>
+    <id>1374</id>
+    <amount>33.00</amount>
+    <date>
+      <day>28</day>
+      <month>12</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Presents</category>
+    <description>ARRIBA with kids/mum</description>
   </expense>
 </expenses>
