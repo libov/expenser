@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1384</n_expenses>
+  <n_expenses>1386</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -16305,7 +16305,7 @@
       <month>12</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Presents</category>
     <description>AMAZON Charge Port Mums Tablet</description>
   </expense>
@@ -16389,7 +16389,7 @@
       <month>12</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>TUV NORD NACHPRUEFUNG</description>
   </expense>
@@ -16401,7 +16401,7 @@
       <month>12</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -16548,5 +16548,29 @@
     <withdrawn>No</withdrawn>
     <category>Clothes</category>
     <description>TK MAXX Halat, kofta</description>
+  </expense>
+  <expense>
+    <id>1385</id>
+    <amount>37.33</amount>
+    <date>
+      <day>28</day>
+      <month>12</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Flat</category>
+    <description>KABEL DEUTSCHLAND 12/2015 Sonstige Zahlung</description>
+  </expense>
+  <expense>
+    <id>1386</id>
+    <amount>159.00</amount>
+    <date>
+      <day>28</day>
+      <month>12</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Flat</category>
+    <description>STADTWERKE 12/2015</description>
   </expense>
 </expenses>
