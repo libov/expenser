@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1383</n_expenses>
+  <n_expenses>1384</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -16536,5 +16536,17 @@
     <withdrawn>No</withdrawn>
     <category>Other</category>
     <description>ROSSMAN various</description>
+  </expense>
+  <expense>
+    <id>1384</id>
+    <amount>19.00</amount>
+    <date>
+      <day>30</day>
+      <month>12</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Clothes</category>
+    <description>TK MAXX Halat, kofta</description>
   </expense>
 </expenses>
