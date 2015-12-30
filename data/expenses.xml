@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1386</n_expenses>
+  <n_expenses>1387</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -16413,7 +16413,7 @@
       <month>12</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Presents</category>
     <description>INTERSPORT swimming suites for kids/mum</description>
   </expense>
@@ -16461,7 +16461,7 @@
       <month>12</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -16509,7 +16509,7 @@
       <month>12</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Presents</category>
     <description>TK MAXX Pizhama Andrjusha</description>
   </expense>
@@ -16572,5 +16572,17 @@
     <withdrawn>Yes</withdrawn>
     <category>Flat</category>
     <description>STADTWERKE 12/2015</description>
+  </expense>
+  <expense>
+    <id>1387</id>
+    <amount>18.84</amount>
+    <date>
+      <day>28</day>
+      <month>12</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Presents</category>
+    <description>SCHUHCENTER various</description>
   </expense>
 </expenses>
