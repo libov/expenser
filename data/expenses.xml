@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1387</n_expenses>
+  <n_expenses>1388</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -16371,13 +16371,13 @@
   </expense>
   <expense>
     <id>1370</id>
-    <amount>139.34</amount>
+    <amount>141.54</amount>
     <date>
       <day>26</day>
       <month>12</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Music equipment</category>
     <description>PAYPAL Studio One 3 !!!</description>
   </expense>
@@ -16584,5 +16584,17 @@
     <withdrawn>Yes</withdrawn>
     <category>Presents</category>
     <description>SCHUHCENTER various</description>
+  </expense>
+  <expense>
+    <id>1388</id>
+    <amount>50.00</amount>
+    <date>
+      <day>29</day>
+      <month>12</month>
+      <year>2015</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Cash</category>
+    <description>to Mom - Arriba restaurant and LIDL</description>
   </expense>
 </expenses>
