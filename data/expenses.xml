@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1392</n_expenses>
+  <n_expenses>1393</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -16644,5 +16644,17 @@
     <withdrawn>No</withdrawn>
     <category>Entertainment</category>
     <description>LIDL stuff for NY</description>
+  </expense>
+  <expense>
+    <id>1393</id>
+    <amount>50.00</amount>
+    <date>
+      <day>4</day>
+      <month>1</month>
+      <year>2016</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Cash</category>
+    <description>DESY for FOOD</description>
   </expense>
 </expenses>
