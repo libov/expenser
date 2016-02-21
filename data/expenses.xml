@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1403</n_expenses>
+  <n_expenses>1404</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -16776,5 +16776,17 @@
     <withdrawn>No</withdrawn>
     <category>Transport HH</category>
     <description>Einzelkarte</description>
+  </expense>
+  <expense>
+    <id>1404</id>
+    <amount>14.29</amount>
+    <date>
+      <day>12</day>
+      <month>2</month>
+      <year>2016</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>HEM Diesel 15L</description>
   </expense>
 </expenses>
