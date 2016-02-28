@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1422</n_expenses>
+  <n_expenses>1423</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -17004,5 +17004,17 @@
     <withdrawn>No</withdrawn>
     <category>Presents</category>
     <description>Marktkauf for Ungvar - mostly coffee</description>
+  </expense>
+  <expense>
+    <id>1423</id>
+    <amount>3.99</amount>
+    <date>
+      <day>1</day>
+      <month>2</month>
+      <year>2016</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Restaurant</category>
+    <description>BURGER KING</description>
   </expense>
 </expenses>
