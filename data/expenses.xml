@@ -15951,7 +15951,7 @@
   </expense>
   <expense>
     <id>1335</id>
-    <amount>8.95</amount>
+    <amount>0</amount>
     <date>
       <day>11</day>
       <month>12</month>
@@ -15959,7 +15959,7 @@
     </date>
     <withdrawn>Yes</withdrawn>
     <category>Car</category>
-    <description>AMAZON Klemmzange</description>
+    <description>AMAZON Klemmzange - RETURN</description>
   </expense>
   <expense>
     <id>1336</id>
@@ -16521,7 +16521,7 @@
       <month>12</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -16533,7 +16533,7 @@
       <month>12</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Other</category>
     <description>ROSSMAN various</description>
   </expense>
@@ -16545,7 +16545,7 @@
       <month>12</month>
       <year>2015</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Clothes</category>
     <description>TK MAXX Halat, kofta</description>
   </expense>
