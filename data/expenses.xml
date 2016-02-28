@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1438</n_expenses>
+  <n_expenses>1442</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -17196,5 +17196,53 @@
     <withdrawn>No</withdrawn>
     <category>Presents</category>
     <description>LIDL Ungvar</description>
+  </expense>
+  <expense>
+    <id>1439</id>
+    <amount>26.41</amount>
+    <date>
+      <day>18</day>
+      <month>1</month>
+      <year>2016</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>HEM Diesel 30L </description>
+  </expense>
+  <expense>
+    <id>1440</id>
+    <amount>9.39</amount>
+    <date>
+      <day>19</day>
+      <month>2</month>
+      <year>2016</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>KATTNERS Diesel 10L</description>
+  </expense>
+  <expense>
+    <id>1441</id>
+    <amount>35.06</amount>
+    <date>
+      <day>12</day>
+      <month>2</month>
+      <year>2016</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Travel</category>
+    <description>HEM 40L Diesel trip Ungvar</description>
+  </expense>
+  <expense>
+    <id>1442</id>
+    <amount>27.57</amount>
+    <date>
+      <day>22</day>
+      <month>2</month>
+      <year>2016</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>HEM Diesel 30L</description>
   </expense>
 </expenses>
