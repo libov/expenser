@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1450</n_expenses>
+  <n_expenses>1451</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -16893,7 +16893,7 @@
       <month>1</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -16905,7 +16905,7 @@
       <month>1</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -17205,7 +17205,7 @@
       <month>1</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>HEM Diesel 30L </description>
   </expense>
@@ -17340,5 +17340,17 @@
     <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>EBAY PAYPAL Alternator brushes</description>
+  </expense>
+  <expense>
+    <id>1451</id>
+    <amount>7.80</amount>
+    <date>
+      <day>14</day>
+      <month>1</month>
+      <year>2016</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Books</category>
+    <description>AMAZON Fischer teaches chess</description>
   </expense>
 </expenses>
