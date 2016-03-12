@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1461</n_expenses>
+  <n_expenses>1462</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -17472,5 +17472,17 @@
     <withdrawn>No</withdrawn>
     <category>Food</category>
     <description>Marktkauf</description>
+  </expense>
+  <expense>
+    <id>1462</id>
+    <amount>3.88</amount>
+    <date>
+      <day>5</day>
+      <month>3</month>
+      <year>2016</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>Edeka + Scheibenklar</description>
   </expense>
 </expenses>
