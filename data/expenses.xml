@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1464</n_expenses>
+  <n_expenses>1465</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -17508,5 +17508,17 @@
     <withdrawn>No</withdrawn>
     <category>Food</category>
     <description>LIDL, incl. stir. poroshok 20eur</description>
+  </expense>
+  <expense>
+    <id>1465</id>
+    <amount>2.28</amount>
+    <date>
+      <day>10</day>
+      <month>3</month>
+      <year>2016</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
   </expense>
 </expenses>
