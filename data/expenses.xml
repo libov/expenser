@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1463</n_expenses>
+  <n_expenses>1464</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -17496,5 +17496,17 @@
     <withdrawn>No</withdrawn>
     <category>Car</category>
     <description>ARAL Diesel 10L</description>
+  </expense>
+  <expense>
+    <id>1464</id>
+    <amount>28.22</amount>
+    <date>
+      <day>12</day>
+      <month>3</month>
+      <year>2016</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL, incl. stir. poroshok 20eur</description>
   </expense>
 </expenses>
