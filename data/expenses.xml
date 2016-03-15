@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1466</n_expenses>
+  <n_expenses>1468</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -17532,5 +17532,29 @@
     <withdrawn>No</withdrawn>
     <category>Other</category>
     <description>PAYPAL EBAY Kabel</description>
+  </expense>
+  <expense>
+    <id>1467</id>
+    <amount>10.22</amount>
+    <date>
+      <day>14</day>
+      <month>3</month>
+      <year>2016</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>KATTNERS Diesel 10L</description>
+  </expense>
+  <expense>
+    <id>1468</id>
+    <amount>1.97</amount>
+    <date>
+      <day>14</day>
+      <month>3</month>
+      <year>2016</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>PENNY</description>
   </expense>
 </expenses>
