@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1465</n_expenses>
+  <n_expenses>1466</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -17520,5 +17520,17 @@
     <withdrawn>No</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>1466</id>
+    <amount>1.00</amount>
+    <date>
+      <day>15</day>
+      <month>3</month>
+      <year>2016</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Other</category>
+    <description>PAYPAL EBAY Kabel</description>
   </expense>
 </expenses>
