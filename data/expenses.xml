@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1468</n_expenses>
+  <n_expenses>1469</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -17556,5 +17556,17 @@
     <withdrawn>No</withdrawn>
     <category>Food</category>
     <description>PENNY</description>
+  </expense>
+  <expense>
+    <id>1469</id>
+    <amount>29.90</amount>
+    <date>
+      <day>17</day>
+      <month>3</month>
+      <year>2016</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>ESSO Diesel 30L</description>
   </expense>
 </expenses>
