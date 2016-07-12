@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1479</n_expenses>
+  <n_expenses>1481</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -17688,5 +17688,29 @@
     <withdrawn>No</withdrawn>
     <category>Cash</category>
     <description>food desy</description>
+  </expense>
+  <expense>
+    <id>1480</id>
+    <amount>14.24</amount>
+    <date>
+      <day>12</day>
+      <month>7</month>
+      <year>2016</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>PayPal eBay Oelmessstab</description>
+  </expense>
+  <expense>
+    <id>1481</id>
+    <amount>70.00</amount>
+    <date>
+      <day>11</day>
+      <month>7</month>
+      <year>2016</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Piano lessons</category>
+    <description>2 lessons and CDs from the concert</description>
   </expense>
 </expenses>
