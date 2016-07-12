@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1486</n_expenses>
+  <n_expenses>1487</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -17772,5 +17772,17 @@
     <withdrawn>No</withdrawn>
     <category>Car</category>
     <description>Netherlands fine</description>
+  </expense>
+  <expense>
+    <id>1487</id>
+    <amount>33.12</amount>
+    <date>
+      <day>2</day>
+      <month>7</month>
+      <year>2016</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Presents</category>
+    <description>H&M stuff for Polina and Vika and myself as well</description>
   </expense>
 </expenses>
