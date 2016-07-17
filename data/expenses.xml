@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1490</n_expenses>
+  <n_expenses>1492</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -17820,5 +17820,29 @@
     <withdrawn>No</withdrawn>
     <category>Entertainment</category>
     <description>UCI KInowelt Popcorn+Cola</description>
+  </expense>
+  <expense>
+    <id>1491</id>
+    <amount>9.95</amount>
+    <date>
+      <day>13</day>
+      <month>7</month>
+      <year>2016</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Presents</category>
+    <description>BLUME 2000</description>
+  </expense>
+  <expense>
+    <id>1492</id>
+    <amount>16.80</amount>
+    <date>
+      <day>13</day>
+      <month>7</month>
+      <year>2016</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Entertainment</category>
+    <description>UCI Kinowelt movie</description>
   </expense>
 </expenses>
