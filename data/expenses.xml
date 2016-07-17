@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1503</n_expenses>
+  <n_expenses>1504</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -17976,5 +17976,17 @@
     <withdrawn>No</withdrawn>
     <category>Car</category>
     <description>KFZ ZULASSUNG PI  - Peugeot Anmeldung</description>
+  </expense>
+  <expense>
+    <id>1504</id>
+    <amount>14.68</amount>
+    <date>
+      <day>9</day>
+      <month>7</month>
+      <year>2016</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>REAL stuff for Cockpit + water melone</description>
   </expense>
 </expenses>
