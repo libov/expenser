@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1492</n_expenses>
+  <n_expenses>1493</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -17844,5 +17844,17 @@
     <withdrawn>No</withdrawn>
     <category>Entertainment</category>
     <description>UCI Kinowelt movie</description>
+  </expense>
+  <expense>
+    <id>1493</id>
+    <amount>17.37</amount>
+    <date>
+      <day>14</day>
+      <month>7</month>
+      <year>2016</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>bft 15.66L</description>
   </expense>
 </expenses>
