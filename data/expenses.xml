@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1504</n_expenses>
+  <n_expenses>1505</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -17988,5 +17988,17 @@
     <withdrawn>No</withdrawn>
     <category>Car</category>
     <description>REAL stuff for Cockpit + water melone</description>
+  </expense>
+  <expense>
+    <id>1505</id>
+    <amount>12.22</amount>
+    <date>
+      <day>18</day>
+      <month>7</month>
+      <year>2016</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
   </expense>
 </expenses>
