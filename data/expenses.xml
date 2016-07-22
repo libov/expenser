@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1530</n_expenses>
+  <n_expenses>1531</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -18300,5 +18300,17 @@
     <withdrawn>No</withdrawn>
     <category>Music equipment</category>
     <description>PAYPAL Thomann Guitar</description>
+  </expense>
+  <expense>
+    <id>1531</id>
+    <amount>6.49</amount>
+    <date>
+      <day>22</day>
+      <month>7</month>
+      <year>2016</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
   </expense>
 </expenses>
