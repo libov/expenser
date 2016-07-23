@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1538</n_expenses>
+  <n_expenses>1539</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -18396,5 +18396,17 @@
     <withdrawn>No</withdrawn>
     <category>Food</category>
     <description>PENNY</description>
+  </expense>
+  <expense>
+    <id>1539</id>
+    <amount>11.19</amount>
+    <date>
+      <day>6</day>
+      <month>5</month>
+      <year>2016</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Other</category>
+    <description>ALDI various</description>
   </expense>
 </expenses>
