@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1533</n_expenses>
+  <n_expenses>1534</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -18336,5 +18336,17 @@
     <withdrawn>No</withdrawn>
     <category>Music equipment</category>
     <description>Paypal Thomann headphones etc</description>
+  </expense>
+  <expense>
+    <id>1534</id>
+    <amount>8.28</amount>
+    <date>
+      <day>12</day>
+      <month>5</month>
+      <year>2016</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Restaurant</category>
+    <description>MCDONALDS</description>
   </expense>
 </expenses>
