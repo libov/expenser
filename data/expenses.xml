@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1539</n_expenses>
+  <n_expenses>1540</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -18408,5 +18408,17 @@
     <withdrawn>No</withdrawn>
     <category>Other</category>
     <description>ALDI various</description>
+  </expense>
+  <expense>
+    <id>1540</id>
+    <amount>13.01</amount>
+    <date>
+      <day>22</day>
+      <month>4</month>
+      <year>2016</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>EDEKA</description>
   </expense>
 </expenses>
