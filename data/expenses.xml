@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1543</n_expenses>
+  <n_expenses>1544</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -18456,5 +18456,17 @@
     <withdrawn>No</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>1544</id>
+    <amount>43.70</amount>
+    <date>
+      <day>23</day>
+      <month>6</month>
+      <year>2016</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Entertainment</category>
+    <description>MARKTKAUF for Birthday party</description>
   </expense>
 </expenses>
