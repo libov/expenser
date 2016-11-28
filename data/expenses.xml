@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1557</n_expenses>
+  <n_expenses>1558</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -18624,5 +18624,17 @@
     <withdrawn>No</withdrawn>
     <category>Other</category>
     <description>MEDIAMARKT Phone</description>
+  </expense>
+  <expense>
+    <id>1558</id>
+    <amount>20.00</amount>
+    <date>
+      <day>28</day>
+      <month>11</month>
+      <year>2016</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Cash</category>
+    <description>for Christmas market etc</description>
   </expense>
 </expenses>
