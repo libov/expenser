@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1561</n_expenses>
+  <n_expenses>1562</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -18672,5 +18672,17 @@
     <withdrawn>No</withdrawn>
     <category>Food</category>
     <description>PayPal Lieferando Doener</description>
+  </expense>
+  <expense>
+    <id>1562</id>
+    <amount>1.99</amount>
+    <date>
+      <day>15</day>
+      <month>12</month>
+      <year>2016</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Other</category>
+    <description>PayPal Vodafone Hotspot Berlin</description>
   </expense>
 </expenses>
