@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1563</n_expenses>
+  <n_expenses>1564</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -18696,5 +18696,17 @@
     <withdrawn>No</withdrawn>
     <category>Other</category>
     <description>PayPal Wikipedia Spende</description>
+  </expense>
+  <expense>
+    <id>1564</id>
+    <amount>300.00</amount>
+    <date>
+      <day>24</day>
+      <month>12</month>
+      <year>2016</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Presents</category>
+    <description>Cash for Mum</description>
   </expense>
 </expenses>
