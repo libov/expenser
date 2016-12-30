@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1567</n_expenses>
+  <n_expenses>1568</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -18744,5 +18744,17 @@
     <withdrawn>No</withdrawn>
     <category>Presents</category>
     <description>BLUME 2000 flowers</description>
+  </expense>
+  <expense>
+    <id>1568</id>
+    <amount>50.00</amount>
+    <date>
+      <day>28</day>
+      <month>12</month>
+      <year>2016</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Cash</category>
+    <description>FUN</description>
   </expense>
 </expenses>
