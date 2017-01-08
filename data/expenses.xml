@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1583</n_expenses>
+  <n_expenses>1584</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -18936,5 +18936,17 @@
     <withdrawn>No</withdrawn>
     <category>Car</category>
     <description>VERWARNUNGSGELD</description>
+  </expense>
+  <expense>
+    <id>1584</id>
+    <amount>80.00</amount>
+    <date>
+      <day>5</day>
+      <month>1</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Piano lessons</category>
+    <description>CASH for three lessons</description>
   </expense>
 </expenses>
