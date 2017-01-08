@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1584</n_expenses>
+  <n_expenses>1586</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -18948,5 +18948,29 @@
     <withdrawn>No</withdrawn>
     <category>Piano lessons</category>
     <description>CASH for three lessons</description>
+  </expense>
+  <expense>
+    <id>1585</id>
+    <amount>22.00</amount>
+    <date>
+      <day>8</day>
+      <month>1</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Restaurant</category>
+    <description>Griechisch</description>
+  </expense>
+  <expense>
+    <id>1586</id>
+    <amount>16.87</amount>
+    <date>
+      <day>8</day>
+      <month>1</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>ARAL Diesel</description>
   </expense>
 </expenses>
