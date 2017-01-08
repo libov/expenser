@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1580</n_expenses>
+  <n_expenses>1583</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -18900,5 +18900,41 @@
     <withdrawn>No</withdrawn>
     <category>Car</category>
     <description>SHELL Diesel 10L</description>
+  </expense>
+  <expense>
+    <id>1581</id>
+    <amount>10.00</amount>
+    <date>
+      <day>8</day>
+      <month>1</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>VERWARNUNGSGELD</description>
+  </expense>
+  <expense>
+    <id>1582</id>
+    <amount>15.00</amount>
+    <date>
+      <day>8</day>
+      <month>1</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>VERWARNUNGSGELD</description>
+  </expense>
+  <expense>
+    <id>1583</id>
+    <amount>15.00</amount>
+    <date>
+      <day>8</day>
+      <month>1</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>VERWARNUNGSGELD</description>
   </expense>
 </expenses>
