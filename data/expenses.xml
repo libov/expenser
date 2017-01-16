@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1622</n_expenses>
+  <n_expenses>1623</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -19404,5 +19404,17 @@
     <withdrawn>No</withdrawn>
     <category>Presents</category>
     <description>KARSTADT  Lubeck sweets</description>
+  </expense>
+  <expense>
+    <id>1623</id>
+    <amount>251.80</amount>
+    <date>
+      <day>16</day>
+      <month>12</month>
+      <year>2016</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Presents</category>
+    <description>Koenig der Loewen</description>
   </expense>
 </expenses>
