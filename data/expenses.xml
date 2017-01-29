@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1674</n_expenses>
+  <n_expenses>1675</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -20023,6 +20023,18 @@
     <date>
       <day>8</day>
       <month>6</month>
+      <year>2016</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>BFT Diesel</description>
+  </expense>
+  <expense>
+    <id>1675</id>
+    <amount>26.41</amount>
+    <date>
+      <day>1</day>
+      <month>10</month>
       <year>2016</year>
     </date>
     <withdrawn>No</withdrawn>
