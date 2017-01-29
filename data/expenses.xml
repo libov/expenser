@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1683</n_expenses>
+  <n_expenses>1684</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -20136,5 +20136,17 @@
     <withdrawn>No</withdrawn>
     <category>Other</category>
     <description>Daenisches Bettenlager Stuehl</description>
+  </expense>
+  <expense>
+    <id>1684</id>
+    <amount>66.94</amount>
+    <date>
+      <day>3</day>
+      <month>5</month>
+      <year>2016</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Presents</category>
+    <description>TK MAXX</description>
   </expense>
 </expenses>
