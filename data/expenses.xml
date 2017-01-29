@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1687</n_expenses>
+  <n_expenses>1688</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -20184,5 +20184,17 @@
     <withdrawn>No</withdrawn>
     <category>Other</category>
     <description>BUDNI Shopper</description>
+  </expense>
+  <expense>
+    <id>1688</id>
+    <amount>20.40</amount>
+    <date>
+      <day>20</day>
+      <month>9</month>
+      <year>2016</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>STAR Diesel</description>
   </expense>
 </expenses>
