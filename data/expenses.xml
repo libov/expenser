@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1702</n_expenses>
+  <n_expenses>1703</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -20364,5 +20364,17 @@
     <withdrawn>No</withdrawn>
     <category>Car</category>
     <description>TANKCENTER Diesel</description>
+  </expense>
+  <expense>
+    <id>1703</id>
+    <amount>21.79</amount>
+    <date>
+      <day>9</day>
+      <month>4</month>
+      <year>2016</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>BAB Diesel</description>
   </expense>
 </expenses>
