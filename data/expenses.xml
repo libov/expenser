@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1710</n_expenses>
+  <n_expenses>1713</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -20460,5 +20460,41 @@
     <withdrawn>No</withdrawn>
     <category>Piano lessons</category>
     <description>piano</description>
+  </expense>
+  <expense>
+    <id>1711</id>
+    <amount>100.00</amount>
+    <date>
+      <day>2</day>
+      <month>2</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Presents</category>
+    <description>Cash Mum</description>
+  </expense>
+  <expense>
+    <id>1712</id>
+    <amount>70.00</amount>
+    <date>
+      <day>2</day>
+      <month>2</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Travel</category>
+    <description>CASH trip to Uzhgorod</description>
+  </expense>
+  <expense>
+    <id>1713</id>
+    <amount>21.88</amount>
+    <date>
+      <day>30</day>
+      <month>10</month>
+      <year>2016</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>BFT Diesel</description>
   </expense>
 </expenses>
