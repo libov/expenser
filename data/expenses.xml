@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1709</n_expenses>
+  <n_expenses>1710</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -20448,5 +20448,17 @@
     <withdrawn>No</withdrawn>
     <category>Presents</category>
     <description>LIDL Sweets for Ungvar</description>
+  </expense>
+  <expense>
+    <id>1710</id>
+    <amount>50.00</amount>
+    <date>
+      <day>2</day>
+      <month>2</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Piano lessons</category>
+    <description>piano</description>
   </expense>
 </expenses>
