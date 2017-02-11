@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1727</n_expenses>
+  <n_expenses>1728</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -20656,6 +20656,18 @@
   <expense>
     <id>1727</id>
     <amount>15.02</amount>
+    <date>
+      <day>22</day>
+      <month>3</month>
+      <year>2016</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>1728</id>
+    <amount>5.31</amount>
     <date>
       <day>22</day>
       <month>3</month>
