@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1781</n_expenses>
+  <n_expenses>1782</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -21312,5 +21312,17 @@
     <withdrawn>No</withdrawn>
     <category>Travel</category>
     <description>ARGE Poland Diesel</description>
+  </expense>
+  <expense>
+    <id>1782</id>
+    <amount>26.70</amount>
+    <date>
+      <day>4</day>
+      <month>10</month>
+      <year>2016</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Presents</category>
+    <description>LSTR ROMA AIRPORT for Kjsu</description>
   </expense>
 </expenses>
