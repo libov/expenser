@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1756</n_expenses>
+  <n_expenses>1757</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -21012,5 +21012,17 @@
     <withdrawn>No</withdrawn>
     <category>Clothes</category>
     <description>TK MAXX</description>
+  </expense>
+  <expense>
+    <id>1757</id>
+    <amount>40.00</amount>
+    <date>
+      <day>20</day>
+      <month>9</month>
+      <year>2016</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Presents</category>
+    <description>TKMAXX Gutschein Artur</description>
   </expense>
 </expenses>
