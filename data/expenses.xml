@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1767</n_expenses>
+  <n_expenses>1768</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -21144,5 +21144,17 @@
     <withdrawn>No</withdrawn>
     <category>Food</category>
     <description>KOMFOS PRESOV</description>
+  </expense>
+  <expense>
+    <id>1768</id>
+    <amount>18.78</amount>
+    <date>
+      <day>13</day>
+      <month>2</month>
+      <year>2016</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Travel</category>
+    <description>SHELL BARDEJOV</description>
   </expense>
 </expenses>
