@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1763</n_expenses>
+  <n_expenses>1764</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -21096,5 +21096,17 @@
     <withdrawn>No</withdrawn>
     <category>Entertainment</category>
     <description>Hagenbeck</description>
+  </expense>
+  <expense>
+    <id>1764</id>
+    <amount>12.95</amount>
+    <date>
+      <day>4</day>
+      <month>5</month>
+      <year>2016</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Presents</category>
+    <description>CUBUS SCHENEFELD</description>
   </expense>
 </expenses>
