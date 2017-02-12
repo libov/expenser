@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1778</n_expenses>
+  <n_expenses>1780</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -21276,5 +21276,29 @@
     <withdrawn>No</withdrawn>
     <category>Travel</category>
     <description>BP Poland Diesel</description>
+  </expense>
+  <expense>
+    <id>1779</id>
+    <amount>4.59</amount>
+    <date>
+      <day>30</day>
+      <month>9</month>
+      <year>2016</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Travel</category>
+    <description>ORLEN Poland Diesel</description>
+  </expense>
+  <expense>
+    <id>1780</id>
+    <amount>35.17</amount>
+    <date>
+      <day>18</day>
+      <month>2</month>
+      <year>2016</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Entertainment</category>
+    <description>Poland Cash</description>
   </expense>
 </expenses>
