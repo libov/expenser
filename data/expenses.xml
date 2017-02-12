@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1753</n_expenses>
+  <n_expenses>1754</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -20976,5 +20976,17 @@
     <withdrawn>No</withdrawn>
     <category>Presents</category>
     <description>BUDNI for Matt and Charlie</description>
+  </expense>
+  <expense>
+    <id>1754</id>
+    <amount>20.10</amount>
+    <date>
+      <day>27</day>
+      <month>7</month>
+      <year>2016</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Presents</category>
+    <description>DM stuff for Mum and kids</description>
   </expense>
 </expenses>
