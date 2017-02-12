@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1762</n_expenses>
+  <n_expenses>1763</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -21084,5 +21084,17 @@
     <withdrawn>No</withdrawn>
     <category>Restaurant</category>
     <description>EINSTEIN</description>
+  </expense>
+  <expense>
+    <id>1763</id>
+    <amount>60.00</amount>
+    <date>
+      <day>16</day>
+      <month>12</month>
+      <year>2016</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Entertainment</category>
+    <description>Hagenbeck</description>
   </expense>
 </expenses>
