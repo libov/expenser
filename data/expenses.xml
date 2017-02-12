@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1754</n_expenses>
+  <n_expenses>1755</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -20988,5 +20988,17 @@
     <withdrawn>No</withdrawn>
     <category>Presents</category>
     <description>DM stuff for Mum and kids</description>
+  </expense>
+  <expense>
+    <id>1755</id>
+    <amount>98.45</amount>
+    <date>
+      <day>19</day>
+      <month>8</month>
+      <year>2016</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Clothes</category>
+    <description>TK MAXX</description>
   </expense>
 </expenses>
