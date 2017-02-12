@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1784</n_expenses>
+  <n_expenses>1785</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -21348,5 +21348,17 @@
     <withdrawn>No</withdrawn>
     <category>Restaurant</category>
     <description>Stara Lubovna</description>
+  </expense>
+  <expense>
+    <id>1785</id>
+    <amount>9.40</amount>
+    <date>
+      <day>4</day>
+      <month>12</month>
+      <year>2016</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Restaurant</category>
+    <description>HOTEL FAMILIA Breakfast</description>
   </expense>
 </expenses>
