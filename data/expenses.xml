@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1743</n_expenses>
+  <n_expenses>1744</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -20856,5 +20856,17 @@
     <withdrawn>No</withdrawn>
     <category>Food</category>
     <description>EDEKA</description>
+  </expense>
+  <expense>
+    <id>1744</id>
+    <amount>5.00</amount>
+    <date>
+      <day>9</day>
+      <month>6</month>
+      <year>2016</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Presents</category>
+    <description>MEDIAMARKT USB Hub</description>
   </expense>
 </expenses>
