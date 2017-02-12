@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1750</n_expenses>
+  <n_expenses>1751</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -20940,5 +20940,17 @@
     <withdrawn>No</withdrawn>
     <category>Flat</category>
     <description>IKEA Buegelbrett etc.</description>
+  </expense>
+  <expense>
+    <id>1751</id>
+    <amount>1.98</amount>
+    <date>
+      <day>28</day>
+      <month>11</month>
+      <year>2016</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Flat</category>
+    <description>IKEA</description>
   </expense>
 </expenses>
