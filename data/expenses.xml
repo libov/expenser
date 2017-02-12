@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1761</n_expenses>
+  <n_expenses>1762</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -21072,5 +21072,17 @@
     <withdrawn>No</withdrawn>
     <category>Restaurant</category>
     <description>SAUSALITOS REEPERBAHN</description>
+  </expense>
+  <expense>
+    <id>1762</id>
+    <amount>26.00</amount>
+    <date>
+      <day>14</day>
+      <month>11</month>
+      <year>2016</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Restaurant</category>
+    <description>EINSTEIN</description>
   </expense>
 </expenses>
