@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1771</n_expenses>
+  <n_expenses>1772</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -21192,5 +21192,17 @@
     <withdrawn>No</withdrawn>
     <category>Travel</category>
     <description>ORLEN Poland Diesel 211.47 PLN</description>
+  </expense>
+  <expense>
+    <id>1772</id>
+    <amount>31.74</amount>
+    <date>
+      <day>28</day>
+      <month>4</month>
+      <year>2016</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Travel</category>
+    <description>LOTOS Poland Diesel 129.60 PLN</description>
   </expense>
 </expenses>
