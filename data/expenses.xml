@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1770</n_expenses>
+  <n_expenses>1771</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -21180,5 +21180,17 @@
     <withdrawn>No</withdrawn>
     <category>Travel</category>
     <description>MOYA Poland Diesel 207.21 PLN</description>
+  </expense>
+  <expense>
+    <id>1771</id>
+    <amount>51.94</amount>
+    <date>
+      <day>24</day>
+      <month>3</month>
+      <year>2016</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Travel</category>
+    <description>ORLEN Poland Diesel 211.47 PLN</description>
   </expense>
 </expenses>
