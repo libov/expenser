@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1747</n_expenses>
+  <n_expenses>1748</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -20904,5 +20904,17 @@
     <withdrawn>No</withdrawn>
     <category>Clothes</category>
     <description>DEICHMANN Fila Schuhe</description>
+  </expense>
+  <expense>
+    <id>1748</id>
+    <amount>9.87</amount>
+    <date>
+      <day>9</day>
+      <month>9</month>
+      <year>2016</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>PENNY</description>
   </expense>
 </expenses>
