@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1785</n_expenses>
+  <n_expenses>1787</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -21360,5 +21360,29 @@
     <withdrawn>No</withdrawn>
     <category>Restaurant</category>
     <description>HOTEL FAMILIA Breakfast</description>
+  </expense>
+  <expense>
+    <id>1786</id>
+    <amount>106.00</amount>
+    <date>
+      <day>13</day>
+      <month>2</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Presents</category>
+    <description>Wizz air ticket Ksju (in fact 120.99 but Artur owed me 15)</description>
+  </expense>
+  <expense>
+    <id>1787</id>
+    <amount>524.40</amount>
+    <date>
+      <day>13</day>
+      <month>2</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Presents</category>
+    <description>Barcelona Hotel Mum et al</description>
   </expense>
 </expenses>
