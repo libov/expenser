@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1797</n_expenses>
+  <n_expenses>1798</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -21504,5 +21504,17 @@
     <withdrawn>No</withdrawn>
     <category>Other</category>
     <description>FONIC</description>
+  </expense>
+  <expense>
+    <id>1798</id>
+    <amount>23.05</amount>
+    <date>
+      <day>15</day>
+      <month>10</month>
+      <year>2016</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Music equipment</category>
+    <description>PAYPAL Notebooksbilliger PCIe adapter</description>
   </expense>
 </expenses>
