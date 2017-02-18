@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1808</n_expenses>
+  <n_expenses>1809</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -21636,5 +21636,17 @@
     <withdrawn>No</withdrawn>
     <category>Presents</category>
     <description>PAYPAL Ryanair Mallorca Polina</description>
+  </expense>
+  <expense>
+    <id>1809</id>
+    <amount>4.00</amount>
+    <date>
+      <day>30</day>
+      <month>9</month>
+      <year>2016</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Other</category>
+    <description>PAYPAL Facebook Ad Untold Stories</description>
   </expense>
 </expenses>
