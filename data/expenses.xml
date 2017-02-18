@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1804</n_expenses>
+  <n_expenses>1805</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -21588,5 +21588,17 @@
     <withdrawn>No</withdrawn>
     <category>Other</category>
     <description>FONIC</description>
+  </expense>
+  <expense>
+    <id>1805</id>
+    <amount>77.06</amount>
+    <date>
+      <day>11</day>
+      <month>10</month>
+      <year>2016</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Music equipment</category>
+    <description>AMAZON G Skill RAM 16 GB</description>
   </expense>
 </expenses>
