@@ -1,6 +1,22 @@
 <?xml version="1.0"?>
 <incomes>
     <entry>
+        <amount>10.00</amount>
+        <date>
+            <month>9</month>
+            <year>2016</year>
+        </date>
+        <description>PayPal Serhii Orlov BlaBlaCar DHL reimbursement</description>
+    </entry>
+    <entry>
+        <amount>3.80</amount>
+        <date>
+            <month>8</month>
+            <year>2016</year>
+        </date>
+        <description>PayPal Bandcamp Kovalch</description>
+    </entry>
+    <entry>
         <amount>3889.04</amount>
         <date>
             <month>12</month>
@@ -280,4 +296,4 @@
         </date>
         <description>Salary</description>
   </entry>
-  </incomes>
+</incomes>
