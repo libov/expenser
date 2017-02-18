@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1811</n_expenses>
+  <n_expenses>1812</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -21672,5 +21672,17 @@
     <withdrawn>No</withdrawn>
     <category>Books</category>
     <description>AMAZON Molecular biology of the Cell Problems book</description>
+  </expense>
+  <expense>
+    <id>1812</id>
+    <amount>5.95</amount>
+    <date>
+      <day>29</day>
+      <month>8</month>
+      <year>2016</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Other</category>
+    <description>Paypal to NK for Untold Stories</description>
   </expense>
 </expenses>
