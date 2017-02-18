@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1816</n_expenses>
+  <n_expenses>1817</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -21732,5 +21732,17 @@
     <withdrawn>No</withdrawn>
     <category>Food</category>
     <description>PAYPAL Thomann Kopfhoerer etc.</description>
+  </expense>
+  <expense>
+    <id>1817</id>
+    <amount>64.99</amount>
+    <date>
+      <day>25</day>
+      <month>6</month>
+      <year>2016</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Other</category>
+    <description>Paypal Kontaktlinsenradar contact lens</description>
   </expense>
 </expenses>
