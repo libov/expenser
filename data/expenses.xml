@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1812</n_expenses>
+  <n_expenses>1813</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -21684,5 +21684,17 @@
     <withdrawn>No</withdrawn>
     <category>Other</category>
     <description>Paypal to NK for Untold Stories</description>
+  </expense>
+  <expense>
+    <id>1813</id>
+    <amount>7.99</amount>
+    <date>
+      <day>28</day>
+      <month>8</month>
+      <year>2016</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Music equipment</category>
+    <description>APPLE Mastercard Notion iPad</description>
   </expense>
 </expenses>
