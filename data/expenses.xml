@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1826</n_expenses>
+  <n_expenses>1827</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -21852,5 +21852,17 @@
     <withdrawn>No</withdrawn>
     <category>Other</category>
     <description>PAYPAL eBay iPad Case</description>
+  </expense>
+  <expense>
+    <id>1827</id>
+    <amount>50.00</amount>
+    <date>
+      <day>14</day>
+      <month>4</month>
+      <year>2016</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Other</category>
+    <description>PAYPAL Inga Burina EP Artwork</description>
   </expense>
 </expenses>
