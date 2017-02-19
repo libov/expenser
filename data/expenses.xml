@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1829</n_expenses>
+  <n_expenses>1830</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -21888,5 +21888,17 @@
     <withdrawn>No</withdrawn>
     <category>Music equipment</category>
     <description>PayPal PluginBoutique iZotope BreakTweaker</description>
+  </expense>
+  <expense>
+    <id>1830</id>
+    <amount>28.00</amount>
+    <date>
+      <day>1</day>
+      <month>2</month>
+      <year>2016</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>PAYPAL eBay MAutoteile Gleichrichter Mercedes</description>
   </expense>
 </expenses>
