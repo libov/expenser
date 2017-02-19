@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1839</n_expenses>
+  <n_expenses>1840</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -22008,5 +22008,17 @@
     <withdrawn>No</withdrawn>
     <category>Transport HH</category>
     <description>HVV Karten, part2, 3x3.1(Einzel)+1x6.01(Tages)+27.3(Woche)=42.61</description>
+  </expense>
+  <expense>
+    <id>1840</id>
+    <amount>18.60</amount>
+    <date>
+      <day>4</day>
+      <month>3</month>
+      <year>2016</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Transport HH</category>
+    <description>Tickets HVV part3: 6x3.1(Einzel)=18.6</description>
   </expense>
 </expenses>
