@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1840</n_expenses>
+  <n_expenses>1841</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -22020,5 +22020,17 @@
     <withdrawn>No</withdrawn>
     <category>Transport HH</category>
     <description>Tickets HVV part3: 6x3.1(Einzel)=18.6</description>
+  </expense>
+  <expense>
+    <id>1841</id>
+    <amount>22.00</amount>
+    <date>
+      <day>21</day>
+      <month>2</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Entertainment</category>
+    <description>Football HSV</description>
   </expense>
 </expenses>
