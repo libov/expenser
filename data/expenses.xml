@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1842</n_expenses>
+  <n_expenses>1843</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -22044,5 +22044,17 @@
     <withdrawn>No</withdrawn>
     <category>Car</category>
     <description>PAYPAL DB trip Muenster car</description>
+  </expense>
+  <expense>
+    <id>1843</id>
+    <amount>3.39</amount>
+    <date>
+      <day>21</day>
+      <month>2</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
   </expense>
 </expenses>
