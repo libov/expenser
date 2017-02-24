@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1850</n_expenses>
+  <n_expenses>1852</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -22140,5 +22140,29 @@
     <withdrawn>No</withdrawn>
     <category>Piano lessons</category>
     <description>2x</description>
+  </expense>
+  <expense>
+    <id>1851</id>
+    <amount>5.86</amount>
+    <date>
+      <day>24</day>
+      <month>2</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Restaurant</category>
+    <description>PayPal Kovalch Andronaco</description>
+  </expense>
+  <expense>
+    <id>1852</id>
+    <amount>50.25</amount>
+    <date>
+      <day>24</day>
+      <month>2</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Presents</category>
+    <description>PayPal Kovalch return for Mum (55-4.75)</description>
   </expense>
 </expenses>
