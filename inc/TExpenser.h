@@ -29,6 +29,7 @@ class TExpenser : public TGMainFrame {
         void drawStatisticsYearTab();
         void drawCategoryTab();
         void drawBalanceTab();
+        void drawIncomeTab();
         void commit();
         void calculate_monthly();
         void calculate_yearly();

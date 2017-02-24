@@ -88,6 +88,7 @@ void TExpenser::create_ui() {
     drawStatisticsYearTab();
     drawCategoryTab();
     drawBalanceTab();
+    drawIncomeTab();
 
     // Set a name to the main frame
     SetWindowName("Expenser");
@@ -329,6 +330,11 @@ void TExpenser::drawBalanceTab() {
     fBalanceTab -> AddFrame(update_button, new TGLayoutHints(kLHintsNormal,5,5,3,4));
 
     calculate_balance();
+}
+
+void TExpenser::drawIncomeTab() {
+
+    fBalanceTab = fTab->AddTab("Income");
 }
 
 void TExpenser::add() {
