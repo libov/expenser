@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1878</n_expenses>
+  <n_expenses>1879</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -21933,7 +21933,7 @@
       <month>1</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>Paypal eBay Heilautoteile Regler Mercedes</description>
   </expense>
@@ -21969,7 +21969,7 @@
       <month>1</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Other</category>
     <description>PAYPAL Bandcamp X-dream Radio</description>
   </expense>
@@ -21993,7 +21993,7 @@
       <month>1</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Other</category>
     <description>PAYPAL Beatport Echotek emotion chaos</description>
   </expense>
@@ -22476,5 +22476,17 @@
     <withdrawn>Yes</withdrawn>
     <category>Flat</category>
     <description>STADTWERKE</description>
+  </expense>
+  <expense>
+    <id>1879</id>
+    <amount>20.87</amount>
+    <date>
+      <day>28</day>
+      <month>1</month>
+      <year>2016</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Flat</category>
+    <description>KabelDeutschland 01/2016 could not check</description>
   </expense>
 </expenses>
