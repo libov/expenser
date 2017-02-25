@@ -585,7 +585,7 @@ void TExpenser::calculate_balance() {
     // calculate total income since last balance
     fIncomeXMLParser->selectMainNode();
     fIncomeXMLParser->selectNode("entry");
-    Float_t income_since_last_status = 0;
+    Double_t income_since_last_status = 0;
     while (fIncomeXMLParser->getCurrentNode() != 0) {
         XMLNodePointer_t current_node = fIncomeXMLParser->getCurrentNode();
 
@@ -601,6 +601,6 @@ void TExpenser::calculate_balance() {
         fIncomeXMLParser->selectNextNode("entry");
     }
 
-    Float_t new_balance = balance.Atof() - expenses_since_last_status + income_since_last_status;
+    Double_t new_balance = balance.Atof() - expenses_since_last_status + income_since_last_status;
     fCurrentStatusLabel -> SetText(toStr(time.GetDay())+"/"+toStr(time.GetMonth())+"/"+toStr(time.GetYear())+": " + toStr(new_balance,2) + " eur");
 }
