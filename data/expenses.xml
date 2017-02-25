@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1877</n_expenses>
+  <n_expenses>1878</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -21945,7 +21945,7 @@
       <month>1</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Other</category>
     <description>PayPal BandCamp Frogacult</description>
   </expense>
@@ -21957,7 +21957,7 @@
       <month>1</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Other</category>
     <description>PayPal Bandcamp Cybered Nosferatu</description>
   </expense>
@@ -21981,7 +21981,7 @@
       <month>1</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Other</category>
     <description>PayPal Beatport Out Here We are stoned</description>
   </expense>
@@ -22464,5 +22464,17 @@
     <withdrawn>Yes</withdrawn>
     <category>Category unknown</category>
     <description>DESY CASH</description>
+  </expense>
+  <expense>
+    <id>1878</id>
+    <amount>159.00</amount>
+    <date>
+      <day>28</day>
+      <month>1</month>
+      <year>2016</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Flat</category>
+    <description>STADTWERKE</description>
   </expense>
 </expenses>
