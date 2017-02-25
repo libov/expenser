@@ -1,5 +1,6 @@
 Todo
 
+* implement some filtering into expenses table, or create another tab for that
 * check if nr of expenses matches n_expenses
 * bar chart histograms - MAJOR
 * average, line and a number - MAJOR
