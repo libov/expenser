@@ -48,6 +48,7 @@ TString CATEGORIES[]  = {"Food", "Restaurant", "Flat", "Cash", "Car", "Music equ
 const TString MONTHS[12]={"January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"};
 const unsigned FIRST_YEAR = 2009;
 const unsigned LAST_YEAR = 2015;
+unsigned NROWSTABLE = 30;
 
 struct expense {
     TString amount;
@@ -152,7 +153,7 @@ void TExpenser::drawExpensesTable() {
     fTableEntries = expenses.size();
 
     // Create the table
-    fTable = new TGTable(fExpensesTab, 999, fTableInterface, 15, fTableInterface->GetNColumns());
+    fTable = new TGTable(fExpensesTab, 999, fTableInterface, NROWSTABLE, fTableInterface->GetNColumns());
 
     fExpensesTab -> AddFrame(fTable, new TGLayoutHints(kLHintsCenterY,2,2,2,2));
 }
@@ -377,7 +378,7 @@ void TExpenser::drawIncomeTab() {
     unsigned entries = incomes.size();
 
     // Create the table
-    TGTable * fInTable = new TGTable(fIncomeTab, 999, income_table, 15, income_table->GetNColumns());
+    TGTable * fInTable = new TGTable(fIncomeTab, 999, income_table, NROWSTABLE, income_table->GetNColumns());
     fIncomeTab -> AddFrame(fInTable, new TGLayoutHints(kLHintsCenterY,2,2,2,2));
 
     /*
