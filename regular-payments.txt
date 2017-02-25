@@ -4,6 +4,12 @@ Wohngeld
 Stadtwerke
 Vodafone
 
+Quarterly
+--------
+Grundsteuer B
+
 Yearly
 ------
 HUK
+Auto Steuer
+
