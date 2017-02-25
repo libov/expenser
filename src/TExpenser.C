@@ -49,6 +49,8 @@ const TString MONTHS[12]={"January", "February", "March", "April", "May", "June"
 const unsigned FIRST_YEAR = 2009;
 const unsigned LAST_YEAR = 2015;
 unsigned NROWSTABLE = 30;
+unsigned WIDTH = 800;
+unsigned HEIGHT = 800;
 
 struct expense {
     TString amount;
@@ -226,7 +228,7 @@ void TExpenser::drawStatisticsTab() {
     fStatisticsTab = fTab->AddTab("Statistics (Month)");
     fStatisticsTab -> SetLayoutManager(new TGHorizontalLayout(fStatisticsTab));
 
-    TRootEmbeddedCanvas * fEcanvas = new TRootEmbeddedCanvas("Ecanvas",fStatisticsTab,600,600);
+    TRootEmbeddedCanvas * fEcanvas = new TRootEmbeddedCanvas("Ecanvas",fStatisticsTab, WIDTH, HEIGHT);
     fStatisticsTab -> AddFrame(fEcanvas, new TGLayoutHints(kLHintsCenterX, 10,10,10,1));
     fCanvas = fEcanvas->GetCanvas();
     fCategoriesHistogram = new TH1F("fCategoriesHistogram", "Expenses for each category for a given month", NCATEGORIES, 0, NCATEGORIES);
@@ -267,7 +269,7 @@ void TExpenser::drawStatisticsYearTab() {
     fStatisticsYearTab = fTab->AddTab("Statistics (Year)");
     fStatisticsYearTab -> SetLayoutManager(new TGHorizontalLayout(fStatisticsYearTab));
 
-    TRootEmbeddedCanvas * StatisticsYearCanvas = new TRootEmbeddedCanvas("StatisticsYearCanvas",fStatisticsYearTab,600,600);
+    TRootEmbeddedCanvas * StatisticsYearCanvas = new TRootEmbeddedCanvas("StatisticsYearCanvas",fStatisticsYearTab, WIDTH, HEIGHT);
     fStatisticsYearTab -> AddFrame(StatisticsYearCanvas, new TGLayoutHints(kLHintsCenterX, 10,10,10,1));
     fCanvasYear = StatisticsYearCanvas->GetCanvas();
     fMonthsHistogram = new TH1F("fMonthsHistogram", "Expenses for each month for a given category", 12, 0, 12);
