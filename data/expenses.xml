@@ -16821,7 +16821,7 @@
       <month>1</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -17097,7 +17097,7 @@
       <month>1</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -17253,7 +17253,7 @@
       <month>1</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>WITTHOFT Riemen etc.</description>
   </expense>
@@ -22005,7 +22005,7 @@
       <month>1</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Transport HH</category>
     <description>HVV Karten, part2, 3x3.1(Einzel)+1x6.01(Tages)+27.3(Woche)=42.61</description>
   </expense>
