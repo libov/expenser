@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1879</n_expenses>
+  <n_expenses>1890</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -22488,5 +22488,137 @@
     <withdrawn>Yes</withdrawn>
     <category>Flat</category>
     <description>KabelDeutschland 01/2016 could not check</description>
+  </expense>
+  <expense>
+    <id>1880</id>
+    <amount>19.99</amount>
+    <date>
+      <day>17</day>
+      <month>2</month>
+      <year>2016</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Flat</category>
+    <description>KabelDeutschland 02/2016</description>
+  </expense>
+  <expense>
+    <id>1881</id>
+    <amount>19.99</amount>
+    <date>
+      <day>17</day>
+      <month>3</month>
+      <year>2016</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Flat</category>
+    <description>KabelDeutschland 03/2016</description>
+  </expense>
+  <expense>
+    <id>1882</id>
+    <amount>19.99</amount>
+    <date>
+      <day>18</day>
+      <month>4</month>
+      <year>2016</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Flat</category>
+    <description>KabelDeutschland 04/2016</description>
+  </expense>
+  <expense>
+    <id>1883</id>
+    <amount>21.44</amount>
+    <date>
+      <day>18</day>
+      <month>5</month>
+      <year>2016</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Flat</category>
+    <description>KabelDeutschland 05/2016</description>
+  </expense>
+  <expense>
+    <id>1884</id>
+    <amount>20.86</amount>
+    <date>
+      <day>17</day>
+      <month>6</month>
+      <year>2016</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Flat</category>
+    <description>KabelDeutschland 06/2016</description>
+  </expense>
+  <expense>
+    <id>1885</id>
+    <amount>20.60</amount>
+    <date>
+      <day>18</day>
+      <month>7</month>
+      <year>2016</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Flat</category>
+    <description>KabelDeutschland 07/2016</description>
+  </expense>
+  <expense>
+    <id>1886</id>
+    <amount>20.37</amount>
+    <date>
+      <day>17</day>
+      <month>8</month>
+      <year>2016</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Flat</category>
+    <description>KabelDeutschland 08/2016</description>
+  </expense>
+  <expense>
+    <id>1887</id>
+    <amount>28.35</amount>
+    <date>
+      <day>19</day>
+      <month>9</month>
+      <year>2016</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Flat</category>
+    <description>KabelDeutschland 09/2016</description>
+  </expense>
+  <expense>
+    <id>1888</id>
+    <amount>20.25</amount>
+    <date>
+      <day>18</day>
+      <month>10</month>
+      <year>2016</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Flat</category>
+    <description>KabelDeutschland 10/2016</description>
+  </expense>
+  <expense>
+    <id>1889</id>
+    <amount>20.22</amount>
+    <date>
+      <day>17</day>
+      <month>11</month>
+      <year>2016</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Flat</category>
+    <description>KabelDeutschland 11/2016</description>
+  </expense>
+  <expense>
+    <id>1890</id>
+    <amount>20.05</amount>
+    <date>
+      <day>19</day>
+      <month>12</month>
+      <year>2016</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Flat</category>
+    <description>KabelDeutschland 12/2016</description>
   </expense>
 </expenses>
