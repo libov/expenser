@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1895</n_expenses>
+  <n_expenses>1896</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -22680,5 +22680,17 @@
     <withdrawn>No</withdrawn>
     <category>Car</category>
     <description>HUK24 Nachzahlung Autowechsel Peugeot</description>
+  </expense>
+  <expense>
+    <id>1896</id>
+    <amount>628.22</amount>
+    <date>
+      <day>2</day>
+      <month>1</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>HUK24 2017 Peugeot</description>
   </expense>
 </expenses>
