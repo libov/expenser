@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1903</n_expenses>
+  <n_expenses>1908</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -16785,7 +16785,7 @@
       <month>2</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>HEM Diesel 15L</description>
   </expense>
@@ -17229,7 +17229,7 @@
       <month>2</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Travel</category>
     <description>HEM 40L Diesel trip Ungvar</description>
   </expense>
@@ -21153,7 +21153,7 @@
       <month>2</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Travel</category>
     <description>SHELL BARDEJOV</description>
   </expense>
@@ -22776,5 +22776,65 @@
     <withdrawn>Yes</withdrawn>
     <category>Travel</category>
     <description>STACIJA PALIW CHOJNOW</description>
+  </expense>
+  <expense>
+    <id>1904</id>
+    <amount>31.67</amount>
+    <date>
+      <day>15</day>
+      <month>2</month>
+      <year>2016</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Flat</category>
+    <description>Grundsteuer B</description>
+  </expense>
+  <expense>
+    <id>1905</id>
+    <amount>31.67</amount>
+    <date>
+      <day>15</day>
+      <month>5</month>
+      <year>2016</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Flat</category>
+    <description>Grundsteuer B</description>
+  </expense>
+  <expense>
+    <id>1906</id>
+    <amount>7.92</amount>
+    <date>
+      <day>2</day>
+      <month>6</month>
+      <year>2016</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Flat</category>
+    <description>Grundsteuer B</description>
+  </expense>
+  <expense>
+    <id>1907</id>
+    <amount>35.63</amount>
+    <date>
+      <day>15</day>
+      <month>8</month>
+      <year>2016</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Flat</category>
+    <description>Grundsteuer B</description>
+  </expense>
+  <expense>
+    <id>1908</id>
+    <amount>35.63</amount>
+    <date>
+      <day>15</day>
+      <month>11</month>
+      <year>2016</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Flat</category>
+    <description>Grundsteuer B</description>
   </expense>
 </expenses>
