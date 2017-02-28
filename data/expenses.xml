@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1899</n_expenses>
+  <n_expenses>1902</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -16797,7 +16797,7 @@
       <month>2</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -16965,7 +16965,7 @@
       <month>2</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>PENNY</description>
   </expense>
@@ -16977,7 +16977,7 @@
       <month>2</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>BFT Diesel 15L</description>
   </expense>
@@ -17025,7 +17025,7 @@
       <month>2</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -17109,7 +17109,7 @@
       <month>2</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -17169,7 +17169,7 @@
       <month>2</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>MARKTKAUF</description>
   </expense>
@@ -22449,7 +22449,7 @@
       <month>2</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Travel</category>
     <description>cash for Ungvar</description>
   </expense>
@@ -22728,5 +22728,41 @@
     <withdrawn>Yes</withdrawn>
     <category>Flat</category>
     <description>WOHNGELD</description>
+  </expense>
+  <expense>
+    <id>1900</id>
+    <amount>20.00</amount>
+    <date>
+      <day>8</day>
+      <month>2</month>
+      <year>2016</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Category unknown</category>
+    <description>DESY CASH</description>
+  </expense>
+  <expense>
+    <id>1901</id>
+    <amount>1400.00</amount>
+    <date>
+      <day>12</day>
+      <month>2</month>
+      <year>2016</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Other</category>
+    <description>Dentist Ungvar</description>
+  </expense>
+  <expense>
+    <id>1902</id>
+    <amount>500.00</amount>
+    <date>
+      <day>12</day>
+      <month>2</month>
+      <year>2016</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Presents</category>
+    <description>Cash Mum</description>
   </expense>
 </expenses>
