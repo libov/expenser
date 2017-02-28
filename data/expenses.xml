@@ -17397,7 +17397,7 @@
       <month>3</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -17457,7 +17457,7 @@
       <month>3</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -22017,7 +22017,7 @@
       <month>3</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Transport HH</category>
     <description>Tickets HVV part3: 6x3.1(Einzel)=18.6</description>
   </expense>
@@ -22193,11 +22193,11 @@
     <id>1855</id>
     <amount>20.00</amount>
     <date>
-      <day>3</day>
+      <day>2</day>
       <month>3</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Cash</category>
     <description>FOOD</description>
   </expense>
