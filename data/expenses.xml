@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1910</n_expenses>
+  <n_expenses>1911</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -16857,7 +16857,7 @@
       <month>2</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -16917,7 +16917,7 @@
       <month>2</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Other</category>
     <description>DM stuff for teeth</description>
   </expense>
@@ -17085,7 +17085,7 @@
       <month>2</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -17241,7 +17241,7 @@
       <month>2</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>HEM Diesel 30L</description>
   </expense>
@@ -17277,7 +17277,7 @@
       <month>2</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Other</category>
     <description>FONIC</description>
   </expense>
@@ -21909,7 +21909,7 @@
       <month>2</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Other</category>
     <description>AMAZON Movit Langhantel Set</description>
   </expense>
@@ -21921,7 +21921,7 @@
       <month>2</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Other</category>
     <description>AMAZON Hantelscheiben JAGO24</description>
   </expense>
@@ -22233,7 +22233,7 @@
       <month>2</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Cash</category>
     <description>FOOD</description>
   </expense>
@@ -22860,5 +22860,17 @@
     <withdrawn>Yes</withdrawn>
     <category>Travel</category>
     <description>LOTOS WROCLAW Diesel</description>
+  </expense>
+  <expense>
+    <id>1911</id>
+    <amount>50.00</amount>
+    <date>
+      <day>24</day>
+      <month>2</month>
+      <year>2016</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Category unknown</category>
+    <description>CASH could not find</description>
   </expense>
 </expenses>
