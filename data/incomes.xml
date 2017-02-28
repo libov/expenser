@@ -1,6 +1,14 @@
 <?xml version="1.0"?>
 <incomes>
     <entry>
+    <amount>209.79</amount>
+        <date>
+            <month>2</month>
+            <year>2016</year>
+        </date>
+        <description>Guthaben Stadtwerke</description>
+    </entry>
+    <entry>
     <amount>2900.86</amount>
         <date>
             <month>2</month>

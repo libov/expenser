@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1911</n_expenses>
+  <n_expenses>1912</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -20649,7 +20649,7 @@
       <month>2</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -20793,7 +20793,7 @@
       <month>2</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>MARKTKAUF</description>
   </expense>
@@ -22209,7 +22209,7 @@
       <month>2</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Piano lessons</category>
     <description>2x</description>
   </expense>
@@ -22221,7 +22221,7 @@
       <month>2</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Cash</category>
     <description>Food</description>
   </expense>
@@ -22872,5 +22872,17 @@
     <withdrawn>Yes</withdrawn>
     <category>Category unknown</category>
     <description>CASH could not find</description>
+  </expense>
+  <expense>
+    <id>1912</id>
+    <amount>155.53</amount>
+    <date>
+      <day>1</day>
+      <month>3</month>
+      <year>2016</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Flat</category>
+    <description>WOHNGELD</description>
   </expense>
 </expenses>
