@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1914</n_expenses>
+  <n_expenses>1915</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -20661,7 +20661,7 @@
       <month>3</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -20673,7 +20673,7 @@
       <month>3</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -20805,7 +20805,7 @@
       <month>3</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Presents</category>
     <description>MARKTKAUF</description>
   </expense>
@@ -20817,7 +20817,7 @@
       <month>3</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Presents</category>
     <description>MARKTKAUF</description>
   </expense>
@@ -22908,5 +22908,17 @@
     <withdrawn>Yes</withdrawn>
     <category>Category unknown</category>
     <description>DM Probably presents for Ungvar</description>
+  </expense>
+  <expense>
+    <id>1915</id>
+    <amount>25.00</amount>
+    <date>
+      <day>23</day>
+      <month>3</month>
+      <year>2016</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Other</category>
+    <description>HH Volkshochschule Einbuergerungstest</description>
   </expense>
 </expenses>
