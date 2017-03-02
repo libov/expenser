@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1921</n_expenses>
+  <n_expenses>1922</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -18249,7 +18249,7 @@
       <month>4</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -18261,7 +18261,7 @@
       <month>3</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -18597,7 +18597,7 @@
       <month>4</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Presents</category>
     <description>MARKTKAUF for Richard etc.</description>
   </expense>
@@ -19893,7 +19893,7 @@
       <month>4</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>SHELL Diesel</description>
   </expense>
@@ -22341,7 +22341,7 @@
       <month>3</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Cash</category>
     <description>food</description>
   </expense>
@@ -22353,7 +22353,7 @@
       <month>4</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Piano lessons</category>
     <description>1x</description>
   </expense>
@@ -22980,5 +22980,17 @@
     <withdrawn>Yes</withdrawn>
     <category>Travel</category>
     <description>DANPOL Poland Diesel</description>
+  </expense>
+  <expense>
+    <id>1922</id>
+    <amount>155.53</amount>
+    <date>
+      <day>1</day>
+      <month>4</month>
+      <year>2016</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Flat</category>
+    <description>WOHNGELD</description>
   </expense>
 </expenses>
