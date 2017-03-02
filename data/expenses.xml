@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1915</n_expenses>
+  <n_expenses>1921</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -17661,7 +17661,7 @@
       <month>3</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -21141,7 +21141,7 @@
       <month>3</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>KOMFOS PRESOV</description>
   </expense>
@@ -21189,7 +21189,7 @@
       <month>3</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Travel</category>
     <description>ORLEN Poland Diesel 211.47 PLN</description>
   </expense>
@@ -22920,5 +22920,77 @@
     <withdrawn>Yes</withdrawn>
     <category>Other</category>
     <description>HH Volkshochschule Einbuergerungstest</description>
+  </expense>
+  <expense>
+    <id>1916</id>
+    <amount>100.00</amount>
+    <date>
+      <day>23</day>
+      <month>3</month>
+      <year>2016</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Category unknown</category>
+    <description>CASH probably Uzhgorod Travel</description>
+  </expense>
+  <expense>
+    <id>1917</id>
+    <amount>19.92</amount>
+    <date>
+      <day>22</day>
+      <month>3</month>
+      <year>2016</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Category unknown</category>
+    <description>ROSSMANN Probably presents Uzhgorod</description>
+  </expense>
+  <expense>
+    <id>1918</id>
+    <amount>0.70</amount>
+    <date>
+      <day>30</day>
+      <month>3</month>
+      <year>2016</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Category unknown</category>
+    <description>ZINSABSCHLUSS</description>
+  </expense>
+  <expense>
+    <id>1919</id>
+    <amount>125.00</amount>
+    <date>
+      <day>29</day>
+      <month>3</month>
+      <year>2016</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Flat</category>
+    <description>STADTWERKE 03/2016</description>
+  </expense>
+  <expense>
+    <id>1920</id>
+    <amount>33.34</amount>
+    <date>
+      <day>23</day>
+      <month>3</month>
+      <year>2016</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Category unknown</category>
+    <description>STAR Diesel but could not find the bill</description>
+  </expense>
+  <expense>
+    <id>1921</id>
+    <amount>38.76</amount>
+    <date>
+      <day>29</day>
+      <month>3</month>
+      <year>2016</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Travel</category>
+    <description>DANPOL Poland Diesel</description>
   </expense>
 </expenses>
