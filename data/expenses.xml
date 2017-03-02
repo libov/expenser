@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1925</n_expenses>
+  <n_expenses>1926</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -19809,7 +19809,7 @@
       <month>4</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>HEM Diesel</description>
   </expense>
@@ -19821,7 +19821,7 @@
       <month>4</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>HEM Diesel</description>
   </expense>
@@ -20373,7 +20373,7 @@
       <month>4</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>BAB Diesel</description>
   </expense>
@@ -22365,7 +22365,7 @@
       <month>4</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Cash</category>
     <description>Food</description>
   </expense>
@@ -22389,7 +22389,7 @@
       <month>4</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>Shtraf</description>
   </expense>
@@ -23028,5 +23028,17 @@
     <withdrawn>No</withdrawn>
     <category>Cash</category>
     <description>FOOD</description>
+  </expense>
+  <expense>
+    <id>1926</id>
+    <amount>18.20</amount>
+    <date>
+      <day>9</day>
+      <month>4</month>
+      <year>2016</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Restaurant</category>
+    <description>GASTRO BURGER KOLDING</description>
   </expense>
 </expenses>
