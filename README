@@ -1,5 +1,6 @@
 Todo
 
+* think about categories. e.g. category unknown into two: know what but no receipt, and don't know at all
 * implement some filtering into expenses table, or create another tab for that
 * check if nr of expenses matches n_expenses
 * bar chart histograms - MAJOR
