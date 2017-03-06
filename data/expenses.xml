@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1934</n_expenses>
+  <n_expenses>1935</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -18357,7 +18357,7 @@
       <month>5</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Restaurant</category>
     <description>MCDONALDS</description>
   </expense>
@@ -18369,7 +18369,7 @@
       <month>5</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Restaurant</category>
     <description>MCDONALDS</description>
   </expense>
@@ -18405,7 +18405,7 @@
       <month>5</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Other</category>
     <description>ALDI various</description>
   </expense>
@@ -19845,7 +19845,7 @@
       <month>5</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>HEM Diesel</description>
   </expense>
@@ -20133,7 +20133,7 @@
       <month>5</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Other</category>
     <description>Daenisches Bettenlager Stuehl</description>
   </expense>
@@ -23136,5 +23136,17 @@
     <withdrawn>Yes</withdrawn>
     <category>Category unknown</category>
     <description>CASH</description>
+  </expense>
+  <expense>
+    <id>1935</id>
+    <amount>17.19</amount>
+    <date>
+      <day>9</day>
+      <month>5</month>
+      <year>2016</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Entertainment</category>
+    <description>STRANDKAUFHAUS ST PETER ORDING </description>
   </expense>
 </expenses>
