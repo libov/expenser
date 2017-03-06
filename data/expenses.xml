@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1935</n_expenses>
+  <n_expenses>1936</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -18105,7 +18105,7 @@
       <month>5</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -18345,7 +18345,7 @@
       <month>5</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Restaurant</category>
     <description>MCDONALDS</description>
   </expense>
@@ -18381,7 +18381,7 @@
       <month>5</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Restaurant</category>
     <description>Einstein</description>
   </expense>
@@ -20853,7 +20853,7 @@
       <month>5</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>EDEKA</description>
   </expense>
@@ -21117,7 +21117,7 @@
       <month>5</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Entertainment</category>
     <description>ARRIBA BAD</description>
   </expense>
@@ -23148,5 +23148,17 @@
     <withdrawn>Yes</withdrawn>
     <category>Entertainment</category>
     <description>STRANDKAUFHAUS ST PETER ORDING </description>
+  </expense>
+  <expense>
+    <id>1936</id>
+    <amount>51.30</amount>
+    <date>
+      <day>13</day>
+      <month>5</month>
+      <year>2016</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Category unknown</category>
+    <description>HEM Diesel probably for festival but no receipt</description>
   </expense>
 </expenses>
