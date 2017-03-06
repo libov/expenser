@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1932</n_expenses>
+  <n_expenses>1934</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -18429,7 +18429,7 @@
       <month>5</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>PENNY</description>
   </expense>
@@ -20013,7 +20013,7 @@
       <month>5</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>BFT Diesel</description>
   </expense>
@@ -20145,7 +20145,7 @@
       <month>5</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Presents</category>
     <description>TK MAXX</description>
   </expense>
@@ -20889,7 +20889,7 @@
       <month>5</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Presents</category>
     <description>DM stuff</description>
   </expense>
@@ -20961,7 +20961,7 @@
       <month>5</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Presents</category>
     <description>H and M</description>
   </expense>
@@ -21069,7 +21069,7 @@
       <month>5</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Restaurant</category>
     <description>SAUSALITOS REEPERBAHN</description>
   </expense>
@@ -21105,7 +21105,7 @@
       <month>5</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Presents</category>
     <description>CUBUS SCHENEFELD</description>
   </expense>
@@ -23112,5 +23112,29 @@
     <withdrawn>Yes</withdrawn>
     <category>Flat</category>
     <description>WOHNGELD </description>
+  </expense>
+  <expense>
+    <id>1933</id>
+    <amount>12.88</amount>
+    <date>
+      <day>4</day>
+      <month>5</month>
+      <year>2016</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Category unknown</category>
+    <description>KFC Restaurant, can remember but no receipt</description>
+  </expense>
+  <expense>
+    <id>1934</id>
+    <amount>20.00</amount>
+    <date>
+      <day>8</day>
+      <month>5</month>
+      <year>2016</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Category unknown</category>
+    <description>CASH</description>
   </expense>
 </expenses>
