@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1956</n_expenses>
+  <n_expenses>1957</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -18489,7 +18489,7 @@
       <month>6</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>MARKTKAUF</description>
   </expense>
@@ -20073,7 +20073,7 @@
       <month>6</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>ESSO DIesel</description>
   </expense>
@@ -21849,7 +21849,7 @@
       <month>6</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Other</category>
     <description>PAYPAL eBay iPad Case</description>
   </expense>
@@ -21885,7 +21885,7 @@
       <month>6</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Music equipment</category>
     <description>PayPal PluginBoutique iZotope BreakTweaker</description>
   </expense>
@@ -22809,7 +22809,7 @@
       <month>6</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Flat</category>
     <description>Grundsteuer B</description>
   </expense>
@@ -23400,5 +23400,17 @@
     <withdrawn>Yes</withdrawn>
     <category>Category unknown</category>
     <description>CASH not recorded, no idea what</description>
+  </expense>
+  <expense>
+    <id>1957</id>
+    <amount>414.00</amount>
+    <date>
+      <day>4</day>
+      <month>6</month>
+      <year>2016</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Other</category>
+    <description>MEDIAMARKT iPad</description>
   </expense>
 </expenses>
