@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1949</n_expenses>
+  <n_expenses>1950</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -23316,5 +23316,17 @@
     <withdrawn>No</withdrawn>
     <category>Car</category>
     <description>TANKCENTER Diesel</description>
+  </expense>
+  <expense>
+    <id>1950</id>
+    <amount>57.40</amount>
+    <date>
+      <day>7</day>
+      <month>3</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>AUTOTEILE WITTHOEFT 3xFilter und Oel</description>
   </expense>
 </expenses>
