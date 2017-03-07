@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1963</n_expenses>
+  <n_expenses>1965</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -18009,7 +18009,7 @@
       <month>6</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -18021,7 +18021,7 @@
       <month>6</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Entertainment</category>
     <description>LIDL for birthday</description>
   </expense>
@@ -18033,7 +18033,7 @@
       <month>6</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Entertainment</category>
     <description>LIDL for birthday</description>
   </expense>
@@ -18465,7 +18465,7 @@
       <month>6</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Entertainment</category>
     <description>MARKTKAUF for Birthday party</description>
   </expense>
@@ -18477,7 +18477,7 @@
       <month>6</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Entertainment</category>
     <description>MARKTKAUF for Birthday party</description>
   </expense>
@@ -23484,5 +23484,29 @@
     <withdrawn>Yes</withdrawn>
     <category>Cash</category>
     <description>desy degussa prob food</description>
+  </expense>
+  <expense>
+    <id>1964</id>
+    <amount>20.00</amount>
+    <date>
+      <day>23</day>
+      <month>6</month>
+      <year>2016</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Cash</category>
+    <description>degussa cash prob food</description>
+  </expense>
+  <expense>
+    <id>1965</id>
+    <amount>2.10</amount>
+    <date>
+      <day>30</day>
+      <month>6</month>
+      <year>2016</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Category unknown</category>
+    <description>zinsabschluss</description>
   </expense>
 </expenses>
