@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1961</n_expenses>
+  <n_expenses>1962</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -18081,7 +18081,7 @@
       <month>6</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -20865,7 +20865,7 @@
       <month>6</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Presents</category>
     <description>MEDIAMARKT USB Hub</description>
   </expense>
@@ -21789,7 +21789,7 @@
       <month>6</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Other</category>
     <description>PAYPAL eBay iPad case</description>
   </expense>
@@ -23460,5 +23460,17 @@
     <withdrawn>Yes</withdrawn>
     <category>Category unknown</category>
     <description>REIFENDIENST probably one of the tyre repairs but no receipt</description>
+  </expense>
+  <expense>
+    <id>1962</id>
+    <amount>100.00</amount>
+    <date>
+      <day>11</day>
+      <month>6</month>
+      <year>2016</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Presents</category>
+    <description>Cash for Mum</description>
   </expense>
 </expenses>
