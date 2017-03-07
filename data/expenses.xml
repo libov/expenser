@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1957</n_expenses>
+  <n_expenses>1961</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -20025,7 +20025,7 @@
       <month>6</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>BFT Diesel</description>
   </expense>
@@ -21825,7 +21825,7 @@
       <month>6</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Music equipment</category>
     <description>PAYPAL Thomann various</description>
   </expense>
@@ -23412,5 +23412,53 @@
     <withdrawn>Yes</withdrawn>
     <category>Other</category>
     <description>MEDIAMARKT iPad</description>
+  </expense>
+  <expense>
+    <id>1958</id>
+    <amount>418.00</amount>
+    <date>
+      <day>9</day>
+      <month>6</month>
+      <year>2016</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Presents</category>
+    <description>MEDIAMARKT iPad</description>
+  </expense>
+  <expense>
+    <id>1959</id>
+    <amount>50.00</amount>
+    <date>
+      <day>9</day>
+      <month>6</month>
+      <year>2016</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Cash</category>
+    <description>for food</description>
+  </expense>
+  <expense>
+    <id>1960</id>
+    <amount>50.00</amount>
+    <date>
+      <day>9</day>
+      <month>6</month>
+      <year>2016</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Category unknown</category>
+    <description>cash degussa, no records, no idea what</description>
+  </expense>
+  <expense>
+    <id>1961</id>
+    <amount>24.95</amount>
+    <date>
+      <day>9</day>
+      <month>6</month>
+      <year>2016</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Category unknown</category>
+    <description>REIFENDIENST probably one of the tyre repairs but no receipt</description>
   </expense>
 </expenses>
