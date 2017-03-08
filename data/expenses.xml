@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1974</n_expenses>
+  <n_expenses>1977</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -20097,7 +20097,7 @@
       <month>7</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>KATTNER'S Diesel</description>
   </expense>
@@ -22305,7 +22305,7 @@
       <month>8</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Cash</category>
     <description>FOOD</description>
   </expense>
@@ -22545,7 +22545,7 @@
       <month>7</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Flat</category>
     <description>KabelDeutschland 07/2016</description>
   </expense>
@@ -23604,5 +23604,41 @@
     <withdrawn>Yes</withdrawn>
     <category>Category unknown</category>
     <description>CASH probably for Ungvar</description>
+  </expense>
+  <expense>
+    <id>1975</id>
+    <amount>40.48</amount>
+    <date>
+      <day>31</day>
+      <month>7</month>
+      <year>2016</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Entertainment</category>
+    <description>CASH Katowice 150 PLN, +6 eur comission</description>
+  </expense>
+  <expense>
+    <id>1976</id>
+    <amount>125.00</amount>
+    <date>
+      <day>1</day>
+      <month>7</month>
+      <year>2016</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Flat</category>
+    <description>STADTWERKE 07/2016</description>
+  </expense>
+  <expense>
+    <id>1977</id>
+    <amount>155.53</amount>
+    <date>
+      <day>1</day>
+      <month>8</month>
+      <year>2016</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Flat</category>
+    <description>WOHNGELD</description>
   </expense>
 </expenses>
