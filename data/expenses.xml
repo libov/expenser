@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1968</n_expenses>
+  <n_expenses>1970</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -17673,7 +17673,7 @@
       <month>7</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Presents</category>
     <description>CASH for mum</description>
   </expense>
@@ -17685,7 +17685,7 @@
       <month>7</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Cash</category>
     <description>food desy</description>
   </expense>
@@ -17781,7 +17781,7 @@
       <month>7</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Presents</category>
     <description>H&M stuff for Polina and Vika and myself as well</description>
   </expense>
@@ -17793,7 +17793,7 @@
       <month>7</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>Marktkauf</description>
   </expense>
@@ -17949,7 +17949,7 @@
       <month>7</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Presents</category>
     <description>TK MAXX also clothes for me</description>
   </expense>
@@ -21747,15 +21747,15 @@
   </expense>
   <expense>
     <id>1818</id>
-    <amount>77.95</amount>
+    <amount>52.95</amount>
     <date>
       <day>27</day>
       <month>6</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Books</category>
-    <description>AMAZON Molecular biology of the cell</description>
+    <description>AMAZON Molecular biology of the cell INKL. 25 EUR GUTSCHEIN</description>
   </expense>
   <expense>
     <id>1819</id>
@@ -22041,7 +22041,7 @@
       <month>7</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>PAYPAL DB trip Muenster car</description>
   </expense>
@@ -23544,5 +23544,29 @@
     <withdrawn>Yes</withdrawn>
     <category>Category unknown</category>
     <description>AUTOTEILE WITTHOFT no receipt</description>
+  </expense>
+  <expense>
+    <id>1969</id>
+    <amount>4000.00</amount>
+    <date>
+      <day>6</day>
+      <month>7</month>
+      <year>2016</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Car</category>
+    <description>PEUGEOT 307 CC</description>
+  </expense>
+  <expense>
+    <id>1970</id>
+    <amount>750.00</amount>
+    <date>
+      <day>6</day>
+      <month>7</month>
+      <year>2016</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Car</category>
+    <description>PEUGEOT 307 CC</description>
   </expense>
 </expenses>
