@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1970</n_expenses>
+  <n_expenses>1971</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -17733,7 +17733,7 @@
       <month>7</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Other</category>
     <description>dm different</description>
   </expense>
@@ -17745,7 +17745,7 @@
       <month>7</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -17757,7 +17757,7 @@
       <month>7</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -17901,7 +17901,7 @@
       <month>7</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -17961,7 +17961,7 @@
       <month>7</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Presents</category>
     <description>SHELL Flowers</description>
   </expense>
@@ -17973,7 +17973,7 @@
       <month>7</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>KFZ ZULASSUNG PI  - Peugeot Anmeldung</description>
   </expense>
@@ -23568,5 +23568,17 @@
     <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>PEUGEOT 307 CC</description>
+  </expense>
+  <expense>
+    <id>1971</id>
+    <amount>5.00</amount>
+    <date>
+      <day>8</day>
+      <month>7</month>
+      <year>2016</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Category unknown</category>
+    <description>EC GEBUEHR HALBJAHR 2016 CHECK WITH SPARDA</description>
   </expense>
 </expenses>
