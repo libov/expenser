@@ -1,6 +1,14 @@
 <?xml version="1.0"?>
 <incomes>
     <entry>
+    <amount>2546.79</amount>
+        <date>
+            <month>6</month>
+            <year>2016</year>
+        </date>
+        <description>Salary 06/2016</description>
+    </entry>
+    <entry>
     <amount>2914.90</amount>
         <date>
             <month>5</month>
