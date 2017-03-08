@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1980</n_expenses>
+  <n_expenses>1985</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -19269,7 +19269,7 @@
       <month>8</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -20169,7 +20169,7 @@
       <month>8</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -20829,7 +20829,7 @@
       <month>8</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>MARKTKAUF</description>
   </expense>
@@ -20901,7 +20901,7 @@
       <month>8</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Clothes</category>
     <description>DEICHMANN Fila Schuhe</description>
   </expense>
@@ -20997,7 +20997,7 @@
       <month>8</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Clothes</category>
     <description>TK MAXX</description>
   </expense>
@@ -21129,7 +21129,7 @@
       <month>8</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>AUTOTEILE WITTHOFT</description>
   </expense>
@@ -23676,5 +23676,65 @@
     <withdrawn>Yes</withdrawn>
     <category>Category unknown</category>
     <description>FONIC can't find records</description>
+  </expense>
+  <expense>
+    <id>1981</id>
+    <amount>2.30</amount>
+    <date>
+      <day>31</day>
+      <month>7</month>
+      <year>2016</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Travel</category>
+    <description>MASTERCARD Poland Autobahn</description>
+  </expense>
+  <expense>
+    <id>1982</id>
+    <amount>2.30</amount>
+    <date>
+      <day>31</day>
+      <month>7</month>
+      <year>2016</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Travel</category>
+    <description>MASTERCARD Poland Autobahn</description>
+  </expense>
+  <expense>
+    <id>1983</id>
+    <amount>0.05</amount>
+    <date>
+      <day>31</day>
+      <month>7</month>
+      <year>2016</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Travel</category>
+    <description>MASTERCARD Auslandseinsatz 2% from 2.30</description>
+  </expense>
+  <expense>
+    <id>1984</id>
+    <amount>0.05</amount>
+    <date>
+      <day>31</day>
+      <month>7</month>
+      <year>2016</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Travel</category>
+    <description>MASTERCARD Auslandseinsatz 2% from 2.30</description>
+  </expense>
+  <expense>
+    <id>1985</id>
+    <amount>9.70</amount>
+    <date>
+      <day>9</day>
+      <month>8</month>
+      <year>2016</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Travel</category>
+    <description>Kiev Westend Hotel</description>
   </expense>
 </expenses>
