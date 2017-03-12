@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1988</n_expenses>
+  <n_expenses>1989</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -23772,5 +23772,17 @@
     <withdrawn>No</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>1989</id>
+    <amount>30.00</amount>
+    <date>
+      <day>11</day>
+      <month>3</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>SHELL Diesel</description>
   </expense>
 </expenses>
