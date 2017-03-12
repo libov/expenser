@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>2034</n_expenses>
+  <n_expenses>2036</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -19149,7 +19149,7 @@
       <month>10</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -19161,7 +19161,7 @@
       <month>10</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -20481,7 +20481,7 @@
       <month>10</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>BFT Diesel</description>
   </expense>
@@ -20757,7 +20757,7 @@
       <month>10</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>MARKTKAUF</description>
   </expense>
@@ -22569,7 +22569,7 @@
       <month>10</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Flat</category>
     <description>KabelDeutschland 10/2016</description>
   </expense>
@@ -24312,5 +24312,29 @@
     <withdrawn>Yes</withdrawn>
     <category>Flat</category>
     <description>STADTWERKE 10/2016</description>
+  </expense>
+  <expense>
+    <id>2035</id>
+    <amount>155.53</amount>
+    <date>
+      <day>1</day>
+      <month>11</month>
+      <year>2016</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Flat</category>
+    <description>WOHNGELD</description>
+  </expense>
+  <expense>
+    <id>2036</id>
+    <amount>1000.00</amount>
+    <date>
+      <day>2</day>
+      <month>11</month>
+      <year>2016</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>No record</category>
+    <description>CASH</description>
   </expense>
 </expenses>
