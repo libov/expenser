@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>2038</n_expenses>
+  <n_expenses>2039</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -19305,7 +19305,7 @@
       <month>11</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Other</category>
     <description>REAL Rasierer</description>
   </expense>
@@ -19353,7 +19353,7 @@
       <month>11</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>EDEKA</description>
   </expense>
@@ -19413,7 +19413,7 @@
       <month>11</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>ESSO Diesel</description>
   </expense>
@@ -19521,7 +19521,7 @@
       <month>11</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -20193,7 +20193,7 @@
       <month>11</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>MARKTKAUF</description>
   </expense>
@@ -24360,5 +24360,17 @@
     <withdrawn>Yes</withdrawn>
     <category>Business trip</category>
     <description>INTERCITY HOTEL Mainz 11/2016</description>
+  </expense>
+  <expense>
+    <id>2039</id>
+    <amount>20.00</amount>
+    <date>
+      <day>24</day>
+      <month>11</month>
+      <year>2016</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>No record</category>
+    <description>cash</description>
   </expense>
 </expenses>
