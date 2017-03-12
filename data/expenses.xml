@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>2016</n_expenses>
+  <n_expenses>2018</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -22557,7 +22557,7 @@
       <month>9</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Flat</category>
     <description>KabelDeutschland 09/2016</description>
   </expense>
@@ -24096,5 +24096,29 @@
     <withdrawn>Yes</withdrawn>
     <category>No record</category>
     <description>MCDONALDS Poland</description>
+  </expense>
+  <expense>
+    <id>2017</id>
+    <amount>125.00</amount>
+    <date>
+      <day>28</day>
+      <month>9</month>
+      <year>2016</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Flat</category>
+    <description>Stadtwerke 09/2016</description>
+  </expense>
+  <expense>
+    <id>2018</id>
+    <amount>8.60</amount>
+    <date>
+      <day>29</day>
+      <month>9</month>
+      <year>2016</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Restaurant</category>
+    <description>Lviv Cukernya</description>
   </expense>
 </expenses>
