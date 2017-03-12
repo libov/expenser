@@ -1,0 +1,6 @@
+This changelog was created on 12.3.2017
+
+* 12.3.2017 Introduced another category, "No record". These are expenses which I can't
+            track back to receipts or other records. Should be different from "category unkown" when
+            I have a record but don't know what the money was spent for. Before 12.3.17 was not
+            separating between the two. Ultimately should edit earlier expenses.
