@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>2013</n_expenses>
+  <n_expenses>2016</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -19317,7 +19317,7 @@
       <month>9</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>REAL</description>
   </expense>
@@ -19761,7 +19761,7 @@
       <month>9</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>HEM Diesel</description>
   </expense>
@@ -20181,7 +20181,7 @@
       <month>9</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>STAR Diesel</description>
   </expense>
@@ -21009,7 +21009,7 @@
       <month>9</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Presents</category>
     <description>TKMAXX Gutschein Artur</description>
   </expense>
@@ -21681,7 +21681,7 @@
       <month>8</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Music equipment</category>
     <description>APPLE Mastercard Notion iPad</description>
   </expense>
@@ -24060,5 +24060,41 @@
     <withdrawn>Yes</withdrawn>
     <category>Clothes</category>
     <description>TK MAXX,  partially presents for parents Mallorca trip</description>
+  </expense>
+  <expense>
+    <id>2014</id>
+    <amount>280.00</amount>
+    <date>
+      <day>24</day>
+      <month>8</month>
+      <year>2016</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Business trip</category>
+    <description>Barcelona Sep 2016 Hotel part1: 2 nights </description>
+  </expense>
+  <expense>
+    <id>2015</id>
+    <amount>150.00</amount>
+    <date>
+      <day>27</day>
+      <month>9</month>
+      <year>2016</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>No record</category>
+    <description>CASH</description>
+  </expense>
+  <expense>
+    <id>2016</id>
+    <amount>1.89</amount>
+    <date>
+      <day>28</day>
+      <month>9</month>
+      <year>2016</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>No record</category>
+    <description>MCDONALDS Poland</description>
   </expense>
 </expenses>
