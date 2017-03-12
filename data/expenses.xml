@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1985</n_expenses>
+  <n_expenses>1986</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -23736,5 +23736,17 @@
     <withdrawn>Yes</withdrawn>
     <category>Travel</category>
     <description>Kiev Westend Hotel</description>
+  </expense>
+  <expense>
+    <id>1986</id>
+    <amount>20.00</amount>
+    <date>
+      <day>11</day>
+      <month>3</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Restaurant</category>
+    <description>CASH for Einstein with Lisa payed 16 eur</description>
   </expense>
 </expenses>
