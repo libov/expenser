@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1991</n_expenses>
+  <n_expenses>1992</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -23808,5 +23808,17 @@
     <withdrawn>No</withdrawn>
     <category>Restaurant</category>
     <description>Schweinske with Lisa</description>
+  </expense>
+  <expense>
+    <id>1992</id>
+    <amount>20.95</amount>
+    <date>
+      <day>10</day>
+      <month>3</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Presents</category>
+    <description>BLUME AKTUELL Flowers Lisa</description>
   </expense>
 </expenses>
