@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>2032</n_expenses>
+  <n_expenses>2034</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -19857,7 +19857,7 @@
       <month>10</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>HEM Diesel</description>
   </expense>
@@ -20745,7 +20745,7 @@
       <month>10</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>MARKTKAUF</description>
   </expense>
@@ -24288,5 +24288,29 @@
     <withdrawn>Yes</withdrawn>
     <category>No record</category>
     <description>cash</description>
+  </expense>
+  <expense>
+    <id>2033</id>
+    <amount>20.00</amount>
+    <date>
+      <day>27</day>
+      <month>10</month>
+      <year>2016</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>No record</category>
+    <description>caash</description>
+  </expense>
+  <expense>
+    <id>2034</id>
+    <amount>125.00</amount>
+    <date>
+      <day>28</day>
+      <month>10</month>
+      <year>2016</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Flat</category>
+    <description>STADTWERKE 10/2016</description>
   </expense>
 </expenses>
