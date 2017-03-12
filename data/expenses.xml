@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>2008</n_expenses>
+  <n_expenses>2013</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -19233,7 +19233,7 @@
       <month>9</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -20397,7 +20397,7 @@
       <month>9</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>REAL</description>
   </expense>
@@ -20613,7 +20613,7 @@
       <month>9</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -24000,5 +24000,65 @@
     <withdrawn>Yes</withdrawn>
     <category>Business trip</category>
     <description>PAYPAL VUELING LUGGAGE</description>
+  </expense>
+  <expense>
+    <id>2009</id>
+    <amount>24.00</amount>
+    <date>
+      <day>16</day>
+      <month>9</month>
+      <year>2016</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Car</category>
+    <description>ATW WITTHOEFT GETRIEBEOEL MERCEDES</description>
+  </expense>
+  <expense>
+    <id>2010</id>
+    <amount>50.00</amount>
+    <date>
+      <day>20</day>
+      <month>9</month>
+      <year>2016</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>No record</category>
+    <description>CASH</description>
+  </expense>
+  <expense>
+    <id>2011</id>
+    <amount>500.00</amount>
+    <date>
+      <day>20</day>
+      <month>9</month>
+      <year>2016</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>No record</category>
+    <description>CASH</description>
+  </expense>
+  <expense>
+    <id>2012</id>
+    <amount>30.00</amount>
+    <date>
+      <day>20</day>
+      <month>9</month>
+      <year>2016</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>No record</category>
+    <description>CASH</description>
+  </expense>
+  <expense>
+    <id>2013</id>
+    <amount>82.97</amount>
+    <date>
+      <day>21</day>
+      <month>9</month>
+      <year>2016</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Clothes</category>
+    <description>TK MAXX,  partially presents for parents Mallorca trip</description>
   </expense>
 </expenses>
