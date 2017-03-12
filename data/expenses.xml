@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>2024</n_expenses>
+  <n_expenses>2026</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -19221,7 +19221,7 @@
       <month>10</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -20733,7 +20733,7 @@
       <month>10</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>MARKTKAUF,partially presents</description>
   </expense>
@@ -21309,7 +21309,7 @@
       <month>10</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Presents</category>
     <description>LSTR ROMA AIRPORT for Kjsu</description>
   </expense>
@@ -21633,7 +21633,7 @@
       <month>9</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Other</category>
     <description>PAYPAL Facebook Ad Untold Stories</description>
   </expense>
@@ -24192,5 +24192,29 @@
     <withdrawn>Yes</withdrawn>
     <category>No record</category>
     <description>ORLEN Poland Diesel Travel</description>
+  </expense>
+  <expense>
+    <id>2025</id>
+    <amount>50.00</amount>
+    <date>
+      <day>4</day>
+      <month>10</month>
+      <year>2016</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Business trip</category>
+    <description>Hostel Frascati 10/2016</description>
+  </expense>
+  <expense>
+    <id>2026</id>
+    <amount>6.90</amount>
+    <date>
+      <day>2</day>
+      <month>10</month>
+      <year>2016</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Restaurant</category>
+    <description>McDonalds Rome</description>
   </expense>
 </expenses>
