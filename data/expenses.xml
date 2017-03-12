@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1987</n_expenses>
+  <n_expenses>1988</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -23760,5 +23760,17 @@
     <withdrawn>No</withdrawn>
     <category>Other</category>
     <description>FONIC wird zum 16.3 abgebucht</description>
+  </expense>
+  <expense>
+    <id>1988</id>
+    <amount>4.10</amount>
+    <date>
+      <day>9</day>
+      <month>3</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
   </expense>
 </expenses>
