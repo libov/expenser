@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>1990</n_expenses>
+  <n_expenses>1991</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -23796,5 +23796,17 @@
     <withdrawn>No</withdrawn>
     <category>Presents</category>
     <description>EDEKA sweets Lisa</description>
+  </expense>
+  <expense>
+    <id>1991</id>
+    <amount>15.90</amount>
+    <date>
+      <day>11</day>
+      <month>3</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Restaurant</category>
+    <description>Schweinske with Lisa</description>
   </expense>
 </expenses>
