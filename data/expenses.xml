@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>2046</n_expenses>
+  <n_expenses>2047</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -19101,7 +19101,7 @@
       <month>12</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -19113,7 +19113,7 @@
       <month>12</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -21153,7 +21153,7 @@
       <month>12</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Travel</category>
     <description>SKYTOLL road fee Slovakia</description>
   </expense>
@@ -21333,7 +21333,7 @@
       <month>12</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Restaurant</category>
     <description>Stara Lubovna</description>
   </expense>
@@ -21345,7 +21345,7 @@
       <month>12</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Restaurant</category>
     <description>HOTEL FAMILIA Breakfast</description>
   </expense>
@@ -24444,5 +24444,17 @@
     <withdrawn>Yes</withdrawn>
     <category>No record</category>
     <description>CASH</description>
+  </expense>
+  <expense>
+    <id>2047</id>
+    <amount>17.60</amount>
+    <date>
+      <day>3</day>
+      <month>12</month>
+      <year>2016</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Travel</category>
+    <description>WATKEM Poland Diesel</description>
   </expense>
 </expenses>
