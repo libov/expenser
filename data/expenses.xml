@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>2000</n_expenses>
+  <n_expenses>2003</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -19797,7 +19797,7 @@
       <month>8</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>HEM Diesel</description>
   </expense>
@@ -20733,7 +20733,7 @@
       <month>9</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>MARKTKAUF</description>
   </expense>
@@ -21681,7 +21681,7 @@
       <month>8</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Other</category>
     <description>Paypal to NK for Untold Stories</description>
   </expense>
@@ -22425,7 +22425,7 @@
       <month>8</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Category unknown</category>
     <description>-</description>
   </expense>
@@ -22665,7 +22665,7 @@
       <month>8</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>HUK24 Nachzahlung Autowechsel Peugeot</description>
   </expense>
@@ -23916,5 +23916,41 @@
     <withdrawn>Yes</withdrawn>
     <category>Flat</category>
     <description>STADTWERKE 08/2016</description>
+  </expense>
+  <expense>
+    <id>2001</id>
+    <amount>155.53</amount>
+    <date>
+      <day>1</day>
+      <month>9</month>
+      <year>2016</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Flat</category>
+    <description>WOHNGELD</description>
+  </expense>
+  <expense>
+    <id>2002</id>
+    <amount>20.00</amount>
+    <date>
+      <day>4</day>
+      <month>9</month>
+      <year>2016</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>No record</category>
+    <description>cash</description>
+  </expense>
+  <expense>
+    <id>2003</id>
+    <amount>20.00</amount>
+    <date>
+      <day>4</day>
+      <month>9</month>
+      <year>2016</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>No record</category>
+    <description>cash</description>
   </expense>
 </expenses>
