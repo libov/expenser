@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>2003</n_expenses>
+  <n_expenses>2008</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -18609,21 +18609,9 @@
       <month>9</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Other</category>
     <description>FONIC</description>
-  </expense>
-  <expense>
-    <id>1557</id>
-    <amount>79.99</amount>
-    <date>
-      <day>3</day>
-      <month>9</month>
-      <year>2016</year>
-    </date>
-    <withdrawn>No</withdrawn>
-    <category>Other</category>
-    <description>MEDIAMARKT Phone</description>
   </expense>
   <expense>
     <id>1558</id>
@@ -19257,7 +19245,7 @@
       <month>9</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -19377,7 +19365,7 @@
       <month>9</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Other</category>
     <description>MEDIA MARKT Archos Neon Phone</description>
   </expense>
@@ -19449,7 +19437,7 @@
       <month>9</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>HEM Diesel</description>
   </expense>
@@ -19569,7 +19557,7 @@
       <month>9</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -19677,7 +19665,7 @@
       <month>9</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>HEM Diesel</description>
   </expense>
@@ -20913,7 +20901,7 @@
       <month>9</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>PENNY</description>
   </expense>
@@ -21609,7 +21597,7 @@
       <month>9</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Presents</category>
     <description>PAYPAL Ryanair Mallorca Papa </description>
   </expense>
@@ -21657,7 +21645,7 @@
       <month>9</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Other</category>
     <description>FONIC</description>
   </expense>
@@ -23952,5 +23940,65 @@
     <withdrawn>Yes</withdrawn>
     <category>No record</category>
     <description>cash</description>
+  </expense>
+  <expense>
+    <id>2004</id>
+    <amount>30.00</amount>
+    <date>
+      <day>8</day>
+      <month>9</month>
+      <year>2016</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Other</category>
+    <description>JAHRESGEBUER MASTERCARD</description>
+  </expense>
+  <expense>
+    <id>2005</id>
+    <amount>420.00</amount>
+    <date>
+      <day>11</day>
+      <month>9</month>
+      <year>2016</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>No record</category>
+    <description>cash</description>
+  </expense>
+  <expense>
+    <id>2006</id>
+    <amount>100.00</amount>
+    <date>
+      <day>11</day>
+      <month>9</month>
+      <year>2016</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>No record</category>
+    <description>cash</description>
+  </expense>
+  <expense>
+    <id>2007</id>
+    <amount>150.00</amount>
+    <date>
+      <day>11</day>
+      <month>9</month>
+      <year>2016</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>No record</category>
+    <description>cash</description>
+  </expense>
+  <expense>
+    <id>2008</id>
+    <amount>15.45</amount>
+    <date>
+      <day>9</day>
+      <month>9</month>
+      <year>2016</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Business trip</category>
+    <description>PAYPAL VUELING LUGGAGE</description>
   </expense>
 </expenses>
