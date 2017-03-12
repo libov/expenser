@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>2047</n_expenses>
+  <n_expenses>2052</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -21213,7 +21213,7 @@
       <month>12</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Travel</category>
     <description>ORLEN Poland Diesel </description>
   </expense>
@@ -24456,5 +24456,65 @@
     <withdrawn>Yes</withdrawn>
     <category>Travel</category>
     <description>WATKEM Poland Diesel</description>
+  </expense>
+  <expense>
+    <id>2048</id>
+    <amount>34.23</amount>
+    <date>
+      <day>4</day>
+      <month>12</month>
+      <year>2016</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Travel</category>
+    <description>BRSM-NAFTA Diesel</description>
+  </expense>
+  <expense>
+    <id>2049</id>
+    <amount>4.64</amount>
+    <date>
+      <day>5</day>
+      <month>12</month>
+      <year>2016</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Restaurant</category>
+    <description>Rzeszow airport coffee water</description>
+  </expense>
+  <expense>
+    <id>2050</id>
+    <amount>2.57</amount>
+    <date>
+      <day>4</day>
+      <month>12</month>
+      <year>2016</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Other</category>
+    <description>WOG Retail Life Popolnjashka</description>
+  </expense>
+  <expense>
+    <id>2051</id>
+    <amount>1.68</amount>
+    <date>
+      <day>5</day>
+      <month>12</month>
+      <year>2016</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Restaurant</category>
+    <description>STACJA PALIW ORLEN</description>
+  </expense>
+  <expense>
+    <id>2052</id>
+    <amount>4.07</amount>
+    <date>
+      <day>5</day>
+      <month>12</month>
+      <year>2016</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>No record</category>
+    <description>KFC Poland</description>
   </expense>
 </expenses>
