@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>2039</n_expenses>
+  <n_expenses>2041</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -18621,7 +18621,7 @@
       <month>11</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Cash</category>
     <description>for Christmas market etc</description>
   </expense>
@@ -18633,7 +18633,7 @@
       <month>11</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>HEM Diesel</description>
   </expense>
@@ -19509,7 +19509,7 @@
       <month>11</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -22077,7 +22077,7 @@
       <month>11</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Cash</category>
     <description>Food</description>
   </expense>
@@ -22581,7 +22581,7 @@
       <month>11</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Flat</category>
     <description>KabelDeutschland 11/2016</description>
   </expense>
@@ -24362,15 +24362,27 @@
     <description>INTERCITY HOTEL Mainz 11/2016</description>
   </expense>
   <expense>
-    <id>2039</id>
-    <amount>20.00</amount>
+    <id>2040</id>
+    <amount>125.00</amount>
     <date>
-      <day>24</day>
+      <day>28</day>
       <month>11</month>
       <year>2016</year>
     </date>
     <withdrawn>Yes</withdrawn>
-    <category>No record</category>
-    <description>cash</description>
+    <category>Flat</category>
+    <description>STADTWERKE 11/2016</description>
+  </expense>
+  <expense>
+    <id>2041</id>
+    <amount>10.00</amount>
+    <date>
+      <day>26</day>
+      <month>11</month>
+      <year>2016</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Car</category>
+    <description>FINE Einwohner-Zentralamt</description>
   </expense>
 </expenses>
