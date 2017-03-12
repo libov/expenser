@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>2055</n_expenses>
+  <n_expenses>2056</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -18693,7 +18693,7 @@
       <month>12</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Presents</category>
     <description>Cash for Mum</description>
   </expense>
@@ -18717,7 +18717,7 @@
       <month>12</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>STAR Diesel</description>
   </expense>
@@ -18729,7 +18729,7 @@
       <month>12</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Presents</category>
     <description>BLUME 2000 flowers</description>
   </expense>
@@ -19401,7 +19401,7 @@
       <month>12</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Presents</category>
     <description>Koenig der Loewen</description>
   </expense>
@@ -19449,7 +19449,7 @@
       <month>12</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>HEM Diesel</description>
   </expense>
@@ -24552,5 +24552,17 @@
     <withdrawn>Yes</withdrawn>
     <category>No record</category>
     <description>cash</description>
+  </expense>
+  <expense>
+    <id>2056</id>
+    <amount>304.75</amount>
+    <date>
+      <day>19</day>
+      <month>12</month>
+      <year>2016</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>No record</category>
+    <description>cash Luebeck, 300 cash, 4.75 fee</description>
   </expense>
 </expenses>
