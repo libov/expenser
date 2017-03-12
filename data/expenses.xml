@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>2052</n_expenses>
+  <n_expenses>2053</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -20349,7 +20349,7 @@
       <month>12</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>TANKCENTER Diesel</description>
   </expense>
@@ -20913,7 +20913,7 @@
       <month>12</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>PENNY</description>
   </expense>
@@ -21165,7 +21165,7 @@
       <month>12</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Travel</category>
     <description>MOYA Poland Diesel 207.21 PLN</description>
   </expense>
@@ -21453,7 +21453,7 @@
       <month>12</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Other</category>
     <description>FONIC</description>
   </expense>
@@ -21465,7 +21465,7 @@
       <month>11</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Other</category>
     <description>FONIC</description>
   </expense>
@@ -22161,7 +22161,7 @@
       <month>12</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Cash</category>
     <description>Food, prob 25 for music</description>
   </expense>
@@ -24516,5 +24516,17 @@
     <withdrawn>Yes</withdrawn>
     <category>No record</category>
     <description>KFC Poland</description>
+  </expense>
+  <expense>
+    <id>2053</id>
+    <amount>20.00</amount>
+    <date>
+      <day>11</day>
+      <month>12</month>
+      <year>2016</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>No record</category>
+    <description>cash</description>
   </expense>
 </expenses>
