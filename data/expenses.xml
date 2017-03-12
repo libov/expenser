@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>2041</n_expenses>
+  <n_expenses>2046</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -19497,7 +19497,7 @@
       <month>11</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -19893,7 +19893,7 @@
       <month>12</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>ARAL Diesel</description>
   </expense>
@@ -19905,7 +19905,7 @@
       <month>12</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>ARAL Diesel</description>
   </expense>
@@ -20697,7 +20697,7 @@
       <month>11</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>MARKTKAUF</description>
   </expense>
@@ -20937,7 +20937,7 @@
       <month>11</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Flat</category>
     <description>IKEA</description>
   </expense>
@@ -21045,7 +21045,7 @@
       <month>12</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Presents</category>
     <description>ANDRONACO for Ksju</description>
   </expense>
@@ -24384,5 +24384,65 @@
     <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>FINE Einwohner-Zentralamt</description>
+  </expense>
+  <expense>
+    <id>2042</id>
+    <amount>155.53</amount>
+    <date>
+      <day>1</day>
+      <month>12</month>
+      <year>2016</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Flat</category>
+    <description>WOHNGELD</description>
+  </expense>
+  <expense>
+    <id>2043</id>
+    <amount>50.00</amount>
+    <date>
+      <day>1</day>
+      <month>12</month>
+      <year>2016</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>No record</category>
+    <description>CASH</description>
+  </expense>
+  <expense>
+    <id>2044</id>
+    <amount>20.00</amount>
+    <date>
+      <day>1</day>
+      <month>12</month>
+      <year>2016</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>No record</category>
+    <description>CASH</description>
+  </expense>
+  <expense>
+    <id>2045</id>
+    <amount>100.00</amount>
+    <date>
+      <day>1</day>
+      <month>12</month>
+      <year>2016</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>No record</category>
+    <description>CASH</description>
+  </expense>
+  <expense>
+    <id>2046</id>
+    <amount>20.00</amount>
+    <date>
+      <day>1</day>
+      <month>12</month>
+      <year>2016</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>No record</category>
+    <description>CASH</description>
   </expense>
 </expenses>
