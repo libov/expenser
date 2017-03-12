@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>2020</n_expenses>
+  <n_expenses>2024</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -20025,7 +20025,7 @@
       <month>10</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>BFT Diesel</description>
   </expense>
@@ -21273,7 +21273,7 @@
       <month>9</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Travel</category>
     <description>ORLEN Poland Diesel</description>
   </expense>
@@ -24144,5 +24144,53 @@
     <withdrawn>Yes</withdrawn>
     <category>Other</category>
     <description>ZINSABSCLHUSS / RECHNUNGSABSCHLUSS</description>
+  </expense>
+  <expense>
+    <id>2021</id>
+    <amount>10.55</amount>
+    <date>
+      <day>29</day>
+      <month>9</month>
+      <year>2016</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Travel</category>
+    <description>Soposhyn Lviv Diesel</description>
+  </expense>
+  <expense>
+    <id>2022</id>
+    <amount>33.44</amount>
+    <date>
+      <day>30</day>
+      <month>9</month>
+      <year>2016</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Travel</category>
+    <description>LODZ ARTUS Diesel</description>
+  </expense>
+  <expense>
+    <id>2023</id>
+    <amount>155.53</amount>
+    <date>
+      <day>4</day>
+      <month>10</month>
+      <year>2016</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Flat</category>
+    <description>WOHNGELD 10/2016</description>
+  </expense>
+  <expense>
+    <id>2024</id>
+    <amount>30.53</amount>
+    <date>
+      <day>29</day>
+      <month>9</month>
+      <year>2016</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>No record</category>
+    <description>ORLEN Poland Diesel Travel</description>
   </expense>
 </expenses>
