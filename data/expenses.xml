@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>2037</n_expenses>
+  <n_expenses>2038</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -19125,7 +19125,7 @@
       <month>11</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -19533,7 +19533,7 @@
       <month>11</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -21069,7 +21069,7 @@
       <month>11</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Restaurant</category>
     <description>EINSTEIN</description>
   </expense>
@@ -21489,7 +21489,7 @@
       <month>11</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Other</category>
     <description>FONIC</description>
   </expense>
@@ -22065,7 +22065,7 @@
       <month>11</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Piano lessons</category>
     <description>2x</description>
   </expense>
@@ -24348,5 +24348,17 @@
     <withdrawn>Yes</withdrawn>
     <category>No record</category>
     <description>CASH</description>
+  </expense>
+  <expense>
+    <id>2038</id>
+    <amount>237.00</amount>
+    <date>
+      <day>14</day>
+      <month>11</month>
+      <year>2016</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Business trip</category>
+    <description>INTERCITY HOTEL Mainz 11/2016</description>
   </expense>
 </expenses>
