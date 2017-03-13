@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>2059</n_expenses>
+  <n_expenses>2060</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -18789,7 +18789,7 @@
       <month>1</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>HEM Diesel 20L</description>
   </expense>
@@ -18801,7 +18801,7 @@
       <month>1</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>EDEKA </description>
   </expense>
@@ -18813,7 +18813,7 @@
       <month>12</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>EDEKA</description>
   </expense>
@@ -18885,7 +18885,7 @@
       <month>12</month>
       <year>2016</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>SHELL Diesel 10L</description>
   </expense>
@@ -22665,7 +22665,7 @@
       <month>1</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>HUK24 2017 Peugeot</description>
   </expense>
@@ -24600,5 +24600,17 @@
     <withdrawn>No</withdrawn>
     <category>Cash</category>
     <description>desy food</description>
+  </expense>
+  <expense>
+    <id>2060</id>
+    <amount>162.10</amount>
+    <date>
+      <day>2</day>
+      <month>1</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Flat</category>
+    <description>Wohngeld 01/2017</description>
   </expense>
 </expenses>
