@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>2058</n_expenses>
+  <n_expenses>2059</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -24588,5 +24588,17 @@
     <withdrawn>Yes</withdrawn>
     <category>Other</category>
     <description>Zinsabschluss</description>
+  </expense>
+  <expense>
+    <id>2059</id>
+    <amount>20.00</amount>
+    <date>
+      <day>13</day>
+      <month>3</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Cash</category>
+    <description>desy food</description>
   </expense>
 </expenses>
