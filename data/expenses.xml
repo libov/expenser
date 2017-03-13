@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>2060</n_expenses>
+  <n_expenses>2062</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -18945,7 +18945,7 @@
       <month>1</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Restaurant</category>
     <description>Griechisch</description>
   </expense>
@@ -18969,7 +18969,7 @@
       <month>1</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Other</category>
     <description>PAYPAL Kontaktlinsen</description>
   </expense>
@@ -18981,7 +18981,7 @@
       <month>1</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Other</category>
     <description>PayPal Notebooksbilliger Maus and Powerbank</description>
   </expense>
@@ -18993,7 +18993,7 @@
       <month>1</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -19017,7 +19017,7 @@
       <month>1</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Cash</category>
     <description>food + rest.</description>
   </expense>
@@ -19077,7 +19077,7 @@
       <month>1</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>SHELL Diesel</description>
   </expense>
@@ -24612,5 +24612,29 @@
     <withdrawn>Yes</withdrawn>
     <category>Flat</category>
     <description>Wohngeld 01/2017</description>
+  </expense>
+  <expense>
+    <id>2061</id>
+    <amount>285.26</amount>
+    <date>
+      <day>12</day>
+      <month>1</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Flat</category>
+    <description>WOHNGELD Abrechnung 2015</description>
+  </expense>
+  <expense>
+    <id>2062</id>
+    <amount>10.00</amount>
+    <date>
+      <day>16</day>
+      <month>1</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>No record</category>
+    <description>Bankcard 2017</description>
   </expense>
 </expenses>
