@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>2072</n_expenses>
+  <n_expenses>2073</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -22977,7 +22977,7 @@
       <month>3</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -22989,7 +22989,7 @@
       <month>3</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Entertainment</category>
     <description>CASH for Football, in fact 26 eur, took 6 eur from FOOD CASH</description>
   </expense>
@@ -23001,7 +23001,7 @@
       <month>3</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Cash</category>
     <description>FOOD</description>
   </expense>
@@ -24756,5 +24756,17 @@
     <withdrawn>Yes</withdrawn>
     <category>Flat</category>
     <description>STADTWERKE 02/2017</description>
+  </expense>
+  <expense>
+    <id>2073</id>
+    <amount>162.10</amount>
+    <date>
+      <day>1</day>
+      <month>3</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Flat</category>
+    <description>WOHNGELD 03/2017</description>
   </expense>
 </expenses>
