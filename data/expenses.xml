@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>2073</n_expenses>
+  <n_expenses>2075</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -23301,7 +23301,7 @@
       <month>3</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>AUTOTEILE WITTHOEFT 3xFilter und Oel</description>
   </expense>
@@ -23313,7 +23313,7 @@
       <month>3</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Cash</category>
     <description>DESY food</description>
   </expense>
@@ -23733,7 +23733,7 @@
       <month>3</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Restaurant</category>
     <description>CASH for Einstein with Lisa payed 16 eur</description>
   </expense>
@@ -23757,7 +23757,7 @@
       <month>3</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -23769,7 +23769,7 @@
       <month>3</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>SHELL Diesel</description>
   </expense>
@@ -23781,7 +23781,7 @@
       <month>3</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Presents</category>
     <description>EDEKA sweets Lisa</description>
   </expense>
@@ -23793,7 +23793,7 @@
       <month>3</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Restaurant</category>
     <description>Schweinske with Lisa</description>
   </expense>
@@ -23805,7 +23805,7 @@
       <month>3</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Presents</category>
     <description>BLUME AKTUELL Flowers Lisa</description>
   </expense>
@@ -24597,7 +24597,7 @@
       <month>3</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Cash</category>
     <description>desy food</description>
   </expense>
@@ -24768,5 +24768,29 @@
     <withdrawn>Yes</withdrawn>
     <category>Flat</category>
     <description>WOHNGELD 03/2017</description>
+  </expense>
+  <expense>
+    <id>2074</id>
+    <amount>14.42</amount>
+    <date>
+      <day>13</day>
+      <month>3</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>2075</id>
+    <amount>11.00</amount>
+    <date>
+      <day>14</day>
+      <month>3</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Restaurant</category>
+    <description>BLOCK HOUSE</description>
   </expense>
 </expenses>
