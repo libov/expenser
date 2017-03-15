@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>2064</n_expenses>
+  <n_expenses>2065</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -24660,5 +24660,17 @@
     <withdrawn>Yes</withdrawn>
     <category>Flat</category>
     <description>STADTWERKE 01/2017</description>
+  </expense>
+  <expense>
+    <id>2065</id>
+    <amount>12.84</amount>
+    <date>
+      <day>15</day>
+      <month>3</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Presents</category>
+    <description>PAYPAL BOOOKING Hostel Vika et al Wroclaw</description>
   </expense>
 </expenses>
