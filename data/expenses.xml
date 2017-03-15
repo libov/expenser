@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>2065</n_expenses>
+  <n_expenses>2068</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -20409,7 +20409,7 @@
       <month>2</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Presents</category>
     <description>DM Vitamin C Mum</description>
   </expense>
@@ -20421,7 +20421,7 @@
       <month>2</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>EDEKA</description>
   </expense>
@@ -20433,7 +20433,7 @@
       <month>2</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Presents</category>
     <description>LIDL Sweets for Ungvar</description>
   </expense>
@@ -20445,7 +20445,7 @@
       <month>2</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Piano lessons</category>
     <description>piano</description>
   </expense>
@@ -20457,7 +20457,7 @@
       <month>2</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Presents</category>
     <description>Cash Mum</description>
   </expense>
@@ -20469,7 +20469,7 @@
       <month>2</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Travel</category>
     <description>CASH trip to Uzhgorod</description>
   </expense>
@@ -20553,7 +20553,7 @@
       <month>2</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>KATTNERS</description>
   </expense>
@@ -20565,7 +20565,7 @@
       <month>2</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Presents</category>
     <description>EDEKA for Ungvar</description>
   </expense>
@@ -20577,7 +20577,7 @@
       <month>2</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Presents</category>
     <description>LIDL for Ungvar</description>
   </expense>
@@ -20589,7 +20589,7 @@
       <month>2</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Travel</category>
     <description>HEM for Ungvar</description>
   </expense>
@@ -20601,7 +20601,7 @@
       <month>2</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Presents</category>
     <description>TESCO</description>
   </expense>
@@ -24672,5 +24672,41 @@
     <withdrawn>No</withdrawn>
     <category>Presents</category>
     <description>PAYPAL BOOOKING Hostel Vika et al Wroclaw</description>
+  </expense>
+  <expense>
+    <id>2066</id>
+    <amount>162.10</amount>
+    <date>
+      <day>1</day>
+      <month>2</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Flat</category>
+    <description>WOHNGELD 02/2017</description>
+  </expense>
+  <expense>
+    <id>2067</id>
+    <amount>6.00</amount>
+    <date>
+      <day>1</day>
+      <month>2</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Other</category>
+    <description>DOUGLAS</description>
+  </expense>
+  <expense>
+    <id>2068</id>
+    <amount>18.37</amount>
+    <date>
+      <day>3</day>
+      <month>2</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Travel</category>
+    <description>SHELL Poland Diesel</description>
   </expense>
 </expenses>
