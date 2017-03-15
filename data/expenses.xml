@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>2071</n_expenses>
+  <n_expenses>2072</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -22125,7 +22125,7 @@
       <month>2</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Restaurant</category>
     <description>PayPal Kovalch Andronaco</description>
   </expense>
@@ -22137,7 +22137,7 @@
       <month>2</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Presents</category>
     <description>PayPal Kovalch return for Mum (55-4.75)</description>
   </expense>
@@ -22149,7 +22149,7 @@
       <month>2</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Cash</category>
     <description>DESY for food</description>
   </expense>
@@ -22617,7 +22617,7 @@
       <month>2</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Flat</category>
     <description>KabelDeutschland 02/2017</description>
   </expense>
@@ -22629,7 +22629,7 @@
       <month>2</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -24744,5 +24744,17 @@
     <withdrawn>Yes</withdrawn>
     <category>No record</category>
     <description>GRUNDSTEUER B</description>
+  </expense>
+  <expense>
+    <id>2072</id>
+    <amount>125.00</amount>
+    <date>
+      <day>28</day>
+      <month>2</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Flat</category>
+    <description>STADTWERKE 02/2017</description>
   </expense>
 </expenses>
