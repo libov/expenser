@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>2068</n_expenses>
+  <n_expenses>2070</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -20493,7 +20493,7 @@
       <month>2</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Restaurant</category>
     <description>Le Marrakech Olaf</description>
   </expense>
@@ -20517,7 +20517,7 @@
       <month>2</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -20529,7 +20529,7 @@
       <month>2</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>BFT</description>
   </expense>
@@ -20541,7 +20541,7 @@
       <month>2</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>TESCO</description>
   </expense>
@@ -21441,7 +21441,7 @@
       <month>2</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Other</category>
     <description>FONIC Smart S</description>
   </expense>
@@ -24708,5 +24708,29 @@
     <withdrawn>Yes</withdrawn>
     <category>Travel</category>
     <description>SHELL Poland Diesel</description>
+  </expense>
+  <expense>
+    <id>2069</id>
+    <amount>11.27</amount>
+    <date>
+      <day>6</day>
+      <month>2</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Travel</category>
+    <description>ORLEN Poland Diesel</description>
+  </expense>
+  <expense>
+    <id>2070</id>
+    <amount>1.89</amount>
+    <date>
+      <day>6</day>
+      <month>2</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Restaurant</category>
+    <description>Mcdonalds Poland</description>
   </expense>
 </expenses>
