@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>2070</n_expenses>
+  <n_expenses>2071</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -21381,7 +21381,7 @@
       <month>2</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Cash</category>
     <description>DESY for food</description>
   </expense>
@@ -21405,7 +21405,7 @@
       <month>2</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Presents</category>
     <description>LIDL Rafaello Anna</description>
   </expense>
@@ -21417,7 +21417,7 @@
       <month>2</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Restaurant</category>
     <description>Einstein Val Day</description>
   </expense>
@@ -21429,7 +21429,7 @@
       <month>2</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -21549,7 +21549,7 @@
       <month>2</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -24732,5 +24732,17 @@
     <withdrawn>Yes</withdrawn>
     <category>Restaurant</category>
     <description>Mcdonalds Poland</description>
+  </expense>
+  <expense>
+    <id>2071</id>
+    <amount>35.63</amount>
+    <date>
+      <day>15</day>
+      <month>2</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>No record</category>
+    <description>GRUNDSTEUER B</description>
   </expense>
 </expenses>
