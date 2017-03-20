@@ -70,4 +70,8 @@ class TExpenser : public TGMainFrame {
         TGLabel                     * fCurrentStatusLabel;
         TGLabel                     * fLastStatusLabel;
 
+        // expense table filtering options
+        bool                        fFilterActive;
+        TString                     fFilterCategory;
+        TGComboBox                  * fFilterCategoryBox;
 };
