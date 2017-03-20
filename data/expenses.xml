@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>2079</n_expenses>
+  <n_expenses>2080</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -24840,5 +24840,17 @@
     <withdrawn>No</withdrawn>
     <category>Food</category>
     <description>JUNGE Die Baeckerei - 3xFranzie + 1 Mett - for the shift </description>
+  </expense>
+  <expense>
+    <id>2080</id>
+    <amount>3.46</amount>
+    <date>
+      <day>17</day>
+      <month>3</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>REWE - drinks</description>
   </expense>
 </expenses>
