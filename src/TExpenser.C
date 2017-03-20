@@ -242,6 +242,28 @@ void TExpenser::drawExpensesTab() {
     commit_button -> Connect("Clicked()", "TExpenser", this, "commit()");
     commit_button -> SetFont("-*-times-bold-r-*-*-28-*-*-*-*-*-*-*");
     hframe -> AddFrame(commit_button, new TGLayoutHints(kLHintsLeft,5,5,3,4));
+
+    // --------- Filter group --------- //
+    TGGroupFrame *frame_filter = new TGGroupFrame(hframe, "Filter");
+    frame_filter->SetTitlePos(TGGroupFrame::kLeft);
+    frame_filter->SetTextFont("-adobe-helvetica-bold-r-*-*-12-*-*-*-*-*-iso8859-1"); // when font too large, collides with group content....
+    hframe->AddFrame(frame_filter, new TGLayoutHints(kLHintsExpandX));
+
+    // filter category selector
+    fFilterCategoryBox = new TGComboBox(frame_filter, 100);
+    fFilterCategoryBox->AddEntry("Select Category", 1);
+    for (unsigned i = 1; i < NCATEGORIES+1; i++) {
+        fFilterCategoryBox->AddEntry(CATEGORIES[i], i+1);
+    }
+    fFilterCategoryBox->Resize(150, 20);
+    fFilterCategoryBox->Select(1);
+    frame_filter->AddFrame(fFilterCategoryBox, new TGLayoutHints(kLHintsLeft,5,10,5,5));
+
+    TGTextButton * filter_button = new TGTextButton(frame_filter,"&Filter");
+    filter_button -> Connect("Clicked()", "TExpenser", this, "filter_expense_table()");
+    filter_button -> SetFont("-*-times-bold-r-*-*-28-*-*-*-*-*-*-*");
+    frame_filter -> AddFrame(filter_button, new TGLayoutHints(kLHintsLeft,5,5,3,4));
+
 }
 
 void TExpenser::drawStatisticsTab() {
@@ -624,4 +646,20 @@ void TExpenser::calculate_balance() {
 
     Double_t new_balance = balance.Atof() - expenses_since_last_status + income_since_last_status;
     fCurrentStatusLabel -> SetText(toStr(time.GetDay())+"/"+toStr(time.GetMonth())+"/"+toStr(time.GetYear())+": " + toStr(new_balance,2) + " eur");
+}
+
+void TExpenser::filter_expense_table() {
+
+    fFilterActive = true;
+
+    unsigned selected_entry = fFilterCategoryBox -> GetSelected ();
+    if (selected_entry==1) {
+        fFilterCategory = "any";
+    } else {
+        fFilterCategory = CATEGORIES[selected_entry-1];
+    }
+
+    delete fTableInterface;
+    drawExpensesTable();
+    fTable -> Update();
 }
