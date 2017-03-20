@@ -4,3 +4,6 @@ This changelog was created on 12.3.2017
             track back to receipts or other records. Should be different from "category unkown" when
             I have a record but don't know what the money was spent for. Before 12.3.17 was not
             separating between the two. Ultimately should edit earlier expenses.
+
+* 20.3.2017 Not redrawing the UI upon adding new expenes - found a way to update the table (delete / create new interface, then call the Update method for the table)
+            Introduced filtering the expenses. Made cosmetic changes to the expenses tab.
