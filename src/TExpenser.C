@@ -143,6 +143,8 @@ void TExpenser::createExpensesTableInterface() {
 
         if (fFilterActive) {
             if ( fFilterCategory != "any" && ex.category != fFilterCategory) continue;
+            if ( fFilterMonth != "any" && MONTHS[month.Atoi()-1] != fFilterMonth) continue;
+            if ( fFilterYear != "any" && year != fFilterYear) continue;
         }
 
         expenses.push_back(ex);
@@ -259,11 +261,38 @@ void TExpenser::drawExpensesTab() {
     fFilterCategoryBox->Select(1);
     frame_filter->AddFrame(fFilterCategoryBox, new TGLayoutHints(kLHintsLeft,5,10,5,5));
 
-    TGTextButton * filter_button = new TGTextButton(frame_filter,"&Filter");
+    // month selector
+    fFilterMonthBox = new TGComboBox(frame_filter);
+    fFilterMonthBox -> AddEntry("Select Month", 1);
+    for (unsigned i = 0; i < 12; i++) {
+        fFilterMonthBox->AddEntry(MONTHS[i], i+2);
+    }
+    fFilterMonthBox->Select(1);
+    fFilterMonthBox->Resize(150, 20);
+    frame_filter->AddFrame(fFilterMonthBox, new TGLayoutHints(kLHintsLeft,5,10,5,5));
+
+    // year selector
+    fFilterYearBox = new TGComboBox(frame_filter);
+    fFilterYearBox -> AddEntry("Select Year", 1);
+    for (unsigned i = FIRST_YEAR; i <= LAST_YEAR; i++) {
+        fFilterYearBox->AddEntry(toStr(i), i+2-FIRST_YEAR);
+    }
+    fFilterYearBox->Resize(100, 20);
+    fFilterYearBox->Select(1);
+    frame_filter->AddFrame(fFilterYearBox, new TGLayoutHints(kLHintsLeft,5,10,5,5));
+
+    TGHorizontalFrame *hframe2 = new TGHorizontalFrame(frame_filter, 500, 40);
+    frame_filter -> AddFrame(hframe2,new TGLayoutHints(kLHintsLeft,5,5,3,4));
+
+    TGTextButton * filter_button = new TGTextButton(hframe2,"&Filter");
     filter_button -> Connect("Clicked()", "TExpenser", this, "filter_expense_table()");
     filter_button -> SetFont("-*-times-bold-r-*-*-28-*-*-*-*-*-*-*");
-    frame_filter -> AddFrame(filter_button, new TGLayoutHints(kLHintsLeft,5,5,3,4));
+    hframe2 -> AddFrame(filter_button, new TGLayoutHints(kLHintsLeft,5,5,3,4));
 
+    TGTextButton * undo_filter_button = new TGTextButton(hframe2,"&Undo Filters");
+    undo_filter_button -> Connect("Clicked()", "TExpenser", this, "undo_filters_expense_table()");
+    undo_filter_button -> SetFont("-*-times-bold-r-*-*-28-*-*-*-*-*-*-*");
+    hframe2 -> AddFrame(undo_filter_button, new TGLayoutHints(kLHintsLeft,15,5,3,4));
 }
 
 void TExpenser::drawStatisticsTab() {
@@ -654,12 +683,43 @@ void TExpenser::filter_expense_table() {
 
     fFilterActive = true;
 
+    // get selected category
     unsigned selected_entry = fFilterCategoryBox -> GetSelected ();
     if (selected_entry==1) {
         fFilterCategory = "any";
     } else {
         fFilterCategory = CATEGORIES[selected_entry-1];
     }
+
+    // get selected month
+    selected_entry = fFilterMonthBox -> GetSelected ();
+    if (selected_entry==1) {
+         fFilterMonth = "any";
+    } else {
+         fFilterMonth = MONTHS[selected_entry-2];
+    }
+
+    // get selected year
+    selected_entry = fFilterYearBox -> GetSelected ();
+    if (selected_entry==1) {
+         fFilterYear = "any";
+    } else {
+        fFilterYear = toStr(FIRST_YEAR + selected_entry - 2);
+    }
+
+    // update the table
+    delete fTableInterface;
+    createExpensesTableInterface();
+    fTable -> Update();
+}
+
+void TExpenser::undo_filters_expense_table() {
+
+    fFilterActive = false;
+
+    fFilterCategoryBox -> Select(1);
+    fFilterMonthBox -> Select(1);
+    fFilterYearBox -> Select(1);
 
     delete fTableInterface;
     createExpensesTableInterface();

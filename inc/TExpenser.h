@@ -36,6 +36,7 @@ class TExpenser : public TGMainFrame {
         void set_withdrawn();
         void calculate_balance();
         void filter_expense_table();
+        void undo_filters_expense_table();
         ClassDef(TExpenser, 0)
 
     private:
@@ -73,5 +74,9 @@ class TExpenser : public TGMainFrame {
         // expense table filtering options
         bool                        fFilterActive;
         TString                     fFilterCategory;
+        TString                     fFilterMonth;
+        TString                     fFilterYear;
+        TGComboBox                  * fFilterMonthBox;
+        TGComboBox                  * fFilterYearBox;
         TGComboBox                  * fFilterCategoryBox;
 };
