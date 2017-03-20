@@ -167,7 +167,10 @@ void TExpenser::drawExpensesTab() {
     fExpensesTab = fTab->AddTab("Expenses");
     fExpensesTab -> SetLayoutManager(new TGHorizontalLayout(fExpensesTab));
 
+    // Create the table
     drawExpensesTable();
+    fTable = new TGTable(fExpensesTab, 999, fTableInterface, NROWSTABLE, fTableInterface->GetNColumns());
+    fExpensesTab -> AddFrame(fTable, new TGLayoutHints(kLHintsCenterY,2,2,2,2));
 
     // create a frame holding all widgets on the right of the table
     TGVerticalFrame *hframe = new TGVerticalFrame(fExpensesTab, 500, 40);
