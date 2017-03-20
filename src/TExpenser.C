@@ -481,9 +481,10 @@ void TExpenser::add() {
     // save the file!
     fXMLParser -> SaveDoc(fXMLParser->getDocument(), "data/expenses.xml");
 
-    // redraw gui
-    RemoveAll();
-    create_ui();
+    // update the table
+    delete fTableInterface;
+    createExpensesTableInterface();
+    fTable -> Update();
 }
 
 void TExpenser::commit() {
