@@ -107,7 +107,7 @@ void TExpenser::create_ui() {
     MapWindow();
 }
 
-void TExpenser::drawExpensesTable() {
+void TExpenser::createExpensesTableInterface() {
 
     // create table interface
     const unsigned ncolumns =  6;
@@ -168,7 +168,7 @@ void TExpenser::drawExpensesTab() {
     fExpensesTab -> SetLayoutManager(new TGHorizontalLayout(fExpensesTab));
 
     // Create the table
-    drawExpensesTable();
+    createExpensesTableInterface();
     fTable = new TGTable(fExpensesTab, 999, fTableInterface, NROWSTABLE, fTableInterface->GetNColumns());
     fExpensesTab -> AddFrame(fTable, new TGLayoutHints(kLHintsCenterY,2,2,2,2));
 
@@ -660,6 +660,6 @@ void TExpenser::filter_expense_table() {
     }
 
     delete fTableInterface;
-    drawExpensesTable();
+    createExpensesTableInterface();
     fTable -> Update();
 }

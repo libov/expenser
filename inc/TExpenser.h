@@ -23,7 +23,7 @@ class TExpenser : public TGMainFrame {
         virtual ~TExpenser();
         void create_ui();
         void add();
-        void drawExpensesTable();
+        void createExpensesTableInterface();
         void drawExpensesTab();
         void drawStatisticsTab();
         void drawStatisticsYearTab();
