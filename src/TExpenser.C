@@ -300,7 +300,8 @@ void TExpenser::drawStatisticsTab() {
     vframe->AddFrame(fStatisticsYear, new TGLayoutHints(kLHintsLeft,5,10,5,5));
 
     // update-button
-    TGTextButton * update_button = new TGTextButton(vframe,"&Update");
+    TGTextButton * update_button = new TGTextButton(vframe,"&Apply");
+    update_button -> SetFont("-*-times-bold-r-*-*-28-*-*-*-*-*-*-*");
     update_button -> Connect("Clicked()", "TExpenser", this, "calculate_monthly()");
     vframe -> AddFrame(update_button, new TGLayoutHints(kLHintsLeft,5,5,3,4));
 
