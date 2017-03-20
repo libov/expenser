@@ -71,6 +71,7 @@ TGMainFrame(p,w,h)
     fXMLParser = new TXMLParser("data/expenses.xml");
     fBalanceXMLParser = new TXMLParser("data/balance.xml");
     fIncomeXMLParser = new TXMLParser("data/incomes.xml");
+    fFilterActive = false;
 
     create_ui();
 }
