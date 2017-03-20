@@ -4,7 +4,7 @@ Goals:
 2. Check that all expenses claimed by the bank can be traced back
 3. Check the calculation of the bank
 4. Analyse expenses. Dominant ones that could be spared on? Any trends?
-    
+
 Todo:
 
 * think about categories. e.g. category unknown into two: know what but no receipt, and don't know at all
