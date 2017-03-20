@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>2076</n_expenses>
+  <n_expenses>2077</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -24804,5 +24804,17 @@
     <withdrawn>No</withdrawn>
     <category>Car</category>
     <description>FAMILA Tank Diesel</description>
+  </expense>
+  <expense>
+    <id>2077</id>
+    <amount>23.25</amount>
+    <date>
+      <day>18</day>
+      <month>3</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Presents</category>
+    <description>MARKTKAUF Stuff for Vika, but also 4.27 alc free beer</description>
   </expense>
 </expenses>
