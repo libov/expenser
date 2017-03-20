@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>2081</n_expenses>
+  <n_expenses>2082</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -24864,5 +24864,17 @@
     <withdrawn>No</withdrawn>
     <category>Cash</category>
     <description>20 IKEA and Restaurant - gave back to Vika, rest for food</description>
+  </expense>
+  <expense>
+    <id>2082</id>
+    <amount>20.08</amount>
+    <date>
+      <day>17</day>
+      <month>3</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Flat</category>
+    <description>KabelDeutschland 03/2017</description>
   </expense>
 </expenses>
