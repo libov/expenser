@@ -160,10 +160,6 @@ void TExpenser::drawExpensesTable() {
     }
     fTableEntries = expenses.size();
 
-    // Create the table
-    fTable = new TGTable(fExpensesTab, 999, fTableInterface, NROWSTABLE, fTableInterface->GetNColumns());
-
-    fExpensesTab -> AddFrame(fTable, new TGLayoutHints(kLHintsCenterY,2,2,2,2));
 }
 
 void TExpenser::drawExpensesTab() {
