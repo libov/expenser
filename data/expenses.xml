@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>2078</n_expenses>
+  <n_expenses>2079</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -24828,5 +24828,17 @@
     <withdrawn>No</withdrawn>
     <category>Cash</category>
     <description>DB Tageskarte but effectively cash since got it back</description>
+  </expense>
+  <expense>
+    <id>2079</id>
+    <amount>5.47</amount>
+    <date>
+      <day>19</day>
+      <month>3</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>JUNGE Die Baeckerei - 3xFranzie + 1 Mett - for the shift </description>
   </expense>
 </expenses>
