@@ -167,59 +167,75 @@ void TExpenser::drawExpensesTab() {
 
     drawExpensesTable();
 
-    // create a frame holding all widgets
+    // create a frame holding all widgets on the right of the table
     TGVerticalFrame *hframe = new TGVerticalFrame(fExpensesTab, 500, 40);
     fExpensesTab -> AddFrame(hframe, new TGLayoutHints(kLHintsCenterX,2,2,2,2));
 
+    // --------- New expense group --------- //
+    TGGroupFrame *frame_new_expense = new TGGroupFrame(hframe, "New expense");
+    frame_new_expense->SetTitlePos(TGGroupFrame::kLeft);
+    frame_new_expense->SetTextFont("-adobe-helvetica-bold-r-*-*-12-*-*-*-*-*-iso8859-1"); // when font too large, collides with group content....
+    // frame_new_expense->SetTextColor(kBlue); // doesn't work unfortunately
+    hframe->AddFrame(frame_new_expense, new TGLayoutHints(kLHintsExpandX));
+
     // expense amount entry field
-    fAmountEntry = new TGNumberEntryField(hframe, 0, 0, TGNumberFormat::kNESRealTwo, TGNumberFormat::kNEAAnyNumber);
-    hframe->AddFrame(fAmountEntry, new TGLayoutHints(kLHintsLeft,5,5,3,4));
+    fAmountEntry = new TGNumberEntryField(frame_new_expense, 0, 0, TGNumberFormat::kNESRealTwo, TGNumberFormat::kNEAAnyNumber);
+    frame_new_expense->AddFrame(fAmountEntry, new TGLayoutHints(kLHintsLeft,5,5,3,4));
 
     // date entry field
     TDatime time;
-    fDateEntry = new TGNumberEntry(hframe, time.GetDate(), 10, -1, TGNumberFormat::kNESDayMYear, TGNumberFormat::kNEAAnyNumber, TGNumberFormat::kNELLimitMinMax, 20090101., 20200101);
-    hframe->AddFrame(fDateEntry, new TGLayoutHints(kLHintsLeft,5,5,3,4));
+    fDateEntry = new TGNumberEntry(frame_new_expense, time.GetDate(), 10, -1, TGNumberFormat::kNESDayMYear, TGNumberFormat::kNEAAnyNumber, TGNumberFormat::kNELLimitMinMax, 20090101., 20200101);
+    frame_new_expense->AddFrame(fDateEntry, new TGLayoutHints(kLHintsLeft,5,5,3,4));
 
     // withdrawn or not
-    fWithdrawn = new TGComboBox(hframe,30);
+    fWithdrawn = new TGComboBox(frame_new_expense,30);
     fWithdrawn->AddEntry("Not Withdrawn", 1);
     fWithdrawn->AddEntry("Withdrawn", 2);
     fWithdrawn->Select(1);
     fWithdrawn->Resize(150, 20);
-    hframe->AddFrame(fWithdrawn, new TGLayoutHints(kLHintsLeft,5,10,5,5));
+    frame_new_expense->AddFrame(fWithdrawn, new TGLayoutHints(kLHintsLeft,5,10,5,5));
 
     // category selector
-    fCategoryBox = new TGComboBox(hframe,100);
+    fCategoryBox = new TGComboBox(frame_new_expense,100);
     for (unsigned i = 0; i < NCATEGORIES; i++) {
         fCategoryBox->AddEntry(CATEGORIES[i], i+1);
     }
     fCategoryBox->Resize(150, 20);
     fCategoryBox->Select(1);
-    hframe->AddFrame(fCategoryBox, new TGLayoutHints(kLHintsLeft,5,10,5,5));
+    frame_new_expense->AddFrame(fCategoryBox, new TGLayoutHints(kLHintsLeft,5,10,5,5));
 
     // description field
-    fDescription = new TGTextEntry(hframe, "");
+    fDescription = new TGTextEntry(frame_new_expense, "");
     fDescription -> SetToolTipText("Description");
     fDescription -> Resize(200, fDescription->GetDefaultHeight());
-    hframe -> AddFrame(fDescription, new TGLayoutHints(kLHintsLeft, 5,5,5,5));
+    frame_new_expense -> AddFrame(fDescription, new TGLayoutHints(kLHintsLeft, 5,5,5,5));
 
     // add-button
-    TGTextButton * add_button = new TGTextButton(hframe,"&Add");
+    TGTextButton * add_button = new TGTextButton(frame_new_expense,"&Add Expense");
     add_button -> Connect("Clicked()", "TExpenser", this, "add()");
-    hframe -> AddFrame(add_button, new TGLayoutHints(kLHintsLeft,5,5,3,4));
+    add_button  ->  SetFont("-*-times-bold-r-*-*-28-*-*-*-*-*-*-*");
+    frame_new_expense -> AddFrame(add_button, new TGLayoutHints(kLHintsLeft,5,5,3,4));
+
+    // --------- Withdrawing group --------- //
+    TGGroupFrame *frame_withdrawn = new TGGroupFrame(hframe, "Withdrawing");
+    frame_withdrawn->SetTitlePos(TGGroupFrame::kLeft);
+    frame_withdrawn->SetTextFont("-adobe-helvetica-bold-r-*-*-12-*-*-*-*-*-iso8859-1"); // when font too large, collides with group content....
+    hframe->AddFrame(frame_withdrawn, new TGLayoutHints(kLHintsExpandX));
 
     // withdrawn id entry field and withdrawn button
-    TGHorizontalFrame *hframe1 = new TGHorizontalFrame(hframe, 500, 40);
-    hframe -> AddFrame(hframe1,new TGLayoutHints(kLHintsLeft,5,5,3,4));
+    TGHorizontalFrame *hframe1 = new TGHorizontalFrame(frame_withdrawn, 500, 40);
+    frame_withdrawn -> AddFrame(hframe1,new TGLayoutHints(kLHintsLeft,5,5,3,4));
     fWithdrawnIdEntry = new TGNumberEntryField(hframe1, 0, 0, TGNumberFormat::kNESInteger, TGNumberFormat::kNEAAnyNumber);
-    hframe1->AddFrame(fWithdrawnIdEntry, new TGLayoutHints(kLHintsLeft,5,5,3,4));
+    hframe1->AddFrame(fWithdrawnIdEntry, new TGLayoutHints(kLHintsLeft|kLHintsExpandY,5,5,3,4));
     TGTextButton * withdrawn_button = new TGTextButton(hframe1,"&Withdrawn");
+    withdrawn_button ->  SetFont("-*-times-bold-r-*-*-28-*-*-*-*-*-*-*");
     hframe1->AddFrame(withdrawn_button, new TGLayoutHints(kLHintsLeft,5,5,3,4));
     withdrawn_button -> Connect("Clicked()", "TExpenser", this, "set_withdrawn()");
 
     // commit-button
     TGTextButton * commit_button = new TGTextButton(hframe,"&Commit");
     commit_button -> Connect("Clicked()", "TExpenser", this, "commit()");
+    commit_button -> SetFont("-*-times-bold-r-*-*-28-*-*-*-*-*-*-*");
     hframe -> AddFrame(commit_button, new TGLayoutHints(kLHintsLeft,5,5,3,4));
 }
 
