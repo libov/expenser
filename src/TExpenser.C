@@ -138,9 +138,14 @@ void TExpenser::drawExpensesTable() {
         ex.date = year+month+day;
         ex.dateForCell  = day+"/"+month+"/"+year;
         ex.id  = fXMLParser -> getNodeContent("id");
-        expenses.push_back(ex);
 
         fXMLParser->selectNextNode("expense");
+
+        if (fFilterActive) {
+            if ( fFilterCategory != "any" && ex.category != fFilterCategory) continue;
+        }
+
+        expenses.push_back(ex);
     }
 
     sort(expenses.begin(), expenses.end(), compare);
