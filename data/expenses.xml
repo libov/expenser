@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>2083</n_expenses>
+  <n_expenses>2084</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -24888,5 +24888,17 @@
     <withdrawn>No</withdrawn>
     <category>Lend</category>
     <description>Lisa</description>
+  </expense>
+  <expense>
+    <id>2084</id>
+    <amount>24.75</amount>
+    <date>
+      <day>18</day>
+      <month>3</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Music equipment</category>
+    <description>Upwork for EP cover</description>
   </expense>
 </expenses>
