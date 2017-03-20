@@ -14,8 +14,6 @@ Todo
 * improve overall layout - MINOR
 * hints/description of the fields (frame around?) - MINOR
 
-
-Note: full control since August (partially also July) 2014
-
 Note:
-clean control since 1.1.2017. Before that sometimes periods with many untracked expenses (esp. cash withdrawals)
+"clean" control since 1.1.2017. Before that sometimes periods with many untracked expenses (esp. cash withdrawals)
+otherwise 2016, 2015 and partially 2014 are in the database
