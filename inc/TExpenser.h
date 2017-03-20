@@ -35,6 +35,7 @@ class TExpenser : public TGMainFrame {
         void calculate_yearly();
         void set_withdrawn();
         void calculate_balance();
+        void filter_expense_table();
         ClassDef(TExpenser, 0)
 
     private:
