@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>2089</n_expenses>
+  <n_expenses>2090</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -24960,5 +24960,17 @@
     <withdrawn>No</withdrawn>
     <category>Transport HH</category>
     <description>DB Pinneberg</description>
+  </expense>
+  <expense>
+    <id>2090</id>
+    <amount>99.00</amount>
+    <date>
+      <day>11</day>
+      <month>8</month>
+      <year>2009</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Category unknown</category>
+    <description>DESY don't know what</description>
   </expense>
 </expenses>
