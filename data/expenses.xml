@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>2091</n_expenses>
+  <n_expenses>2092</n_expenses>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -24984,5 +24984,17 @@
     <withdrawn>No</withdrawn>
     <category>Presents</category>
     <description>Birthday Present to Sanya Oshtuk - sent to Fedorchuk</description>
+  </expense>
+  <expense>
+    <id>2092</id>
+    <amount>10.64</amount>
+    <date>
+      <day>22</day>
+      <month>3</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
   </expense>
 </expenses>
