@@ -145,6 +145,7 @@ void TExpenser::createExpensesTableInterface() {
             if ( fFilterCategory != "any" && ex.category != fFilterCategory) continue;
             if ( fFilterMonth != "any" && MONTHS[month.Atoi()-1] != fFilterMonth) continue;
             if ( fFilterYear != "any" && year != fFilterYear) continue;
+            if ( fFilterWithdrawn != ex.withdrawn ) continue;
         }
 
         expenses.push_back(ex);
@@ -280,6 +281,15 @@ void TExpenser::drawExpensesTab() {
     fFilterYearBox->Resize(100, 20);
     fFilterYearBox->Select(1);
     frame_filter->AddFrame(fFilterYearBox, new TGLayoutHints(kLHintsLeft,5,10,5,5));
+
+    // withdrawn/not withdrawn selector
+    fFilterWithdrawnBox = new TGComboBox(frame_filter);
+    fFilterWithdrawnBox -> AddEntry("Select Withdrawn", 1);
+    fFilterWithdrawnBox->AddEntry("Withdrawn", 2);
+    fFilterWithdrawnBox->AddEntry("Not Withdrawn", 3);
+    fFilterWithdrawnBox->Resize(100, 20);
+    fFilterWithdrawnBox->Select(1);
+    frame_filter->AddFrame(fFilterWithdrawnBox, new TGLayoutHints(kLHintsLeft,5,10,5,5));
 
     TGHorizontalFrame *hframe2 = new TGHorizontalFrame(frame_filter, 500, 40);
     frame_filter -> AddFrame(hframe2,new TGLayoutHints(kLHintsLeft,5,5,3,4));
@@ -706,6 +716,12 @@ void TExpenser::filter_expense_table() {
     } else {
         fFilterYear = toStr(FIRST_YEAR + selected_entry - 2);
     }
+
+    // check whether withdrawn
+    cout << "selected " << fFilterWithdrawnBox -> GetSelected () << endl;
+    if (fFilterWithdrawnBox -> GetSelected () == 2) fFilterWithdrawn = "Yes";
+    if (fFilterWithdrawnBox -> GetSelected () == 3) fFilterWithdrawn = "No";
+    cout << "WITHDRAWN STATUS " << fFilterWithdrawn << endl;
 
     // update the table
     delete fTableInterface;
