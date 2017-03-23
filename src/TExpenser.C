@@ -480,14 +480,14 @@ void TExpenser::add() {
 
     // first get total number of entries in order to assign a new id
     fXMLParser -> selectMainNode();
-    unsigned n_expenses = fXMLParser -> getNodeContent("n_expenses").Atoi();
-    XMLNodePointer_t n_expenses_node = fXMLParser -> getNode("n_expenses");
-    fXMLParser->SetNodeContent(n_expenses_node, toStr(n_expenses+1));
+    unsigned last_expense_id = fXMLParser -> getNodeContent("last_expense_id").Atoi();
+    XMLNodePointer_t last_expense_id_node = fXMLParser -> getNode("last_expense_id");
+    fXMLParser->SetNodeContent(last_expense_id_node, toStr(last_expense_id+1));
 
     fXMLParser -> selectMainNode();
     XMLNodePointer_t expense = fXMLParser -> NewChild(fXMLParser->getCurrentNode(), 0, "expense");
 
-    fXMLParser -> NewChild(expense, 0, "id", toStr( n_expenses+1 ) );
+    fXMLParser -> NewChild(expense, 0, "id", toStr( last_expense_id+1 ) );
 
     fXMLParser -> NewChild(expense, 0, "amount", toStr( fAmountEntry -> GetNumber(), 2) );
 
