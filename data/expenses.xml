@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <n_expenses>2094</n_expenses>
+  <last_expense_id>2094</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
