@@ -145,7 +145,7 @@ void TExpenser::createExpensesTableInterface() {
             if ( fFilterCategory != "any" && ex.category != fFilterCategory) continue;
             if ( fFilterMonth != "any" && MONTHS[month.Atoi()-1] != fFilterMonth) continue;
             if ( fFilterYear != "any" && year != fFilterYear) continue;
-            if ( fFilterWithdrawn != ex.withdrawn ) continue;
+            if ( fFilterWithdrawn != "any" && fFilterWithdrawn != ex.withdrawn ) continue;
         }
 
         expenses.push_back(ex);
@@ -718,10 +718,13 @@ void TExpenser::filter_expense_table() {
     }
 
     // check whether withdrawn
-    cout << "selected " << fFilterWithdrawnBox -> GetSelected () << endl;
-    if (fFilterWithdrawnBox -> GetSelected () == 2) fFilterWithdrawn = "Yes";
-    if (fFilterWithdrawnBox -> GetSelected () == 3) fFilterWithdrawn = "No";
-    cout << "WITHDRAWN STATUS " << fFilterWithdrawn << endl;
+    if (fFilterWithdrawnBox -> GetSelected () == 1) {
+        fFilterWithdrawn = "any";
+    } else if (fFilterWithdrawnBox -> GetSelected () == 2) {
+        fFilterWithdrawn = "Yes";
+    } else if (fFilterWithdrawnBox -> GetSelected () == 3) {
+        fFilterWithdrawn = "No";
+    }
 
     // update the table
     delete fTableInterface;
