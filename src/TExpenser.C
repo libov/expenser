@@ -13,6 +13,7 @@
 #include <TGLabel.h>
 #include <TColor.h>
 #include <TGFont.h>
+#include <TString.h>
 
 #include<TExpenser.h>
 #include<TGExpenserTableInterface.h>
@@ -146,6 +147,7 @@ void TExpenser::createExpensesTableInterface() {
             if ( fFilterMonth != "any" && MONTHS[month.Atoi()-1] != fFilterMonth) continue;
             if ( fFilterYear != "any" && year != fFilterYear) continue;
             if ( fFilterWithdrawn != "any" && fFilterWithdrawn != ex.withdrawn ) continue;
+            if ( ! ex.description.Contains(fFilterDescription, TString::kIgnoreCase) ) continue;
         }
 
         expenses.push_back(ex);
@@ -290,6 +292,12 @@ void TExpenser::drawExpensesTab() {
     fFilterWithdrawnBox->Resize(100, 20);
     fFilterWithdrawnBox->Select(1);
     frame_filter->AddFrame(fFilterWithdrawnBox, new TGLayoutHints(kLHintsLeft,5,10,5,5));
+
+    // description filtering - text field
+    fFilterDescriptionEntry = new TGTextEntry(frame_filter, "");
+    fFilterDescriptionEntry -> SetToolTipText("Filter Description");
+    fFilterDescriptionEntry -> Resize(200, fFilterDescriptionEntry->GetDefaultHeight());
+    frame_filter -> AddFrame(fFilterDescriptionEntry, new TGLayoutHints(kLHintsLeft, 5,5,5,5));
 
     TGHorizontalFrame *hframe2 = new TGHorizontalFrame(frame_filter, 500, 40);
     frame_filter -> AddFrame(hframe2,new TGLayoutHints(kLHintsLeft,5,5,3,4));
@@ -726,6 +734,9 @@ void TExpenser::filter_expense_table() {
         fFilterWithdrawn = "No";
     }
 
+    // check for description filtering
+    fFilterDescription = fFilterDescriptionEntry -> GetText();
+
     // update the table
     delete fTableInterface;
     createExpensesTableInterface();
@@ -739,6 +750,7 @@ void TExpenser::undo_filters_expense_table() {
     fFilterCategoryBox -> Select(1);
     fFilterMonthBox -> Select(1);
     fFilterYearBox -> Select(1);
+    fFilterDescriptionEntry -> Clear();
 
     delete fTableInterface;
     createExpensesTableInterface();

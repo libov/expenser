@@ -77,8 +77,10 @@ class TExpenser : public TGMainFrame {
         TString                     fFilterMonth;
         TString                     fFilterYear;
         TString                     fFilterWithdrawn;
+        TString                     fFilterDescription;
         TGComboBox                  * fFilterMonthBox;
         TGComboBox                  * fFilterYearBox;
         TGComboBox                  * fFilterCategoryBox;
         TGComboBox                  * fFilterWithdrawnBox;
+        TGTextEntry                 * fFilterDescriptionEntry;
 };
