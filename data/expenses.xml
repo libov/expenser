@@ -8663,7 +8663,7 @@
     </date>
     <withdrawn>Yes</withdrawn>
     <category>Car</category>
-    <description>ZD POL SHTRAF</description>
+    <description>Verwarnungsgeld/Bussgeld ZD POL </description>
   </expense>
   <expense>
     <id>726</id>
@@ -12755,7 +12755,7 @@
     </date>
     <withdrawn>Yes</withdrawn>
     <category>Car</category>
-    <description>Verwarnungsgeld</description>
+    <description>Verwarnungsgeld/Bussgeld</description>
   </expense>
   <expense>
     <id>1068</id>
@@ -12767,7 +12767,7 @@
     </date>
     <withdrawn>Yes</withdrawn>
     <category>Car</category>
-    <description>Verwarnungsgeld</description>
+    <description>Verwarnungsgeld/Bussgeld</description>
   </expense>
   <expense>
     <id>1069</id>
@@ -12971,7 +12971,7 @@
     </date>
     <withdrawn>Yes</withdrawn>
     <category>Car</category>
-    <description>SHTRAF</description>
+    <description>Verwarnungsgeld/Bussgeld</description>
   </expense>
   <expense>
     <id>1086</id>
@@ -15203,7 +15203,7 @@
     </date>
     <withdrawn>Yes</withdrawn>
     <category>Car</category>
-    <description>KASSE HAMBURG Falschparken Verwarnungsgeld</description>
+    <description>Verwarnungsgeld/Bussgeld KASSE HAMBURG Falschparken</description>
   </expense>
   <expense>
     <id>1273</id>
@@ -18851,7 +18851,7 @@
     </date>
     <withdrawn>Yes</withdrawn>
     <category>Car</category>
-    <description>VERWARNUNGSGELD</description>
+    <description>Verwarnungsgeld/Bussgeld</description>
   </expense>
   <expense>
     <id>1582</id>
@@ -18863,7 +18863,7 @@
     </date>
     <withdrawn>Yes</withdrawn>
     <category>Car</category>
-    <description>VERWARNUNGSGELD</description>
+    <description>Verwarnungsgeld/Bussgeld</description>
   </expense>
   <expense>
     <id>1583</id>
@@ -18875,7 +18875,7 @@
     </date>
     <withdrawn>Yes</withdrawn>
     <category>Car</category>
-    <description>VERWARNUNGSGELD</description>
+    <description>Verwarnungsgeld/Bussgeld</description>
   </expense>
   <expense>
     <id>1584</id>
@@ -22319,7 +22319,7 @@
     </date>
     <withdrawn>Yes</withdrawn>
     <category>Car</category>
-    <description>Shtraf</description>
+    <description>Verwarnungsgeld/Bussgeld</description>
   </expense>
   <expense>
     <id>1872</id>
@@ -23195,7 +23195,7 @@
     </date>
     <withdrawn>Yes</withdrawn>
     <category>Car</category>
-    <description>Bussgeld Parken</description>
+    <description>Verwarnungsgeld/Bussgeld Parken</description>
   </expense>
   <expense>
     <id>1946</id>
@@ -23807,7 +23807,7 @@
     </date>
     <withdrawn>Yes</withdrawn>
     <category>Car</category>
-    <description>FINE BUSSGELD GESCHWINDIGKEIT LANDKREIS STADE</description>
+    <description>Verwarnungsgeld/Bussgeld GESCHWINDIGKEIT LANDKREIS STADE</description>
   </expense>
   <expense>
     <id>1997</id>
@@ -24335,7 +24335,7 @@
     </date>
     <withdrawn>Yes</withdrawn>
     <category>Car</category>
-    <description>FINE Einwohner-Zentralamt</description>
+    <description>Verwarnungsgeld/Bussgeld Einwohner-Zentralamt</description>
   </expense>
   <expense>
     <id>2042</id>
