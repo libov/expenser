@@ -636,6 +636,11 @@ void TExpenser::set_withdrawn() {
     }
 
     fXMLParser -> SaveDoc(fXMLParser->getDocument(), "data/expenses.xml");
+
+    // update the table
+    delete fTableInterface;
+    createExpensesTableInterface();
+    fTable -> Update();
 }
 
 void TExpenser::calculate_balance() {
