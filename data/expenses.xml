@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>2107</last_expense_id>
+  <last_expense_id>2111</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -25128,5 +25128,53 @@
     <withdrawn>No</withdrawn>
     <category>Travel</category>
     <description>ARAL Diesel Trip Ungvar 03/2017</description>
+  </expense>
+  <expense>
+    <id>2108</id>
+    <amount>60.00</amount>
+    <date>
+      <day>31</day>
+      <month>3</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Other</category>
+    <description>Cash Teeth Ungvar</description>
+  </expense>
+  <expense>
+    <id>2109</id>
+    <amount>10.00</amount>
+    <date>
+      <day>1</day>
+      <month>4</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Presents</category>
+    <description>cash Ungvar Apotheke Lisa, Strizhka Papa</description>
+  </expense>
+  <expense>
+    <id>2110</id>
+    <amount>20.00</amount>
+    <date>
+      <day>1</day>
+      <month>4</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Travel</category>
+    <description>cash Trip Ungvar 03/2017 Diesel </description>
+  </expense>
+  <expense>
+    <id>2111</id>
+    <amount>10.00</amount>
+    <date>
+      <day>3</day>
+      <month>4</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Cash</category>
+    <description>cash for food</description>
   </expense>
 </expenses>
