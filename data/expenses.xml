@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>2102</last_expense_id>
+  <last_expense_id>2103</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -25068,5 +25068,17 @@
     <withdrawn>No</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>2103</id>
+    <amount>15.03</amount>
+    <date>
+      <day>29</day>
+      <month>3</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Presents</category>
+    <description>LIDL sweets Kids Ungvar Trip 03/2017</description>
   </expense>
 </expenses>
