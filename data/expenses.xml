@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>2115</last_expense_id>
+  <last_expense_id>2120</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -25041,7 +25041,7 @@
       <month>4</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Travel</category>
     <description>ESSO Poland Diesel Trip to Ungvar 03/2017</description>
   </expense>
@@ -25175,7 +25175,7 @@
     </date>
     <withdrawn>Yes</withdrawn>
     <category>Cash</category>
-    <description>cash for food</description>
+    <description>cash for food to Mum</description>
   </expense>
   <expense>
     <id>2112</id>
@@ -25224,5 +25224,65 @@
     <withdrawn>Yes</withdrawn>
     <category>Other</category>
     <description>Verwarnungsgeld/Bussgeld Polen</description>
+  </expense>
+  <expense>
+    <id>2116</id>
+    <amount>5.76</amount>
+    <date>
+      <day>2</day>
+      <month>4</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Restaurant</category>
+    <description>McDonalds Poland Coffee</description>
+  </expense>
+  <expense>
+    <id>2117</id>
+    <amount>7.96</amount>
+    <date>
+      <day>2</day>
+      <month>4</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Restaurant</category>
+    <description>McDonalds Poland</description>
+  </expense>
+  <expense>
+    <id>2118</id>
+    <amount>162.10</amount>
+    <date>
+      <day>3</day>
+      <month>4</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Flat</category>
+    <description>WOHNGELD</description>
+  </expense>
+  <expense>
+    <id>2119</id>
+    <amount>50.00</amount>
+    <date>
+      <day>3</day>
+      <month>4</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Food</category>
+    <description>Cash to Mum for LIDL et al</description>
+  </expense>
+  <expense>
+    <id>2120</id>
+    <amount>50.00</amount>
+    <date>
+      <day>3</day>
+      <month>4</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Presents</category>
+    <description>Cash to Mum</description>
   </expense>
 </expenses>
