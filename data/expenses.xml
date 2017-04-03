@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>2113</last_expense_id>
+  <last_expense_id>2115</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -25017,7 +25017,7 @@
       <month>4</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>ESSO Diesel</description>
   </expense>
@@ -25200,5 +25200,29 @@
     <withdrawn>Yes</withdrawn>
     <category>Other</category>
     <description>Cash Smerekovo</description>
+  </expense>
+  <expense>
+    <id>2114</id>
+    <amount>1.40</amount>
+    <date>
+      <day>30</day>
+      <month>3</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Other</category>
+    <description>Zinsabschluss/Rechnungsabschluss</description>
+  </expense>
+  <expense>
+    <id>2115</id>
+    <amount>58.81</amount>
+    <date>
+      <day>2</day>
+      <month>4</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Other</category>
+    <description>Verwarnungsgeld/Bussgeld Polen</description>
   </expense>
 </expenses>
