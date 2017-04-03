@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>2111</last_expense_id>
+  <last_expense_id>2112</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -25029,7 +25029,7 @@
       <month>3</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Restaurant</category>
     <description>BLOCK HOUSE Tea and Cheescake</description>
   </expense>
@@ -25053,7 +25053,7 @@
       <month>3</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -25089,7 +25089,7 @@
       <month>3</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Travel</category>
     <description>HEM Diesel Trip Ungvar 03/2017</description>
   </expense>
@@ -25176,5 +25176,17 @@
     <withdrawn>No</withdrawn>
     <category>Cash</category>
     <description>cash for food</description>
+  </expense>
+  <expense>
+    <id>2112</id>
+    <amount>118.00</amount>
+    <date>
+      <day>28</day>
+      <month>3</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Flat</category>
+    <description>Stadtwerke 03/2017</description>
   </expense>
 </expenses>
