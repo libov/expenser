@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>2120</last_expense_id>
+  <last_expense_id>2123</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -25284,5 +25284,41 @@
     <withdrawn>Yes</withdrawn>
     <category>Presents</category>
     <description>Cash to Mum</description>
+  </expense>
+  <expense>
+    <id>2121</id>
+    <amount>75.00</amount>
+    <date>
+      <day>6</day>
+      <month>4</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Piano lessons</category>
+    <description>2x from March, 1x from 7.4.17</description>
+  </expense>
+  <expense>
+    <id>2122</id>
+    <amount>5.00</amount>
+    <date>
+      <day>6</day>
+      <month>4</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Cash</category>
+    <description>food</description>
+  </expense>
+  <expense>
+    <id>2123</id>
+    <amount>20.00</amount>
+    <date>
+      <day>4</day>
+      <month>4</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Cash</category>
+    <description>food</description>
   </expense>
 </expenses>
