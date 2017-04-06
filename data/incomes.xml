@@ -1,6 +1,14 @@
 <?xml version="1.0"?>
 <incomes>
     <entry>
+        <amount>827.49</amount>
+        <date>
+            <month>4</month>
+            <year>2017</year>
+        </date>
+        <description>Business Trip Italy, Mainz 2016</description>
+    </entry>
+    <entry>
         <amount>2628.46</amount>
         <date>
             <month>3</month>
