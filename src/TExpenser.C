@@ -592,6 +592,9 @@ void TExpenser::calculate_monthly() {
     }
     fCanvas -> cd();
     fCategoriesHistogram -> Draw();
+    fCategoriesHistogram -> SetFillColor(kBlue);
+    fCategoriesHistogram -> SetLineColor(kBlack);
+    fCategoriesHistogram -> SetLineWidth(2);
     fCategoriesHistogram -> SetAxisRange(0, 1.05 * max_entry, "Y");
     fCanvas -> Update();
 
@@ -635,6 +638,9 @@ void TExpenser::calculate_yearly(){
     }
     fCanvasYear -> cd();
     fMonthsHistogram -> Draw();
+    fMonthsHistogram -> SetFillColor(kBlue);
+    fMonthsHistogram -> SetLineColor(kBlack);
+    fMonthsHistogram -> SetLineWidth(2);
     fMonthsHistogram -> SetAxisRange(0, 1.05 * max_entry, "Y");
     fCanvasYear -> Update();
 }
