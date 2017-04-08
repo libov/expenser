@@ -25,7 +25,7 @@ class TExpenser : public TGMainFrame {
         void add();
         void createExpensesTableInterface();
         void drawExpensesTab();
-        void drawStatisticsTab();
+        void drawStatisticsMonthTab();
         void drawStatisticsYearTab();
         void drawCategoryTab();
         void drawBalanceTab();

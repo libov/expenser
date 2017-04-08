@@ -89,7 +89,7 @@ void TExpenser::create_ui() {
     AddFrame(fTab, new TGLayoutHints(kLHintsCenterX,2,2,2,2));
 
     drawExpensesTab();
-    drawStatisticsTab();
+    drawStatisticsMonthTab();
     drawStatisticsYearTab();
     drawCategoryTab();
     drawBalanceTab();
@@ -313,7 +313,7 @@ void TExpenser::drawExpensesTab() {
     hframe2 -> AddFrame(undo_filter_button, new TGLayoutHints(kLHintsLeft,15,5,3,4));
 }
 
-void TExpenser::drawStatisticsTab() {
+void TExpenser::drawStatisticsMonthTab() {
 
     fStatisticsTab = fTab->AddTab("Statistics (Month)");
     fStatisticsTab -> SetLayoutManager(new TGHorizontalLayout(fStatisticsTab));
