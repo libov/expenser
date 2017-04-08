@@ -585,11 +585,14 @@ void TExpenser::calculate_monthly() {
         total_expenses_month += amount;
     }
 
+    double max_entry=0;
     for (unsigned i=0; i<NCATEGORIES; i++) {
         fCategoriesHistogram -> Fill(CATEGORIES[i], monthly_sum[CATEGORIES[i]]);
+        if ( monthly_sum[CATEGORIES[i]] > max_entry ) max_entry = monthly_sum[CATEGORIES[i]];
     }
     fCanvas -> cd();
     fCategoriesHistogram -> Draw();
+    fCategoriesHistogram -> SetAxisRange(0, 1.05 * max_entry, "Y");
     fCanvas -> Update();
 
     fTotalMonthlyExpenses -> SetText ("Total: " + toStr(total_expenses_month, 2) );
@@ -625,11 +628,14 @@ void TExpenser::calculate_yearly(){
         monthly_sum[month-1] += amount;
     }
 
+    double max_entry=0;
     for (unsigned i=0; i<12; i++) {
         fMonthsHistogram -> Fill(MONTHS[i], monthly_sum[i]);
+        if ( monthly_sum[i] > max_entry ) max_entry = monthly_sum[i];
     }
     fCanvasYear -> cd();
     fMonthsHistogram -> Draw();
+    fMonthsHistogram -> SetAxisRange(0, 1.05 * max_entry, "Y");
     fCanvasYear -> Update();
 }
 
