@@ -385,11 +385,11 @@ void TExpenser::drawStatisticsYearTab() {
         fStatisticsCategory->AddEntry(CATEGORIES[i], i+1);
     }
     fStatisticsCategory->Resize(DROPDOWN_MENU_WIDTH, DROPDOWN_MENU_HEIGHT);
-    TDatime time;
     fStatisticsCategory->Select(1);
     vframe->AddFrame(fStatisticsCategory, new TGLayoutHints(kLHintsLeft,5,10,5,5));
 
     // year selector
+    TDatime time;
     fStatisticsYear2 = new TGComboBox(vframe);
     for (unsigned i = FIRST_YEAR; i <= LAST_YEAR; i++) {
         fStatisticsYear2->AddEntry(toStr(i), i+1-FIRST_YEAR);
