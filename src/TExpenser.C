@@ -50,8 +50,10 @@ const TString MONTHS[12]={"January", "February", "March", "April", "May", "June"
 const unsigned FIRST_YEAR = 2009;
 const unsigned LAST_YEAR = 2017;
 unsigned NROWSTABLE = 30;
-unsigned WIDTH = 800;
-unsigned HEIGHT = 800;
+unsigned CANVAS_WIDTH = 800;
+unsigned CANVAS_HEIGHT = 800;
+unsigned DROPDOWN_MENU_WIDTH = 150;
+unsigned DROPDOWN_MENU_HEIGHT = 20;
 
 struct expense {
     TString amount;
@@ -318,7 +320,7 @@ void TExpenser::drawStatisticsMonthTab() {
     fStatisticsTab = fTab->AddTab("Statistics (Month)");
     fStatisticsTab -> SetLayoutManager(new TGHorizontalLayout(fStatisticsTab));
 
-    TRootEmbeddedCanvas * fEcanvas = new TRootEmbeddedCanvas("Ecanvas",fStatisticsTab, WIDTH, HEIGHT);
+    TRootEmbeddedCanvas * fEcanvas = new TRootEmbeddedCanvas("Ecanvas",fStatisticsTab, CANVAS_WIDTH, CANVAS_HEIGHT);
     fStatisticsTab -> AddFrame(fEcanvas, new TGLayoutHints(kLHintsCenterX, 10,10,10,1));
     fCanvas = fEcanvas->GetCanvas();
     fCategoriesHistogram = new TH1F("fCategoriesHistogram", "Expenses for each category for a given month", NCATEGORIES, 0, NCATEGORIES);
@@ -332,7 +334,7 @@ void TExpenser::drawStatisticsMonthTab() {
     for (unsigned i = 0; i < 12; i++) {
         fStatisticsMonth->AddEntry(MONTHS[i], i+1);
     }
-    fStatisticsMonth->Resize(100, 20);
+    fStatisticsMonth->Resize(DROPDOWN_MENU_WIDTH, DROPDOWN_MENU_HEIGHT);
     TDatime time;
     fStatisticsMonth->Select(time.GetMonth());
     vframe->AddFrame(fStatisticsMonth, new TGLayoutHints(kLHintsLeft,5,10,5,5));
@@ -342,7 +344,7 @@ void TExpenser::drawStatisticsMonthTab() {
     for (unsigned i = FIRST_YEAR; i <= LAST_YEAR; i++) {
         fStatisticsYear->AddEntry(toStr(i), i+1-FIRST_YEAR);
     }
-    fStatisticsYear->Resize(100, 20);
+    fStatisticsYear->Resize(DROPDOWN_MENU_WIDTH, DROPDOWN_MENU_HEIGHT);
     fStatisticsYear->Select(time.GetYear()-FIRST_YEAR+1);
     vframe->AddFrame(fStatisticsYear, new TGLayoutHints(kLHintsLeft,5,10,5,5));
 
@@ -368,7 +370,7 @@ void TExpenser::drawStatisticsYearTab() {
     fStatisticsYearTab = fTab->AddTab("Statistics (Year)");
     fStatisticsYearTab -> SetLayoutManager(new TGHorizontalLayout(fStatisticsYearTab));
 
-    TRootEmbeddedCanvas * StatisticsYearCanvas = new TRootEmbeddedCanvas("StatisticsYearCanvas",fStatisticsYearTab, WIDTH, HEIGHT);
+    TRootEmbeddedCanvas * StatisticsYearCanvas = new TRootEmbeddedCanvas("StatisticsYearCanvas",fStatisticsYearTab, CANVAS_WIDTH, CANVAS_HEIGHT);
     fStatisticsYearTab -> AddFrame(StatisticsYearCanvas, new TGLayoutHints(kLHintsCenterX, 10,10,10,1));
     fCanvasYear = StatisticsYearCanvas->GetCanvas();
     fMonthsHistogram = new TH1F("fMonthsHistogram", "Expenses for each month for a given category", 12, 0, 12);
@@ -382,7 +384,7 @@ void TExpenser::drawStatisticsYearTab() {
     for (unsigned i = 0; i < NCATEGORIES; i++) {
         fStatisticsCategory->AddEntry(CATEGORIES[i], i+1);
     }
-    fStatisticsCategory->Resize(100, 20);
+    fStatisticsCategory->Resize(DROPDOWN_MENU_WIDTH, DROPDOWN_MENU_HEIGHT);
     TDatime time;
     fStatisticsCategory->Select(1);
     vframe->AddFrame(fStatisticsCategory, new TGLayoutHints(kLHintsLeft,5,10,5,5));
@@ -392,7 +394,7 @@ void TExpenser::drawStatisticsYearTab() {
     for (unsigned i = FIRST_YEAR; i <= LAST_YEAR; i++) {
         fStatisticsYear2->AddEntry(toStr(i), i+1-FIRST_YEAR);
     }
-    fStatisticsYear2->Resize(100, 20);
+    fStatisticsYear2->Resize(DROPDOWN_MENU_WIDTH, DROPDOWN_MENU_HEIGHT);
     fStatisticsYear2->Select(time.GetYear()-FIRST_YEAR+1);
     vframe->AddFrame(fStatisticsYear2, new TGLayoutHints(kLHintsLeft,5,10,5,5));
 
@@ -590,6 +592,7 @@ void TExpenser::calculate_monthly() {
     fCanvas -> Update();
 
     fTotalMonthlyExpenses -> SetText ("Total: " + toStr(total_expenses_month, 2) );
+    fTotalMonthlyExpenses -> Resize();
 }
 
 void TExpenser::calculate_yearly(){
