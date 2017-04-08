@@ -352,6 +352,14 @@ void TExpenser::drawStatisticsMonthTab() {
     update_button -> Connect("Clicked()", "TExpenser", this, "calculate_monthly()");
     vframe -> AddFrame(update_button, new TGLayoutHints(kLHintsLeft,5,5,3,4));
 
+    // monthly sum
+    TColor *color = gROOT->GetColor(kBlue);
+    TGFont *font = gClient->GetFont("-*-times-bold-r-*-*-22-*-*-*-*-*-*-*");
+    fTotalMonthlyExpenses = new TGLabel(vframe, "");
+    vframe->AddFrame(fTotalMonthlyExpenses, new TGLayoutHints(kLHintsNormal, 5, 5, 3, 4));
+    fTotalMonthlyExpenses->SetTextColor(color);
+    fTotalMonthlyExpenses -> SetTextFont(font);
+
     calculate_monthly();
 }
 
@@ -555,6 +563,7 @@ void TExpenser::calculate_monthly() {
     }
     fXMLParser->selectMainNode();
     fXMLParser->selectNode("expense");
+    double total_expenses_month = 0;
     while (fXMLParser->getCurrentNode() != 0) {
         XMLNodePointer_t current_node = fXMLParser->getCurrentNode();
         fXMLParser -> selectNode("date");
@@ -570,6 +579,7 @@ void TExpenser::calculate_monthly() {
         if (month != selected_month) continue;
 
         monthly_sum[category] += amount;
+        total_expenses_month += amount;
     }
 
     for (unsigned i=0; i<NCATEGORIES; i++) {
@@ -578,6 +588,8 @@ void TExpenser::calculate_monthly() {
     fCanvas -> cd();
     fCategoriesHistogram -> Draw();
     fCanvas -> Update();
+
+    fTotalMonthlyExpenses -> SetText ("Total: " + toStr(total_expenses_month, 2) );
 }
 
 void TExpenser::calculate_yearly(){

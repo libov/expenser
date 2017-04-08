@@ -62,6 +62,7 @@ class TExpenser : public TGMainFrame {
         TCanvas                     * fCanvas;
         TCanvas                     * fCanvasYear;
         TGComboBox                  * fStatisticsMonth;
+        TGLabel                     * fTotalMonthlyExpenses;
         TGComboBox                  * fStatisticsYear;
         TGComboBox                  * fStatisticsYear2;
         TGComboBox                  * fStatisticsCategory;
