@@ -384,6 +384,7 @@ void TExpenser::drawStatisticsYearTab() {
     for (unsigned i = 0; i < NCATEGORIES; i++) {
         fStatisticsCategory->AddEntry(CATEGORIES[i], i+1);
     }
+    fStatisticsCategory -> AddEntry("All Categories", NCATEGORIES+1);
     fStatisticsCategory->Resize(DROPDOWN_MENU_WIDTH, DROPDOWN_MENU_HEIGHT);
     fStatisticsCategory->Select(1);
     vframe->AddFrame(fStatisticsCategory, new TGLayoutHints(kLHintsLeft,5,10,5,5));
@@ -619,7 +620,7 @@ void TExpenser::calculate_yearly(){
         fXMLParser->selectNextNode("expense");
 
         if (year != selected_year) continue;
-        if (category != CATEGORIES[selected_category-1]) continue;
+        if ( (selected_category != (NCATEGORIES+1)) && (category != CATEGORIES[selected_category-1]) ) continue;
 
         monthly_sum[month-1] += amount;
     }
