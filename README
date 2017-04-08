@@ -11,15 +11,12 @@ Todo:
 * fix crash if no entries after filtering found
 * introduce sub-categories? (like car: diesel, parts, fines, regular payments such as HUK/Steuer)
 * think about categories. e.g. category unknown into two: know what but no receipt, and don't know at all
-* implement some filtering into expenses table, or create another tab for that
 * bar chart histograms - MAJOR
 * average, line and a number - MAJOR
-* 'withdrawn' with a single click - not entering the ID - MAJOR
-* balance. income. balance tab. - MAJOR
+* 'withdrawn' with a single click - not entering the ID. Not a table but some other system to show expenses; with the table column width is fixed,
+   description can't be seen - MAJOR
 * test if statistics calculation works ok - MAJOR
 * edit entries from XML file, in particular withdrawn or not - MAJOR
-* red color of the cells if not withdrawn!!!
-
 * improve overall layout - MINOR
 * hints/description of the fields (frame around?) - MINOR
 
