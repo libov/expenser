@@ -7,3 +7,5 @@ This changelog was created on 12.3.2017
 
 * 20.3.2017 Not redrawing the UI upon adding new expenes - found a way to update the table (delete / create new interface, then call the Update method for the table)
             Introduced filtering the expenses. Made cosmetic changes to the expenses tab.
+
+* 8.7.2017 Added total monthly sum calculation
