@@ -7,6 +7,7 @@ Goals:
 
 Todo:
 
+* statistics year (for a given category): total; average (line)
 * fix crash if no entries after filtering found
 * introduce sub-categories? (like car: diesel, parts, fines, regular payments such as HUK/Steuer)
 * think about categories. e.g. category unknown into two: know what but no receipt, and don't know at all
