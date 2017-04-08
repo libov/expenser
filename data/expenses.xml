@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>2124</last_expense_id>
+  <last_expense_id>2125</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -25332,5 +25332,17 @@
     <withdrawn>Yes</withdrawn>
     <category>Presents</category>
     <description>HVV Tickets Mum and Dad</description>
+  </expense>
+  <expense>
+    <id>2125</id>
+    <amount>20.05</amount>
+    <date>
+      <day>8</day>
+      <month>4</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Music equipment</category>
+    <description>PAYPAL UPWORK EP Cover</description>
   </expense>
 </expenses>
