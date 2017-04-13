@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>2130</last_expense_id>
+  <last_expense_id>2133</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -25392,5 +25392,41 @@
     <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>JET Diesel</description>
+  </expense>
+  <expense>
+    <id>2131</id>
+    <amount>50.00</amount>
+    <date>
+      <day>12</day>
+      <month>4</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Food</category>
+    <description>cash for Mum</description>
+  </expense>
+  <expense>
+    <id>2132</id>
+    <amount>50.00</amount>
+    <date>
+      <day>12</day>
+      <month>4</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Piano lessons</category>
+    <description>cash for 13.4 and one advance lesson</description>
+  </expense>
+  <expense>
+    <id>2133</id>
+    <amount>10.00</amount>
+    <date>
+      <day>12</day>
+      <month>4</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>BFT Diesel</description>
   </expense>
 </expenses>
