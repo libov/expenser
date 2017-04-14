@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>2133</last_expense_id>
+  <last_expense_id>2135</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -25428,5 +25428,29 @@
     <withdrawn>No</withdrawn>
     <category>Car</category>
     <description>BFT Diesel</description>
+  </expense>
+  <expense>
+    <id>2134</id>
+    <amount>500.00</amount>
+    <date>
+      <day>14</day>
+      <month>4</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Lend</category>
+    <description>Kovalchuk</description>
+  </expense>
+  <expense>
+    <id>2135</id>
+    <amount>20.00</amount>
+    <date>
+      <day>13</day>
+      <month>4</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Cash</category>
+    <description>food</description>
   </expense>
 </expenses>
