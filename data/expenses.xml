@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>2138</last_expense_id>
+  <last_expense_id>2139</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -25488,5 +25488,17 @@
     <withdrawn>No</withdrawn>
     <category>Other</category>
     <description>DM Cosmetics</description>
+  </expense>
+  <expense>
+    <id>2139</id>
+    <amount>3.73</amount>
+    <date>
+      <day>15</day>
+      <month>4</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
   </expense>
 </expenses>
