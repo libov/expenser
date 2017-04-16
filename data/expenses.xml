@@ -25365,7 +25365,7 @@
       <month>4</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Cash</category>
     <description>for FOOD</description>
   </expense>
@@ -25425,7 +25425,7 @@
       <month>4</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>BFT Diesel</description>
   </expense>
