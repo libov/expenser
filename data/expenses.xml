@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>2146</last_expense_id>
+  <last_expense_id>2151</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -25584,5 +25584,65 @@
     <withdrawn>Yes</withdrawn>
     <category>Travel</category>
     <description>ORLEN Poland Diesel</description>
+  </expense>
+  <expense>
+    <id>2147</id>
+    <amount>50.00</amount>
+    <date>
+      <day>23</day>
+      <month>4</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Food</category>
+    <description>cash for food - to mum</description>
+  </expense>
+  <expense>
+    <id>2148</id>
+    <amount>50.00</amount>
+    <date>
+      <day>23</day>
+      <month>4</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Presents</category>
+    <description>cash to Mum</description>
+  </expense>
+  <expense>
+    <id>2149</id>
+    <amount>13.72</amount>
+    <date>
+      <day>19</day>
+      <month>4</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Presents</category>
+    <description>ROSHEN Sweets for Vika and Family and for HH</description>
+  </expense>
+  <expense>
+    <id>2150</id>
+    <amount>2.74</amount>
+    <date>
+      <day>20</day>
+      <month>4</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Food</category>
+    <description>ZINA UZHGOROD</description>
+  </expense>
+  <expense>
+    <id>2151</id>
+    <amount>16.68</amount>
+    <date>
+      <day>19</day>
+      <month>4</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Restaurant</category>
+    <description>RUCOLA Sushi Kiev</description>
   </expense>
 </expenses>
