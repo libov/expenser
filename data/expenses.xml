@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>2151</last_expense_id>
+  <last_expense_id>2152</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -25644,5 +25644,17 @@
     <withdrawn>Yes</withdrawn>
     <category>Restaurant</category>
     <description>RUCOLA Sushi Kiev</description>
+  </expense>
+  <expense>
+    <id>2152</id>
+    <amount>6.99</amount>
+    <date>
+      <day>22</day>
+      <month>4</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Restaurant</category>
+    <description>McDonalds</description>
   </expense>
 </expenses>
