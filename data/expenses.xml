@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>2142</last_expense_id>
+  <last_expense_id>2143</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -25449,7 +25449,7 @@
       <month>4</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Cash</category>
     <description>food</description>
   </expense>
@@ -25461,7 +25461,7 @@
       <month>4</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>HEM Diesel</description>
   </expense>
@@ -25533,8 +25533,20 @@
       <month>4</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Presents</category>
     <description>EDEKA sweets Kristina</description>
+  </expense>
+  <expense>
+    <id>2143</id>
+    <amount>13.07</amount>
+    <date>
+      <day>16</day>
+      <month>4</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Car</category>
+    <description>TOTAL Diesel</description>
   </expense>
 </expenses>
