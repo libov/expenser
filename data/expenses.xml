@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>2143</last_expense_id>
+  <last_expense_id>2146</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -25509,7 +25509,7 @@
       <month>4</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Flat</category>
     <description>TOOM flowers balcony</description>
   </expense>
@@ -25548,5 +25548,41 @@
     <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>TOTAL Diesel</description>
+  </expense>
+  <expense>
+    <id>2144</id>
+    <amount>60.03</amount>
+    <date>
+      <day>17</day>
+      <month>4</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Travel</category>
+    <description>JULIA HOFER Diesel</description>
+  </expense>
+  <expense>
+    <id>2145</id>
+    <amount>30.92</amount>
+    <date>
+      <day>18</day>
+      <month>4</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Travel</category>
+    <description>BRSM Ukraine Diesel</description>
+  </expense>
+  <expense>
+    <id>2146</id>
+    <amount>12.28</amount>
+    <date>
+      <day>18</day>
+      <month>4</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Travel</category>
+    <description>ORLEN Poland Diesel</description>
   </expense>
 </expenses>
