@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>2159</last_expense_id>
+  <last_expense_id>2160</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -25740,5 +25740,17 @@
     <withdrawn>Yes</withdrawn>
     <category>Travel</category>
     <description>Nowy Sacz Poland cash for Autobahn</description>
+  </expense>
+  <expense>
+    <id>2160</id>
+    <amount>20.00</amount>
+    <date>
+      <day>24</day>
+      <month>4</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Cash</category>
+    <description>for FOOD</description>
   </expense>
 </expenses>
