@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>2154</last_expense_id>
+  <last_expense_id>2156</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -25665,7 +25665,7 @@
       <month>4</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -25677,8 +25677,32 @@
       <month>4</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>TEAM Diesel</description>
+  </expense>
+  <expense>
+    <id>2155</id>
+    <amount>3.47</amount>
+    <date>
+      <day>21</day>
+      <month>4</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Restaurant</category>
+    <description>McDonalds Poland</description>
+  </expense>
+  <expense>
+    <id>2156</id>
+    <amount>2.84</amount>
+    <date>
+      <day>21</day>
+      <month>4</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Food</category>
+    <description>VELMART Uzhgorod</description>
   </expense>
 </expenses>
