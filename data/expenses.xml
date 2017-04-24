@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>2156</last_expense_id>
+  <last_expense_id>2159</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -25704,5 +25704,41 @@
     <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>VELMART Uzhgorod</description>
+  </expense>
+  <expense>
+    <id>2157</id>
+    <amount>36.38</amount>
+    <date>
+      <day>22</day>
+      <month>4</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Travel</category>
+    <description>ORLEN Poland Diesel</description>
+  </expense>
+  <expense>
+    <id>2158</id>
+    <amount>42.11</amount>
+    <date>
+      <day>21</day>
+      <month>4</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Travel</category>
+    <description>BRSM Uzhgorod Diesel</description>
+  </expense>
+  <expense>
+    <id>2159</id>
+    <amount>16.60</amount>
+    <date>
+      <day>21</day>
+      <month>4</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Travel</category>
+    <description>Nowy Sacz Poland cash for Autobahn</description>
   </expense>
 </expenses>
