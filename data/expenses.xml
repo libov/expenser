@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>2160</last_expense_id>
+  <last_expense_id>2165</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -25752,5 +25752,65 @@
     <withdrawn>No</withdrawn>
     <category>Cash</category>
     <description>for FOOD</description>
+  </expense>
+  <expense>
+    <id>2161</id>
+    <amount>20.34</amount>
+    <date>
+      <day>26</day>
+      <month>4</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Flat</category>
+    <description>KabelDeutschland 04/2017</description>
+  </expense>
+  <expense>
+    <id>2162</id>
+    <amount>50.00</amount>
+    <date>
+      <day>26</day>
+      <month>4</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Cash</category>
+    <description>before Mainz trip</description>
+  </expense>
+  <expense>
+    <id>2163</id>
+    <amount>30.01</amount>
+    <date>
+      <day>26</day>
+      <month>4</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>HEM Diesel</description>
+  </expense>
+  <expense>
+    <id>2164</id>
+    <amount>4.91</amount>
+    <date>
+      <day>25</day>
+      <month>4</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>FAMILA</description>
+  </expense>
+  <expense>
+    <id>2165</id>
+    <amount>2.38</amount>
+    <date>
+      <day>25</day>
+      <month>4</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>FAMILA</description>
   </expense>
 </expenses>
