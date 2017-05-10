@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>2173</last_expense_id>
+  <last_expense_id>2174</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -25908,5 +25908,17 @@
     <withdrawn>No</withdrawn>
     <category>Car</category>
     <description>ESSO Diesel</description>
+  </expense>
+  <expense>
+    <id>2174</id>
+    <amount>7.00</amount>
+    <date>
+      <day>7</day>
+      <month>5</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Travel</category>
+    <description>TANK und  RAST  Diesel Ungvar 05/2017</description>
   </expense>
 </expenses>
