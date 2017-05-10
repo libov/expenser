@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>2176</last_expense_id>
+  <last_expense_id>2179</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -25944,5 +25944,41 @@
     <withdrawn>Yes</withdrawn>
     <category>Flat</category>
     <description>Wohngeld 05/2017</description>
+  </expense>
+  <expense>
+    <id>2177</id>
+    <amount>200.00</amount>
+    <date>
+      <day>4</day>
+      <month>5</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Presents</category>
+    <description>Cash for Mum</description>
+  </expense>
+  <expense>
+    <id>2178</id>
+    <amount>20.00</amount>
+    <date>
+      <day>4</day>
+      <month>5</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Travel</category>
+    <description>Cash for Polish Highway Tolls</description>
+  </expense>
+  <expense>
+    <id>2179</id>
+    <amount>30.00</amount>
+    <date>
+      <day>4</day>
+      <month>5</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Cash</category>
+    <description>food</description>
   </expense>
 </expenses>
