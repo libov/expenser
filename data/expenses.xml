@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>2174</last_expense_id>
+  <last_expense_id>2176</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -25653,7 +25653,7 @@
       <month>4</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Restaurant</category>
     <description>McDonalds</description>
   </expense>
@@ -25749,7 +25749,7 @@
       <month>4</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Cash</category>
     <description>for FOOD</description>
   </expense>
@@ -25773,7 +25773,7 @@
       <month>4</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Cash</category>
     <description>before Mainz trip</description>
   </expense>
@@ -25785,7 +25785,7 @@
       <month>4</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>HEM Diesel</description>
   </expense>
@@ -25797,7 +25797,7 @@
       <month>4</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>FAMILA</description>
   </expense>
@@ -25809,7 +25809,7 @@
       <month>4</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>FAMILA</description>
   </expense>
@@ -25920,5 +25920,29 @@
     <withdrawn>No</withdrawn>
     <category>Travel</category>
     <description>TANK und  RAST  Diesel Ungvar 05/2017</description>
+  </expense>
+  <expense>
+    <id>2175</id>
+    <amount>118.00</amount>
+    <date>
+      <day>28</day>
+      <month>4</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Flat</category>
+    <description>STADTWERKE 04/2017</description>
+  </expense>
+  <expense>
+    <id>2176</id>
+    <amount>162.10</amount>
+    <date>
+      <day>2</day>
+      <month>5</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Flat</category>
+    <description>Wohngeld 05/2017</description>
   </expense>
 </expenses>
