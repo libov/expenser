@@ -25761,7 +25761,7 @@
       <month>4</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Flat</category>
     <description>KabelDeutschland 04/2017</description>
   </expense>
@@ -25869,7 +25869,7 @@
       <month>4</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>NETTO Mainz</description>
   </expense>
