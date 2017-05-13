@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>2187</last_expense_id>
+  <last_expense_id>2188</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -26076,5 +26076,17 @@
     <withdrawn>Yes</withdrawn>
     <category>Travel</category>
     <description>BRSM UZHG Diesel</description>
+  </expense>
+  <expense>
+    <id>2188</id>
+    <amount>140.00</amount>
+    <date>
+      <day>13</day>
+      <month>5</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Business trip</category>
+    <description>Mainz 04/2017 Hotel</description>
   </expense>
 </expenses>
