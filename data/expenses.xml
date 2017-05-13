@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>2181</last_expense_id>
+  <last_expense_id>2183</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -25821,7 +25821,7 @@
       <month>5</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Presents</category>
     <description>DOUGLAS Chanel Mum</description>
   </expense>
@@ -25833,7 +25833,7 @@
       <month>5</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -25845,7 +25845,7 @@
       <month>5</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Presents</category>
     <description>EDEKA Stuff for Ungvar</description>
   </expense>
@@ -25881,7 +25881,7 @@
       <month>5</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Travel</category>
     <description>HEM Diesel Uzhgorod trip 05/2017</description>
   </expense>
@@ -25953,7 +25953,7 @@
       <month>5</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Presents</category>
     <description>Cash for Mum</description>
   </expense>
@@ -25965,7 +25965,7 @@
       <month>5</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Travel</category>
     <description>Cash for Polish Highway Tolls</description>
   </expense>
@@ -25977,7 +25977,7 @@
       <month>5</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Cash</category>
     <description>food</description>
   </expense>
@@ -26004,5 +26004,29 @@
     <withdrawn>No</withdrawn>
     <category>Car</category>
     <description>ESSO Diesel</description>
+  </expense>
+  <expense>
+    <id>2182</id>
+    <amount>50.00</amount>
+    <date>
+      <day>4</day>
+      <month>5</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Piano lessons</category>
+    <description>2x</description>
+  </expense>
+  <expense>
+    <id>2183</id>
+    <amount>50.00</amount>
+    <date>
+      <day>4</day>
+      <month>5</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Cash</category>
+    <description>for FOOD</description>
   </expense>
 </expenses>
