@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>2185</last_expense_id>
+  <last_expense_id>2187</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -25857,7 +25857,7 @@
       <month>5</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -25917,7 +25917,7 @@
       <month>5</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Travel</category>
     <description>TANK und  RAST  Diesel Ungvar 05/2017</description>
   </expense>
@@ -26052,5 +26052,29 @@
     <withdrawn>Yes</withdrawn>
     <category>Travel</category>
     <description>ORLEN Poland Diesel</description>
+  </expense>
+  <expense>
+    <id>2186</id>
+    <amount>12.60</amount>
+    <date>
+      <day>7</day>
+      <month>5</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Travel</category>
+    <description>ORLEN Poland Diesel and coffee</description>
+  </expense>
+  <expense>
+    <id>2187</id>
+    <amount>46.47</amount>
+    <date>
+      <day>6</day>
+      <month>5</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Travel</category>
+    <description>BRSM UZHG Diesel</description>
   </expense>
 </expenses>
