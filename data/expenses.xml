@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>2183</last_expense_id>
+  <last_expense_id>2185</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -25893,7 +25893,7 @@
       <month>5</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Travel</category>
     <description>JULIA HOFER Diesel Uzhgorod trip 05/2017</description>
   </expense>
@@ -25905,7 +25905,7 @@
       <month>5</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>ESSO Diesel</description>
   </expense>
@@ -26028,5 +26028,29 @@
     <withdrawn>Yes</withdrawn>
     <category>Cash</category>
     <description>for FOOD</description>
+  </expense>
+  <expense>
+    <id>2184</id>
+    <amount>6.73</amount>
+    <date>
+      <day>5</day>
+      <month>5</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Restaurant</category>
+    <description>SHELL POland coffee etc.</description>
+  </expense>
+  <expense>
+    <id>2185</id>
+    <amount>22.77</amount>
+    <date>
+      <day>5</day>
+      <month>5</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Travel</category>
+    <description>ORLEN Poland Diesel</description>
   </expense>
 </expenses>
