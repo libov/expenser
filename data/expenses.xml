@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>2199</last_expense_id>
+  <last_expense_id>2201</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -26145,7 +26145,7 @@
       <month>5</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Other</category>
     <description>PAYPAL eBAY Liquid for Lenses</description>
   </expense>
@@ -26169,7 +26169,7 @@
       <month>5</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -26220,5 +26220,29 @@
     <withdrawn>No</withdrawn>
     <category>Food</category>
     <description>KAUFLAND</description>
+  </expense>
+  <expense>
+    <id>2200</id>
+    <amount>8800.00</amount>
+    <date>
+      <day>16</day>
+      <month>5</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Lend</category>
+    <description>ZWANGSVERSTEIGERUNG</description>
+  </expense>
+  <expense>
+    <id>2201</id>
+    <amount>35.63</amount>
+    <date>
+      <day>15</day>
+      <month>5</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Flat</category>
+    <description>GRUNDSTEUER B</description>
   </expense>
 </expenses>
