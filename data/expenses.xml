@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>2201</last_expense_id>
+  <last_expense_id>2202</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -26244,5 +26244,17 @@
     <withdrawn>Yes</withdrawn>
     <category>Flat</category>
     <description>GRUNDSTEUER B</description>
+  </expense>
+  <expense>
+    <id>2202</id>
+    <amount>5.49</amount>
+    <date>
+      <day>20</day>
+      <month>5</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>PAYPAL EBAY CLIPS</description>
   </expense>
 </expenses>
