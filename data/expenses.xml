@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>2210</last_expense_id>
+  <last_expense_id>2211</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -26352,5 +26352,17 @@
     <withdrawn>No</withdrawn>
     <category>Restaurant</category>
     <description>KYPROS ALTONA</description>
+  </expense>
+  <expense>
+    <id>2211</id>
+    <amount>30.00</amount>
+    <date>
+      <day>28</day>
+      <month>5</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>TANKCENTER PINNEBERG Diesel</description>
   </expense>
 </expenses>
