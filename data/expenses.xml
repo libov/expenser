@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>2218</last_expense_id>
+  <last_expense_id>2219</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -26448,5 +26448,17 @@
     <withdrawn>No</withdrawn>
     <category>Music equipment</category>
     <description>PAYPAL FACEBOOK AD</description>
+  </expense>
+  <expense>
+    <id>2219</id>
+    <amount>20.00</amount>
+    <date>
+      <day>29</day>
+      <month>5</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Cash</category>
+    <description>for FOOD</description>
   </expense>
 </expenses>
