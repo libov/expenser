@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>2220</last_expense_id>
+  <last_expense_id>2221</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -26253,7 +26253,7 @@
       <month>5</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Flat</category>
     <description>KabelDeutschland 05/2017</description>
   </expense>
@@ -26325,7 +26325,7 @@
       <month>5</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Restaurant</category>
     <description>KYPROS ALTONA</description>
   </expense>
@@ -26337,7 +26337,7 @@
       <month>5</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>TANKCENTER PINNEBERG Diesel</description>
   </expense>
@@ -26409,7 +26409,7 @@
       <month>5</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -26433,7 +26433,7 @@
       <month>5</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Cash</category>
     <description>for FOOD</description>
   </expense>
@@ -26448,5 +26448,17 @@
     <withdrawn>Yes</withdrawn>
     <category>Lend</category>
     <description>BIETSICHERHEIT</description>
+  </expense>
+  <expense>
+    <id>2221</id>
+    <amount>118.00</amount>
+    <date>
+      <day>29</day>
+      <month>5</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Flat</category>
+    <description>STADTWERKE 05/2017</description>
   </expense>
 </expenses>
