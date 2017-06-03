@@ -26222,18 +26222,6 @@
     <description>KAUFLAND</description>
   </expense>
   <expense>
-    <id>2200</id>
-    <amount>8800.00</amount>
-    <date>
-      <day>16</day>
-      <month>5</month>
-      <year>2017</year>
-    </date>
-    <withdrawn>Yes</withdrawn>
-    <category>Lend</category>
-    <description>ZWANGSVERSTEIGERUNG</description>
-  </expense>
-  <expense>
     <id>2201</id>
     <amount>35.63</amount>
     <date>
@@ -26289,7 +26277,7 @@
       <month>5</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>PAYPAL EBAY Clips Mercedes</description>
   </expense>
@@ -26330,18 +26318,6 @@
     <description>LIDL</description>
   </expense>
   <expense>
-    <id>2209</id>
-    <amount>19.99</amount>
-    <date>
-      <day>24</day>
-      <month>5</month>
-      <year>2017</year>
-    </date>
-    <withdrawn>Yes</withdrawn>
-    <category>Clothes</category>
-    <description>TK MAXX SUNGLASSES</description>
-  </expense>
-  <expense>
     <id>2210</id>
     <amount>18.00</amount>
     <date>
@@ -26373,7 +26349,7 @@
       <month>5</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>MARKTKAUF</description>
   </expense>
@@ -26385,7 +26361,7 @@
       <month>5</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
