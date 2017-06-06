@@ -552,6 +552,7 @@ void TExpenser::commit() {
     system ("git add data/balance.xml");
     system ("git commit -m \"XML database file update\"");
     system ("git push");
+    cout << "\n INFO: finished git commit'n'push\n\n";
 }
 
 void TExpenser::calculate_monthly() {
