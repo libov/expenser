@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>2232</last_expense_id>
+  <last_expense_id>2234</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -26592,5 +26592,29 @@
     <withdrawn>No</withdrawn>
     <category>Entertainment</category>
     <description>SYSTEM OF A DOWN TICKET</description>
+  </expense>
+  <expense>
+    <id>2233</id>
+    <amount>4.58</amount>
+    <date>
+      <day>13</day>
+      <month>6</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>2234</id>
+    <amount>3.24</amount>
+    <date>
+      <day>12</day>
+      <month>6</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
   </expense>
 </expenses>
