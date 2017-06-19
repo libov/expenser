@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>2238</last_expense_id>
+  <last_expense_id>2239</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -26438,18 +26438,6 @@
     <description>for FOOD</description>
   </expense>
   <expense>
-    <id>2220</id>
-    <amount>4000.00</amount>
-    <date>
-      <day>26</day>
-      <month>5</month>
-      <year>2017</year>
-    </date>
-    <withdrawn>Yes</withdrawn>
-    <category>Lend</category>
-    <description>BIETSICHERHEIT</description>
-  </expense>
-  <expense>
     <id>2221</id>
     <amount>118.00</amount>
     <date>
@@ -26589,7 +26577,7 @@
       <month>6</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Entertainment</category>
     <description>SYSTEM OF A DOWN TICKET</description>
   </expense>
@@ -26601,7 +26589,7 @@
       <month>6</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -26661,8 +26649,20 @@
       <month>6</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Travel</category>
     <description>SHELL Diesel trip Berlin SOAD</description>
+  </expense>
+  <expense>
+    <id>2239</id>
+    <amount>50.00</amount>
+    <date>
+      <day>17</day>
+      <month>6</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Piano lessons</category>
+    <description>2x</description>
   </expense>
 </expenses>
