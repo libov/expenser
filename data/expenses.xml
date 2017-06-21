@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>2239</last_expense_id>
+  <last_expense_id>2240</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -26664,5 +26664,17 @@
     <withdrawn>Yes</withdrawn>
     <category>Piano lessons</category>
     <description>2x</description>
+  </expense>
+  <expense>
+    <id>2240</id>
+    <amount>3.69</amount>
+    <date>
+      <day>21</day>
+      <month>6</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
   </expense>
 </expenses>
