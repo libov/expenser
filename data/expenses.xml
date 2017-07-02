@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>2250</last_expense_id>
+  <last_expense_id>2251</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -26796,5 +26796,17 @@
     <withdrawn>No</withdrawn>
     <category>Cash</category>
     <description>for FOOD - this is cash I got back from the guys for the Wismar - see prev entry</description>
+  </expense>
+  <expense>
+    <id>2251</id>
+    <amount>98.50</amount>
+    <date>
+      <day>2</day>
+      <month>7</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>SHTRAF</description>
   </expense>
 </expenses>
