@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>2247</last_expense_id>
+  <last_expense_id>2250</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -26625,7 +26625,7 @@
       <month>6</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>HEM Diesel</description>
   </expense>
@@ -26637,7 +26637,7 @@
       <month>6</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -26673,7 +26673,7 @@
       <month>6</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -26760,5 +26760,41 @@
     <withdrawn>No</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>2248</id>
+    <amount>31.30</amount>
+    <date>
+      <day>24</day>
+      <month>6</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Restaurant</category>
+    <description>BLOCK HOUSE birthday</description>
+  </expense>
+  <expense>
+    <id>2249</id>
+    <amount>40.00</amount>
+    <date>
+      <day>25</day>
+      <month>6</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>Diesel, before Wismar, actually spent 50 but got 10 back in cash - see next entry</description>
+  </expense>
+  <expense>
+    <id>2250</id>
+    <amount>10.00</amount>
+    <date>
+      <day>25</day>
+      <month>6</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Cash</category>
+    <description>for FOOD - this is cash I got back from the guys for the Wismar - see prev entry</description>
   </expense>
 </expenses>
