@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>2256</last_expense_id>
+  <last_expense_id>2263</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -26868,5 +26868,89 @@
     <withdrawn>Yes</withdrawn>
     <category>Restaurant</category>
     <description>BLOCK HOUSE</description>
+  </expense>
+  <expense>
+    <id>2257</id>
+    <amount>2.82</amount>
+    <date>
+      <day>4</day>
+      <month>7</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Flat</category>
+    <description>BUDNI Seifentuch etc.</description>
+  </expense>
+  <expense>
+    <id>2258</id>
+    <amount>7.79</amount>
+    <date>
+      <day>4</day>
+      <month>7</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Presents</category>
+    <description>BUDNI Marzipan for Mum etc.</description>
+  </expense>
+  <expense>
+    <id>2259</id>
+    <amount>7.29</amount>
+    <date>
+      <day>3</day>
+      <month>7</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>2260</id>
+    <amount>22.99</amount>
+    <date>
+      <day>4</day>
+      <month>7</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Clothes</category>
+    <description>TK MAXX Trousers and Shirt</description>
+  </expense>
+  <expense>
+    <id>2261</id>
+    <amount>299.50</amount>
+    <date>
+      <day>2</day>
+      <month>7</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Music equipment</category>
+    <description>PAYPAL NI Komplete Ultimate 11</description>
+  </expense>
+  <expense>
+    <id>2262</id>
+    <amount>500.00</amount>
+    <date>
+      <day>4</day>
+      <month>7</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Presents</category>
+    <description>CASH Mum vacation</description>
+  </expense>
+  <expense>
+    <id>2263</id>
+    <amount>150.00</amount>
+    <date>
+      <day>4</day>
+      <month>7</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Travel</category>
+    <description>CASH Ungvar</description>
   </expense>
 </expenses>
