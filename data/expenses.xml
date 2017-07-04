@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>2254</last_expense_id>
+  <last_expense_id>2256</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -26745,7 +26745,7 @@
       <month>6</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -26757,7 +26757,7 @@
       <month>7</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -26805,7 +26805,7 @@
       <month>7</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>SHTRAF</description>
   </expense>
@@ -26844,5 +26844,29 @@
     <withdrawn>Yes</withdrawn>
     <category>Other</category>
     <description>Rechnungsabschluss</description>
+  </expense>
+  <expense>
+    <id>2255</id>
+    <amount>162.10</amount>
+    <date>
+      <day>3</day>
+      <month>7</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Flat</category>
+    <description>WOHNGELD 07/2017</description>
+  </expense>
+  <expense>
+    <id>2256</id>
+    <amount>12.10</amount>
+    <date>
+      <day>2</day>
+      <month>7</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Restaurant</category>
+    <description>BLOCK HOUSE</description>
   </expense>
 </expenses>
