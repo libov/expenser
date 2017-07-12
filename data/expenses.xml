@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>2277</last_expense_id>
+  <last_expense_id>2278</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -26919,7 +26919,7 @@
   </expense>
   <expense>
     <id>2264</id>
-    <amount>56.80</amount>
+    <amount>36.80</amount>
     <date>
       <day>4</day>
       <month>7</month>
@@ -26927,7 +26927,7 @@
     </date>
     <withdrawn>Yes</withdrawn>
     <category>Travel</category>
-    <description>UZHGOROD July 2017</description>
+    <description>UZHGOROD July 2017, in fact 56.80, but got BlaBla back, see also 2278</description>
   </expense>
   <expense>
     <id>2265</id>
@@ -27084,5 +27084,17 @@
     <withdrawn>Yes</withdrawn>
     <category>Cash</category>
     <description>got from BlaBlaCar back, effectively using for cash, subtracting from ID 2274</description>
+  </expense>
+  <expense>
+    <id>2278</id>
+    <amount>20.00</amount>
+    <date>
+      <day>12</day>
+      <month>7</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Entertainment</category>
+    <description>Krakow, took from BlaBlaMoney subtracting from id 2264</description>
   </expense>
 </expenses>
