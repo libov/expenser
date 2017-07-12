@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>2273</last_expense_id>
+  <last_expense_id>2276</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -25430,18 +25430,6 @@
     <description>BFT Diesel</description>
   </expense>
   <expense>
-    <id>2134</id>
-    <amount>500.00</amount>
-    <date>
-      <day>14</day>
-      <month>4</month>
-      <year>2017</year>
-    </date>
-    <withdrawn>Yes</withdrawn>
-    <category>Lend</category>
-    <description>Kovalchuk</description>
-  </expense>
-  <expense>
     <id>2135</id>
     <amount>20.00</amount>
     <date>
@@ -26184,30 +26172,6 @@
     <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>HEM Diesel</description>
-  </expense>
-  <expense>
-    <id>2197</id>
-    <amount>100.00</amount>
-    <date>
-      <day>18</day>
-      <month>5</month>
-      <year>2017</year>
-    </date>
-    <withdrawn>Yes</withdrawn>
-    <category>Lend</category>
-    <description>KOVALCH</description>
-  </expense>
-  <expense>
-    <id>2198</id>
-    <amount>100.00</amount>
-    <date>
-      <day>18</day>
-      <month>5</month>
-      <year>2017</year>
-    </date>
-    <withdrawn>Yes</withdrawn>
-    <category>Lend</category>
-    <description>KOVALCH</description>
   </expense>
   <expense>
     <id>2199</id>
@@ -27072,5 +27036,41 @@
     <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>KFZ STEUER</description>
+  </expense>
+  <expense>
+    <id>2274</id>
+    <amount>27.17</amount>
+    <date>
+      <day>6</day>
+      <month>7</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Travel</category>
+    <description>BRSM LVIV Diesel UZHGOROD JULY 2017</description>
+  </expense>
+  <expense>
+    <id>2275</id>
+    <amount>4.97</amount>
+    <date>
+      <day>10</day>
+      <month>7</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Food</category>
+    <description>TESCO SLOVAKIA</description>
+  </expense>
+  <expense>
+    <id>2276</id>
+    <amount>10.46</amount>
+    <date>
+      <day>10</day>
+      <month>7</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Travel</category>
+    <description>STATOIL POLAND DIESEL UZHGOROD JULY 2017</description>
   </expense>
 </expenses>
