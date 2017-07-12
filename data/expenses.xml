@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>2271</last_expense_id>
+  <last_expense_id>2273</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -26877,7 +26877,7 @@
       <month>7</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Flat</category>
     <description>BUDNI Seifentuch etc.</description>
   </expense>
@@ -26889,7 +26889,7 @@
       <month>7</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Presents</category>
     <description>BUDNI Marzipan for Mum etc.</description>
   </expense>
@@ -27048,5 +27048,29 @@
     <withdrawn>No</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>2272</id>
+    <amount>22.50</amount>
+    <date>
+      <day>5</day>
+      <month>7</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Travel</category>
+    <description>ORLEN POLAND UZHGOROD JULY 2017</description>
+  </expense>
+  <expense>
+    <id>2273</id>
+    <amount>308.00</amount>
+    <date>
+      <day>7</day>
+      <month>7</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Car</category>
+    <description>KFZ STEUER</description>
   </expense>
 </expenses>
