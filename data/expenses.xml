@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>2276</last_expense_id>
+  <last_expense_id>2277</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -27039,7 +27039,7 @@
   </expense>
   <expense>
     <id>2274</id>
-    <amount>27.17</amount>
+    <amount>12.17</amount>
     <date>
       <day>6</day>
       <month>7</month>
@@ -27072,5 +27072,17 @@
     <withdrawn>Yes</withdrawn>
     <category>Travel</category>
     <description>STATOIL POLAND DIESEL UZHGOROD JULY 2017</description>
+  </expense>
+  <expense>
+    <id>2277</id>
+    <amount>15.00</amount>
+    <date>
+      <day>12</day>
+      <month>7</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Cash</category>
+    <description>got from BlaBlaCar back, effectively using for cash, subtracting from ID 2274</description>
   </expense>
 </expenses>
