@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>2280</last_expense_id>
+  <last_expense_id>2281</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -27120,5 +27120,17 @@
     <withdrawn>No</withdrawn>
     <category>Books</category>
     <description>PAYPAL BUECHER.DE Rachmaninoff prelude sheet music</description>
+  </expense>
+  <expense>
+    <id>2281</id>
+    <amount>10.72</amount>
+    <date>
+      <day>15</day>
+      <month>7</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
   </expense>
 </expenses>
