@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>2283</last_expense_id>
+  <last_expense_id>2285</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -27156,5 +27156,29 @@
     <withdrawn>No</withdrawn>
     <category>Presents</category>
     <description>MUM Bus Tickets Bulgaria</description>
+  </expense>
+  <expense>
+    <id>2284</id>
+    <amount>20.00</amount>
+    <date>
+      <day>21</day>
+      <month>7</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Cash</category>
+    <description>for FOOD</description>
+  </expense>
+  <expense>
+    <id>2285</id>
+    <amount>5.47</amount>
+    <date>
+      <day>20</day>
+      <month>7</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
   </expense>
 </expenses>
