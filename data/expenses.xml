@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>2302</last_expense_id>
+  <last_expense_id>2303</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -27384,5 +27384,17 @@
     <withdrawn>No</withdrawn>
     <category>Presents</category>
     <description>BLUME AKTUELL FOR Artemis part 2</description>
+  </expense>
+  <expense>
+    <id>2303</id>
+    <amount>12.44</amount>
+    <date>
+      <day>29</day>
+      <month>7</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>MARKTKAUF</description>
   </expense>
 </expenses>
