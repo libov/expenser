@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>2307</last_expense_id>
+  <last_expense_id>2308</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -27444,5 +27444,17 @@
     <withdrawn>No</withdrawn>
     <category>Other</category>
     <description>PayPal McFIT</description>
+  </expense>
+  <expense>
+    <id>2308</id>
+    <amount>15.00</amount>
+    <date>
+      <day>13</day>
+      <month>8</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Restaurant</category>
+    <description>BLOCK HOUSE</description>
   </expense>
 </expenses>
