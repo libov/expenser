@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>2310</last_expense_id>
+  <last_expense_id>2311</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -27480,5 +27480,17 @@
     <withdrawn>No</withdrawn>
     <category>Car</category>
     <description>VERWARNUNGSGELD/BUSSGELD</description>
+  </expense>
+  <expense>
+    <id>2311</id>
+    <amount>15.09</amount>
+    <date>
+      <day>12</day>
+      <month>8</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Clothes</category>
+    <description>TK MAXX Jacke</description>
   </expense>
 </expenses>
