@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>2311</last_expense_id>
+  <last_expense_id>2312</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -27492,5 +27492,17 @@
     <withdrawn>No</withdrawn>
     <category>Clothes</category>
     <description>TK MAXX Jacke</description>
+  </expense>
+  <expense>
+    <id>2312</id>
+    <amount>2.57</amount>
+    <date>
+      <day>2</day>
+      <month>8</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
   </expense>
 </expenses>
