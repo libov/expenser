@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>2318</last_expense_id>
+  <last_expense_id>2319</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -27576,5 +27576,17 @@
     <withdrawn>No</withdrawn>
     <category>Cash</category>
     <description>for FOOD</description>
+  </expense>
+  <expense>
+    <id>2319</id>
+    <amount>4500.00</amount>
+    <date>
+      <day>21</day>
+      <month>8</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Lend</category>
+    <description>Bietsicherheit Borsfleth</description>
   </expense>
 </expenses>
