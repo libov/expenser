@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>2341</last_expense_id>
+  <last_expense_id>2342</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -27852,5 +27852,17 @@
     <withdrawn>No</withdrawn>
     <category>Presents</category>
     <description>JANNIS</description>
+  </expense>
+  <expense>
+    <id>2342</id>
+    <amount>60.00</amount>
+    <date>
+      <day>22</day>
+      <month>8</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Other</category>
+    <description>AUFENTHALTSTITEL</description>
   </expense>
 </expenses>
