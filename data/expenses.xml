@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>2352</last_expense_id>
+  <last_expense_id>2353</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -27984,5 +27984,17 @@
     <withdrawn>No</withdrawn>
     <category>Restaurant</category>
     <description>JO MACRON</description>
+  </expense>
+  <expense>
+    <id>2353</id>
+    <amount>12.45</amount>
+    <date>
+      <day>1</day>
+      <month>8</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Restaurant</category>
+    <description>VAPIANO</description>
   </expense>
 </expenses>
