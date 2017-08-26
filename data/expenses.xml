@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>2345</last_expense_id>
+  <last_expense_id>2347</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -27900,5 +27900,29 @@
     <withdrawn>No</withdrawn>
     <category>Car</category>
     <description>DIESEL</description>
+  </expense>
+  <expense>
+    <id>2346</id>
+    <amount>15.00</amount>
+    <date>
+      <day>12</day>
+      <month>8</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>STAR DIESEL</description>
+  </expense>
+  <expense>
+    <id>2347</id>
+    <amount>30.00</amount>
+    <date>
+      <day>17</day>
+      <month>8</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>STAR DIESEL</description>
   </expense>
 </expenses>
