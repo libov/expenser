@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>2342</last_expense_id>
+  <last_expense_id>2343</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -27864,5 +27864,17 @@
     <withdrawn>No</withdrawn>
     <category>Other</category>
     <description>AUFENTHALTSTITEL</description>
+  </expense>
+  <expense>
+    <id>2343</id>
+    <amount>24.50</amount>
+    <date>
+      <day>25</day>
+      <month>8</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Other</category>
+    <description>SUPER CUT</description>
   </expense>
 </expenses>
