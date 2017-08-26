@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>2334</last_expense_id>
+  <last_expense_id>2336</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -27768,5 +27768,29 @@
     <withdrawn>No</withdrawn>
     <category>Food</category>
     <description>PENNY</description>
+  </expense>
+  <expense>
+    <id>2335</id>
+    <amount>43.50</amount>
+    <date>
+      <day>9</day>
+      <month>8</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>AUTOTEILE WITTHOFT</description>
+  </expense>
+  <expense>
+    <id>2336</id>
+    <amount>6.40</amount>
+    <date>
+      <day>15</day>
+      <month>8</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>AUTOTEILE WITTHOFT</description>
   </expense>
 </expenses>
