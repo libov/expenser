@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>2365</last_expense_id>
+  <last_expense_id>2366</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -28140,5 +28140,17 @@
     <withdrawn>No</withdrawn>
     <category>Presents</category>
     <description>REAL part 2 (total: 37.03)</description>
+  </expense>
+  <expense>
+    <id>2366</id>
+    <amount>59.31</amount>
+    <date>
+      <day>25</day>
+      <month>8</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Cash</category>
+    <description>JANNIS got back from summies - cash for FOOD</description>
   </expense>
 </expenses>
