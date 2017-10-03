@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>2396</last_expense_id>
+  <last_expense_id>2399</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -28512,5 +28512,41 @@
     <withdrawn>No</withdrawn>
     <category>Presents</category>
     <description>SOUVENIRS REEPERBAHN Magnet Artemis</description>
+  </expense>
+  <expense>
+    <id>2397</id>
+    <amount>3.39</amount>
+    <date>
+      <day>8</day>
+      <month>9</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Restaurant</category>
+    <description>JUNGE BAECKEREI</description>
+  </expense>
+  <expense>
+    <id>2398</id>
+    <amount>7.88</amount>
+    <date>
+      <day>2</day>
+      <month>9</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Restaurant</category>
+    <description>JUNGE BAECKEREI</description>
+  </expense>
+  <expense>
+    <id>2399</id>
+    <amount>4.49</amount>
+    <date>
+      <day>6</day>
+      <month>9</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>PENNY</description>
   </expense>
 </expenses>
