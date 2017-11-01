@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>2413</last_expense_id>
+  <last_expense_id>2414</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -28716,5 +28716,17 @@
     <withdrawn>No</withdrawn>
     <category>Car</category>
     <description>TANKCENTER JULIA HOFER Diesel</description>
+  </expense>
+  <expense>
+    <id>2414</id>
+    <amount>2.29</amount>
+    <date>
+      <day>1</day>
+      <month>11</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>MARKTKAUF</description>
   </expense>
 </expenses>
