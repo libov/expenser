@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>2430</last_expense_id>
+  <last_expense_id>2431</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -28908,5 +28908,17 @@
     <withdrawn>No</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>2431</id>
+    <amount>15.01</amount>
+    <date>
+      <day>13</day>
+      <month>11</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>ESSO Diesel</description>
   </expense>
 </expenses>
