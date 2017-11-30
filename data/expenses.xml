@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>2439</last_expense_id>
+  <last_expense_id>2440</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -29016,5 +29016,17 @@
     <withdrawn>No</withdrawn>
     <category>Other</category>
     <description>TKMAXX Suitcase</description>
+  </expense>
+  <expense>
+    <id>2440</id>
+    <amount>38.54</amount>
+    <date>
+      <day>24</day>
+      <month>11</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Wilster</category>
+    <description>TOOM various</description>
   </expense>
 </expenses>
