@@ -44,8 +44,8 @@ TString toStr(Int_t arg) {
 }
 
 // ========== constants ========== //
-const unsigned NCATEGORIES = 19;
-TString CATEGORIES[]  = {"Food", "Restaurant", "Flat", "Cash", "Car", "Music equipment", "Books", "Clothes", "Entertainment", "Presents", "Travel", "Transport HH", "Business trip", "Degussa", "Piano lessons", "Category unknown", "No record", "Lend", "Other"};
+const unsigned NCATEGORIES = 21;
+TString CATEGORIES[]  = {"Food", "Restaurant", "Flat", "Cash", "Car", "Music equipment", "Books", "Clothes", "Entertainment", "Presents", "Travel", "Transport HH", "Business trip", "Degussa", "Sparda Credit", "Wilster", "Piano lessons", "Category unknown", "No record", "Lend", "Other"};
 const TString MONTHS[12]={"January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"};
 const unsigned FIRST_YEAR = 2009;
 const unsigned LAST_YEAR = 2017;
