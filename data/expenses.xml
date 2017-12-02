@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>2443</last_expense_id>
+  <last_expense_id>2444</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -29064,5 +29064,17 @@
     <withdrawn>No</withdrawn>
     <category>Wilster</category>
     <description>TOOM Plane, Eimer</description>
+  </expense>
+  <expense>
+    <id>2444</id>
+    <amount>30.58</amount>
+    <date>
+      <day>27</day>
+      <month>11</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Wilster</category>
+    <description>OBI for roof - wooden rails, nails</description>
   </expense>
 </expenses>
