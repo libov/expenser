@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>2475</last_expense_id>
+  <last_expense_id>2476</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -29448,5 +29448,17 @@
     <withdrawn>No</withdrawn>
     <category>Wilster</category>
     <description>OBI Tapeten, Antischimmel</description>
+  </expense>
+  <expense>
+    <id>2476</id>
+    <amount>65.30</amount>
+    <date>
+      <day>27</day>
+      <month>11</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Wilster</category>
+    <description>PAYPAL Abdeckplane. Got back 6.85 delivery costs</description>
   </expense>
 </expenses>
