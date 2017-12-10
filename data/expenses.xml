@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>2461</last_expense_id>
+  <last_expense_id>2462</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -29280,5 +29280,17 @@
     <withdrawn>No</withdrawn>
     <category>Cash</category>
     <description>OBI PART2 of 45.47 hammer retoure -> effectively cash.</description>
+  </expense>
+  <expense>
+    <id>2462</id>
+    <amount>2.39</amount>
+    <date>
+      <day>4</day>
+      <month>12</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>EDEKA</description>
   </expense>
 </expenses>
