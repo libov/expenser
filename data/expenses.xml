@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>2459</last_expense_id>
+  <last_expense_id>2461</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -29256,5 +29256,29 @@
     <withdrawn>No</withdrawn>
     <category>Books</category>
     <description>BEHRENS Machine Learning</description>
+  </expense>
+  <expense>
+    <id>2460</id>
+    <amount>35.98</amount>
+    <date>
+      <day>8</day>
+      <month>12</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Wilster</category>
+    <description>OBI various PART1 of 45.47</description>
+  </expense>
+  <expense>
+    <id>2461</id>
+    <amount>9.49</amount>
+    <date>
+      <day>8</day>
+      <month>12</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Cash</category>
+    <description>OBI PART2 of 45.47 hammer retoure -> effectively cash.</description>
   </expense>
 </expenses>
