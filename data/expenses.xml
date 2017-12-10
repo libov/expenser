@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>2456</last_expense_id>
+  <last_expense_id>2457</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -29220,5 +29220,17 @@
     <withdrawn>No</withdrawn>
     <category>Other</category>
     <description>PAYPAL Perfume</description>
+  </expense>
+  <expense>
+    <id>2457</id>
+    <amount>43.50</amount>
+    <date>
+      <day>10</day>
+      <month>12</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>Verwarnungsgeld/Bussgeld</description>
   </expense>
 </expenses>
