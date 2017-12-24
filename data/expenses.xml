@@ -27453,7 +27453,7 @@
       <month>8</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Restaurant</category>
     <description>BLOCK HOUSE</description>
   </expense>
@@ -27465,7 +27465,7 @@
       <month>8</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Presents</category>
     <description>TK MAXX Sweets</description>
   </expense>
@@ -27489,7 +27489,7 @@
       <month>8</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Clothes</category>
     <description>TK MAXX Jacke</description>
   </expense>
@@ -27513,7 +27513,7 @@
       <month>8</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
