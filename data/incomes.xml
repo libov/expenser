@@ -3,6 +3,14 @@
 	<entry>
         <amount>2674.45</amount>
         <date>
+            <month>9</month>
+            <year>2017</year>
+        </date>
+        <description>Salary 09/2017</description>
+    </entry>
+	<entry>
+        <amount>2674.45</amount>
+        <date>
             <month>8</month>
             <year>2017</year>
         </date>

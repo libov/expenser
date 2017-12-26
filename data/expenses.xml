@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>2519</last_expense_id>
+  <last_expense_id>2520</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -28413,7 +28413,7 @@
       <month>10</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -28449,7 +28449,7 @@
       <month>9</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Business trip</category>
     <description>DB HVV Ticket</description>
   </expense>
@@ -28557,7 +28557,7 @@
       <month>10</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>VERWARNUNGSGELD</description>
   </expense>
@@ -28569,7 +28569,7 @@
       <month>10</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Restaurant</category>
     <description>BLOCKHOUSE part1 - food</description>
   </expense>
@@ -28581,7 +28581,7 @@
       <month>10</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Cash</category>
     <description>BLOCKHOUSE part2 - cash</description>
   </expense>
@@ -29952,5 +29952,17 @@
     <withdrawn>No</withdrawn>
     <category>Car</category>
     <description>BFT Diesel</description>
+  </expense>
+  <expense>
+    <id>2520</id>
+    <amount>162.10</amount>
+    <date>
+      <day>2</day>
+      <month>10</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Flat</category>
+    <description>Wohngeld 10/2017</description>
   </expense>
 </expenses>
