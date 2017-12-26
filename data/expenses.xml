@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>2530</last_expense_id>
+  <last_expense_id>2536</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -28749,7 +28749,7 @@
       <month>10</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Presents</category>
     <description>LIDL sweets for Ungvar trip</description>
   </expense>
@@ -28821,7 +28821,7 @@
       <month>10</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -28857,7 +28857,7 @@
       <month>10</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -29805,7 +29805,7 @@
       <month>10</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Presents</category>
     <description>EDEKA for Ungvar</description>
   </expense>
@@ -29817,7 +29817,7 @@
       <month>10</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Presents</category>
     <description>EDEKA for Ungvar</description>
   </expense>
@@ -30084,5 +30084,77 @@
     <withdrawn>Yes</withdrawn>
     <category>Presents</category>
     <description>DM for Ungvar</description>
+  </expense>
+  <expense>
+    <id>2531</id>
+    <amount>900.00</amount>
+    <date>
+      <day>13</day>
+      <month>10</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>No record</category>
+    <description>cash, apparently for Ungvar, incl. 500 for Smerekovo</description>
+  </expense>
+  <expense>
+    <id>2532</id>
+    <amount>51.67</amount>
+    <date>
+      <day>13</day>
+      <month>10</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Travel</category>
+    <description>HEM Diesel Ungvar Trip 10/2017</description>
+  </expense>
+  <expense>
+    <id>2533</id>
+    <amount>10.00</amount>
+    <date>
+      <day>12</day>
+      <month>10</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Other</category>
+    <description>FONIC</description>
+  </expense>
+  <expense>
+    <id>2534</id>
+    <amount>27.03</amount>
+    <date>
+      <day>14</day>
+      <month>10</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Travel</category>
+    <description>ORLEN Diesel Ungvar 10/2017</description>
+  </expense>
+  <expense>
+    <id>2535</id>
+    <amount>4.34</amount>
+    <date>
+      <day>18</day>
+      <month>10</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Restaurant</category>
+    <description>McDonalds Poland Ungavr Trip 10/2017</description>
+  </expense>
+  <expense>
+    <id>2536</id>
+    <amount>13.45</amount>
+    <date>
+      <day>14</day>
+      <month>10</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Travel</category>
+    <description>OKKO trip Ungvar 10/2017</description>
   </expense>
 </expenses>
