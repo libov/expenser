@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>2506</last_expense_id>
+  <last_expense_id>2508</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -29796,5 +29796,29 @@
     <withdrawn>Yes</withdrawn>
     <category>Flat</category>
     <description>Stadtwerke 09/2017</description>
+  </expense>
+  <expense>
+    <id>2507</id>
+    <amount>55.88</amount>
+    <date>
+      <day>11</day>
+      <month>10</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Presents</category>
+    <description>EDEKA for Ungvar</description>
+  </expense>
+  <expense>
+    <id>2508</id>
+    <amount>42.06</amount>
+    <date>
+      <day>12</day>
+      <month>10</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Presents</category>
+    <description>EDEKA for Ungvar</description>
   </expense>
 </expenses>
