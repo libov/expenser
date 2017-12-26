@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>2490</last_expense_id>
+  <last_expense_id>2491</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -27561,7 +27561,7 @@
       <month>8</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Other</category>
     <description>AMAZON BCAA 12000</description>
   </expense>
@@ -27681,7 +27681,7 @@
       <month>8</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>DIESEL</description>
   </expense>
@@ -27705,7 +27705,7 @@
       <month>8</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -29628,5 +29628,17 @@
     <withdrawn>No</withdrawn>
     <category>Flat</category>
     <description>KabelDeutschland Vodafone 12/2017</description>
+  </expense>
+  <expense>
+    <id>2491</id>
+    <amount>246.39</amount>
+    <date>
+      <day>22</day>
+      <month>8</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Business trip</category>
+    <description>PAYPAL Airfrance flight Rome-HH EAAC17</description>
   </expense>
 </expenses>
