@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>2516</last_expense_id>
+  <last_expense_id>2519</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -29916,5 +29916,41 @@
     <withdrawn>No</withdrawn>
     <category>Car</category>
     <description>FAMILA DIesel</description>
+  </expense>
+  <expense>
+    <id>2517</id>
+    <amount>26.96</amount>
+    <date>
+      <day>25</day>
+      <month>11</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Wilster</category>
+    <description>OBI part 1 --> various</description>
+  </expense>
+  <expense>
+    <id>2518</id>
+    <amount>12.98</amount>
+    <date>
+      <day>25</day>
+      <month>11</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Cash</category>
+    <description>OBI part 2 --> retoure cash back</description>
+  </expense>
+  <expense>
+    <id>2519</id>
+    <amount>10.00</amount>
+    <date>
+      <day>6</day>
+      <month>11</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>BFT Diesel</description>
   </expense>
 </expenses>
