@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>2492</last_expense_id>
+  <last_expense_id>2493</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -27765,7 +27765,7 @@
       <month>8</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>PENNY</description>
   </expense>
@@ -28125,7 +28125,7 @@
       <month>8</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>REAL part 1 (total: 37.03)</description>
   </expense>
@@ -28137,7 +28137,7 @@
       <month>8</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Presents</category>
     <description>REAL part 2 (total: 37.03)</description>
   </expense>
@@ -28497,7 +28497,7 @@
       <month>8</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Presents</category>
     <description>TKMAXX for Artemis</description>
   </expense>
@@ -29652,5 +29652,17 @@
     <withdrawn>Yes</withdrawn>
     <category>Flat</category>
     <description>STADTWERKE 08/2017</description>
+  </expense>
+  <expense>
+    <id>2493</id>
+    <amount>14.66</amount>
+    <date>
+      <day>28</day>
+      <month>8</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Music equipment</category>
+    <description>PAYPAL JUNO Tracks 4 summer student party</description>
   </expense>
 </expenses>
