@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>2482</last_expense_id>
+  <last_expense_id>2483</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -29532,5 +29532,17 @@
     <withdrawn>No</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>2483</id>
+    <amount>16.65</amount>
+    <date>
+      <day>14</day>
+      <month>11</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Other</category>
+    <description>DM Contact lenses</description>
   </expense>
 </expenses>
