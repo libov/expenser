@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>2495</last_expense_id>
+  <last_expense_id>2496</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -29688,5 +29688,17 @@
     <withdrawn>Yes</withdrawn>
     <category>Restaurant</category>
     <description>LA VIGNO LUEBECK</description>
+  </expense>
+  <expense>
+    <id>2496</id>
+    <amount>48.68</amount>
+    <date>
+      <day>1</day>
+      <month>9</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>No record</category>
+    <description>REAL apparently 4 party</description>
   </expense>
 </expenses>
