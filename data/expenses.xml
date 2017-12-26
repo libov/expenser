@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>2498</last_expense_id>
+  <last_expense_id>2500</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -28209,7 +28209,7 @@
       <month>9</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -28425,7 +28425,7 @@
       <month>9</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Presents</category>
     <description>JO MACRON for Artemis</description>
   </expense>
@@ -29712,5 +29712,29 @@
     <withdrawn>Yes</withdrawn>
     <category>Other</category>
     <description>FONIC</description>
+  </expense>
+  <expense>
+    <id>2499</id>
+    <amount>54.99</amount>
+    <date>
+      <day>8</day>
+      <month>9</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>No record</category>
+    <description>STRANDPAULI Cash, don't remember the amount, but faintly remember withdrawing money</description>
+  </expense>
+  <expense>
+    <id>2500</id>
+    <amount>104.75</amount>
+    <date>
+      <day>8</day>
+      <month>9</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>No record</category>
+    <description>cash, for Artemis easyJet bag fee</description>
   </expense>
 </expenses>
