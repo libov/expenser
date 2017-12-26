@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>2500</last_expense_id>
+  <last_expense_id>2502</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -28269,7 +28269,7 @@
       <month>9</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>BFT Diesel</description>
   </expense>
@@ -28473,7 +28473,7 @@
       <month>9</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Clothes</category>
     <description>TKMAXX</description>
   </expense>
@@ -28509,7 +28509,7 @@
       <month>9</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Restaurant</category>
     <description>JUNGE BAECKEREI</description>
   </expense>
@@ -29736,5 +29736,29 @@
     <withdrawn>Yes</withdrawn>
     <category>No record</category>
     <description>cash, for Artemis easyJet bag fee</description>
+  </expense>
+  <expense>
+    <id>2501</id>
+    <amount>10.50</amount>
+    <date>
+      <day>14</day>
+      <month>11</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Presents</category>
+    <description>JO MACROEN</description>
+  </expense>
+  <expense>
+    <id>2502</id>
+    <amount>10.06</amount>
+    <date>
+      <day>8</day>
+      <month>9</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>No record</category>
+    <description>ESSO</description>
   </expense>
 </expenses>
