@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>2536</last_expense_id>
+  <last_expense_id>2538</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -28809,7 +28809,7 @@
       <month>10</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -30156,5 +30156,29 @@
     <withdrawn>Yes</withdrawn>
     <category>Travel</category>
     <description>OKKO trip Ungvar 10/2017</description>
+  </expense>
+  <expense>
+    <id>2537</id>
+    <amount>43.11</amount>
+    <date>
+      <day>17</day>
+      <month>10</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Travel</category>
+    <description>BRSM Diesel trip Ungvar 10/2017</description>
+  </expense>
+  <expense>
+    <id>2538</id>
+    <amount>28.50</amount>
+    <date>
+      <day>18</day>
+      <month>10</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Travel</category>
+    <description>BP Poland Diesel trip Ungvar 10/2017</description>
   </expense>
 </expenses>
