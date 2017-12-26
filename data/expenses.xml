@@ -28149,7 +28149,7 @@
       <month>9</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>ROGGE new number plates</description>
   </expense>
@@ -28197,7 +28197,7 @@
       <month>9</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -28437,7 +28437,7 @@
       <month>9</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>ESSO Diesel</description>
   </expense>
@@ -29748,17 +29748,5 @@
     <withdrawn>No</withdrawn>
     <category>Presents</category>
     <description>JO MACROEN</description>
-  </expense>
-  <expense>
-    <id>2502</id>
-    <amount>10.06</amount>
-    <date>
-      <day>8</day>
-      <month>9</month>
-      <year>2017</year>
-    </date>
-    <withdrawn>Yes</withdrawn>
-    <category>No record</category>
-    <description>ESSO</description>
   </expense>
 </expenses>
