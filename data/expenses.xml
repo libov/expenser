@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>2520</last_expense_id>
+  <last_expense_id>2526</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -28353,7 +28353,7 @@
       <month>9</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>HEM Diesel</description>
   </expense>
@@ -28641,7 +28641,7 @@
       <month>10</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>KREIS PINNEBERG Mercedes wieder anmelden</description>
   </expense>
@@ -28677,7 +28677,7 @@
       <month>10</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>SCHMIDT AUTOSCHILDER Kennzeichen</description>
   </expense>
@@ -29964,5 +29964,77 @@
     <withdrawn>Yes</withdrawn>
     <category>Flat</category>
     <description>Wohngeld 10/2017</description>
+  </expense>
+  <expense>
+    <id>2521</id>
+    <amount>89.65</amount>
+    <date>
+      <day>3</day>
+      <month>10</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Travel</category>
+    <description>RYANAIR Athens 11/2017</description>
+  </expense>
+  <expense>
+    <id>2522</id>
+    <amount>41.98</amount>
+    <date>
+      <day>3</day>
+      <month>10</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Travel</category>
+    <description>RYANAIR Athens 12/2017</description>
+  </expense>
+  <expense>
+    <id>2523</id>
+    <amount>10.00</amount>
+    <date>
+      <day>26</day>
+      <month>12</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>VERWARNUNGSGELD / BUSSGELD</description>
+  </expense>
+  <expense>
+    <id>2524</id>
+    <amount>80.68</amount>
+    <date>
+      <day>4</day>
+      <month>10</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Travel</category>
+    <description>PAYPAL Airbnb Athens 11/2017</description>
+  </expense>
+  <expense>
+    <id>2525</id>
+    <amount>84.46</amount>
+    <date>
+      <day>4</day>
+      <month>10</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Travel</category>
+    <description>PAYPAL Airbnb Athens 12/2017</description>
+  </expense>
+  <expense>
+    <id>2526</id>
+    <amount>107.17</amount>
+    <date>
+      <day>26</day>
+      <month>11</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Travel</category>
+    <description>PAYPAL Airbnb Athens 01/2018</description>
   </expense>
 </expenses>
