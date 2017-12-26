@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>2496</last_expense_id>
+  <last_expense_id>2497</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -27578,18 +27578,6 @@
     <description>for FOOD</description>
   </expense>
   <expense>
-    <id>2319</id>
-    <amount>4500.00</amount>
-    <date>
-      <day>21</day>
-      <month>8</month>
-      <year>2017</year>
-    </date>
-    <withdrawn>Yes</withdrawn>
-    <category>Lend</category>
-    <description>Bietsicherheit Borsfleth</description>
-  </expense>
-  <expense>
     <id>2320</id>
     <amount>7.49</amount>
     <date>
@@ -28545,7 +28533,7 @@
       <month>9</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>PENNY</description>
   </expense>
@@ -28557,7 +28545,7 @@
       <month>9</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>JET DIesel</description>
   </expense>
@@ -29698,7 +29686,19 @@
       <year>2017</year>
     </date>
     <withdrawn>Yes</withdrawn>
-    <category>No record</category>
-    <description>REAL apparently 4 party</description>
+    <category>Other</category>
+    <description>REAL summer student party</description>
+  </expense>
+  <expense>
+    <id>2497</id>
+    <amount>126.94</amount>
+    <date>
+      <day>1</day>
+      <month>9</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Other</category>
+    <description>REAL summer student party</description>
   </expense>
 </expenses>
