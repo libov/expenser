@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>2503</last_expense_id>
+  <last_expense_id>2506</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -28329,7 +28329,7 @@
       <month>9</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -28377,7 +28377,7 @@
       <month>9</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -28389,7 +28389,7 @@
       <month>9</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Clothes</category>
     <description>TKMAXX Pierre Cardin Shoes; Shirt</description>
   </expense>
@@ -29577,7 +29577,7 @@
       <month>9</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Flat</category>
     <description>KabelDeutschland Vodafone 09/2017</description>
   </expense>
@@ -29760,5 +29760,41 @@
     <withdrawn>Yes</withdrawn>
     <category>Other</category>
     <description>FONIC</description>
+  </expense>
+  <expense>
+    <id>2504</id>
+    <amount>10.00</amount>
+    <date>
+      <day>21</day>
+      <month>9</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Other</category>
+    <description>FONIC</description>
+  </expense>
+  <expense>
+    <id>2505</id>
+    <amount>1100.00</amount>
+    <date>
+      <day>22</day>
+      <month>9</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>No record</category>
+    <description>cash - for EAAC17 apparently</description>
+  </expense>
+  <expense>
+    <id>2506</id>
+    <amount>118.00</amount>
+    <date>
+      <day>28</day>
+      <month>9</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Flat</category>
+    <description>Stadtwerke 09/2017</description>
   </expense>
 </expenses>
