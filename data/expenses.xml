@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>2491</last_expense_id>
+  <last_expense_id>2492</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -28041,7 +28041,7 @@
       <month>8</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>DM</description>
   </expense>
@@ -28053,7 +28053,7 @@
       <month>8</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Clothes</category>
     <description>TK MAXX Trousers Tshirt</description>
   </expense>
@@ -29640,5 +29640,17 @@
     <withdrawn>Yes</withdrawn>
     <category>Business trip</category>
     <description>PAYPAL Airfrance flight Rome-HH EAAC17</description>
+  </expense>
+  <expense>
+    <id>2492</id>
+    <amount>118.00</amount>
+    <date>
+      <day>28</day>
+      <month>8</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Flat</category>
+    <description>STADTWERKE 08/2017</description>
   </expense>
 </expenses>
