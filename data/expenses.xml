@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>2544</last_expense_id>
+  <last_expense_id>2547</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -28713,7 +28713,7 @@
       <month>11</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>MARKTKAUF</description>
   </expense>
@@ -28737,7 +28737,7 @@
       <month>10</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -28797,7 +28797,7 @@
       <month>11</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -30252,5 +30252,41 @@
     <withdrawn>No</withdrawn>
     <category>Travel</category>
     <description>HEM Diesel Berlin. Athens trip 11/2017</description>
+  </expense>
+  <expense>
+    <id>2545</id>
+    <amount>118.00</amount>
+    <date>
+      <day>30</day>
+      <month>10</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Flat</category>
+    <description>Stadtwerke 10/2017</description>
+  </expense>
+  <expense>
+    <id>2546</id>
+    <amount>162.10</amount>
+    <date>
+      <day>1</day>
+      <month>11</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Flat</category>
+    <description>Wohngeld 11/2017</description>
+  </expense>
+  <expense>
+    <id>2547</id>
+    <amount>9.10</amount>
+    <date>
+      <day>5</day>
+      <month>11</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Restaurant</category>
+    <description>JIM BLOCK</description>
   </expense>
 </expenses>
