@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>2548</last_expense_id>
+  <last_expense_id>2551</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -30300,5 +30300,41 @@
     <withdrawn>Yes</withdrawn>
     <category>Other</category>
     <description>Grundbuchauszug fuer Sparda Finanzierung</description>
+  </expense>
+  <expense>
+    <id>2549</id>
+    <amount>13.62</amount>
+    <date>
+      <day>3</day>
+      <month>1</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>2550</id>
+    <amount>30.00</amount>
+    <date>
+      <day>3</day>
+      <month>1</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>Julia Hofer Diesel</description>
+  </expense>
+  <expense>
+    <id>2551</id>
+    <amount>25.27</amount>
+    <date>
+      <day>2</day>
+      <month>1</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Travel</category>
+    <description>SHELL Poland Uzhgorod Trip 12/2017</description>
   </expense>
 </expenses>
