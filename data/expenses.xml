@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>2552</last_expense_id>
+  <last_expense_id>2553</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -28917,7 +28917,7 @@
       <month>11</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -29025,7 +29025,7 @@
       <month>11</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Wilster</category>
     <description>TOOM Gartenhausbahn</description>
   </expense>
@@ -29037,7 +29037,7 @@
       <month>11</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>PENNY</description>
   </expense>
@@ -29529,7 +29529,7 @@
       <month>11</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Other</category>
     <description>DM Contact lenses</description>
   </expense>
@@ -30249,7 +30249,7 @@
       <month>11</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Travel</category>
     <description>HEM Diesel Berlin. Athens trip 11/2017</description>
   </expense>
@@ -30348,5 +30348,17 @@
     <withdrawn>No</withdrawn>
     <category>Presents</category>
     <description>TCHIBO Coffee Mum</description>
+  </expense>
+  <expense>
+    <id>2553</id>
+    <amount>23.08</amount>
+    <date>
+      <day>13</day>
+      <month>11</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Presents</category>
+    <description>ARKO for Artemis Parents</description>
   </expense>
 </expenses>
