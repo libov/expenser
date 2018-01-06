@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>2557</last_expense_id>
+  <last_expense_id>2558</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -30408,5 +30408,17 @@
     <withdrawn>No</withdrawn>
     <category>Other</category>
     <description>PAYPAL Alensa Contact Lenses</description>
+  </expense>
+  <expense>
+    <id>2558</id>
+    <amount>23.48</amount>
+    <date>
+      <day>31</day>
+      <month>12</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Wilster</category>
+    <description>PAYPAL eBay Schwingschleifer</description>
   </expense>
 </expenses>
