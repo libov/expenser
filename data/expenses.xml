@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>2563</last_expense_id>
+  <last_expense_id>2564</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -30480,5 +30480,17 @@
     <withdrawn>No</withdrawn>
     <category>Wilster</category>
     <description>ROLLER various</description>
+  </expense>
+  <expense>
+    <id>2564</id>
+    <amount>19.35</amount>
+    <date>
+      <day>6</day>
+      <month>1</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>NETTO Wilster</description>
   </expense>
 </expenses>
