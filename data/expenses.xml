@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>2571</last_expense_id>
+  <last_expense_id>2574</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -30576,5 +30576,41 @@
     <withdrawn>No</withdrawn>
     <category>Car</category>
     <description>ARAL Diesel</description>
+  </expense>
+  <expense>
+    <id>2572</id>
+    <amount>30.00</amount>
+    <date>
+      <day>23</day>
+      <month>1</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Presents</category>
+    <description>CASH for Mom</description>
+  </expense>
+  <expense>
+    <id>2573</id>
+    <amount>20.00</amount>
+    <date>
+      <day>23</day>
+      <month>1</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Cash</category>
+    <description>for FOOD</description>
+  </expense>
+  <expense>
+    <id>2574</id>
+    <amount>25.96</amount>
+    <date>
+      <day>19</day>
+      <month>1</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Wilster</category>
+    <description>IKEA stuff for curtains</description>
   </expense>
 </expenses>
