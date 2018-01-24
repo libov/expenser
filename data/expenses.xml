@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>2574</last_expense_id>
+  <last_expense_id>2575</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -30612,5 +30612,17 @@
     <withdrawn>No</withdrawn>
     <category>Wilster</category>
     <description>IKEA stuff for curtains</description>
+  </expense>
+  <expense>
+    <id>2575</id>
+    <amount>47.24</amount>
+    <date>
+      <day>20</day>
+      <month>1</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Wilster</category>
+    <description>OBI Fuellspachtel Innen, Tapetenkleister, etc.</description>
   </expense>
 </expenses>
