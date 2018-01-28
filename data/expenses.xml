@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>2599</last_expense_id>
+  <last_expense_id>2600</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -30912,5 +30912,17 @@
     <withdrawn>No</withdrawn>
     <category>Food</category>
     <description>SKLAVENITIS ATHENS</description>
+  </expense>
+  <expense>
+    <id>2600</id>
+    <amount>8.00</amount>
+    <date>
+      <day>15</day>
+      <month>12</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Restaurant</category>
+    <description>ZAHAROPLASTIO Chocolate soup</description>
   </expense>
 </expenses>
