@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>2589</last_expense_id>
+  <last_expense_id>2591</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -30792,5 +30792,29 @@
     <withdrawn>No</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>2590</id>
+    <amount>26.01</amount>
+    <date>
+      <day>23</day>
+      <month>12</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Wilster</category>
+    <description>TOOM Carpet, was 40.00 but 13.99 retoure</description>
+  </expense>
+  <expense>
+    <id>2591</id>
+    <amount>14.01</amount>
+    <date>
+      <day>18</day>
+      <month>1</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Wilster</category>
+    <description>ESSO Diesel for SIXT truck</description>
   </expense>
 </expenses>
