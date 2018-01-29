@@ -31053,7 +31053,7 @@
       <month>11</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Flat</category>
     <description>WEG 2016 Abrechnung</description>
   </expense>
@@ -31065,7 +31065,7 @@
       <month>11</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>No record</category>
     <description>GLIFADAS</description>
   </expense>
