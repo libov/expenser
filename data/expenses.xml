@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>2606</last_expense_id>
+  <last_expense_id>2607</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -30996,5 +30996,17 @@
     <withdrawn>No</withdrawn>
     <category>Wilster</category>
     <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>2607</id>
+    <amount>11.28</amount>
+    <date>
+      <day>10</day>
+      <month>1</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Presents</category>
+    <description>FAMILA sweets for Athens</description>
   </expense>
 </expenses>
