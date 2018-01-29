@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>2610</last_expense_id>
+  <last_expense_id>2612</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -31044,5 +31044,29 @@
     <withdrawn>No</withdrawn>
     <category>Restaurant</category>
     <description>ZAHAROPLASTISIO</description>
+  </expense>
+  <expense>
+    <id>2611</id>
+    <amount>9.31</amount>
+    <date>
+      <day>17</day>
+      <month>11</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Flat</category>
+    <description>WEG 2016 Abrechnung</description>
+  </expense>
+  <expense>
+    <id>2612</id>
+    <amount>11.40</amount>
+    <date>
+      <day>18</day>
+      <month>11</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>No record</category>
+    <description>GLIFADAS</description>
   </expense>
 </expenses>
