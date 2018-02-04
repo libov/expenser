@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>2612</last_expense_id>
+  <last_expense_id>2613</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -31068,5 +31068,17 @@
     <withdrawn>Yes</withdrawn>
     <category>No record</category>
     <description>GLIFADAS</description>
+  </expense>
+  <expense>
+    <id>2613</id>
+    <amount>3.54</amount>
+    <date>
+      <day>3</day>
+      <month>2</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
   </expense>
 </expenses>
