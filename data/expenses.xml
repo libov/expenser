@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>2622</last_expense_id>
+  <last_expense_id>2623</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -31188,5 +31188,17 @@
     <withdrawn>No</withdrawn>
     <category>Wilster house purchase</category>
     <description>GRUNDERWERBSTEUER</description>
+  </expense>
+  <expense>
+    <id>2623</id>
+    <amount>50.00</amount>
+    <date>
+      <day>31</day>
+      <month>1</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Piano lessons</category>
+    <description>2x</description>
   </expense>
 </expenses>
