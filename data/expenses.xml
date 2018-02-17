@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>2637</last_expense_id>
+  <last_expense_id>2638</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -31368,5 +31368,17 @@
     <withdrawn>No</withdrawn>
     <category>Car</category>
     <description>TEAM Diesel</description>
+  </expense>
+  <expense>
+    <id>2638</id>
+    <amount>20.12</amount>
+    <date>
+      <day>14</day>
+      <month>2</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>SHELL Diesel</description>
   </expense>
 </expenses>
