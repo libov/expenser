@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>2636</last_expense_id>
+  <last_expense_id>2637</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -31356,5 +31356,17 @@
     <withdrawn>No</withdrawn>
     <category>Restaurant</category>
     <description>KYPROS Natalia defense party</description>
+  </expense>
+  <expense>
+    <id>2637</id>
+    <amount>20.02</amount>
+    <date>
+      <day>9</day>
+      <month>2</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>TEAM Diesel</description>
   </expense>
 </expenses>
