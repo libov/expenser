@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>2640</last_expense_id>
+  <last_expense_id>2643</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -31404,5 +31404,41 @@
     <withdrawn>No</withdrawn>
     <category>Presents</category>
     <description>cash for Mom</description>
+  </expense>
+  <expense>
+    <id>2641</id>
+    <amount>20.00</amount>
+    <date>
+      <day>13</day>
+      <month>2</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Cash</category>
+    <description>for food</description>
+  </expense>
+  <expense>
+    <id>2642</id>
+    <amount>49.95</amount>
+    <date>
+      <day>11</day>
+      <month>2</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Wilster</category>
+    <description>PAYPAL AKkuschrauber</description>
+  </expense>
+  <expense>
+    <id>2643</id>
+    <amount>20.00</amount>
+    <date>
+      <day>7</day>
+      <month>2</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Cash</category>
+    <description>for FOOD</description>
   </expense>
 </expenses>
