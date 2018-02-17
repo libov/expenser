@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>2633</last_expense_id>
+  <last_expense_id>2634</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -31320,5 +31320,17 @@
     <withdrawn>No</withdrawn>
     <category>Presents</category>
     <description>EDEKA Marzipan Artemis/Mom</description>
+  </expense>
+  <expense>
+    <id>2634</id>
+    <amount>25.88</amount>
+    <date>
+      <day>16</day>
+      <month>2</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Presents</category>
+    <description>EDEKA sweets Artemis</description>
   </expense>
 </expenses>
