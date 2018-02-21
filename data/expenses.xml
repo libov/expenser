@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>2646</last_expense_id>
+  <last_expense_id>2648</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -31476,5 +31476,29 @@
     <withdrawn>No</withdrawn>
     <category>Other</category>
     <description>HH AIRPORT Parking</description>
+  </expense>
+  <expense>
+    <id>2647</id>
+    <amount>20.00</amount>
+    <date>
+      <day>18</day>
+      <month>2</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>TANKCENTER Diesel</description>
+  </expense>
+  <expense>
+    <id>2648</id>
+    <amount>20.00</amount>
+    <date>
+      <day>20</day>
+      <month>2</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>SHEL Diesel</description>
   </expense>
 </expenses>
