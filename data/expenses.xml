@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>2663</last_expense_id>
+  <last_expense_id>2664</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -31680,5 +31680,17 @@
     <withdrawn>No</withdrawn>
     <category>Presents</category>
     <description>ANDRONACO for Vika et al</description>
+  </expense>
+  <expense>
+    <id>2664</id>
+    <amount>22.08</amount>
+    <date>
+      <day>28</day>
+      <month>2</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>KATTNERS Diesel</description>
   </expense>
 </expenses>
