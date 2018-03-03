@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>2661</last_expense_id>
+  <last_expense_id>2663</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -31656,5 +31656,29 @@
     <withdrawn>No</withdrawn>
     <category>Food</category>
     <description>TESCO</description>
+  </expense>
+  <expense>
+    <id>2662</id>
+    <amount>51.02</amount>
+    <date>
+      <day>22</day>
+      <month>2</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Travel</category>
+    <description>JULIA HOFER Diesel trip Uzhgorod</description>
+  </expense>
+  <expense>
+    <id>2663</id>
+    <amount>15.30</amount>
+    <date>
+      <day>22</day>
+      <month>2</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Presents</category>
+    <description>ANDRONACO for Vika et al</description>
   </expense>
 </expenses>
