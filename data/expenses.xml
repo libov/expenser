@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>2657</last_expense_id>
+  <last_expense_id>2659</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -31608,5 +31608,29 @@
     <withdrawn>No</withdrawn>
     <category>Wilster</category>
     <description>HORNBACH Teppichleiste etc.</description>
+  </expense>
+  <expense>
+    <id>2658</id>
+    <amount>23.81</amount>
+    <date>
+      <day>27</day>
+      <month>2</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Travel</category>
+    <description>CASH Poland fine + highway toll</description>
+  </expense>
+  <expense>
+    <id>2659</id>
+    <amount>18.54</amount>
+    <date>
+      <day>27</day>
+      <month>2</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Travel</category>
+    <description>SHELL Diesel</description>
   </expense>
 </expenses>
