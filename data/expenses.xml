@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>2677</last_expense_id>
+  <last_expense_id>2679</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -29085,7 +29085,7 @@
       <month>11</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Presents</category>
     <description>ARKO sweets for Swantje</description>
   </expense>
@@ -29097,7 +29097,7 @@
       <month>11</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>ALNATURA</description>
   </expense>
@@ -29385,7 +29385,7 @@
       <month>11</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>EDEKA</description>
   </expense>
@@ -30201,7 +30201,7 @@
       <month>11</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Travel</category>
     <description>ARAL Diesel back from Berlin. Trip to Athens 11/2017</description>
   </expense>
@@ -31848,5 +31848,29 @@
     <withdrawn>Yes</withdrawn>
     <category>Other</category>
     <description>FONIC</description>
+  </expense>
+  <expense>
+    <id>2678</id>
+    <amount>29.95</amount>
+    <date>
+      <day>21</day>
+      <month>11</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Wilster</category>
+    <description>PAYPAL MANOMANO Heizluefter</description>
+  </expense>
+  <expense>
+    <id>2679</id>
+    <amount>284.95</amount>
+    <date>
+      <day>21</day>
+      <month>11</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Wilster</category>
+    <description>PAYPAL Luftentfeuchter</description>
   </expense>
 </expenses>
