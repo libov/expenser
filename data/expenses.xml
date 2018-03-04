@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>2665</last_expense_id>
+  <last_expense_id>2669</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -31704,5 +31704,53 @@
     <withdrawn>No</withdrawn>
     <category>Wilster regular</category>
     <description>Niederschlagswassergebuehr</description>
+  </expense>
+  <expense>
+    <id>2666</id>
+    <amount>200.00</amount>
+    <date>
+      <day>1</day>
+      <month>3</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Presents</category>
+    <description>CASH Mom</description>
+  </expense>
+  <expense>
+    <id>2667</id>
+    <amount>10.00</amount>
+    <date>
+      <day>1</day>
+      <month>3</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Wilster</category>
+    <description>UZHGOROD ADAMS stuff for fall protection</description>
+  </expense>
+  <expense>
+    <id>2668</id>
+    <amount>30.00</amount>
+    <date>
+      <day>1</day>
+      <month>3</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>UZHGOROD car repair</description>
+  </expense>
+  <expense>
+    <id>2669</id>
+    <amount>10.00</amount>
+    <date>
+      <day>1</day>
+      <month>3</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Cash</category>
+    <description>UZHGOROD various</description>
   </expense>
 </expenses>
