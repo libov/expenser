@@ -28929,7 +28929,7 @@
       <month>11</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>MARKTKAUF</description>
   </expense>
@@ -29145,7 +29145,7 @@
       <month>11</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>BFT Diesel</description>
   </expense>
@@ -29169,7 +29169,7 @@
       <month>11</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -29601,7 +29601,7 @@
       <month>11</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Flat</category>
     <description>KabelDeutschland Vodafone 11/2017</description>
   </expense>
@@ -29919,25 +29919,25 @@
   </expense>
   <expense>
     <id>2517</id>
-    <amount>26.96</amount>
+    <amount>16.97</amount>
     <date>
       <day>25</day>
       <month>11</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Wilster</category>
     <description>OBI part 1 --> various</description>
   </expense>
   <expense>
     <id>2518</id>
-    <amount>12.98</amount>
+    <amount>22.97</amount>
     <date>
       <day>25</day>
       <month>11</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Cash</category>
     <description>OBI part 2 --> retoure cash back</description>
   </expense>
@@ -30237,7 +30237,7 @@
       <month>11</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>HEM Diesel</description>
   </expense>
