@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>2669</last_expense_id>
+  <last_expense_id>2672</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -31752,5 +31752,41 @@
     <withdrawn>No</withdrawn>
     <category>Cash</category>
     <description>UZHGOROD various</description>
+  </expense>
+  <expense>
+    <id>2670</id>
+    <amount>5.35</amount>
+    <date>
+      <day>3</day>
+      <month>3</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>DM Hygienartikel</description>
+  </expense>
+  <expense>
+    <id>2671</id>
+    <amount>3.54</amount>
+    <date>
+      <day>3</day>
+      <month>3</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>EDEKA MARKTKAUF</description>
+  </expense>
+  <expense>
+    <id>2672</id>
+    <amount>2.23</amount>
+    <date>
+      <day>3</day>
+      <month>3</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
   </expense>
 </expenses>
