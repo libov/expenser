@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>2679</last_expense_id>
+  <last_expense_id>2681</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -31872,5 +31872,29 @@
     <withdrawn>Yes</withdrawn>
     <category>Wilster</category>
     <description>PAYPAL Luftentfeuchter</description>
+  </expense>
+  <expense>
+    <id>2680</id>
+    <amount>3.30</amount>
+    <date>
+      <day>5</day>
+      <month>3</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Business trip</category>
+    <description>DB HVV Einzelkarte</description>
+  </expense>
+  <expense>
+    <id>2681</id>
+    <amount>1.84</amount>
+    <date>
+      <day>5</day>
+      <month>3</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
   </expense>
 </expenses>
