@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>2705</last_expense_id>
+  <last_expense_id>2711</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -29541,7 +29541,7 @@
       <month>12</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>BFT Diesel</description>
   </expense>
@@ -29553,7 +29553,7 @@
       <month>12</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Presents</category>
     <description>FAMILA</description>
   </expense>
@@ -30537,7 +30537,7 @@
       <month>12</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Restaurant</category>
     <description>ESNIKI Athens</description>
   </expense>
@@ -32184,5 +32184,77 @@
     <withdrawn>No</withdrawn>
     <category>Car</category>
     <description>HEM Diesel</description>
+  </expense>
+  <expense>
+    <id>2706</id>
+    <amount>30.54</amount>
+    <date>
+      <day>12</day>
+      <month>12</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Travel</category>
+    <description>PAYPAL Flixbus Berlin</description>
+  </expense>
+  <expense>
+    <id>2707</id>
+    <amount>50.00</amount>
+    <date>
+      <day>12</day>
+      <month>12</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Presents</category>
+    <description>for Mom</description>
+  </expense>
+  <expense>
+    <id>2708</id>
+    <amount>50.00</amount>
+    <date>
+      <day>12</day>
+      <month>12</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Presents</category>
+    <description>for Mom</description>
+  </expense>
+  <expense>
+    <id>2709</id>
+    <amount>30.00</amount>
+    <date>
+      <day>12</day>
+      <month>12</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Cash</category>
+    <description>idk</description>
+  </expense>
+  <expense>
+    <id>2710</id>
+    <amount>70.00</amount>
+    <date>
+      <day>12</day>
+      <month>12</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Travel</category>
+    <description>cash for Greece</description>
+  </expense>
+  <expense>
+    <id>2711</id>
+    <amount>13.99</amount>
+    <date>
+      <day>12</day>
+      <month>12</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>No record</category>
+    <description>TOOM</description>
   </expense>
 </expenses>
