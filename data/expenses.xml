@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>2724</last_expense_id>
+  <last_expense_id>2730</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -29613,7 +29613,7 @@
       <month>12</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Flat</category>
     <description>KabelDeutschland Vodafone 12/2017</description>
   </expense>
@@ -30345,7 +30345,7 @@
       <month>12</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Presents</category>
     <description>TCHIBO Coffee Mum</description>
   </expense>
@@ -30441,7 +30441,7 @@
       <month>12</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -30801,7 +30801,7 @@
       <month>12</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Wilster</category>
     <description>TOOM Carpet, was 40.00 but 13.99 retoure</description>
   </expense>
@@ -30885,7 +30885,7 @@
       <month>12</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Presents</category>
     <description>TKMAXX stuff for Ungvar kids and Vika</description>
   </expense>
@@ -30933,7 +30933,7 @@
       <month>12</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Travel</category>
     <description>HEM Diesel Ungvar trip</description>
   </expense>
@@ -32412,5 +32412,77 @@
     <withdrawn>Yes</withdrawn>
     <category>Flat</category>
     <description>STADTWERKE 12/2017</description>
+  </expense>
+  <expense>
+    <id>2725</id>
+    <amount>0.70</amount>
+    <date>
+      <day>30</day>
+      <month>12</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>No record</category>
+    <description>ZINSABSCHLUSS</description>
+  </expense>
+  <expense>
+    <id>2726</id>
+    <amount>35.60</amount>
+    <date>
+      <day>29</day>
+      <month>12</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Travel</category>
+    <description>ORLEN Diesel trip Uzhgorod</description>
+  </expense>
+  <expense>
+    <id>2727</id>
+    <amount>173.47</amount>
+    <date>
+      <day>2</day>
+      <month>1</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Flat</category>
+    <description>WOHNGELD 01/2018</description>
+  </expense>
+  <expense>
+    <id>2728</id>
+    <amount>555.18</amount>
+    <date>
+      <day>2</day>
+      <month>1</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Car</category>
+    <description>HUK CHECK!!!</description>
+  </expense>
+  <expense>
+    <id>2729</id>
+    <amount>193.04</amount>
+    <date>
+      <day>30</day>
+      <month>12</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Wilster house purchase</category>
+    <description>SPARDA Kredit</description>
+  </expense>
+  <expense>
+    <id>2730</id>
+    <amount>200.00</amount>
+    <date>
+      <day>28</day>
+      <month>12</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>No record</category>
+    <description>probably cash for Ungvar trip. Around 100 for car parts</description>
   </expense>
 </expenses>
