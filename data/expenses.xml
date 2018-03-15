@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>2720</last_expense_id>
+  <last_expense_id>2721</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -32364,5 +32364,17 @@
     <withdrawn>Yes</withdrawn>
     <category>Travel</category>
     <description>Einzelkarte HVV - Trip to Greece return</description>
+  </expense>
+  <expense>
+    <id>2721</id>
+    <amount>101.51</amount>
+    <date>
+      <day>22</day>
+      <month>12</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Car</category>
+    <description>HUK - Mercedes - CHECK</description>
   </expense>
 </expenses>
