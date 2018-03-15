@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>2737</last_expense_id>
+  <last_expense_id>2739</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -32568,5 +32568,29 @@
     <withdrawn>Yes</withdrawn>
     <category>Restaurant</category>
     <description>DOMINO PIZZA Athens</description>
+  </expense>
+  <expense>
+    <id>2738</id>
+    <amount>8.00</amount>
+    <date>
+      <day>13</day>
+      <month>1</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Restaurant</category>
+    <description>BAKE ILIAS</description>
+  </expense>
+  <expense>
+    <id>2739</id>
+    <amount>10.00</amount>
+    <date>
+      <day>9</day>
+      <month>1</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Other</category>
+    <description>FONIC</description>
   </expense>
 </expenses>
