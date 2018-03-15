@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>2718</last_expense_id>
+  <last_expense_id>2720</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -29505,7 +29505,7 @@
       <month>12</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>NETTO</description>
   </expense>
@@ -29517,7 +29517,7 @@
       <month>12</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -30837,7 +30837,7 @@
       <month>12</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Presents</category>
     <description>PULL AND BEAR ATHENS sth for Artemis</description>
   </expense>
@@ -32340,5 +32340,29 @@
     <withdrawn>Yes</withdrawn>
     <category>Travel</category>
     <description>Einzelkarte - Greece trip</description>
+  </expense>
+  <expense>
+    <id>2719</id>
+    <amount>14.00</amount>
+    <date>
+      <day>16</day>
+      <month>12</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Restaurant</category>
+    <description>A FOR ATHENS rooftop</description>
+  </expense>
+  <expense>
+    <id>2720</id>
+    <amount>3.10</amount>
+    <date>
+      <day>18</day>
+      <month>12</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Travel</category>
+    <description>Einzelkarte HVV - Trip to Greece return</description>
   </expense>
 </expenses>
