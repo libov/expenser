@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>2721</last_expense_id>
+  <last_expense_id>2723</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -29853,7 +29853,7 @@
       <month>12</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Wilster</category>
     <description>OBI fuer Tapeten</description>
   </expense>
@@ -29865,7 +29865,7 @@
       <month>12</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>ALDI</description>
   </expense>
@@ -29901,7 +29901,7 @@
       <month>12</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Presents</category>
     <description>B and H Coat Polina</description>
   </expense>
@@ -29913,7 +29913,7 @@
       <month>12</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>FAMILA DIesel</description>
   </expense>
@@ -29997,7 +29997,7 @@
       <month>12</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>VERWARNUNGSGELD / BUSSGELD</description>
   </expense>
@@ -32376,5 +32376,29 @@
     <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>HUK - Mercedes - CHECK</description>
+  </expense>
+  <expense>
+    <id>2722</id>
+    <amount>13.49</amount>
+    <date>
+      <day>23</day>
+      <month>12</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Cash</category>
+    <description>return from OBI</description>
+  </expense>
+  <expense>
+    <id>2723</id>
+    <amount>66.14</amount>
+    <date>
+      <day>23</day>
+      <month>12</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Wilster</category>
+    <description>OBI Tapezieren etc.</description>
   </expense>
 </expenses>
