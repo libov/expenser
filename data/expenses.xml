@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>2723</last_expense_id>
+  <last_expense_id>2724</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -29457,7 +29457,7 @@
       <month>12</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Wilster</category>
     <description>PAYPAL eBAY Wasserkocher</description>
   </expense>
@@ -29841,7 +29841,7 @@
       <month>12</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Wilster</category>
     <description>OBI Lichtleiste</description>
   </expense>
@@ -29877,7 +29877,7 @@
       <month>12</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>STAR Diesel</description>
   </expense>
@@ -29889,7 +29889,7 @@
       <month>12</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Presents</category>
     <description>KIK Pyjama for Mom</description>
   </expense>
@@ -30861,7 +30861,7 @@
       <month>12</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Presents</category>
     <description>LIDL Sweets Uzhgorod</description>
   </expense>
@@ -32400,5 +32400,17 @@
     <withdrawn>Yes</withdrawn>
     <category>Wilster</category>
     <description>OBI Tapezieren etc.</description>
+  </expense>
+  <expense>
+    <id>2724</id>
+    <amount>118.00</amount>
+    <date>
+      <day>28</day>
+      <month>12</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Flat</category>
+    <description>STADTWERKE 12/2017</description>
   </expense>
 </expenses>
