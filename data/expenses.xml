@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>2711</last_expense_id>
+  <last_expense_id>2716</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -30849,7 +30849,7 @@
       <month>12</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Other</category>
     <description>GEORGIOS FARMAKEIO Condoms</description>
   </expense>
@@ -32256,5 +32256,65 @@
     <withdrawn>Yes</withdrawn>
     <category>No record</category>
     <description>TOOM</description>
+  </expense>
+  <expense>
+    <id>2712</id>
+    <amount>8.61</amount>
+    <date>
+      <day>14</day>
+      <month>12</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Food</category>
+    <description>ILISIA supermarket</description>
+  </expense>
+  <expense>
+    <id>2713</id>
+    <amount>6.26</amount>
+    <date>
+      <day>14</day>
+      <month>12</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Food</category>
+    <description>ILISIA supermarket</description>
+  </expense>
+  <expense>
+    <id>2714</id>
+    <amount>14.80</amount>
+    <date>
+      <day>16</day>
+      <month>12</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Restaurant</category>
+    <description>CAKE GLIFADA MIKE</description>
+  </expense>
+  <expense>
+    <id>2715</id>
+    <amount>10.00</amount>
+    <date>
+      <day>18</day>
+      <month>12</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Other</category>
+    <description>FONIC</description>
+  </expense>
+  <expense>
+    <id>2716</id>
+    <amount>9.95</amount>
+    <date>
+      <day>18</day>
+      <month>12</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Presents</category>
+    <description>FONIC mom</description>
   </expense>
 </expenses>
