@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>2716</last_expense_id>
+  <last_expense_id>2718</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -30225,7 +30225,7 @@
       <month>12</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>HEM Diesel</description>
   </expense>
@@ -30873,7 +30873,7 @@
       <month>12</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Presents</category>
     <description>PULL AND BEAR ATHENS for Artremis</description>
   </expense>
@@ -30909,7 +30909,7 @@
       <month>12</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>SKLAVENITIS ATHENS</description>
   </expense>
@@ -30921,7 +30921,7 @@
       <month>12</month>
       <year>2017</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Restaurant</category>
     <description>ZAHAROPLASTIO Chocolate soup</description>
   </expense>
@@ -32316,5 +32316,29 @@
     <withdrawn>Yes</withdrawn>
     <category>Presents</category>
     <description>FONIC mom</description>
+  </expense>
+  <expense>
+    <id>2717</id>
+    <amount>6.01</amount>
+    <date>
+      <day>12</day>
+      <month>12</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Transport HH</category>
+    <description>Tageskarte</description>
+  </expense>
+  <expense>
+    <id>2718</id>
+    <amount>3.10</amount>
+    <date>
+      <day>14</day>
+      <month>12</month>
+      <year>2017</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Travel</category>
+    <description>Einzelkarte - Greece trip</description>
   </expense>
 </expenses>
