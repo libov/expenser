@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>2739</last_expense_id>
+  <last_expense_id>2741</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -32592,5 +32592,29 @@
     <withdrawn>Yes</withdrawn>
     <category>Other</category>
     <description>FONIC</description>
+  </expense>
+  <expense>
+    <id>2740</id>
+    <amount>10.00</amount>
+    <date>
+      <day>16</day>
+      <month>1</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Other</category>
+    <description>Jahresgebuehr BankCard</description>
+  </expense>
+  <expense>
+    <id>2741</id>
+    <amount>1.70</amount>
+    <date>
+      <day>16</day>
+      <month>1</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Travel</category>
+    <description>Berlin metro ticket</description>
   </expense>
 </expenses>
