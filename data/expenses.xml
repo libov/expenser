@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>2753</last_expense_id>
+  <last_expense_id>2754</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -32760,5 +32760,17 @@
     <withdrawn>No</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>2754</id>
+    <amount>150.54</amount>
+    <date>
+      <day>21</day>
+      <month>3</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Presents</category>
+    <description>PAYPAL RYANAIR Artemaki London</description>
   </expense>
 </expenses>
