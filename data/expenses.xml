@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>2760</last_expense_id>
+  <last_expense_id>2762</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -32844,5 +32844,29 @@
     <withdrawn>No</withdrawn>
     <category>Presents</category>
     <description>EDEKA Magnets Vita/Bodya UK trip</description>
+  </expense>
+  <expense>
+    <id>2761</id>
+    <amount>8.19</amount>
+    <date>
+      <day>22</day>
+      <month>3</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>2762</id>
+    <amount>4.99</amount>
+    <date>
+      <day>20</day>
+      <month>3</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
   </expense>
 </expenses>
