@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>2758</last_expense_id>
+  <last_expense_id>2759</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -32814,6 +32814,18 @@
     <amount>1.84</amount>
     <date>
       <day>20</day>
+      <month>3</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>EDEKA MARKTKAUF</description>
+  </expense>
+  <expense>
+    <id>2759</id>
+    <amount>9.02</amount>
+    <date>
+      <day>22</day>
       <month>3</month>
       <year>2018</year>
     </date>
