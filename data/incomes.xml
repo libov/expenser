@@ -1,5 +1,13 @@
 <?xml version="1.0"?>
 <incomes>
+	<!--entry>
+        <amount>92.07</amount>
+        <date>
+            <month>03</month>
+            <year>2018</year>
+        </date>
+        <description>Car - back from HUK</description>
+    </entry-->
 	<entry>
         <amount>90</amount>
         <date>
