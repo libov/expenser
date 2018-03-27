@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>2755</last_expense_id>
+  <last_expense_id>2756</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -32784,5 +32784,17 @@
     <withdrawn>No</withdrawn>
     <category>Car</category>
     <description>ESSO Diesel</description>
+  </expense>
+  <expense>
+    <id>2756</id>
+    <amount>10.05</amount>
+    <date>
+      <day>24</day>
+      <month>3</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Presents</category>
+    <description>Stuff for Vita/Bodya UK trip</description>
   </expense>
 </expenses>
