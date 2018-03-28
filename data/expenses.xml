@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>2764</last_expense_id>
+  <last_expense_id>2765</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -32892,5 +32892,17 @@
     <withdrawn>No</withdrawn>
     <category>Wilster house purchase</category>
     <description>Provision</description>
+  </expense>
+  <expense>
+    <id>2765</id>
+    <amount>473.01</amount>
+    <date>
+      <day>28</day>
+      <month>3</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Business trip</category>
+    <description>OXFORD trip - fee, hotel, food</description>
   </expense>
 </expenses>
