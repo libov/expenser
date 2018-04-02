@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>2771</last_expense_id>
+  <last_expense_id>2774</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -31305,7 +31305,7 @@
       <month>2</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>EDEKA</description>
   </expense>
@@ -31377,7 +31377,7 @@
       <month>2</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>SHELL Diesel</description>
   </expense>
@@ -31401,7 +31401,7 @@
       <month>2</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Presents</category>
     <description>cash for Mom</description>
   </expense>
@@ -32976,5 +32976,41 @@
     <withdrawn>Yes</withdrawn>
     <category>Presents</category>
     <description>PULL and BEAR Artemaki</description>
+  </expense>
+  <expense>
+    <id>2772</id>
+    <amount>10.00</amount>
+    <date>
+      <day>9</day>
+      <month>2</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Presents</category>
+    <description>FONIC 4 Mom</description>
+  </expense>
+  <expense>
+    <id>2773</id>
+    <amount>35.63</amount>
+    <date>
+      <day>15</day>
+      <month>2</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Flat</category>
+    <description>GRUNDSTEUER B</description>
+  </expense>
+  <expense>
+    <id>2774</id>
+    <amount>2.99</amount>
+    <date>
+      <day>15</day>
+      <month>2</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Car</category>
+    <description>AUTOTEILE WITTHOEFT</description>
   </expense>
 </expenses>
