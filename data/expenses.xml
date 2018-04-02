@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>2777</last_expense_id>
+  <last_expense_id>2779</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -31293,7 +31293,7 @@
       <month>2</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Presents</category>
     <description>HOFFMANN Beer Artemis Parents</description>
   </expense>
@@ -31461,7 +31461,7 @@
       <month>2</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>FAMILA</description>
   </expense>
@@ -31473,7 +31473,7 @@
       <month>2</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Other</category>
     <description>HH AIRPORT Parking</description>
   </expense>
@@ -31485,7 +31485,7 @@
       <month>2</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>TANKCENTER Diesel</description>
   </expense>
@@ -31497,7 +31497,7 @@
       <month>2</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>SHEL Diesel</description>
   </expense>
@@ -31521,7 +31521,7 @@
       <month>2</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Wilster house purchase</category>
     <description>NOTARKOSTEN</description>
   </expense>
@@ -31533,7 +31533,7 @@
       <month>2</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Presents</category>
     <description>LIDL</description>
   </expense>
@@ -31665,7 +31665,7 @@
       <month>2</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Travel</category>
     <description>JULIA HOFER Diesel trip Uzhgorod</description>
   </expense>
@@ -31677,7 +31677,7 @@
       <month>2</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Presents</category>
     <description>ANDRONACO for Vika et al</description>
   </expense>
@@ -32505,7 +32505,7 @@
       <month>2</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>PENNY</description>
   </expense>
@@ -33048,5 +33048,29 @@
     <withdrawn>Yes</withdrawn>
     <category>Entertainment</category>
     <description>Basketball ticket</description>
+  </expense>
+  <expense>
+    <id>2778</id>
+    <amount>387.00</amount>
+    <date>
+      <day>19</day>
+      <month>2</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Business trip</category>
+    <description>PAYPAL UK Visa</description>
+  </expense>
+  <expense>
+    <id>2779</id>
+    <amount>19.99</amount>
+    <date>
+      <day>22</day>
+      <month>2</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Flat</category>
+    <description>VODAFONE 02/2018</description>
   </expense>
 </expenses>
