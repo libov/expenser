@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>2765</last_expense_id>
+  <last_expense_id>2768</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -30729,7 +30729,7 @@
       <month>1</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>JULIA HOFER Diesel</description>
   </expense>
@@ -30945,7 +30945,7 @@
       <month>1</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Wilster</category>
     <description>HORNBACH Teppichleiste and other stuff for Teppich</description>
   </expense>
@@ -30969,7 +30969,7 @@
       <month>1</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -30993,7 +30993,7 @@
       <month>1</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Wilster</category>
     <description>LIDL</description>
   </expense>
@@ -32904,5 +32904,41 @@
     <withdrawn>No</withdrawn>
     <category>Business trip</category>
     <description>OXFORD trip - fee, hotel, food</description>
+  </expense>
+  <expense>
+    <id>2766</id>
+    <amount>118.00</amount>
+    <date>
+      <day>29</day>
+      <month>1</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Flat</category>
+    <description>STADTWERKE 01/2018</description>
+  </expense>
+  <expense>
+    <id>2767</id>
+    <amount>193.04</amount>
+    <date>
+      <day>30</day>
+      <month>1</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Wilster house purchase</category>
+    <description>SPARDA Kredit</description>
+  </expense>
+  <expense>
+    <id>2768</id>
+    <amount>125.90</amount>
+    <date>
+      <day>2</day>
+      <month>4</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Music equipment</category>
+    <description>PAYPAL SSD SAMSUNG 500GB</description>
   </expense>
 </expenses>
