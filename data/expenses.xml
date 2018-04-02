@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>2774</last_expense_id>
+  <last_expense_id>2777</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -31329,7 +31329,7 @@
       <month>2</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Presents</category>
     <description>EDEKA sweets Artemis</description>
   </expense>
@@ -31389,7 +31389,7 @@
       <month>2</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Cash</category>
     <description>for FOOD</description>
   </expense>
@@ -31449,7 +31449,7 @@
       <month>2</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Wilster house purchase</category>
     <description>Eintragung Grundbuch</description>
   </expense>
@@ -33012,5 +33012,41 @@
     <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>AUTOTEILE WITTHOEFT</description>
+  </expense>
+  <expense>
+    <id>2775</id>
+    <amount>331.00</amount>
+    <date>
+      <day>17</day>
+      <month>2</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Wilster regular</category>
+    <description>STADTWERKE 01/2018 02/2018</description>
+  </expense>
+  <expense>
+    <id>2776</id>
+    <amount>6.43</amount>
+    <date>
+      <day>17</day>
+      <month>2</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Other</category>
+    <description>Finanzamt tax</description>
+  </expense>
+  <expense>
+    <id>2777</id>
+    <amount>16.00</amount>
+    <date>
+      <day>18</day>
+      <month>2</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Entertainment</category>
+    <description>Basketball ticket</description>
   </expense>
 </expenses>
