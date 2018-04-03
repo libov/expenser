@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>2782</last_expense_id>
+  <last_expense_id>2786</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -31611,13 +31611,13 @@
   </expense>
   <expense>
     <id>2658</id>
-    <amount>23.81</amount>
+    <amount>29.81</amount>
     <date>
       <day>27</day>
       <month>2</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Travel</category>
     <description>CASH Poland fine + highway toll</description>
   </expense>
@@ -31629,7 +31629,7 @@
       <month>2</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Travel</category>
     <description>SHELL Diesel</description>
   </expense>
@@ -33108,5 +33108,53 @@
     <withdrawn>No</withdrawn>
     <category>Business trip</category>
     <description>DB Einzelkarte Airport to PI UK trip back</description>
+  </expense>
+  <expense>
+    <id>2783</id>
+    <amount>7.23</amount>
+    <date>
+      <day>3</day>
+      <month>4</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>2784</id>
+    <amount>78.46</amount>
+    <date>
+      <day>3</day>
+      <month>4</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Business trip</category>
+    <description>Canada Visa Passport transmission fee</description>
+  </expense>
+  <expense>
+    <id>2785</id>
+    <amount>45.11</amount>
+    <date>
+      <day>25</day>
+      <month>2</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Travel</category>
+    <description>BRSM Diesel Uzhgorod trip 02/2018</description>
+  </expense>
+  <expense>
+    <id>2786</id>
+    <amount>193.04</amount>
+    <date>
+      <day>28</day>
+      <month>2</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Wilster house purchase</category>
+    <description>SPARDA Kredit</description>
   </expense>
 </expenses>
