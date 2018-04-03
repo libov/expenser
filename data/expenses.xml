@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>2786</last_expense_id>
+  <last_expense_id>2787</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -31557,7 +31557,7 @@
       <month>2</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Other</category>
     <description>RA HOLLWECK Movie bullshit</description>
   </expense>
@@ -31569,7 +31569,7 @@
       <month>2</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>VERWARNUNGSGELD BUSSGELD</description>
   </expense>
@@ -31653,7 +31653,7 @@
       <month>2</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>TESCO</description>
   </expense>
@@ -31689,7 +31689,7 @@
       <month>2</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>KATTNERS Diesel</description>
   </expense>
@@ -33156,5 +33156,17 @@
     <withdrawn>Yes</withdrawn>
     <category>Wilster house purchase</category>
     <description>SPARDA Kredit</description>
+  </expense>
+  <expense>
+    <id>2787</id>
+    <amount>173.47</amount>
+    <date>
+      <day>1</day>
+      <month>3</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Flat</category>
+    <description>WOHNHELD 03/2018</description>
   </expense>
 </expenses>
