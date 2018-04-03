@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>2787</last_expense_id>
+  <last_expense_id>2788</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -31701,7 +31701,7 @@
       <month>3</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Wilster regular</category>
     <description>Niederschlagswassergebuehr</description>
   </expense>
@@ -31713,7 +31713,7 @@
       <month>3</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Presents</category>
     <description>CASH Mom</description>
   </expense>
@@ -31725,7 +31725,7 @@
       <month>3</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Wilster</category>
     <description>UZHGOROD ADAMS stuff for fall protection</description>
   </expense>
@@ -31737,7 +31737,7 @@
       <month>3</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>UZHGOROD car repair</description>
   </expense>
@@ -31749,7 +31749,7 @@
       <month>3</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Cash</category>
     <description>UZHGOROD various</description>
   </expense>
@@ -33168,5 +33168,17 @@
     <withdrawn>Yes</withdrawn>
     <category>Flat</category>
     <description>WOHNHELD 03/2018</description>
+  </expense>
+  <expense>
+    <id>2788</id>
+    <amount>20.00</amount>
+    <date>
+      <day>1</day>
+      <month>3</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Cash</category>
+    <description>for FOOD</description>
   </expense>
 </expenses>
