@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>2791</last_expense_id>
+  <last_expense_id>2793</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -32169,7 +32169,7 @@
       <month>3</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>DM Vitamines</description>
   </expense>
@@ -32493,7 +32493,7 @@
       <month>3</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -32721,7 +32721,7 @@
       <month>3</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>EDEKA</description>
   </expense>
@@ -32745,7 +32745,7 @@
       <month>3</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Other</category>
     <description>Orthoclinic Hamburg</description>
   </expense>
@@ -33216,5 +33216,29 @@
     <withdrawn>Yes</withdrawn>
     <category>Presents</category>
     <description>FONIC for Mom</description>
+  </expense>
+  <expense>
+    <id>2792</id>
+    <amount>30.39</amount>
+    <date>
+      <day>15</day>
+      <month>3</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Wilster regular</category>
+    <description>MUELL 1/4</description>
+  </expense>
+  <expense>
+    <id>2793</id>
+    <amount>28.00</amount>
+    <date>
+      <day>3</day>
+      <month>4</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Wilster house purchase</category>
+    <description>Provisoin part 2</description>
   </expense>
 </expenses>
