@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>2807</last_expense_id>
+  <last_expense_id>2819</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -33408,5 +33408,149 @@
     <withdrawn>Yes</withdrawn>
     <category>Flat</category>
     <description>KABELDEUTSCHLAND 03/2018</description>
+  </expense>
+  <expense>
+    <id>2808</id>
+    <amount>1.40</amount>
+    <date>
+      <day>30</day>
+      <month>3</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Other</category>
+    <description>SPARDA</description>
+  </expense>
+  <expense>
+    <id>2809</id>
+    <amount>17.76</amount>
+    <date>
+      <day>31</day>
+      <month>3</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Food</category>
+    <description>TESCO</description>
+  </expense>
+  <expense>
+    <id>2810</id>
+    <amount>9.56</amount>
+    <date>
+      <day>31</day>
+      <month>3</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Food</category>
+    <description>GOURMET GOAT London Borough market</description>
+  </expense>
+  <expense>
+    <id>2811</id>
+    <amount>10.06</amount>
+    <date>
+      <day>31</day>
+      <month>3</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Presents</category>
+    <description>presents for kids</description>
+  </expense>
+  <expense>
+    <id>2812</id>
+    <amount>4.18</amount>
+    <date>
+      <day>31</day>
+      <month>3</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Restaurant</category>
+    <description>PRET A MANGER cafe London</description>
+  </expense>
+  <expense>
+    <id>2813</id>
+    <amount>3.27</amount>
+    <date>
+      <day>31</day>
+      <month>3</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>No record</category>
+    <description>PRET A MANGER coffee Trafalgar Square - receipt not found</description>
+  </expense>
+  <expense>
+    <id>2814</id>
+    <amount>5.11</amount>
+    <date>
+      <day>31</day>
+      <month>3</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Category unknown</category>
+    <description>Elavon 7 till 11 London</description>
+  </expense>
+  <expense>
+    <id>2815</id>
+    <amount>7.28</amount>
+    <date>
+      <day>31</day>
+      <month>3</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>No record</category>
+    <description>Dark Sugars Chocolates London Cacao - no receipt</description>
+  </expense>
+  <expense>
+    <id>2816</id>
+    <amount>29.64</amount>
+    <date>
+      <day>30</day>
+      <month>3</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Restaurant</category>
+    <description>THE FINSBURY LONDON Pub</description>
+  </expense>
+  <expense>
+    <id>2817</id>
+    <amount>18.16</amount>
+    <date>
+      <day>29</day>
+      <month>3</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Presents</category>
+    <description>TOTTENHAM HALE Oyster for Artemaki</description>
+  </expense>
+  <expense>
+    <id>2818</id>
+    <amount>18.66</amount>
+    <date>
+      <day>29</day>
+      <month>3</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Travel</category>
+    <description>HEATHROW Oyster card excl. refund</description>
+  </expense>
+  <expense>
+    <id>2819</id>
+    <amount>12.19</amount>
+    <date>
+      <day>29</day>
+      <month>3</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Food</category>
+    <description>TESCO London</description>
   </expense>
 </expenses>
