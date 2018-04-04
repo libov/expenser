@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>2795</last_expense_id>
+  <last_expense_id>2798</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -33264,5 +33264,41 @@
     <withdrawn>No</withdrawn>
     <category>Car</category>
     <description>TANKCENTER PI Diesel</description>
+  </expense>
+  <expense>
+    <id>2796</id>
+    <amount>35.81</amount>
+    <date>
+      <day>24</day>
+      <month>3</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Business trip</category>
+    <description>PAYPAL Oxford bus UK trip</description>
+  </expense>
+  <expense>
+    <id>2797</id>
+    <amount>75.00</amount>
+    <date>
+      <day>4</day>
+      <month>4</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Piano lessons</category>
+    <description>3x (part 1 of 80eur)</description>
+  </expense>
+  <expense>
+    <id>2798</id>
+    <amount>5.00</amount>
+    <date>
+      <day>4</day>
+      <month>4</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Cash</category>
+    <description>for FOOD (part 2 of 80eur)</description>
   </expense>
 </expenses>
