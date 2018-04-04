@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>2793</last_expense_id>
+  <last_expense_id>2795</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -33240,5 +33240,29 @@
     <withdrawn>No</withdrawn>
     <category>Wilster house purchase</category>
     <description>Provisoin part 2</description>
+  </expense>
+  <expense>
+    <id>2794</id>
+    <amount>20.00</amount>
+    <date>
+      <day>4</day>
+      <month>4</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Cash</category>
+    <description>for FOOD</description>
+  </expense>
+  <expense>
+    <id>2795</id>
+    <amount>10.00</amount>
+    <date>
+      <day>4</day>
+      <month>4</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>TANKCENTER PI Diesel</description>
   </expense>
 </expenses>
