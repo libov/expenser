@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>2798</last_expense_id>
+  <last_expense_id>2800</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -32145,7 +32145,7 @@
       <month>3</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Business trip</category>
     <description>PAYPAL flight UK</description>
   </expense>
@@ -32367,7 +32367,7 @@
   </expense>
   <expense>
     <id>2721</id>
-    <amount>101.51</amount>
+    <amount>9.44</amount>
     <date>
       <day>22</day>
       <month>12</month>
@@ -32375,7 +32375,7 @@
     </date>
     <withdrawn>Yes</withdrawn>
     <category>Car</category>
-    <description>HUK - Mercedes - CHECK</description>
+    <description>HUK - Mercedes 2017</description>
   </expense>
   <expense>
     <id>2722</id>
@@ -32733,7 +32733,7 @@
       <month>3</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>NETTO</description>
   </expense>
@@ -32757,7 +32757,7 @@
       <month>3</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -32817,7 +32817,7 @@
       <month>3</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>EDEKA MARKTKAUF</description>
   </expense>
@@ -32829,7 +32829,7 @@
       <month>3</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>EDEKA MARKTKAUF</description>
   </expense>
@@ -32853,7 +32853,7 @@
       <month>3</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -32865,7 +32865,7 @@
       <month>3</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -33300,5 +33300,29 @@
     <withdrawn>No</withdrawn>
     <category>Cash</category>
     <description>for FOOD (part 2 of 80eur)</description>
+  </expense>
+  <expense>
+    <id>2799</id>
+    <amount>10.00</amount>
+    <date>
+      <day>4</day>
+      <month>4</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Other</category>
+    <description>FONIC</description>
+  </expense>
+  <expense>
+    <id>2800</id>
+    <amount>40.00</amount>
+    <date>
+      <day>22</day>
+      <month>3</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Cash</category>
+    <description>for FOOD</description>
   </expense>
 </expenses>
