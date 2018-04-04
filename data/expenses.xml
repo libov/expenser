@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>2800</last_expense_id>
+  <last_expense_id>2801</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -32769,7 +32769,7 @@
       <month>3</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Presents</category>
     <description>PAYPAL RYANAIR Artemaki London</description>
   </expense>
@@ -32781,7 +32781,7 @@
       <month>3</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>ESSO Diesel</description>
   </expense>
@@ -32841,7 +32841,7 @@
       <month>3</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Presents</category>
     <description>EDEKA Magnets Vita/Bodya UK trip</description>
   </expense>
@@ -33324,5 +33324,17 @@
     <withdrawn>Yes</withdrawn>
     <category>Cash</category>
     <description>for FOOD</description>
+  </expense>
+  <expense>
+    <id>2801</id>
+    <amount>6.86</amount>
+    <date>
+      <day>25</day>
+      <month>3</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Travel</category>
+    <description>GLOBE NEWSMARKET Adapter</description>
   </expense>
 </expenses>
