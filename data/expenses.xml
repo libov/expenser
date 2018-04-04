@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>2801</last_expense_id>
+  <last_expense_id>2807</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -32793,7 +32793,7 @@
       <month>3</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Presents</category>
     <description>Stuff for Vita/Bodya UK trip</description>
   </expense>
@@ -32805,7 +32805,7 @@
       <month>3</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>JET Diesel</description>
   </expense>
@@ -32877,7 +32877,7 @@
       <month>3</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Business trip</category>
     <description>HVV Ticket S-Bahn to Airport UK trip</description>
   </expense>
@@ -32889,7 +32889,7 @@
       <month>3</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Wilster house purchase</category>
     <description>Provision</description>
   </expense>
@@ -32901,7 +32901,7 @@
       <month>3</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Business trip</category>
     <description>OXFORD trip - fee, hotel, food</description>
   </expense>
@@ -33273,7 +33273,7 @@
       <month>3</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Business trip</category>
     <description>PAYPAL Oxford bus UK trip</description>
   </expense>
@@ -33336,5 +33336,77 @@
     <withdrawn>Yes</withdrawn>
     <category>Travel</category>
     <description>GLOBE NEWSMARKET Adapter</description>
+  </expense>
+  <expense>
+    <id>2802</id>
+    <amount>14.94</amount>
+    <date>
+      <day>25</day>
+      <month>3</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Restaurant</category>
+    <description>TURF TAVERN Oxford beers</description>
+  </expense>
+  <expense>
+    <id>2803</id>
+    <amount>10.29</amount>
+    <date>
+      <day>25</day>
+      <month>3</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Restaurant</category>
+    <description>TURF TAVERN Oxford beers</description>
+  </expense>
+  <expense>
+    <id>2804</id>
+    <amount>11.89</amount>
+    <date>
+      <day>25</day>
+      <month>3</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>No record</category>
+    <description>OXFORD WIG and PEN probably the  restaurant with Pukhov and Jens - can't find the receipt</description>
+  </expense>
+  <expense>
+    <id>2805</id>
+    <amount>118.00</amount>
+    <date>
+      <day>28</day>
+      <month>3</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Flat</category>
+    <description>STADTWERKE 03/2018</description>
+  </expense>
+  <expense>
+    <id>2806</id>
+    <amount>193.04</amount>
+    <date>
+      <day>30</day>
+      <month>3</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Wilster house purchase</category>
+    <description>SPARDA Kredit</description>
+  </expense>
+  <expense>
+    <id>2807</id>
+    <amount>20.66</amount>
+    <date>
+      <day>29</day>
+      <month>3</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Flat</category>
+    <description>KABELDEUTSCHLAND 03/2018</description>
   </expense>
 </expenses>
