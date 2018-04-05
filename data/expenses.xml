@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>2819</last_expense_id>
+  <last_expense_id>2822</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -33552,5 +33552,41 @@
     <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>TESCO London</description>
+  </expense>
+  <expense>
+    <id>2820</id>
+    <amount>9.03</amount>
+    <date>
+      <day>30</day>
+      <month>3</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Clothes</category>
+    <description>H and M socks</description>
+  </expense>
+  <expense>
+    <id>2821</id>
+    <amount>19.23</amount>
+    <date>
+      <day>30</day>
+      <month>3</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Restaurant</category>
+    <description>SHAKESPEARE full english breakfast 2x</description>
+  </expense>
+  <expense>
+    <id>2822</id>
+    <amount>7.96</amount>
+    <date>
+      <day>30</day>
+      <month>3</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Restaurant</category>
+    <description>SHAKESPEARE coffee 2x</description>
   </expense>
 </expenses>
