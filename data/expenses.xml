@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>2822</last_expense_id>
+  <last_expense_id>2828</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -33105,7 +33105,7 @@
       <month>4</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Business trip</category>
     <description>DB Einzelkarte Airport to PI UK trip back</description>
   </expense>
@@ -33588,5 +33588,77 @@
     <withdrawn>Yes</withdrawn>
     <category>Restaurant</category>
     <description>SHAKESPEARE coffee 2x</description>
+  </expense>
+  <expense>
+    <id>2823</id>
+    <amount>12.41</amount>
+    <date>
+      <day>30</day>
+      <month>3</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Travel</category>
+    <description>London Ticket machine Oyster top-up</description>
+  </expense>
+  <expense>
+    <id>2824</id>
+    <amount>3.17</amount>
+    <date>
+      <day>30</day>
+      <month>3</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Food</category>
+    <description>British Museum Water</description>
+  </expense>
+  <expense>
+    <id>2825</id>
+    <amount>2.47</amount>
+    <date>
+      <day>30</day>
+      <month>3</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Presents</category>
+    <description>Brixton Munchies for Muncha</description>
+  </expense>
+  <expense>
+    <id>2826</id>
+    <amount>8.13</amount>
+    <date>
+      <day>30</day>
+      <month>3</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Presents</category>
+    <description>SAINSBURY'S Twining Artemaki etc.</description>
+  </expense>
+  <expense>
+    <id>2827</id>
+    <amount>2.13</amount>
+    <date>
+      <day>1</day>
+      <month>4</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Food</category>
+    <description>PRET A MANGER Coffee</description>
+  </expense>
+  <expense>
+    <id>2828</id>
+    <amount>6.70</amount>
+    <date>
+      <day>1</day>
+      <month>4</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Travel</category>
+    <description>London ticket machine Oyster top-up</description>
   </expense>
 </expenses>
