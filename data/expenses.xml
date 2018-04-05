@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>2828</last_expense_id>
+  <last_expense_id>2830</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -33660,5 +33660,29 @@
     <withdrawn>Yes</withdrawn>
     <category>Travel</category>
     <description>London ticket machine Oyster top-up</description>
+  </expense>
+  <expense>
+    <id>2829</id>
+    <amount>173.47</amount>
+    <date>
+      <day>3</day>
+      <month>4</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Flat</category>
+    <description>WOHNGELD 04/2018</description>
+  </expense>
+  <expense>
+    <id>2830</id>
+    <amount>165.00</amount>
+    <date>
+      <day>3</day>
+      <month>4</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Wilster regular</category>
+    <description>STADTWERKE 03/2018</description>
   </expense>
 </expenses>
