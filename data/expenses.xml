@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>2845</last_expense_id>
+  <last_expense_id>2846</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -33864,5 +33864,17 @@
     <withdrawn>No</withdrawn>
     <category>Music equipment</category>
     <description>PAYPAL Mediamarkt USB stick</description>
+  </expense>
+  <expense>
+    <id>2846</id>
+    <amount>0.19</amount>
+    <date>
+      <day>9</day>
+      <month>4</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Other</category>
+    <description>PAYPAL payback bluetooth speaker Zuzahlung</description>
   </expense>
 </expenses>
