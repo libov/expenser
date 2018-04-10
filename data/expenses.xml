@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>2841</last_expense_id>
+  <last_expense_id>2844</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -32937,7 +32937,7 @@
       <month>4</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Music equipment</category>
     <description>PAYPAL SSD SAMSUNG 500GB</description>
   </expense>
@@ -33117,7 +33117,7 @@
       <month>4</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -33129,7 +33129,7 @@
       <month>4</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Business trip</category>
     <description>Canada Visa Passport transmission fee</description>
   </expense>
@@ -33201,7 +33201,7 @@
       <month>4</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Other</category>
     <description>Attestat Uebersetzung</description>
   </expense>
@@ -33237,7 +33237,7 @@
       <month>4</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Wilster house purchase</category>
     <description>Provisoin part 2</description>
   </expense>
@@ -33249,7 +33249,7 @@
       <month>4</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Cash</category>
     <description>for FOOD</description>
   </expense>
@@ -33261,7 +33261,7 @@
       <month>4</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>TANKCENTER PI Diesel</description>
   </expense>
@@ -33285,7 +33285,7 @@
       <month>4</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Piano lessons</category>
     <description>3x (part 1 of 80eur)</description>
   </expense>
@@ -33297,7 +33297,7 @@
       <month>4</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Cash</category>
     <description>for FOOD (part 2 of 80eur)</description>
   </expense>
@@ -33705,7 +33705,7 @@
       <month>4</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Wilster</category>
     <description>HAUPTHOFF Pappstifte</description>
   </expense>
@@ -33717,7 +33717,7 @@
       <month>4</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -33729,7 +33729,7 @@
       <month>4</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -33741,7 +33741,7 @@
       <month>4</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>EDEKA MARKTKAUF</description>
   </expense>
@@ -33753,7 +33753,7 @@
       <month>4</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>JULIA HOFER Diesel</description>
   </expense>
@@ -33777,7 +33777,7 @@
       <month>4</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>EDEKA</description>
   </expense>
@@ -33816,5 +33816,41 @@
     <withdrawn>No</withdrawn>
     <category>Wilster</category>
     <description>PAYPAL Blech nach mass</description>
+  </expense>
+  <expense>
+    <id>2842</id>
+    <amount>110.58</amount>
+    <date>
+      <day>7</day>
+      <month>4</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Wilster house purchase</category>
+    <description>NOTAR part 2</description>
+  </expense>
+  <expense>
+    <id>2843</id>
+    <amount>2.21</amount>
+    <date>
+      <day>9</day>
+      <month>4</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>2844</id>
+    <amount>9.54</amount>
+    <date>
+      <day>9</day>
+      <month>4</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
   </expense>
 </expenses>
