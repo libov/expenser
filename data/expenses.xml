@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>2846</last_expense_id>
+  <last_expense_id>2853</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -33802,8 +33802,8 @@
       <year>2018</year>
     </date>
     <withdrawn>No</withdrawn>
-    <category>Wilster</category>
-    <description>OBI glasses</description>
+    <category>Cash</category>
+    <description>for FOOD - return from OBI (glasses)</description>
   </expense>
   <expense>
     <id>2841</id>
@@ -33876,5 +33876,89 @@
     <withdrawn>No</withdrawn>
     <category>Other</category>
     <description>PAYPAL payback bluetooth speaker Zuzahlung</description>
+  </expense>
+  <expense>
+    <id>2847</id>
+    <amount>10.00</amount>
+    <date>
+      <day>13</day>
+      <month>4</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Other</category>
+    <description>FONIC</description>
+  </expense>
+  <expense>
+    <id>2848</id>
+    <amount>10.00</amount>
+    <date>
+      <day>11</day>
+      <month>4</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>TANKCENTER JULIA Diesel</description>
+  </expense>
+  <expense>
+    <id>2849</id>
+    <amount>2.61</amount>
+    <date>
+      <day>10</day>
+      <month>4</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>EDEKA Marktkauf</description>
+  </expense>
+  <expense>
+    <id>2850</id>
+    <amount>10.97</amount>
+    <date>
+      <day>11</day>
+      <month>4</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>2851</id>
+    <amount>5.57</amount>
+    <date>
+      <day>12</day>
+      <month>4</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>NETTO</description>
+  </expense>
+  <expense>
+    <id>2852</id>
+    <amount>15.00</amount>
+    <date>
+      <day>13</day>
+      <month>4</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>STAR Diesel</description>
+  </expense>
+  <expense>
+    <id>2853</id>
+    <amount>18.48</amount>
+    <date>
+      <day>13</day>
+      <month>4</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Wilster</category>
+    <description>OBI Schutzbrille + Stichsaegeblaetter</description>
   </expense>
 </expenses>
