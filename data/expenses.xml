@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>2857</last_expense_id>
+  <last_expense_id>2863</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -34008,5 +34008,77 @@
     <withdrawn>No</withdrawn>
     <category>Wilster</category>
     <description>HAUPTHOFF part 2</description>
+  </expense>
+  <expense>
+    <id>2858</id>
+    <amount>11.72</amount>
+    <date>
+      <day>17</day>
+      <month>4</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>2859</id>
+    <amount>4.63</amount>
+    <date>
+      <day>26</day>
+      <month>4</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>2860</id>
+    <amount>3.78</amount>
+    <date>
+      <day>25</day>
+      <month>4</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>2861</id>
+    <amount>16.99</amount>
+    <date>
+      <day>14</day>
+      <month>4</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Presents</category>
+    <description>MARKTKAUF part1 Pulver</description>
+  </expense>
+  <expense>
+    <id>2862</id>
+    <amount>2.39</amount>
+    <date>
+      <day>14</day>
+      <month>4</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>MARKTKAUF part2</description>
+  </expense>
+  <expense>
+    <id>2863</id>
+    <amount>12.16</amount>
+    <date>
+      <day>21</day>
+      <month>4</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>NETTO</description>
   </expense>
 </expenses>
