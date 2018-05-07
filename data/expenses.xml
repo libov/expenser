@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>2866</last_expense_id>
+  <last_expense_id>2868</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -34116,5 +34116,29 @@
     <withdrawn>No</withdrawn>
     <category>Car</category>
     <description>WITTHOEFT Motoroel etc</description>
+  </expense>
+  <expense>
+    <id>2867</id>
+    <amount>3.30</amount>
+    <date>
+      <day>5</day>
+      <month>5</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Business trip</category>
+    <description>HVV ticket, Canada trip</description>
+  </expense>
+  <expense>
+    <id>2868</id>
+    <amount>14.77</amount>
+    <date>
+      <day>5</day>
+      <month>5</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
   </expense>
 </expenses>
