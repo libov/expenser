@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>2884</last_expense_id>
+  <last_expense_id>2885</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -34332,5 +34332,17 @@
     <withdrawn>Yes</withdrawn>
     <category>Business trip</category>
     <description>PAYPAL AIRBNB Canada trip</description>
+  </expense>
+  <expense>
+    <id>2885</id>
+    <amount>88.96</amount>
+    <date>
+      <day>8</day>
+      <month>5</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>AMAZON Lampen OSRAM</description>
   </expense>
 </expenses>
