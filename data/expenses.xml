@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>2882</last_expense_id>
+  <last_expense_id>2883</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -33693,7 +33693,7 @@
       <month>4</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Presents</category>
     <description>FONIC mom automatic ....</description>
   </expense>
@@ -33969,7 +33969,7 @@
       <month>4</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Other</category>
     <description>DM Contact lens liquid</description>
   </expense>
@@ -34053,7 +34053,7 @@
       <month>4</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Presents</category>
     <description>MARKTKAUF part1 Pulver</description>
   </expense>
@@ -34065,7 +34065,7 @@
       <month>4</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>MARKTKAUF part2</description>
   </expense>
@@ -34308,5 +34308,17 @@
     <withdrawn>No</withdrawn>
     <category>Business trip</category>
     <description>part3 of 300 - Canada trip cash</description>
+  </expense>
+  <expense>
+    <id>2883</id>
+    <amount>873.32</amount>
+    <date>
+      <day>12</day>
+      <month>4</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Business trip</category>
+    <description>Flights Canada</description>
   </expense>
 </expenses>
