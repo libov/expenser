@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>2870</last_expense_id>
+  <last_expense_id>2872</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -34164,5 +34164,29 @@
     <withdrawn>No</withdrawn>
     <category>Business trip</category>
     <description>HVV ticket, Canada trip</description>
+  </expense>
+  <expense>
+    <id>2871</id>
+    <amount>4.25</amount>
+    <date>
+      <day>7</day>
+      <month>5</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>2872</id>
+    <amount>2.23</amount>
+    <date>
+      <day>8</day>
+      <month>5</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>MARKTKAUF </description>
   </expense>
 </expenses>
