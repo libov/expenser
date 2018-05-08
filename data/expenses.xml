@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>2872</last_expense_id>
+  <last_expense_id>2877</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -34188,5 +34188,65 @@
     <withdrawn>No</withdrawn>
     <category>Food</category>
     <description>MARKTKAUF </description>
+  </expense>
+  <expense>
+    <id>2873</id>
+    <amount>20.01</amount>
+    <date>
+      <day>18</day>
+      <month>4</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>KATTNERS Diesel</description>
+  </expense>
+  <expense>
+    <id>2874</id>
+    <amount>10.50</amount>
+    <date>
+      <day>21</day>
+      <month>4</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Wilster</category>
+    <description>HAUPTHOFF Spenglerschrauben</description>
+  </expense>
+  <expense>
+    <id>2875</id>
+    <amount>15.33</amount>
+    <date>
+      <day>21</day>
+      <month>4</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Wilster</category>
+    <description>OBI Stichsaegeblaetter</description>
+  </expense>
+  <expense>
+    <id>2876</id>
+    <amount>99.99</amount>
+    <date>
+      <day>20</day>
+      <month>4</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Wilster</category>
+    <description>OBI Stichsaege</description>
+  </expense>
+  <expense>
+    <id>2877</id>
+    <amount>6.35</amount>
+    <date>
+      <day>21</day>
+      <month>4</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Wilster</category>
+    <description>HAUPTHOFF Silicon</description>
   </expense>
 </expenses>
