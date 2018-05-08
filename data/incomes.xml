@@ -1,6 +1,14 @@
 <?xml version="1.0"?>
 <incomes>
 	<entry>
+        <amount>300</amount>
+        <date>
+            <month>4</month>
+            <year>2018</year>
+        </date>
+        <description>Lend back Lisa</description>
+	</entry>
+	<entry>
         <amount>2745.99</amount>
         <date>
             <month>3</month>
