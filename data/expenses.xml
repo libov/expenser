@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>2896</last_expense_id>
+  <last_expense_id>2899</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -34476,5 +34476,41 @@
     <withdrawn>No</withdrawn>
     <category>Wilster</category>
     <description>PAYPAL RAKUTEN Bosch GSA 1100 E</description>
+  </expense>
+  <expense>
+    <id>2897</id>
+    <amount>14.07</amount>
+    <date>
+      <day>17</day>
+      <month>5</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>2898</id>
+    <amount>25.00</amount>
+    <date>
+      <day>17</day>
+      <month>5</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Piano lessons</category>
+    <description>1x, part 1 of 30</description>
+  </expense>
+  <expense>
+    <id>2899</id>
+    <amount>5.00</amount>
+    <date>
+      <day>17</day>
+      <month>5</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Cash</category>
+    <description>for FOOD, part 2 of 30</description>
   </expense>
 </expenses>
