@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>2899</last_expense_id>
+  <last_expense_id>2900</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -34512,5 +34512,17 @@
     <withdrawn>No</withdrawn>
     <category>Cash</category>
     <description>for FOOD, part 2 of 30</description>
+  </expense>
+  <expense>
+    <id>2900</id>
+    <amount>7.47</amount>
+    <date>
+      <day>19</day>
+      <month>5</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>NETTO</description>
   </expense>
 </expenses>
