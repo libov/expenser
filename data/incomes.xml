@@ -1,6 +1,22 @@
 <?xml version="1.0"?>
 <incomes>
 	<entry>
+        <amount>1169.40</amount>
+        <date>
+            <month>4</month>
+            <year>2018</year>
+        </date>
+        <description>Business trip reimbursement: OXFORD 2018</description>
+	</entry>
+	<entry>
+        <amount>1425.93</amount>
+        <date>
+            <month>4</month>
+            <year>2018</year>
+        </date>
+        <description>Business trip reimbursement: ELBA 2017 + BERLIN 2018</description>
+	</entry>
+	<entry>
         <amount>300</amount>
         <date>
             <month>4</month>
