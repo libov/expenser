@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>2915</last_expense_id>
+  <last_expense_id>2916</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -34704,5 +34704,17 @@
     <withdrawn>Yes</withdrawn>
     <category>No record</category>
     <description>OBI</description>
+  </expense>
+  <expense>
+    <id>2916</id>
+    <amount>1.70</amount>
+    <date>
+      <day>22</day>
+      <month>5</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Travel</category>
+    <description>VBB Berlin S-Bahn ticket</description>
   </expense>
 </expenses>
