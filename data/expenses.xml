@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>2913</last_expense_id>
+  <last_expense_id>2914</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -34680,5 +34680,17 @@
     <withdrawn>No</withdrawn>
     <category>Restaurant</category>
     <description>ESTRELLA</description>
+  </expense>
+  <expense>
+    <id>2914</id>
+    <amount>5.10</amount>
+    <date>
+      <day>22</day>
+      <month>5</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Restaurant</category>
+    <description>DAFNI FOOD</description>
   </expense>
 </expenses>
