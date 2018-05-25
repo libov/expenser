@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>2922</last_expense_id>
+  <last_expense_id>2923</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -34788,5 +34788,17 @@
     <withdrawn>No</withdrawn>
     <category>Restaurant</category>
     <description>DAFNI Cafe coffee</description>
+  </expense>
+  <expense>
+    <id>2923</id>
+    <amount>4.41</amount>
+    <date>
+      <day>24</day>
+      <month>5</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Travel</category>
+    <description>AEGEAN Vespa gas and oil</description>
   </expense>
 </expenses>
