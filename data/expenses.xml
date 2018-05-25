@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>2925</last_expense_id>
+  <last_expense_id>2929</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -34824,5 +34824,53 @@
     <withdrawn>Yes</withdrawn>
     <category>Wilster house purchase</category>
     <description>SPARDA Kredit</description>
+  </expense>
+  <expense>
+    <id>2926</id>
+    <amount>118.00</amount>
+    <date>
+      <day>30</day>
+      <month>4</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Flat</category>
+    <description>STADTWERKE 04/2018</description>
+  </expense>
+  <expense>
+    <id>2927</id>
+    <amount>173.47</amount>
+    <date>
+      <day>2</day>
+      <month>5</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Flat</category>
+    <description>WOHNGELD 05/2018</description>
+  </expense>
+  <expense>
+    <id>2928</id>
+    <amount>165.00</amount>
+    <date>
+      <day>2</day>
+      <month>5</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Wilster regular</category>
+    <description>STADTWERKE 03/2018</description>
+  </expense>
+  <expense>
+    <id>2929</id>
+    <amount>4.97</amount>
+    <date>
+      <day>5</day>
+      <month>5</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Food</category>
+    <description>HEATHROW AIRPORT snacks</description>
   </expense>
 </expenses>
