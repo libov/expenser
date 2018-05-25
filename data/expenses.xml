@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>2929</last_expense_id>
+  <last_expense_id>2930</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -34125,7 +34125,7 @@
       <month>5</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Business trip</category>
     <description>HVV ticket, Canada trip</description>
   </expense>
@@ -34137,7 +34137,7 @@
       <month>5</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -34149,7 +34149,7 @@
       <month>5</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>TANKCENTER Diesel</description>
   </expense>
@@ -34872,5 +34872,17 @@
     <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>HEATHROW AIRPORT snacks</description>
+  </expense>
+  <expense>
+    <id>2930</id>
+    <amount>4.01</amount>
+    <date>
+      <day>5</day>
+      <month>5</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Food</category>
+    <description>HEATHROW coffee </description>
   </expense>
 </expenses>
