@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>2930</last_expense_id>
+  <last_expense_id>2935</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -34341,7 +34341,7 @@
       <month>5</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>AMAZON Lampen OSRAM</description>
   </expense>
@@ -34353,7 +34353,7 @@
       <month>5</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Presents</category>
     <description>PAYPAL Boettcher HDD</description>
   </expense>
@@ -34365,7 +34365,7 @@
       <month>5</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -34377,7 +34377,7 @@
       <month>5</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -34389,7 +34389,7 @@
       <month>5</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Wilster</category>
     <description>OBI for roof</description>
   </expense>
@@ -34401,7 +34401,7 @@
       <month>5</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>EDEKA MARON</description>
   </expense>
@@ -34413,7 +34413,7 @@
       <month>5</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>NETTO</description>
   </expense>
@@ -34437,7 +34437,7 @@
       <month>5</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>SHELL Diesel</description>
   </expense>
@@ -34461,7 +34461,7 @@
       <month>5</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Travel</category>
     <description>PAYPAL AIRBNB Athens trip</description>
   </expense>
@@ -34473,7 +34473,7 @@
       <month>5</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Wilster</category>
     <description>PAYPAL RAKUTEN Bosch GSA 1100 E</description>
   </expense>
@@ -34485,7 +34485,7 @@
       <month>5</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -34497,7 +34497,7 @@
       <month>5</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Piano lessons</category>
     <description>1x, part 1 of 30</description>
   </expense>
@@ -34509,7 +34509,7 @@
       <month>5</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Cash</category>
     <description>for FOOD, part 2 of 30</description>
   </expense>
@@ -34593,7 +34593,7 @@
       <month>5</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>ESSO Diesel</description>
   </expense>
@@ -34884,5 +34884,65 @@
     <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>HEATHROW coffee </description>
+  </expense>
+  <expense>
+    <id>2931</id>
+    <amount>6.50</amount>
+    <date>
+      <day>11</day>
+      <month>5</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Restaurant</category>
+    <description>ANDRONACO</description>
+  </expense>
+  <expense>
+    <id>2932</id>
+    <amount>756.42</amount>
+    <date>
+      <day>17</day>
+      <month>5</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Business trip</category>
+    <description>IPAC18 registration fee</description>
+  </expense>
+  <expense>
+    <id>2933</id>
+    <amount>100.00</amount>
+    <date>
+      <day>18</day>
+      <month>5</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Travel</category>
+    <description>trip Athens</description>
+  </expense>
+  <expense>
+    <id>2934</id>
+    <amount>30.39</amount>
+    <date>
+      <day>15</day>
+      <month>5</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Wilster regular</category>
+    <description>STEINBURG ABFALL </description>
+  </expense>
+  <expense>
+    <id>2935</id>
+    <amount>35.63</amount>
+    <date>
+      <day>15</day>
+      <month>5</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Flat</category>
+    <description>GRUNDSTEUER B</description>
   </expense>
 </expenses>
