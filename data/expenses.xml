@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>2923</last_expense_id>
+  <last_expense_id>2925</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -33993,7 +33993,7 @@
       <month>4</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Wilster</category>
     <description>HAUPTHOFF roof stuff</description>
   </expense>
@@ -34005,7 +34005,7 @@
       <month>4</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Wilster</category>
     <description>HAUPTHOFF part 2</description>
   </expense>
@@ -34029,7 +34029,7 @@
       <month>4</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -34101,7 +34101,7 @@
       <month>4</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>JULIA HOFER Diesel</description>
   </expense>
@@ -34161,7 +34161,7 @@
       <month>4</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Business trip</category>
     <description>HVV ticket, Canada trip</description>
   </expense>
@@ -34281,7 +34281,7 @@
       <month>4</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Piano lessons</category>
     <description>part1 of 300 - 2x lessons</description>
   </expense>
@@ -34293,7 +34293,7 @@
       <month>4</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Cash</category>
     <description>part2 of 300 - for FOOD</description>
   </expense>
@@ -34305,7 +34305,7 @@
       <month>4</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Business trip</category>
     <description>part3 of 300 - Canada trip cash</description>
   </expense>
@@ -34800,5 +34800,29 @@
     <withdrawn>No</withdrawn>
     <category>Travel</category>
     <description>AEGEAN Vespa gas and oil</description>
+  </expense>
+  <expense>
+    <id>2924</id>
+    <amount>20.08</amount>
+    <date>
+      <day>27</day>
+      <month>4</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>No record</category>
+    <description>KABELDEUTSCHLAND 4/2018</description>
+  </expense>
+  <expense>
+    <id>2925</id>
+    <amount>193.04</amount>
+    <date>
+      <day>30</day>
+      <month>4</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Wilster house purchase</category>
+    <description>SPARDA Kredit</description>
   </expense>
 </expenses>
