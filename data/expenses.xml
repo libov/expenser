@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>2918</last_expense_id>
+  <last_expense_id>2922</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -34740,5 +34740,53 @@
     <withdrawn>No</withdrawn>
     <category>Presents</category>
     <description>PAYPAL FLIXBUS tickets SXF-HH parents</description>
+  </expense>
+  <expense>
+    <id>2919</id>
+    <amount>24.87</amount>
+    <date>
+      <day>24</day>
+      <month>5</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>GALAXIA Supermarket Loutraki</description>
+  </expense>
+  <expense>
+    <id>2920</id>
+    <amount>15.80</amount>
+    <date>
+      <day>24</day>
+      <month>5</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Travel</category>
+    <description>TRAINOSE tickets to Loutraki</description>
+  </expense>
+  <expense>
+    <id>2921</id>
+    <amount>6.55</amount>
+    <date>
+      <day>24</day>
+      <month>5</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Restaurant</category>
+    <description>DAFNI Cafe breakfast</description>
+  </expense>
+  <expense>
+    <id>2922</id>
+    <amount>2.75</amount>
+    <date>
+      <day>24</day>
+      <month>5</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Restaurant</category>
+    <description>DAFNI Cafe coffee</description>
   </expense>
 </expenses>
