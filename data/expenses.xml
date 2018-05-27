@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>2939</last_expense_id>
+  <last_expense_id>2941</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -34992,5 +34992,29 @@
     <withdrawn>No</withdrawn>
     <category>Car</category>
     <description>PAYPAL EBAY Bremskolbenrueckstellsatz</description>
+  </expense>
+  <expense>
+    <id>2940</id>
+    <amount>36.00</amount>
+    <date>
+      <day>27</day>
+      <month>5</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Presents</category>
+    <description>WIZZ AIR tickets Artemis Bank Transfer</description>
+  </expense>
+  <expense>
+    <id>2941</id>
+    <amount>25.80</amount>
+    <date>
+      <day>27</day>
+      <month>5</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Restaurant</category>
+    <description>MAISTRALI </description>
   </expense>
 </expenses>
