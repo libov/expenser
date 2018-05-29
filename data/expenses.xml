@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>2942</last_expense_id>
+  <last_expense_id>2947</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -35028,5 +35028,65 @@
     <withdrawn>No</withdrawn>
     <category>Wilster</category>
     <description>PAYPAL EBAY Rohre</description>
+  </expense>
+  <expense>
+    <id>2943</id>
+    <amount>8.72</amount>
+    <date>
+      <day>29</day>
+      <month>5</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>GALAXIA</description>
+  </expense>
+  <expense>
+    <id>2944</id>
+    <amount>7.53</amount>
+    <date>
+      <day>28</day>
+      <month>5</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>GALAXIA</description>
+  </expense>
+  <expense>
+    <id>2945</id>
+    <amount>7.84</amount>
+    <date>
+      <day>28</day>
+      <month>5</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Restaurant</category>
+    <description>LOUTRAKI GRILL souvlaki kalamaki</description>
+  </expense>
+  <expense>
+    <id>2946</id>
+    <amount>5.80</amount>
+    <date>
+      <day>28</day>
+      <month>5</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Restaurant</category>
+    <description>CHILL BOX Frozen Yoghurt</description>
+  </expense>
+  <expense>
+    <id>2947</id>
+    <amount>3.90</amount>
+    <date>
+      <day>28</day>
+      <month>5</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Restaurant</category>
+    <description>LEKKAS coffee, etc</description>
   </expense>
 </expenses>
