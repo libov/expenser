@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>2947</last_expense_id>
+  <last_expense_id>2950</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -35088,5 +35088,41 @@
     <withdrawn>No</withdrawn>
     <category>Restaurant</category>
     <description>LEKKAS coffee, etc</description>
+  </expense>
+  <expense>
+    <id>2948</id>
+    <amount>9.80</amount>
+    <date>
+      <day>29</day>
+      <month>5</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Restaurant</category>
+    <description>THANASIS souvlaki and kalamaki</description>
+  </expense>
+  <expense>
+    <id>2949</id>
+    <amount>1.40</amount>
+    <date>
+      <day>29</day>
+      <month>5</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Travel</category>
+    <description>ATHENS METRO single ticket</description>
+  </expense>
+  <expense>
+    <id>2950</id>
+    <amount>16.20</amount>
+    <date>
+      <day>29</day>
+      <month>5</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Travel</category>
+    <description>BUS KTEL KORINTHIAS tickets Loutraki to Athens</description>
   </expense>
 </expenses>
