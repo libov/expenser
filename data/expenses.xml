@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>2950</last_expense_id>
+  <last_expense_id>2969</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -34702,7 +34702,7 @@
       <year>2018</year>
     </date>
     <withdrawn>Yes</withdrawn>
-    <category>No record</category>
+    <category>Wilster</category>
     <description>OBI</description>
   </expense>
   <expense>
@@ -35124,5 +35124,233 @@
     <withdrawn>No</withdrawn>
     <category>Travel</category>
     <description>BUS KTEL KORINTHIAS tickets Loutraki to Athens</description>
+  </expense>
+  <expense>
+    <id>2951</id>
+    <amount>6.54</amount>
+    <date>
+      <day>31</day>
+      <month>5</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>EDEKA MARON</description>
+  </expense>
+  <expense>
+    <id>2952</id>
+    <amount>12.44</amount>
+    <date>
+      <day>30</day>
+      <month>5</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>2953</id>
+    <amount>30.46</amount>
+    <date>
+      <day>31</day>
+      <month>5</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Wilster</category>
+    <description>OBI tools for roof</description>
+  </expense>
+  <expense>
+    <id>2954</id>
+    <amount>17.23</amount>
+    <date>
+      <day>1</day>
+      <month>6</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>NETTO</description>
+  </expense>
+  <expense>
+    <id>2955</id>
+    <amount>4.87</amount>
+    <date>
+      <day>31</day>
+      <month>5</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>NETTO</description>
+  </expense>
+  <expense>
+    <id>2956</id>
+    <amount>10.46</amount>
+    <date>
+      <day>31</day>
+      <month>5</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>EDEKA</description>
+  </expense>
+  <expense>
+    <id>2957</id>
+    <amount>2.99</amount>
+    <date>
+      <day>2</day>
+      <month>6</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Wilster</category>
+    <description>KIK Ruehrschuessel</description>
+  </expense>
+  <expense>
+    <id>2958</id>
+    <amount>14.36</amount>
+    <date>
+      <day>2</day>
+      <month>6</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>NETTO</description>
+  </expense>
+  <expense>
+    <id>2959</id>
+    <amount>4.98</amount>
+    <date>
+      <day>31</day>
+      <month>5</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Presents</category>
+    <description>ROSSMANN ZINK+OMEGA369</description>
+  </expense>
+  <expense>
+    <id>2960</id>
+    <amount>2.22</amount>
+    <date>
+      <day>31</day>
+      <month>5</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>ROSSMANN Hygienartikel</description>
+  </expense>
+  <expense>
+    <id>2961</id>
+    <amount>20.02</amount>
+    <date>
+      <day>30</day>
+      <month>5</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>JULIA HOFER Diesel</description>
+  </expense>
+  <expense>
+    <id>2962</id>
+    <amount>12.15</amount>
+    <date>
+      <day>2</day>
+      <month>6</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>ALDI</description>
+  </expense>
+  <expense>
+    <id>2963</id>
+    <amount>9.99</amount>
+    <date>
+      <day>2</day>
+      <month>6</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Wilster</category>
+    <description>OBI Saegeblaetter</description>
+  </expense>
+  <expense>
+    <id>2964</id>
+    <amount>9.98</amount>
+    <date>
+      <day>2</day>
+      <month>6</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Wilster</category>
+    <description>HAUPTHOFF Schrauben</description>
+  </expense>
+  <expense>
+    <id>2965</id>
+    <amount>4.59</amount>
+    <date>
+      <day>2</day>
+      <month>6</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Wilster</category>
+    <description>OBI bits</description>
+  </expense>
+  <expense>
+    <id>2966</id>
+    <amount>7.80</amount>
+    <date>
+      <day>2</day>
+      <month>6</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>EDEKA</description>
+  </expense>
+  <expense>
+    <id>2967</id>
+    <amount>17.98</amount>
+    <date>
+      <day>2</day>
+      <month>6</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Presents</category>
+    <description>KIK shoes mom/dad</description>
+  </expense>
+  <expense>
+    <id>2968</id>
+    <amount>29.99</amount>
+    <date>
+      <day>31</day>
+      <month>5</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>ALDI</description>
+  </expense>
+  <expense>
+    <id>2969</id>
+    <amount>9.99</amount>
+    <date>
+      <day>31</day>
+      <month>5</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Wilster</category>
+    <description>KIK Topf</description>
   </expense>
 </expenses>
