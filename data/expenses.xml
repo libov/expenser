@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>2973</last_expense_id>
+  <last_expense_id>2975</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -35400,5 +35400,29 @@
     <withdrawn>No</withdrawn>
     <category>Other</category>
     <description>Geburtsurkunde Uebersetzung</description>
+  </expense>
+  <expense>
+    <id>2974</id>
+    <amount>8.22</amount>
+    <date>
+      <day>9</day>
+      <month>6</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>EDEKA</description>
+  </expense>
+  <expense>
+    <id>2975</id>
+    <amount>8.84</amount>
+    <date>
+      <day>4</day>
+      <month>6</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>ALDI</description>
   </expense>
 </expenses>
