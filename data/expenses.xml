@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>2975</last_expense_id>
+  <last_expense_id>2983</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -35424,5 +35424,101 @@
     <withdrawn>No</withdrawn>
     <category>Food</category>
     <description>ALDI</description>
+  </expense>
+  <expense>
+    <id>2976</id>
+    <amount>12.00</amount>
+    <date>
+      <day>8</day>
+      <month>6</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>ALDI</description>
+  </expense>
+  <expense>
+    <id>2977</id>
+    <amount>3.95</amount>
+    <date>
+      <day>6</day>
+      <month>6</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>2978</id>
+    <amount>10.58</amount>
+    <date>
+      <day>5</day>
+      <month>6</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>2979</id>
+    <amount>20.01</amount>
+    <date>
+      <day>7</day>
+      <month>6</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>HEM Diesel</description>
+  </expense>
+  <expense>
+    <id>2980</id>
+    <amount>25.95</amount>
+    <date>
+      <day>9</day>
+      <month>6</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Presents</category>
+    <description>ROSSMANN drugs mom+dad</description>
+  </expense>
+  <expense>
+    <id>2981</id>
+    <amount>19.12</amount>
+    <date>
+      <day>9</day>
+      <month>6</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>NETTO for parents</description>
+  </expense>
+  <expense>
+    <id>2982</id>
+    <amount>7.64</amount>
+    <date>
+      <day>9</day>
+      <month>6</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>ROSSMANN Staubsaugerbeutel etc.</description>
+  </expense>
+  <expense>
+    <id>2983</id>
+    <amount>15.91</amount>
+    <date>
+      <day>11</day>
+      <month>6</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
   </expense>
 </expenses>
