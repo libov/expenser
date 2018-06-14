@@ -48,10 +48,10 @@ const unsigned NCATEGORIES = 23;
 TString CATEGORIES[]  = {"Food", "Restaurant", "Flat", "Cash", "Car", "Music equipment", "Books", "Clothes", "Entertainment", "Presents", "Travel", "Transport HH", "Business trip", "Degussa", "Sparda Credit", "Wilster", "Wilster regular", "Wilster house purchase", "Piano lessons", "Category unknown", "No record", "Lend", "Other"};
 const TString MONTHS[12]={"January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"};
 const unsigned FIRST_YEAR = 2009;
-const unsigned LAST_YEAR = 2017;
-unsigned NROWSTABLE = 30;
-unsigned CANVAS_WIDTH = 800;
-unsigned CANVAS_HEIGHT = 800;
+const unsigned LAST_YEAR = 2018;
+unsigned NROWSTABLE = 20;
+unsigned CANVAS_WIDTH = 600;
+unsigned CANVAS_HEIGHT = 600;
 unsigned DROPDOWN_MENU_WIDTH = 150;
 unsigned DROPDOWN_MENU_HEIGHT = 20;
 
