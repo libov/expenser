@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>2992</last_expense_id>
+  <last_expense_id>2993</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -35628,5 +35628,17 @@
     <withdrawn>No</withdrawn>
     <category>Car</category>
     <description>STAR Diesel</description>
+  </expense>
+  <expense>
+    <id>2993</id>
+    <amount>4.07</amount>
+    <date>
+      <day>12</day>
+      <month>6</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>ALDI</description>
   </expense>
 </expenses>
