@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>2984</last_expense_id>
+  <last_expense_id>2988</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -35532,5 +35532,53 @@
     <withdrawn>No</withdrawn>
     <category>Cash</category>
     <description>for FOOD</description>
+  </expense>
+  <expense>
+    <id>2985</id>
+    <amount>12.59</amount>
+    <date>
+      <day>12</day>
+      <month>6</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>ALDI</description>
+  </expense>
+  <expense>
+    <id>2986</id>
+    <amount>80.00</amount>
+    <date>
+      <day>14</day>
+      <month>6</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Presents</category>
+    <description>cash for Mom</description>
+  </expense>
+  <expense>
+    <id>2987</id>
+    <amount>9.99</amount>
+    <date>
+      <day>12</day>
+      <month>6</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Wilster</category>
+    <description>KIK Spannbetttuch etc.</description>
+  </expense>
+  <expense>
+    <id>2988</id>
+    <amount>3.67</amount>
+    <date>
+      <day>12</day>
+      <month>6</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>NETTO</description>
   </expense>
 </expenses>
