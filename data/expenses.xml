@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>3004</last_expense_id>
+  <last_expense_id>3005</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -35169,7 +35169,7 @@
       <month>6</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>NETTO</description>
   </expense>
@@ -35181,7 +35181,7 @@
       <month>5</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>NETTO</description>
   </expense>
@@ -35205,7 +35205,7 @@
       <month>6</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Wilster</category>
     <description>KIK Ruehrschuessel</description>
   </expense>
@@ -35229,7 +35229,7 @@
       <month>5</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Presents</category>
     <description>ROSSMANN ZINK+OMEGA369</description>
   </expense>
@@ -35277,7 +35277,7 @@
       <month>6</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Wilster</category>
     <description>OBI Saegeblaetter</description>
   </expense>
@@ -35325,7 +35325,7 @@
       <month>6</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Presents</category>
     <description>KIK shoes mom/dad</description>
   </expense>
@@ -35421,7 +35421,7 @@
       <month>6</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>ALDI</description>
   </expense>
@@ -35772,5 +35772,17 @@
     <withdrawn>Yes</withdrawn>
     <category>No record</category>
     <description>KIK no receipt</description>
+  </expense>
+  <expense>
+    <id>3005</id>
+    <amount>9.17</amount>
+    <date>
+      <day>2</day>
+      <month>6</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>No record</category>
+    <description>NETTO food no receipt</description>
   </expense>
 </expenses>
