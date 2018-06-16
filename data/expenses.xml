@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>3009</last_expense_id>
+  <last_expense_id>3010</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -35435,7 +35435,7 @@
     </date>
     <withdrawn>No</withdrawn>
     <category>Food</category>
-    <description>ALDI</description>
+    <description>NETTO</description>
   </expense>
   <expense>
     <id>2977</id>
@@ -35832,5 +35832,17 @@
     <withdrawn>No</withdrawn>
     <category>Food</category>
     <description>NETTO</description>
+  </expense>
+  <expense>
+    <id>3010</id>
+    <amount>0.00</amount>
+    <date>
+      <day>16</day>
+      <month>6</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>No record</category>
+    <description/>
   </expense>
 </expenses>
