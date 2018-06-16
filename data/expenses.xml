@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>2995</last_expense_id>
+  <last_expense_id>2997</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -34737,7 +34737,7 @@
       <month>5</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Presents</category>
     <description>PAYPAL FLIXBUS tickets SXF-HH parents</description>
   </expense>
@@ -34749,7 +34749,7 @@
       <month>5</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>GALAXIA Supermarket Loutraki</description>
   </expense>
@@ -35001,7 +35001,7 @@
       <month>5</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Presents</category>
     <description>WIZZ AIR tickets Artemis Bank Transfer</description>
   </expense>
@@ -35664,5 +35664,29 @@
     <withdrawn>No</withdrawn>
     <category>Wilster</category>
     <description>IKEA Ablagetisch etc.</description>
+  </expense>
+  <expense>
+    <id>2996</id>
+    <amount>10.00</amount>
+    <date>
+      <day>19</day>
+      <month>5</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Other</category>
+    <description>FONIC</description>
+  </expense>
+  <expense>
+    <id>2997</id>
+    <amount>10.00</amount>
+    <date>
+      <day>21</day>
+      <month>5</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Other</category>
+    <description>FONIC</description>
   </expense>
 </expenses>
