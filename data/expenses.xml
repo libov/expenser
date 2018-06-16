@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>2997</last_expense_id>
+  <last_expense_id>3001</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -27347,7 +27347,7 @@
     </date>
     <withdrawn>Yes</withdrawn>
     <category>Flat</category>
-    <description>VODAFONE KABELDEUTSCHLAND</description>
+    <description>KABELDEUTSCHLAND VODAFONE</description>
   </expense>
   <expense>
     <id>2300</id>
@@ -33071,7 +33071,7 @@
     </date>
     <withdrawn>Yes</withdrawn>
     <category>Flat</category>
-    <description>VODAFONE 02/2018</description>
+    <description>KabelDeutschland VODAFONE 02/2018</description>
   </expense>
   <expense>
     <id>2780</id>
@@ -34761,7 +34761,7 @@
       <month>5</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Travel</category>
     <description>TRAINOSE tickets to Loutraki</description>
   </expense>
@@ -34773,7 +34773,7 @@
       <month>5</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Restaurant</category>
     <description>DAFNI Cafe breakfast</description>
   </expense>
@@ -34785,7 +34785,7 @@
       <month>5</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Restaurant</category>
     <description>DAFNI Cafe coffee</description>
   </expense>
@@ -34797,7 +34797,7 @@
       <month>5</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Travel</category>
     <description>AEGEAN Vespa gas and oil</description>
   </expense>
@@ -34953,7 +34953,7 @@
       <month>5</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Restaurant</category>
     <description>DOLCELATO ice cream</description>
   </expense>
@@ -34965,7 +34965,7 @@
       <month>5</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Restaurant</category>
     <description>LOUTRAKI SOUVLADZIRIKO souvlaki kalamaki</description>
   </expense>
@@ -34977,7 +34977,7 @@
       <month>5</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Restaurant</category>
     <description>LOUTRAKI souvlaki</description>
   </expense>
@@ -34989,7 +34989,7 @@
       <month>5</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>PAYPAL EBAY Bremskolbenrueckstellsatz</description>
   </expense>
@@ -35688,5 +35688,53 @@
     <withdrawn>Yes</withdrawn>
     <category>Other</category>
     <description>FONIC</description>
+  </expense>
+  <expense>
+    <id>2998</id>
+    <amount>20.05</amount>
+    <date>
+      <day>28</day>
+      <month>5</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>No record</category>
+    <description>KabelDeutschland Vodafone 05/2018</description>
+  </expense>
+  <expense>
+    <id>2999</id>
+    <amount>118.00</amount>
+    <date>
+      <day>28</day>
+      <month>5</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Flat</category>
+    <description>Stadtwerke 05/2018</description>
+  </expense>
+  <expense>
+    <id>3000</id>
+    <amount>193.04</amount>
+    <date>
+      <day>30</day>
+      <month>5</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Wilster house purchase</category>
+    <description>SPARDA Kredit</description>
+  </expense>
+  <expense>
+    <id>3001</id>
+    <amount>2.20</amount>
+    <date>
+      <day>29</day>
+      <month>5</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>No record</category>
+    <description>KAFE ATHENS no receipt</description>
   </expense>
 </expenses>
