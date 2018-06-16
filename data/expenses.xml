@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>3005</last_expense_id>
+  <last_expense_id>3007</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -34611,7 +34611,7 @@
   </expense>
   <expense>
     <id>2908</id>
-    <amount>50.01</amount>
+    <amount>35.01</amount>
     <date>
       <day>22</day>
       <month>5</month>
@@ -34619,7 +34619,7 @@
     </date>
     <withdrawn>Yes</withdrawn>
     <category>Travel</category>
-    <description>JULIA HOFER Diesel trip to Berlin</description>
+    <description>part 1 of 50.01 JULIA HOFER Diesel trip to Berlin</description>
   </expense>
   <expense>
     <id>2909</id>
@@ -34911,7 +34911,7 @@
   </expense>
   <expense>
     <id>2933</id>
-    <amount>100.00</amount>
+    <amount>55.00</amount>
     <date>
       <day>18</day>
       <month>5</month>
@@ -34919,7 +34919,7 @@
     </date>
     <withdrawn>Yes</withdrawn>
     <category>Travel</category>
-    <description>trip Athens</description>
+    <description>part 1 of 100.00 cash: trip Athens</description>
   </expense>
   <expense>
     <id>2934</id>
@@ -35157,9 +35157,9 @@
       <month>5</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Wilster</category>
-    <description>OBI tools for roof</description>
+    <description>part 2 of 100.00: OBI tools for roof</description>
   </expense>
   <expense>
     <id>2954</id>
@@ -35784,5 +35784,29 @@
     <withdrawn>Yes</withdrawn>
     <category>No record</category>
     <description>NETTO food no receipt</description>
+  </expense>
+  <expense>
+    <id>3006</id>
+    <amount>14.54</amount>
+    <date>
+      <day>18</day>
+      <month>5</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Category unknown</category>
+    <description>part 3 of 100.00: cash, remains, probably partially for Wilster, partially for FOOD</description>
+  </expense>
+  <expense>
+    <id>3007</id>
+    <amount>15.00</amount>
+    <date>
+      <day>22</day>
+      <month>5</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Category unknown</category>
+    <description>part 2 of 50.01: got back from blablacar, cash, probably food</description>
   </expense>
 </expenses>
