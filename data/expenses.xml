@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>3007</last_expense_id>
+  <last_expense_id>3009</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -35808,5 +35808,29 @@
     <withdrawn>Yes</withdrawn>
     <category>Category unknown</category>
     <description>part 2 of 50.01: got back from blablacar, cash, probably food</description>
+  </expense>
+  <expense>
+    <id>3008</id>
+    <amount>8.51</amount>
+    <date>
+      <day>16</day>
+      <month>6</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>EDEKA MARON</description>
+  </expense>
+  <expense>
+    <id>3009</id>
+    <amount>9.15</amount>
+    <date>
+      <day>16</day>
+      <month>6</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>NETTO</description>
   </expense>
 </expenses>
