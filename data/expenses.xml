@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>3001</last_expense_id>
+  <last_expense_id>3004</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -35265,7 +35265,7 @@
       <month>6</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>ALDI</description>
   </expense>
@@ -35289,7 +35289,7 @@
       <month>6</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Wilster</category>
     <description>HAUPTHOFF Schrauben</description>
   </expense>
@@ -35301,7 +35301,7 @@
       <month>6</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Wilster</category>
     <description>OBI bits</description>
   </expense>
@@ -35313,7 +35313,7 @@
       <month>6</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>EDEKA</description>
   </expense>
@@ -35349,7 +35349,7 @@
       <month>5</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Wilster</category>
     <description>KIK Topf</description>
   </expense>
@@ -35736,5 +35736,41 @@
     <withdrawn>Yes</withdrawn>
     <category>No record</category>
     <description>KAFE ATHENS no receipt</description>
+  </expense>
+  <expense>
+    <id>3002</id>
+    <amount>173.47</amount>
+    <date>
+      <day>1</day>
+      <month>6</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Flat</category>
+    <description>WEG WOHNGELD 06/2018</description>
+  </expense>
+  <expense>
+    <id>3003</id>
+    <amount>165.00</amount>
+    <date>
+      <day>1</day>
+      <month>6</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Wilster regular</category>
+    <description>STADTWERKE Wilster 06/2018</description>
+  </expense>
+  <expense>
+    <id>3004</id>
+    <amount>8.98</amount>
+    <date>
+      <day>31</day>
+      <month>5</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>No record</category>
+    <description>KIK no receipt</description>
   </expense>
 </expenses>
