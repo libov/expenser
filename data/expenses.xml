@@ -35782,8 +35782,8 @@
       <year>2018</year>
     </date>
     <withdrawn>Yes</withdrawn>
-    <category>No record</category>
-    <description>NETTO food no receipt</description>
+    <category>Food</category>
+    <description>NETTO</description>
   </expense>
   <expense>
     <id>3006</id>
