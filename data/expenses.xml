@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>3009</last_expense_id>
+  <last_expense_id>3016</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -35832,5 +35832,89 @@
     <withdrawn>No</withdrawn>
     <category>Food</category>
     <description>NETTO</description>
+  </expense>
+  <expense>
+    <id>3010</id>
+    <amount>6.57</amount>
+    <date>
+      <day>9</day>
+      <month>6</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>NETTO</description>
+  </expense>
+  <expense>
+    <id>3011</id>
+    <amount>2.30</amount>
+    <date>
+      <day>19</day>
+      <month>6</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>3012</id>
+    <amount>23.21</amount>
+    <date>
+      <day>19</day>
+      <month>6</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>NETTO</description>
+  </expense>
+  <expense>
+    <id>3013</id>
+    <amount>1.50</amount>
+    <date>
+      <day>16</day>
+      <month>6</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>NETTO</description>
+  </expense>
+  <expense>
+    <id>3014</id>
+    <amount>8.40</amount>
+    <date>
+      <day>16</day>
+      <month>6</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>EDEKA MARON</description>
+  </expense>
+  <expense>
+    <id>3015</id>
+    <amount>3.85</amount>
+    <date>
+      <day>16</day>
+      <month>6</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>ALDI</description>
+  </expense>
+  <expense>
+    <id>3016</id>
+    <amount>10.00</amount>
+    <date>
+      <day>19</day>
+      <month>6</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>ESSO Diesel</description>
   </expense>
 </expenses>
