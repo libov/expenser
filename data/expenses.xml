@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>3017</last_expense_id>
+  <last_expense_id>3024</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -35928,5 +35928,89 @@
     <withdrawn>No</withdrawn>
     <category>Food</category>
     <description>NETTO</description>
+  </expense>
+  <expense>
+    <id>3018</id>
+    <amount>10.00</amount>
+    <date>
+      <day>18</day>
+      <month>6</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Other</category>
+    <description>FONIC</description>
+  </expense>
+  <expense>
+    <id>3019</id>
+    <amount>7.75</amount>
+    <date>
+      <day>20</day>
+      <month>6</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>DM</description>
+  </expense>
+  <expense>
+    <id>3020</id>
+    <amount>72.08</amount>
+    <date>
+      <day>20</day>
+      <month>6</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Travel</category>
+    <description>HEM Diesel Ungvar trip 06/2018</description>
+  </expense>
+  <expense>
+    <id>3021</id>
+    <amount>6.50</amount>
+    <date>
+      <day>20</day>
+      <month>6</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Restaurant</category>
+    <description>ANDRONACO Pizza</description>
+  </expense>
+  <expense>
+    <id>3022</id>
+    <amount>100.00</amount>
+    <date>
+      <day>20</day>
+      <month>6</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Travel</category>
+    <description>cash Ungvar trip 06/2018</description>
+  </expense>
+  <expense>
+    <id>3023</id>
+    <amount>7.32</amount>
+    <date>
+      <day>20</day>
+      <month>6</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>3024</id>
+    <amount>2.42</amount>
+    <date>
+      <day>19</day>
+      <month>6</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
   </expense>
 </expenses>
