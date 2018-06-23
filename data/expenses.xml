@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>3024</last_expense_id>
+  <last_expense_id>3033</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -36012,5 +36012,113 @@
     <withdrawn>No</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>3025</id>
+    <amount>14.10</amount>
+    <date>
+      <day>23</day>
+      <month>6</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Other</category>
+    <description>TEETH part1 of 100 (Ungvar trip 06/2018)</description>
+  </expense>
+  <expense>
+    <id>3026</id>
+    <amount>15.00</amount>
+    <date>
+      <day>23</day>
+      <month>6</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Restaurant</category>
+    <description>part2 of 100 (Ungvar trip 06/2018)</description>
+  </expense>
+  <expense>
+    <id>3027</id>
+    <amount>9.34</amount>
+    <date>
+      <day>23</day>
+      <month>6</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>part3 of 100 (Ungvar trip 06/2018)</description>
+  </expense>
+  <expense>
+    <id>3028</id>
+    <amount>3.28</amount>
+    <date>
+      <day>23</day>
+      <month>6</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Other</category>
+    <description>VODAFONE SIM part4 of 100 (Ungvar trip 06/2018)</description>
+  </expense>
+  <expense>
+    <id>3029</id>
+    <amount>3.28</amount>
+    <date>
+      <day>23</day>
+      <month>6</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Other</category>
+    <description>Haircut part5 of 100 (Ungvar trip 06/2018)</description>
+  </expense>
+  <expense>
+    <id>3030</id>
+    <amount>5.00</amount>
+    <date>
+      <day>23</day>
+      <month>6</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Cash</category>
+    <description>exchanged to UAH part6 of 100 (Ungvar trip 06/2018)</description>
+  </expense>
+  <expense>
+    <id>3031</id>
+    <amount>50.00</amount>
+    <date>
+      <day>23</day>
+      <month>6</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Cash</category>
+    <description>part7 of 100 - remaining cash. Original witthdraw: 20.6.2018, 100eur</description>
+  </expense>
+  <expense>
+    <id>3032</id>
+    <amount>10.00</amount>
+    <date>
+      <day>21</day>
+      <month>6</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Travel</category>
+    <description>SLOVNAFT Diesel Ungvar 06/2018</description>
+  </expense>
+  <expense>
+    <id>3033</id>
+    <amount>21.30</amount>
+    <date>
+      <day>21</day>
+      <month>6</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Travel</category>
+    <description>SHELL Diesel Ungvar 06/2018</description>
   </expense>
 </expenses>
