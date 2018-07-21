@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>3075</last_expense_id>
+  <last_expense_id>3079</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -36612,5 +36612,53 @@
     <withdrawn>No</withdrawn>
     <category>Food</category>
     <description>EDEKA</description>
+  </expense>
+  <expense>
+    <id>3076</id>
+    <amount>10.36</amount>
+    <date>
+      <day>13</day>
+      <month>7</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>3077</id>
+    <amount>6.90</amount>
+    <date>
+      <day>11</day>
+      <month>7</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>3078</id>
+    <amount>13.56</amount>
+    <date>
+      <day>14</day>
+      <month>7</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>3079</id>
+    <amount>1.87</amount>
+    <date>
+      <day>12</day>
+      <month>7</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
   </expense>
 </expenses>
