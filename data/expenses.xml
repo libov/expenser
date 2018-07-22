@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>3091</last_expense_id>
+  <last_expense_id>3092</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -36804,5 +36804,17 @@
     <withdrawn>No</withdrawn>
     <category>Other</category>
     <description>HAMBURG Airport parking</description>
+  </expense>
+  <expense>
+    <id>3092</id>
+    <amount>23.45</amount>
+    <date>
+      <day>13</day>
+      <month>7</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>EDEKA Marktkauf</description>
   </expense>
 </expenses>
