@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>3079</last_expense_id>
+  <last_expense_id>3084</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -36654,6 +36654,66 @@
     <amount>1.87</amount>
     <date>
       <day>12</day>
+      <month>7</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>3080</id>
+    <amount>7.59</amount>
+    <date>
+      <day>12</day>
+      <month>7</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>3081</id>
+    <amount>1.81</amount>
+    <date>
+      <day>11</day>
+      <month>7</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>3082</id>
+    <amount>19.42</amount>
+    <date>
+      <day>10</day>
+      <month>7</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>3083</id>
+    <amount>1.53</amount>
+    <date>
+      <day>10</day>
+      <month>7</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>3084</id>
+    <amount>6.84</amount>
+    <date>
+      <day>9</day>
       <month>7</month>
       <year>2018</year>
     </date>
