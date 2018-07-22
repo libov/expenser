@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>3084</last_expense_id>
+  <last_expense_id>3091</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -36720,5 +36720,89 @@
     <withdrawn>No</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>3085</id>
+    <amount>18.40</amount>
+    <date>
+      <day>11</day>
+      <month>7</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>DM (cosmetics)</description>
+  </expense>
+  <expense>
+    <id>3086</id>
+    <amount>2.98</amount>
+    <date>
+      <day>14</day>
+      <month>7</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>ROSSMANN (cosmetics)</description>
+  </expense>
+  <expense>
+    <id>3087</id>
+    <amount>5.29</amount>
+    <date>
+      <day>14</day>
+      <month>7</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>ALDI</description>
+  </expense>
+  <expense>
+    <id>3088</id>
+    <amount>14.96</amount>
+    <date>
+      <day>8</day>
+      <month>7</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>STAR Diesel</description>
+  </expense>
+  <expense>
+    <id>3089</id>
+    <amount>11.03</amount>
+    <date>
+      <day>11</day>
+      <month>7</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>EDEKA Marktkauf lens liquid etc.</description>
+  </expense>
+  <expense>
+    <id>3090</id>
+    <amount>20.05</amount>
+    <date>
+      <day>11</day>
+      <month>7</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>TANKCENTER Diesel</description>
+  </expense>
+  <expense>
+    <id>3091</id>
+    <amount>5.00</amount>
+    <date>
+      <day>10</day>
+      <month>7</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Other</category>
+    <description>HAMBURG Airport parking</description>
   </expense>
 </expenses>
