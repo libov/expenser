@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>3098</last_expense_id>
+  <last_expense_id>3100</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -36888,5 +36888,29 @@
     <withdrawn>No</withdrawn>
     <category>Car</category>
     <description>ESSO Diesel</description>
+  </expense>
+  <expense>
+    <id>3099</id>
+    <amount>3.20</amount>
+    <date>
+      <day>31</day>
+      <month>7</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Transport HH</category>
+    <description>HVV Einzelkarte</description>
+  </expense>
+  <expense>
+    <id>3100</id>
+    <amount>3.20</amount>
+    <date>
+      <day>31</day>
+      <month>7</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Transport HH</category>
+    <description>HVV Einzelkarte</description>
   </expense>
 </expenses>
