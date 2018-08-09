@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>3119</last_expense_id>
+  <last_expense_id>3121</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -36141,7 +36141,7 @@
       <month>6</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>STAR Diesel</description>
   </expense>
@@ -36153,7 +36153,7 @@
       <month>6</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Wilster</category>
     <description>PAYPAL Kreuzlinienlaser</description>
   </expense>
@@ -37140,5 +37140,29 @@
     <withdrawn>Yes</withdrawn>
     <category>Travel</category>
     <description>ORLEN Diesel</description>
+  </expense>
+  <expense>
+    <id>3120</id>
+    <amount>118.00</amount>
+    <date>
+      <day>28</day>
+      <month>6</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Flat</category>
+    <description>STADTWERKE 06/2018</description>
+  </expense>
+  <expense>
+    <id>3121</id>
+    <amount>193.04</amount>
+    <date>
+      <day>30</day>
+      <month>6</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Wilster house purchase</category>
+    <description>SPARDA Kredit</description>
   </expense>
 </expenses>
