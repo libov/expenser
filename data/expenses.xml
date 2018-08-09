@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>3103</last_expense_id>
+  <last_expense_id>3108</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -36948,5 +36948,65 @@
     <withdrawn>No</withdrawn>
     <category>Transport HH</category>
     <description>HVV Einzelkarte</description>
+  </expense>
+  <expense>
+    <id>3104</id>
+    <amount>6.90</amount>
+    <date>
+      <day>8</day>
+      <month>8</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>PAYPAL eBAY key housing</description>
+  </expense>
+  <expense>
+    <id>3105</id>
+    <amount>19.03</amount>
+    <date>
+      <day>2</day>
+      <month>8</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>3106</id>
+    <amount>11.76</amount>
+    <date>
+      <day>3</day>
+      <month>8</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>3107</id>
+    <amount>10.26</amount>
+    <date>
+      <day>8</day>
+      <month>8</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>3108</id>
+    <amount>11.71</amount>
+    <date>
+      <day>9</day>
+      <month>8</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>NETTO</description>
   </expense>
 </expenses>
