@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>3121</last_expense_id>
+  <last_expense_id>3123</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -36165,7 +36165,7 @@
       <month>6</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Other</category>
     <description>PAYPAL EBAY Ladekabel</description>
   </expense>
@@ -36189,7 +36189,7 @@
       <month>6</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>NETTO</description>
   </expense>
@@ -36237,7 +36237,7 @@
       <month>6</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Wilster</category>
     <description>EDEKA Muellsaecke</description>
   </expense>
@@ -36285,7 +36285,7 @@
       <month>6</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Wilster</category>
     <description>HAUPTHOFF</description>
   </expense>
@@ -36321,7 +36321,7 @@
       <month>6</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>NETTO</description>
   </expense>
@@ -37164,5 +37164,29 @@
     <withdrawn>Yes</withdrawn>
     <category>Wilster house purchase</category>
     <description>SPARDA Kredit</description>
+  </expense>
+  <expense>
+    <id>3122</id>
+    <amount>173.47</amount>
+    <date>
+      <day>2</day>
+      <month>7</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Flat</category>
+    <description>WEG 7/2018</description>
+  </expense>
+  <expense>
+    <id>3123</id>
+    <amount>165.00</amount>
+    <date>
+      <day>2</day>
+      <month>7</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Wilster regular</category>
+    <description>STADTWERKE 03/2018??</description>
   </expense>
 </expenses>
