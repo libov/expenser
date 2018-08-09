@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>3113</last_expense_id>
+  <last_expense_id>3119</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -35865,7 +35865,7 @@
       <month>6</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>NETTO</description>
   </expense>
@@ -35937,7 +35937,7 @@
       <month>6</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Other</category>
     <description>FONIC</description>
   </expense>
@@ -35949,7 +35949,7 @@
       <month>6</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>DM</description>
   </expense>
@@ -35961,7 +35961,7 @@
       <month>6</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Travel</category>
     <description>HEM Diesel Ungvar trip 06/2018</description>
   </expense>
@@ -35973,7 +35973,7 @@
       <month>6</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Restaurant</category>
     <description>ANDRONACO Pizza</description>
   </expense>
@@ -35985,7 +35985,7 @@
       <month>6</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -36093,7 +36093,7 @@
       <month>6</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Travel</category>
     <description>SLOVNAFT Diesel Ungvar 06/2018</description>
   </expense>
@@ -36105,7 +36105,7 @@
       <month>6</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Travel</category>
     <description>SHELL Diesel Ungvar 06/2018</description>
   </expense>
@@ -36117,7 +36117,7 @@
       <month>6</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -36129,7 +36129,7 @@
       <month>6</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -36201,7 +36201,7 @@
       <month>6</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -36225,7 +36225,7 @@
       <month>6</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>MARKTKAUF</description>
   </expense>
@@ -37068,5 +37068,77 @@
     <withdrawn>No</withdrawn>
     <category>Food</category>
     <description>NETTO</description>
+  </expense>
+  <expense>
+    <id>3114</id>
+    <amount>62.24</amount>
+    <date>
+      <day>25</day>
+      <month>7</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Travel</category>
+    <description>TANKCENTER JULIA trip Ungvar</description>
+  </expense>
+  <expense>
+    <id>3115</id>
+    <amount>3.78</amount>
+    <date>
+      <day>24</day>
+      <month>7</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Wilster</category>
+    <description>OBI</description>
+  </expense>
+  <expense>
+    <id>3116</id>
+    <amount>10.00</amount>
+    <date>
+      <day>24</day>
+      <month>7</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>MR WASH Diesel</description>
+  </expense>
+  <expense>
+    <id>3117</id>
+    <amount>19.99</amount>
+    <date>
+      <day>21</day>
+      <month>6</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>No record</category>
+    <description>KABELDEUTSCHLAND 06/2018</description>
+  </expense>
+  <expense>
+    <id>3118</id>
+    <amount>6.20</amount>
+    <date>
+      <day>21</day>
+      <month>6</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>No record</category>
+    <description>SHELL Poland</description>
+  </expense>
+  <expense>
+    <id>3119</id>
+    <amount>24.73</amount>
+    <date>
+      <day>24</day>
+      <month>6</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Travel</category>
+    <description>ORLEN Diesel</description>
   </expense>
 </expenses>
