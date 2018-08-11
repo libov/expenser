@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>3128</last_expense_id>
+  <last_expense_id>3142</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -37248,5 +37248,173 @@
     <withdrawn>No</withdrawn>
     <category>Food</category>
     <description>EDEKA MARON</description>
+  </expense>
+  <expense>
+    <id>3129</id>
+    <amount>6.99</amount>
+    <date>
+      <day>11</day>
+      <month>8</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Presents</category>
+    <description>ROSSMANN cosmetics for Polina</description>
+  </expense>
+  <expense>
+    <id>3130</id>
+    <amount>20.55</amount>
+    <date>
+      <day>11</day>
+      <month>8</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Presents</category>
+    <description>KIK deco for Polina</description>
+  </expense>
+  <expense>
+    <id>3131</id>
+    <amount>4.38</amount>
+    <date>
+      <day>11</day>
+      <month>8</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Wilster</category>
+    <description>OBI</description>
+  </expense>
+  <expense>
+    <id>3132</id>
+    <amount>17.56</amount>
+    <date>
+      <day>11</day>
+      <month>8</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Wilster</category>
+    <description>OBI</description>
+  </expense>
+  <expense>
+    <id>3133</id>
+    <amount>3.20</amount>
+    <date>
+      <day>9</day>
+      <month>8</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Transport HH</category>
+    <description>Einzelkarte</description>
+  </expense>
+  <expense>
+    <id>3134</id>
+    <amount>3.20</amount>
+    <date>
+      <day>8</day>
+      <month>8</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Transport HH</category>
+    <description>Einzelkarte</description>
+  </expense>
+  <expense>
+    <id>3135</id>
+    <amount>3.20</amount>
+    <date>
+      <day>7</day>
+      <month>8</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Transport HH</category>
+    <description>Einzelkarte</description>
+  </expense>
+  <expense>
+    <id>3136</id>
+    <amount>3.20</amount>
+    <date>
+      <day>6</day>
+      <month>8</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Transport HH</category>
+    <description>Einzelkarte</description>
+  </expense>
+  <expense>
+    <id>3137</id>
+    <amount>3.20</amount>
+    <date>
+      <day>5</day>
+      <month>8</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Transport HH</category>
+    <description>Einzelkarte</description>
+  </expense>
+  <expense>
+    <id>3138</id>
+    <amount>3.20</amount>
+    <date>
+      <day>5</day>
+      <month>8</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Transport HH</category>
+    <description>Einzelkarte</description>
+  </expense>
+  <expense>
+    <id>3139</id>
+    <amount>3.20</amount>
+    <date>
+      <day>4</day>
+      <month>8</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Transport HH</category>
+    <description>Einzelkarte</description>
+  </expense>
+  <expense>
+    <id>3140</id>
+    <amount>3.20</amount>
+    <date>
+      <day>4</day>
+      <month>8</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Transport HH</category>
+    <description>Einzelkarte</description>
+  </expense>
+  <expense>
+    <id>3141</id>
+    <amount>3.20</amount>
+    <date>
+      <day>3</day>
+      <month>8</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Transport HH</category>
+    <description>Einzelkarte</description>
+  </expense>
+  <expense>
+    <id>3142</id>
+    <amount>3.20</amount>
+    <date>
+      <day>2</day>
+      <month>8</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Transport HH</category>
+    <description>Einzelkarte</description>
   </expense>
 </expenses>
