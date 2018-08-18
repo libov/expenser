@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>3143</last_expense_id>
+  <last_expense_id>3145</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -37428,5 +37428,29 @@
     <withdrawn>No</withdrawn>
     <category>Other</category>
     <description>PAYPAL Lenses</description>
+  </expense>
+  <expense>
+    <id>3144</id>
+    <amount>8.43</amount>
+    <date>
+      <day>16</day>
+      <month>8</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>3145</id>
+    <amount>15.09</amount>
+    <date>
+      <day>17</day>
+      <month>8</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>TESCO</description>
   </expense>
 </expenses>
