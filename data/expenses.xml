@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>3161</last_expense_id>
+  <last_expense_id>3162</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -36849,7 +36849,7 @@
       <month>7</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -36861,7 +36861,7 @@
       <month>7</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>ESSO Diesel</description>
   </expense>
@@ -37644,5 +37644,17 @@
     <withdrawn>Yes</withdrawn>
     <category>Travel</category>
     <description>BP-JAGLOWICE Diesel Trip Ungvar</description>
+  </expense>
+  <expense>
+    <id>3162</id>
+    <amount>258.48</amount>
+    <date>
+      <day>30</day>
+      <month>7</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Music equipment</category>
+    <description>SIXT car rental for piano transport</description>
   </expense>
 </expenses>
