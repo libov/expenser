@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>3145</last_expense_id>
+  <last_expense_id>3148</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -37452,5 +37452,41 @@
     <withdrawn>No</withdrawn>
     <category>Food</category>
     <description>TESCO</description>
+  </expense>
+  <expense>
+    <id>3146</id>
+    <amount>19.96</amount>
+    <date>
+      <day>11</day>
+      <month>8</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>3147</id>
+    <amount>1.78</amount>
+    <date>
+      <day>2</day>
+      <month>8</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>3148</id>
+    <amount>9.61</amount>
+    <date>
+      <day>13</day>
+      <month>8</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>PENNY</description>
   </expense>
 </expenses>
