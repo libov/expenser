@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>3157</last_expense_id>
+  <last_expense_id>3161</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -37065,7 +37065,7 @@
       <month>7</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>NETTO</description>
   </expense>
@@ -37077,7 +37077,7 @@
       <month>7</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Travel</category>
     <description>TANKCENTER JULIA trip Ungvar</description>
   </expense>
@@ -37101,7 +37101,7 @@
       <month>7</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>MR WASH Diesel</description>
   </expense>
@@ -37596,5 +37596,53 @@
     <withdrawn>Yes</withdrawn>
     <category>Presents</category>
     <description>PAYPAL FLIXBUS Artemaki</description>
+  </expense>
+  <expense>
+    <id>3158</id>
+    <amount>27.30</amount>
+    <date>
+      <day>26</day>
+      <month>7</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Travel</category>
+    <description>ESSO Diesel Trip Uzhgorod</description>
+  </expense>
+  <expense>
+    <id>3159</id>
+    <amount>193.04</amount>
+    <date>
+      <day>30</day>
+      <month>7</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Wilster house purchase</category>
+    <description>SPARDA Finanzierung</description>
+  </expense>
+  <expense>
+    <id>3160</id>
+    <amount>15.70</amount>
+    <date>
+      <day>28</day>
+      <month>7</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Travel</category>
+    <description>ARGE Diesel Trip Ungvar</description>
+  </expense>
+  <expense>
+    <id>3161</id>
+    <amount>20.04</amount>
+    <date>
+      <day>28</day>
+      <month>7</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Travel</category>
+    <description>BP-JAGLOWICE Diesel Trip Ungvar</description>
   </expense>
 </expenses>
