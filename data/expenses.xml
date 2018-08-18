@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>3152</last_expense_id>
+  <last_expense_id>3157</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -36525,7 +36525,7 @@
       <month>7</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -36555,13 +36555,13 @@
   </expense>
   <expense>
     <id>3071</id>
-    <amount>5.13</amount>
+    <amount>5.31</amount>
     <date>
       <day>18</day>
       <month>7</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -36741,7 +36741,7 @@
       <month>7</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>ROSSMANN (cosmetics)</description>
   </expense>
@@ -36873,7 +36873,7 @@
       <month>7</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Restaurant</category>
     <description>McDonalds icecream with Artemaki</description>
   </expense>
@@ -37536,5 +37536,65 @@
     <withdrawn>No</withdrawn>
     <category>Travel</category>
     <description>TANKCENTER Trip Uzhgorod</description>
+  </expense>
+  <expense>
+    <id>3153</id>
+    <amount>35.15</amount>
+    <date>
+      <day>16</day>
+      <month>7</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Car</category>
+    <description>PAYPAL eBAY Xenon Steuergeraet</description>
+  </expense>
+  <expense>
+    <id>3154</id>
+    <amount>10.00</amount>
+    <date>
+      <day>15</day>
+      <month>7</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Other</category>
+    <description>FONIC</description>
+  </expense>
+  <expense>
+    <id>3155</id>
+    <amount>25.40</amount>
+    <date>
+      <day>18</day>
+      <month>8</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Music equipment</category>
+    <description>PAYPAL THOMANN Piano tuning hammer etc</description>
+  </expense>
+  <expense>
+    <id>3156</id>
+    <amount>19.99</amount>
+    <date>
+      <day>20</day>
+      <month>7</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Flat</category>
+    <description>KABELDEUTSCHLAND 07/2018</description>
+  </expense>
+  <expense>
+    <id>3157</id>
+    <amount>11.99</amount>
+    <date>
+      <day>18</day>
+      <month>7</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Presents</category>
+    <description>PAYPAL FLIXBUS Artemaki</description>
   </expense>
 </expenses>
