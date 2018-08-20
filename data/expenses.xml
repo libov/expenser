@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>3167</last_expense_id>
+  <last_expense_id>3168</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -37716,5 +37716,17 @@
     <withdrawn>No</withdrawn>
     <category>Cash</category>
     <description>for FOOD</description>
+  </expense>
+  <expense>
+    <id>3168</id>
+    <amount>180.92</amount>
+    <date>
+      <day>21</day>
+      <month>8</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>PAYPAL RAKUTEN Sommerreifen</description>
   </expense>
 </expenses>
