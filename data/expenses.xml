@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>3168</last_expense_id>
+  <last_expense_id>3174</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -37728,5 +37728,77 @@
     <withdrawn>No</withdrawn>
     <category>Car</category>
     <description>PAYPAL RAKUTEN Sommerreifen</description>
+  </expense>
+  <expense>
+    <id>3169</id>
+    <amount>12.43</amount>
+    <date>
+      <day>20</day>
+      <month>8</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>3170</id>
+    <amount>2.86</amount>
+    <date>
+      <day>21</day>
+      <month>8</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>3171</id>
+    <amount>4.93</amount>
+    <date>
+      <day>22</day>
+      <month>8</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>3172</id>
+    <amount>2.23</amount>
+    <date>
+      <day>23</day>
+      <month>8</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>3173</id>
+    <amount>6.14</amount>
+    <date>
+      <day>21</day>
+      <month>8</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>3174</id>
+    <amount>1.44</amount>
+    <date>
+      <day>22</day>
+      <month>8</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
   </expense>
 </expenses>
