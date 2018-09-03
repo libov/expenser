@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>3175</last_expense_id>
+  <last_expense_id>3185</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -37812,5 +37812,125 @@
     <withdrawn>No</withdrawn>
     <category>Car</category>
     <description>ATW various</description>
+  </expense>
+  <expense>
+    <id>3176</id>
+    <amount>20.00</amount>
+    <date>
+      <day>24</day>
+      <month>8</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Cash</category>
+    <description>for FOOD</description>
+  </expense>
+  <expense>
+    <id>3177</id>
+    <amount>50.00</amount>
+    <date>
+      <day>24</day>
+      <month>8</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Piano lessons</category>
+    <description>2x</description>
+  </expense>
+  <expense>
+    <id>3178</id>
+    <amount>50.00</amount>
+    <date>
+      <day>24</day>
+      <month>8</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Travel</category>
+    <description>varoius expenses in Ungvar 08/2018 (restaurant etc)</description>
+  </expense>
+  <expense>
+    <id>3179</id>
+    <amount>50.00</amount>
+    <date>
+      <day>24</day>
+      <month>8</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>Tyres eBay Kleinanzeigen</description>
+  </expense>
+  <expense>
+    <id>3180</id>
+    <amount>13.25</amount>
+    <date>
+      <day>23</day>
+      <month>8</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>3181</id>
+    <amount>7.86</amount>
+    <date>
+      <day>24</day>
+      <month>8</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>NETTO</description>
+  </expense>
+  <expense>
+    <id>3182</id>
+    <amount>8.59</amount>
+    <date>
+      <day>25</day>
+      <month>8</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>NETTO</description>
+  </expense>
+  <expense>
+    <id>3183</id>
+    <amount>20.04</amount>
+    <date>
+      <day>21</day>
+      <month>8</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>HEM Diesel</description>
+  </expense>
+  <expense>
+    <id>3184</id>
+    <amount>4.49</amount>
+    <date>
+      <day>2</day>
+      <month>9</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>PAYPAL EBAY clips</description>
+  </expense>
+  <expense>
+    <id>3185</id>
+    <amount>16.28</amount>
+    <date>
+      <day>2</day>
+      <month>9</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>PAYPAL EBAY Radhausverkleidung</description>
   </expense>
 </expenses>
