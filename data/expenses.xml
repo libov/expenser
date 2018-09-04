@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>3190</last_expense_id>
+  <last_expense_id>3192</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -37992,5 +37992,29 @@
     <withdrawn>No</withdrawn>
     <category>Wilster</category>
     <description>OBI Zementmoertel</description>
+  </expense>
+  <expense>
+    <id>3191</id>
+    <amount>3.29</amount>
+    <date>
+      <day>3</day>
+      <month>9</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>PAYPAL EBAY OSRAM Standlicht</description>
+  </expense>
+  <expense>
+    <id>3192</id>
+    <amount>85.50</amount>
+    <date>
+      <day>3</day>
+      <month>9</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>PAYPAL EBAY EOLYS</description>
   </expense>
 </expenses>
