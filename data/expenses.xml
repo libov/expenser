@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>3193</last_expense_id>
+  <last_expense_id>3197</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -38009,7 +38009,7 @@
     <id>3192</id>
     <amount>85.50</amount>
     <date>
-      <day>3</day>
+      <day>4</day>
       <month>9</month>
       <year>2018</year>
     </date>
@@ -38028,5 +38028,53 @@
     <withdrawn>No</withdrawn>
     <category>Restaurant</category>
     <description>ANDRONACO Pizza</description>
+  </expense>
+  <expense>
+    <id>3194</id>
+    <amount>10.04</amount>
+    <date>
+      <day>2</day>
+      <month>9</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>STAR Diesel</description>
+  </expense>
+  <expense>
+    <id>3195</id>
+    <amount>15.22</amount>
+    <date>
+      <day>3</day>
+      <month>9</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>HEMDiesel</description>
+  </expense>
+  <expense>
+    <id>3196</id>
+    <amount>10.01</amount>
+    <date>
+      <day>26</day>
+      <month>8</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>JULIA HOFER Diesel</description>
+  </expense>
+  <expense>
+    <id>3197</id>
+    <amount>15.07</amount>
+    <date>
+      <day>29</day>
+      <month>8</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>ESSO Diesel</description>
   </expense>
 </expenses>
