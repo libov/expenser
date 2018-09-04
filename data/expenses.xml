@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>3192</last_expense_id>
+  <last_expense_id>3193</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -38016,5 +38016,17 @@
     <withdrawn>No</withdrawn>
     <category>Car</category>
     <description>PAYPAL EBAY EOLYS</description>
+  </expense>
+  <expense>
+    <id>3193</id>
+    <amount>6.50</amount>
+    <date>
+      <day>4</day>
+      <month>9</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Restaurant</category>
+    <description>ANDRONACO Pizza</description>
   </expense>
 </expenses>
