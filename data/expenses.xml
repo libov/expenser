@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>3200</last_expense_id>
+  <last_expense_id>3201</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -38112,5 +38112,17 @@
     <withdrawn>No</withdrawn>
     <category>Cash</category>
     <description>DESY for FOOD</description>
+  </expense>
+  <expense>
+    <id>3201</id>
+    <amount>1.75</amount>
+    <date>
+      <day>12</day>
+      <month>9</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Other</category>
+    <description>PAYPAL EBAY Ladekabel</description>
   </expense>
 </expenses>
