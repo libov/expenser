@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>3216</last_expense_id>
+  <last_expense_id>3220</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -38304,5 +38304,53 @@
     <withdrawn>No</withdrawn>
     <category>Food</category>
     <description>EDEKA</description>
+  </expense>
+  <expense>
+    <id>3217</id>
+    <amount>5.24</amount>
+    <date>
+      <day>1</day>
+      <month>9</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>ALDI</description>
+  </expense>
+  <expense>
+    <id>3218</id>
+    <amount>15.00</amount>
+    <date>
+      <day>7</day>
+      <month>9</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>JULIA HOFER Diesel</description>
+  </expense>
+  <expense>
+    <id>3219</id>
+    <amount>10.00</amount>
+    <date>
+      <day>6</day>
+      <month>9</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>KIESOW window buttons</description>
+  </expense>
+  <expense>
+    <id>3220</id>
+    <amount>4.00</amount>
+    <date>
+      <day>4</day>
+      <month>9</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Restaurant</category>
+    <description>HOTEL CAP POLONIO water</description>
   </expense>
 </expenses>
