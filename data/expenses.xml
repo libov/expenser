@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>3235</last_expense_id>
+  <last_expense_id>3236</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -38532,5 +38532,17 @@
     <withdrawn>Yes</withdrawn>
     <category>Flat</category>
     <description>VODAFONE 08/2018</description>
+  </expense>
+  <expense>
+    <id>3236</id>
+    <amount>8.53</amount>
+    <date>
+      <day>15</day>
+      <month>9</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
   </expense>
 </expenses>
