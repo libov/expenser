@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>3227</last_expense_id>
+  <last_expense_id>3233</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -38436,5 +38436,77 @@
     <withdrawn>Yes</withdrawn>
     <category>Travel</category>
     <description>ORLEN Poland Diesel</description>
+  </expense>
+  <expense>
+    <id>3228</id>
+    <amount>5.00</amount>
+    <date>
+      <day>10</day>
+      <month>9</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>KIESOW Pumpe</description>
+  </expense>
+  <expense>
+    <id>3229</id>
+    <amount>79.90</amount>
+    <date>
+      <day>6</day>
+      <month>9</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>KIESOW Ruecklicht</description>
+  </expense>
+  <expense>
+    <id>3230</id>
+    <amount>5.26</amount>
+    <date>
+      <day>14</day>
+      <month>9</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>EDEKA</description>
+  </expense>
+  <expense>
+    <id>3231</id>
+    <amount>5.10</amount>
+    <date>
+      <day>13</day>
+      <month>9</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDOL</description>
+  </expense>
+  <expense>
+    <id>3232</id>
+    <amount>20.00</amount>
+    <date>
+      <day>13</day>
+      <month>9</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>HEM Diesel</description>
+  </expense>
+  <expense>
+    <id>3233</id>
+    <amount>23.49</amount>
+    <date>
+      <day>14</day>
+      <month>9</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Wilster</category>
+    <description>OBI Gasflasche tausch</description>
   </expense>
 </expenses>
