@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>3234</last_expense_id>
+  <last_expense_id>3235</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -37725,7 +37725,7 @@
       <month>8</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>PAYPAL RAKUTEN Sommerreifen</description>
   </expense>
@@ -37761,7 +37761,7 @@
       <month>8</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -37773,7 +37773,7 @@
       <month>8</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -37797,7 +37797,7 @@
       <month>8</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -37809,7 +37809,7 @@
       <month>8</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>ATW various</description>
   </expense>
@@ -37869,7 +37869,7 @@
       <month>8</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -38520,5 +38520,17 @@
     <withdrawn>Yes</withdrawn>
     <category>Travel</category>
     <description>ORLEN Poland Diesel</description>
+  </expense>
+  <expense>
+    <id>3235</id>
+    <amount>19.99</amount>
+    <date>
+      <day>22</day>
+      <month>8</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Flat</category>
+    <description>VODAFONE 08/2018</description>
   </expense>
 </expenses>
