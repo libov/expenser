@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>3236</last_expense_id>
+  <last_expense_id>3238</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -38544,5 +38544,29 @@
     <withdrawn>No</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>3237</id>
+    <amount>1.58</amount>
+    <date>
+      <day>15</day>
+      <month>9</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>ALDI</description>
+  </expense>
+  <expense>
+    <id>3238</id>
+    <amount>39.00</amount>
+    <date>
+      <day>24</day>
+      <month>8</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>ATW brakes</description>
   </expense>
 </expenses>
