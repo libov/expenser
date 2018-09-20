@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>3238</last_expense_id>
+  <last_expense_id>3243</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -38568,5 +38568,65 @@
     <withdrawn>No</withdrawn>
     <category>Car</category>
     <description>ATW brakes</description>
+  </expense>
+  <expense>
+    <id>3239</id>
+    <amount>2.17</amount>
+    <date>
+      <day>17</day>
+      <month>9</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>3240</id>
+    <amount>4.64</amount>
+    <date>
+      <day>19</day>
+      <month>9</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>3241</id>
+    <amount>3.67</amount>
+    <date>
+      <day>20</day>
+      <month>9</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>3242</id>
+    <amount>5.97</amount>
+    <date>
+      <day>18</day>
+      <month>9</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>3243</id>
+    <amount>15.03</amount>
+    <date>
+      <day>19</day>
+      <month>9</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>ESSO Diesel</description>
   </expense>
 </expenses>
