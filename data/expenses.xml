@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>3245</last_expense_id>
+  <last_expense_id>3249</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -38652,5 +38652,53 @@
     <withdrawn>No</withdrawn>
     <category>Travel</category>
     <description>RYANAIR Athens</description>
+  </expense>
+  <expense>
+    <id>3246</id>
+    <amount>2.72</amount>
+    <date>
+      <day>24</day>
+      <month>9</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>3247</id>
+    <amount>3.24</amount>
+    <date>
+      <day>25</day>
+      <month>9</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>3248</id>
+    <amount>9.25</amount>
+    <date>
+      <day>22</day>
+      <month>9</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>3249</id>
+    <amount>3.99</amount>
+    <date>
+      <day>25</day>
+      <month>9</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>LIDL KFZ Ladeadapter</description>
   </expense>
 </expenses>
