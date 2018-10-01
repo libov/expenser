@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>3255</last_expense_id>
+  <last_expense_id>3259</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -38181,7 +38181,7 @@
       <month>9</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -38289,7 +38289,7 @@
       <month>9</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>EDEKA</description>
   </expense>
@@ -38337,7 +38337,7 @@
       <month>9</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>KIESOW window buttons</description>
   </expense>
@@ -38457,7 +38457,7 @@
       <month>9</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>KIESOW Ruecklicht</description>
   </expense>
@@ -38772,5 +38772,53 @@
     <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>STEMA Reifenmontage </description>
+  </expense>
+  <expense>
+    <id>3256</id>
+    <amount>73.00</amount>
+    <date>
+      <day>5</day>
+      <month>9</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Car</category>
+    <description>PAYPAL EBAY Unterfahrschutz</description>
+  </expense>
+  <expense>
+    <id>3257</id>
+    <amount>69.70</amount>
+    <date>
+      <day>5</day>
+      <month>9</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Car</category>
+    <description>PAYPAL EBAY ...</description>
+  </expense>
+  <expense>
+    <id>3258</id>
+    <amount>24.50</amount>
+    <date>
+      <day>5</day>
+      <month>9</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Car</category>
+    <description>PAYPAL EBAY Spurstangenwerkzeug</description>
+  </expense>
+  <expense>
+    <id>3259</id>
+    <amount>9.65</amount>
+    <date>
+      <day>5</day>
+      <month>9</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Cash</category>
+    <description>BAUHAUS return, effectively cash</description>
   </expense>
 </expenses>
