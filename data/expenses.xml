@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>3263</last_expense_id>
+  <last_expense_id>3264</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -38649,7 +38649,7 @@
       <month>9</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -38673,7 +38673,7 @@
       <month>9</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -38844,5 +38844,17 @@
     <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>PAYPAL EBAY Pumpe</description>
+  </expense>
+  <expense>
+    <id>3264</id>
+    <amount>19.99</amount>
+    <date>
+      <day>20</day>
+      <month>9</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Flat</category>
+    <description>KABELDEUTSCHLAND 09/2018</description>
   </expense>
 </expenses>
