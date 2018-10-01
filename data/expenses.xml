@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>3259</last_expense_id>
+  <last_expense_id>3260</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -38193,7 +38193,7 @@
       <month>9</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -38325,7 +38325,7 @@
       <month>9</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>JULIA HOFER Diesel</description>
   </expense>
@@ -38820,5 +38820,17 @@
     <withdrawn>Yes</withdrawn>
     <category>Cash</category>
     <description>BAUHAUS return, effectively cash</description>
+  </expense>
+  <expense>
+    <id>3260</id>
+    <amount>12.99</amount>
+    <date>
+      <day>6</day>
+      <month>9</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Cash</category>
+    <description>ATU return, cash effectively</description>
   </expense>
 </expenses>
