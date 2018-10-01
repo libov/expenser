@@ -38121,7 +38121,7 @@
       <month>9</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Other</category>
     <description>PAYPAL EBAY Ladekabel</description>
   </expense>
@@ -38133,7 +38133,7 @@
       <month>9</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>PAYPAL EBAY Clips</description>
   </expense>
@@ -38145,7 +38145,7 @@
       <month>9</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>PAYPAL EBAY Testkabel Krokodilklemme</description>
   </expense>
@@ -38268,18 +38268,6 @@
     <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
-  </expense>
-  <expense>
-    <id>3214</id>
-    <amount>3.99</amount>
-    <date>
-      <day>11</day>
-      <month>9</month>
-      <year>2018</year>
-    </date>
-    <withdrawn>No</withdrawn>
-    <category>Car</category>
-    <description>ATU Fahrwerkscheck</description>
   </expense>
   <expense>
     <id>3215</id>
@@ -38505,7 +38493,7 @@
       <month>9</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Wilster</category>
     <description>OBI Gasflasche tausch</description>
   </expense>
@@ -38613,7 +38601,7 @@
       <month>9</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -38637,7 +38625,7 @@
       <month>9</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Piano lessons</category>
     <description>2x</description>
   </expense>
@@ -38784,18 +38772,6 @@
     <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>PAYPAL EBAY Unterfahrschutz</description>
-  </expense>
-  <expense>
-    <id>3257</id>
-    <amount>69.70</amount>
-    <date>
-      <day>5</day>
-      <month>9</month>
-      <year>2018</year>
-    </date>
-    <withdrawn>Yes</withdrawn>
-    <category>Car</category>
-    <description>PAYPAL EBAY ...</description>
   </expense>
   <expense>
     <id>3258</id>
