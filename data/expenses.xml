@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>3271</last_expense_id>
+  <last_expense_id>3274</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -38940,5 +38940,41 @@
     <withdrawn>No</withdrawn>
     <category>Food</category>
     <description>EDEKA MARON</description>
+  </expense>
+  <expense>
+    <id>3272</id>
+    <amount>9.98</amount>
+    <date>
+      <day>28</day>
+      <month>9</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Other</category>
+    <description>ROSSMANN Lens liquid</description>
+  </expense>
+  <expense>
+    <id>3273</id>
+    <amount>6.61</amount>
+    <date>
+      <day>28</day>
+      <month>9</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>ALDI</description>
+  </expense>
+  <expense>
+    <id>3274</id>
+    <amount>15.01</amount>
+    <date>
+      <day>29</day>
+      <month>9</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>STAR Diesel</description>
   </expense>
 </expenses>
