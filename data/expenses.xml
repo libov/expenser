@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>3274</last_expense_id>
+  <last_expense_id>3277</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -38901,7 +38901,7 @@
       <month>9</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>EDEKA MARON</description>
   </expense>
@@ -38937,7 +38937,7 @@
       <month>9</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>EDEKA MARON</description>
   </expense>
@@ -38976,5 +38976,41 @@
     <withdrawn>No</withdrawn>
     <category>Car</category>
     <description>STAR Diesel</description>
+  </expense>
+  <expense>
+    <id>3275</id>
+    <amount>15.05</amount>
+    <date>
+      <day>3</day>
+      <month>10</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>TANKCENTER Diesel</description>
+  </expense>
+  <expense>
+    <id>3276</id>
+    <amount>193.04</amount>
+    <date>
+      <day>30</day>
+      <month>9</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Wilster house purchase</category>
+    <description>Finanzierung</description>
+  </expense>
+  <expense>
+    <id>3277</id>
+    <amount>118.00</amount>
+    <date>
+      <day>30</day>
+      <month>9</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Flat</category>
+    <description>STADTWERKE 09/2018</description>
   </expense>
 </expenses>
