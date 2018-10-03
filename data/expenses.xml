@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>3279</last_expense_id>
+  <last_expense_id>3281</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -39036,5 +39036,29 @@
     <withdrawn>Yes</withdrawn>
     <category>Wilster regular</category>
     <description>STADTWERKE 10/2018</description>
+  </expense>
+  <expense>
+    <id>3280</id>
+    <amount>1.00</amount>
+    <date>
+      <day>2</day>
+      <month>10</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Other</category>
+    <description>PAYPAL EBAY USB-C cable</description>
+  </expense>
+  <expense>
+    <id>3281</id>
+    <amount>1.25</amount>
+    <date>
+      <day>2</day>
+      <month>10</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Other</category>
+    <description>PAYPAL EBAY USB-C cable</description>
   </expense>
 </expenses>
