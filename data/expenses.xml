@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>3277</last_expense_id>
+  <last_expense_id>3279</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -38889,7 +38889,7 @@
       <month>9</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -39012,5 +39012,29 @@
     <withdrawn>Yes</withdrawn>
     <category>Flat</category>
     <description>STADTWERKE 09/2018</description>
+  </expense>
+  <expense>
+    <id>3278</id>
+    <amount>173.47</amount>
+    <date>
+      <day>1</day>
+      <month>10</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Flat</category>
+    <description>WEG 10/2018</description>
+  </expense>
+  <expense>
+    <id>3279</id>
+    <amount>165.00</amount>
+    <date>
+      <day>1</day>
+      <month>10</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Wilster regular</category>
+    <description>STADTWERKE 10/2018</description>
   </expense>
 </expenses>
