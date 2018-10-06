@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>3282</last_expense_id>
+  <last_expense_id>3290</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -39072,5 +39072,101 @@
     <withdrawn>No</withdrawn>
     <category>Car</category>
     <description>PAYPAL EBAY Spiegel</description>
+  </expense>
+  <expense>
+    <id>3283</id>
+    <amount>15.05</amount>
+    <date>
+      <day>5</day>
+      <month>10</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Restaurant</category>
+    <description>SCHWEINSKE</description>
+  </expense>
+  <expense>
+    <id>3284</id>
+    <amount>4.28</amount>
+    <date>
+      <day>4</day>
+      <month>10</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>3285</id>
+    <amount>19.40</amount>
+    <date>
+      <day>5</day>
+      <month>10</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Wilster</category>
+    <description>HORNBACH Loetlampe, Feuerzeug</description>
+  </expense>
+  <expense>
+    <id>3286</id>
+    <amount>6.43</amount>
+    <date>
+      <day>6</day>
+      <month>10</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>EDEKA MARON</description>
+  </expense>
+  <expense>
+    <id>3287</id>
+    <amount>5.99</amount>
+    <date>
+      <day>6</day>
+      <month>10</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Wilster</category>
+    <description>ALDI Rohrzange</description>
+  </expense>
+  <expense>
+    <id>3288</id>
+    <amount>3.92</amount>
+    <date>
+      <day>6</day>
+      <month>10</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>ALDI</description>
+  </expense>
+  <expense>
+    <id>3289</id>
+    <amount>3.49</amount>
+    <date>
+      <day>6</day>
+      <month>10</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Wilster</category>
+    <description>OBI Wellplatte PVC</description>
+  </expense>
+  <expense>
+    <id>3290</id>
+    <amount>13.91</amount>
+    <date>
+      <day>6</day>
+      <month>10</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Wilster</category>
+    <description>OBI Schraubendreher Set, Flachverbinder</description>
   </expense>
 </expenses>
