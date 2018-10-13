@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>3293</last_expense_id>
+  <last_expense_id>3296</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -39204,5 +39204,41 @@
     <withdrawn>No</withdrawn>
     <category>Car</category>
     <description>STAR Diesel</description>
+  </expense>
+  <expense>
+    <id>3294</id>
+    <amount>3.34</amount>
+    <date>
+      <day>12</day>
+      <month>10</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>GALAXIAS</description>
+  </expense>
+  <expense>
+    <id>3295</id>
+    <amount>8.00</amount>
+    <date>
+      <day>12</day>
+      <month>10</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Restaurant</category>
+    <description>ALATOPIPERO Kalamaki</description>
+  </expense>
+  <expense>
+    <id>3296</id>
+    <amount>1.68</amount>
+    <date>
+      <day>13</day>
+      <month>10</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>GALAXIAS</description>
   </expense>
 </expenses>
