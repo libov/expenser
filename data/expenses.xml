@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>3296</last_expense_id>
+  <last_expense_id>3299</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -39240,5 +39240,41 @@
     <withdrawn>No</withdrawn>
     <category>Food</category>
     <description>GALAXIAS</description>
+  </expense>
+  <expense>
+    <id>3297</id>
+    <amount>10.00</amount>
+    <date>
+      <day>13</day>
+      <month>10</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Other</category>
+    <description>Haircut</description>
+  </expense>
+  <expense>
+    <id>3298</id>
+    <amount>32.10</amount>
+    <date>
+      <day>13</day>
+      <month>10</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>GALAXIAS</description>
+  </expense>
+  <expense>
+    <id>3299</id>
+    <amount>30.00</amount>
+    <date>
+      <day>11</day>
+      <month>10</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Travel</category>
+    <description>CASH for Loutraki</description>
   </expense>
 </expenses>
