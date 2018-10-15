@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>3303</last_expense_id>
+  <last_expense_id>3305</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -39324,5 +39324,29 @@
     <withdrawn>No</withdrawn>
     <category>Restaurant</category>
     <description>DOLCELATO Ice-cream</description>
+  </expense>
+  <expense>
+    <id>3304</id>
+    <amount>2.78</amount>
+    <date>
+      <day>15</day>
+      <month>10</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>GALAXIAS Bier</description>
+  </expense>
+  <expense>
+    <id>3305</id>
+    <amount>1.80</amount>
+    <date>
+      <day>14</day>
+      <month>10</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Restaurant</category>
+    <description>DA ALMA Tea</description>
   </expense>
 </expenses>
