@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>3309</last_expense_id>
+  <last_expense_id>3313</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -39396,5 +39396,53 @@
     <withdrawn>No</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>3310</id>
+    <amount>2.12</amount>
+    <date>
+      <day>11</day>
+      <month>10</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>EDEKA</description>
+  </expense>
+  <expense>
+    <id>3311</id>
+    <amount>4.50</amount>
+    <date>
+      <day>11</day>
+      <month>10</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Travel</category>
+    <description>DM for Athens trip</description>
+  </expense>
+  <expense>
+    <id>3312</id>
+    <amount>8.26</amount>
+    <date>
+      <day>11</day>
+      <month>10</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Presents</category>
+    <description>EDEKA sweets Artemis</description>
+  </expense>
+  <expense>
+    <id>3313</id>
+    <amount>3.99</amount>
+    <date>
+      <day>11</day>
+      <month>10</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Presents</category>
+    <description>DAENISCHES BETT Kofferwaage</description>
   </expense>
 </expenses>
