@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>3313</last_expense_id>
+  <last_expense_id>3315</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -39444,5 +39444,29 @@
     <withdrawn>No</withdrawn>
     <category>Presents</category>
     <description>DAENISCHES BETT Kofferwaage</description>
+  </expense>
+  <expense>
+    <id>3314</id>
+    <amount>10.00</amount>
+    <date>
+      <day>11</day>
+      <month>10</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>BFT Diesel</description>
+  </expense>
+  <expense>
+    <id>3315</id>
+    <amount>23.17</amount>
+    <date>
+      <day>11</day>
+      <month>10</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Travel</category>
+    <description>HEM Diesel 53.17 - PAYPAL BlaBlaCar 30.00</description>
   </expense>
 </expenses>
