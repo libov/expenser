@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>3322</last_expense_id>
+  <last_expense_id>3323</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -39552,5 +39552,17 @@
     <withdrawn>No</withdrawn>
     <category>Car</category>
     <description>ATW Gluehkerze etc.</description>
+  </expense>
+  <expense>
+    <id>3323</id>
+    <amount>18.83</amount>
+    <date>
+      <day>17</day>
+      <month>10</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>PAYPAL EBAY chemicals</description>
   </expense>
 </expenses>
