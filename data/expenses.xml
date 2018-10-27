@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>3337</last_expense_id>
+  <last_expense_id>3346</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -39732,5 +39732,113 @@
     <withdrawn>No</withdrawn>
     <category>Restaurant</category>
     <description>PAYPAL Pizza</description>
+  </expense>
+  <expense>
+    <id>3338</id>
+    <amount>20.00</amount>
+    <date>
+      <day>26</day>
+      <month>10</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Cash</category>
+    <description>for FOOD</description>
+  </expense>
+  <expense>
+    <id>3339</id>
+    <amount>13.11</amount>
+    <date>
+      <day>22</day>
+      <month>10</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>3340</id>
+    <amount>11.01</amount>
+    <date>
+      <day>26</day>
+      <month>10</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>3341</id>
+    <amount>9.36</amount>
+    <date>
+      <day>23</day>
+      <month>10</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>3342</id>
+    <amount>4.85</amount>
+    <date>
+      <day>25</day>
+      <month>10</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>3343</id>
+    <amount>5.46</amount>
+    <date>
+      <day>26</day>
+      <month>10</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>3344</id>
+    <amount>20.00</amount>
+    <date>
+      <day>23</day>
+      <month>10</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>HEM Diesel</description>
+  </expense>
+  <expense>
+    <id>3345</id>
+    <amount>1.62</amount>
+    <date>
+      <day>19</day>
+      <month>10</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>SKLAVENITIS</description>
+  </expense>
+  <expense>
+    <id>3346</id>
+    <amount>9.30</amount>
+    <date>
+      <day>20</day>
+      <month>10</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Restaurant</category>
+    <description>MASINAS rooftop Kafezaki</description>
   </expense>
 </expenses>
