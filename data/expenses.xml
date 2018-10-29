@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>3347</last_expense_id>
+  <last_expense_id>3348</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -39105,7 +39105,7 @@
       <month>10</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Wilster</category>
     <description>HORNBACH Loetlampe, Feuerzeug</description>
   </expense>
@@ -39117,7 +39117,7 @@
       <month>10</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>EDEKA MARON</description>
   </expense>
@@ -39141,7 +39141,7 @@
       <month>10</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>ALDI</description>
   </expense>
@@ -39153,7 +39153,7 @@
       <month>10</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Wilster</category>
     <description>OBI Wellplatte PVC</description>
   </expense>
@@ -39165,7 +39165,7 @@
       <month>10</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Wilster</category>
     <description>OBI Schraubendreher Set, Flachverbinder</description>
   </expense>
@@ -39189,7 +39189,7 @@
       <month>10</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>PAYPAL DHL Rueckversand </description>
   </expense>
@@ -39201,7 +39201,7 @@
       <month>10</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>STAR Diesel</description>
   </expense>
@@ -39381,7 +39381,7 @@
       <month>10</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -39393,7 +39393,7 @@
       <month>10</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -39852,5 +39852,17 @@
     <withdrawn>No</withdrawn>
     <category>Car</category>
     <description>VERWARNUNGSGELD / BUSSGELD</description>
+  </expense>
+  <expense>
+    <id>3348</id>
+    <amount>247.08</amount>
+    <date>
+      <day>9</day>
+      <month>10</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Wilster regular</category>
+    <description>GRUNDSTEUER B inkl Mahnung</description>
   </expense>
 </expenses>
