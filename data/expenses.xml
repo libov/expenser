@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>3351</last_expense_id>
+  <last_expense_id>3357</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -39741,7 +39741,7 @@
       <month>10</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Cash</category>
     <description>for FOOD</description>
   </expense>
@@ -39765,7 +39765,7 @@
       <month>10</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -39801,7 +39801,7 @@
       <month>10</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -39873,7 +39873,7 @@
       <month>10</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -39885,7 +39885,7 @@
       <month>10</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -39900,5 +39900,77 @@
     <withdrawn>Yes</withdrawn>
     <category>Travel</category>
     <description>ATHENS Metro Ticket</description>
+  </expense>
+  <expense>
+    <id>3352</id>
+    <amount>118.00</amount>
+    <date>
+      <day>29</day>
+      <month>10</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Flat</category>
+    <description>STADTWERKE 10/2018</description>
+  </expense>
+  <expense>
+    <id>3353</id>
+    <amount>20.02</amount>
+    <date>
+      <day>29</day>
+      <month>10</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Flat</category>
+    <description>KABELDEUTSCHLAND 10/2018</description>
+  </expense>
+  <expense>
+    <id>3354</id>
+    <amount>193.04</amount>
+    <date>
+      <day>30</day>
+      <month>10</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Wilster house purchase</category>
+    <description>SPARDA KREDIT</description>
+  </expense>
+  <expense>
+    <id>3355</id>
+    <amount>4.56</amount>
+    <date>
+      <day>29</day>
+      <month>10</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>3356</id>
+    <amount>4.38</amount>
+    <date>
+      <day>30</day>
+      <month>10</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>3357</id>
+    <amount>15.00</amount>
+    <date>
+      <day>29</day>
+      <month>10</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Car</category>
+    <description>BFT Diesel</description>
   </expense>
 </expenses>
