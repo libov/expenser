@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>3360</last_expense_id>
+  <last_expense_id>3365</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -40008,5 +40008,65 @@
     <withdrawn>No</withdrawn>
     <category>Other</category>
     <description>FONIC</description>
+  </expense>
+  <expense>
+    <id>3361</id>
+    <amount>8.04</amount>
+    <date>
+      <day>1</day>
+      <month>11</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>3362</id>
+    <amount>4.95</amount>
+    <date>
+      <day>3</day>
+      <month>11</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>3363</id>
+    <amount>6.90</amount>
+    <date>
+      <day>2</day>
+      <month>11</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>3364</id>
+    <amount>12.59</amount>
+    <date>
+      <day>3</day>
+      <month>11</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>3365</id>
+    <amount>20.18</amount>
+    <date>
+      <day>3</day>
+      <month>11</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>KATTNERS Diesel</description>
   </expense>
 </expenses>
