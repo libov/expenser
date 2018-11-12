@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>3381</last_expense_id>
+  <last_expense_id>3383</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -39981,7 +39981,7 @@
       <month>11</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -39993,7 +39993,7 @@
       <month>11</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Piano lessons</category>
     <description>2x</description>
   </expense>
@@ -40017,7 +40017,7 @@
       <month>11</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -40029,7 +40029,7 @@
       <month>11</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -40041,7 +40041,7 @@
       <month>11</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -40053,7 +40053,7 @@
       <month>11</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -40065,7 +40065,7 @@
       <month>11</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>KATTNERS Diesel</description>
   </expense>
@@ -40113,7 +40113,7 @@
       <month>11</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Piano lessons</category>
     <description>2x</description>
   </expense>
@@ -40209,7 +40209,7 @@
       <month>11</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -40259,6 +40259,30 @@
     </date>
     <withdrawn>No</withdrawn>
     <category>Food</category>
+    <description>NETTO</description>
+  </expense>
+  <expense>
+    <id>3382</id>
+    <amount>5.40</amount>
+    <date>
+      <day>12</day>
+      <month>11</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>3383</id>
+    <amount>9.44</amount>
+    <date>
+      <day>5</day>
+      <month>11</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>No record</category>
     <description>NETTO</description>
   </expense>
 </expenses>
