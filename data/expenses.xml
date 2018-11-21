@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>3383</last_expense_id>
+  <last_expense_id>3389</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -3563,7 +3563,7 @@
     </date>
     <withdrawn>No</withdrawn>
     <category>Clothes</category>
-    <description>H&M Trusy</description>
+    <description>H and M Trusy</description>
   </expense>
   <expense>
     <id>299</id>
@@ -6983,7 +6983,7 @@
     </date>
     <withdrawn>Yes</withdrawn>
     <category>Presents</category>
-    <description>C&A clothes for Polina</description>
+    <description>CA clothes for Polina</description>
   </expense>
   <expense>
     <id>585</id>
@@ -15635,7 +15635,7 @@
     </date>
     <withdrawn>Yes</withdrawn>
     <category>Other</category>
-    <description>WORTMANN & BEYLE Kniescheine</description>
+    <description>WORTMANN BEYLE Kniescheine</description>
   </expense>
   <expense>
     <id>1309</id>
@@ -16175,7 +16175,7 @@
     </date>
     <withdrawn>Yes</withdrawn>
     <category>Presents</category>
-    <description>H&M Kostljum Andrjushe</description>
+    <description>HM Kostljum Andrjushe</description>
   </expense>
   <expense>
     <id>1354</id>
@@ -17735,7 +17735,7 @@
     </date>
     <withdrawn>Yes</withdrawn>
     <category>Presents</category>
-    <description>H&M stuff for Polina and Vika and myself as well</description>
+    <description>HM stuff for Polina and Vika and myself as well</description>
   </expense>
   <expense>
     <id>1488</id>
@@ -36431,7 +36431,7 @@
     </date>
     <withdrawn>Yes</withdrawn>
     <category>Presents</category>
-    <description>H&M for Mom</description>
+    <description>HM for Mom</description>
   </expense>
   <expense>
     <id>3061</id>
@@ -40284,5 +40284,77 @@
     <withdrawn>Yes</withdrawn>
     <category>No record</category>
     <description>NETTO</description>
+  </expense>
+  <expense>
+    <id>3384</id>
+    <amount>5.74</amount>
+    <date>
+      <day>13</day>
+      <month>11</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>3385</id>
+    <amount>6.27</amount>
+    <date>
+      <day>14</day>
+      <month>11</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>3386</id>
+    <amount>20.00</amount>
+    <date>
+      <day>13</day>
+      <month>11</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>JET Diesel</description>
+  </expense>
+  <expense>
+    <id>3387</id>
+    <amount>24.98</amount>
+    <date>
+      <day>14</day>
+      <month>11</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Clothes</category>
+    <description>TK Maxx for Suit</description>
+  </expense>
+  <expense>
+    <id>3388</id>
+    <amount>99.99</amount>
+    <date>
+      <day>14</day>
+      <month>11</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Clothes</category>
+    <description>TK Maxx Suit</description>
+  </expense>
+  <expense>
+    <id>3389</id>
+    <amount>1.48</amount>
+    <date>
+      <day>16</day>
+      <month>11</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
   </expense>
 </expenses>
