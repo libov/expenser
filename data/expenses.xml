@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>3392</last_expense_id>
+  <last_expense_id>3398</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -40392,5 +40392,77 @@
     <withdrawn>No</withdrawn>
     <category>Restaurant</category>
     <description>STARBUCKS Coffee</description>
+  </expense>
+  <expense>
+    <id>3393</id>
+    <amount>10.00</amount>
+    <date>
+      <day>19</day>
+      <month>11</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>JULIA HOFER Diesel</description>
+  </expense>
+  <expense>
+    <id>3394</id>
+    <amount>10.00</amount>
+    <date>
+      <day>20</day>
+      <month>11</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Travel</category>
+    <description>SHELL Slovakia</description>
+  </expense>
+  <expense>
+    <id>3395</id>
+    <amount>12.00</amount>
+    <date>
+      <day>17</day>
+      <month>11</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>NETTO</description>
+  </expense>
+  <expense>
+    <id>3396</id>
+    <amount>4.04</amount>
+    <date>
+      <day>16</day>
+      <month>11</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>NETTO</description>
+  </expense>
+  <expense>
+    <id>3397</id>
+    <amount>69.97</amount>
+    <date>
+      <day>19</day>
+      <month>11</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Travel</category>
+    <description>HEM Diesel Trip Uzhgorod</description>
+  </expense>
+  <expense>
+    <id>3398</id>
+    <amount>6.50</amount>
+    <date>
+      <day>19</day>
+      <month>11</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Restaurant</category>
+    <description>ANDRONACO</description>
   </expense>
 </expenses>
