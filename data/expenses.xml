@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>3423</last_expense_id>
+  <last_expense_id>3424</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -40752,5 +40752,17 @@
     <withdrawn>No</withdrawn>
     <category>Other</category>
     <description>FONIC</description>
+  </expense>
+  <expense>
+    <id>3424</id>
+    <amount>10.00</amount>
+    <date>
+      <day>2</day>
+      <month>12</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Presents</category>
+    <description>FONIC mom</description>
   </expense>
 </expenses>
