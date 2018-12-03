@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>3424</last_expense_id>
+  <last_expense_id>3427</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -40764,5 +40764,41 @@
     <withdrawn>No</withdrawn>
     <category>Presents</category>
     <description>FONIC mom</description>
+  </expense>
+  <expense>
+    <id>3425</id>
+    <amount>10.00</amount>
+    <date>
+      <day>2</day>
+      <month>12</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Presents</category>
+    <description>FONIC for mom</description>
+  </expense>
+  <expense>
+    <id>3426</id>
+    <amount>8.76</amount>
+    <date>
+      <day>3</day>
+      <month>12</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Wilster</category>
+    <description>part1 of 20Eur cash: OBI</description>
+  </expense>
+  <expense>
+    <id>3427</id>
+    <amount>11.24</amount>
+    <date>
+      <day>3</day>
+      <month>12</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Cash</category>
+    <description>part1 of 20Eur cash: cash for FOOD</description>
   </expense>
 </expenses>
