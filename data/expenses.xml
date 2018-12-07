@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>3432</last_expense_id>
+  <last_expense_id>3435</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -40860,5 +40860,41 @@
     <withdrawn>No</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>3433</id>
+    <amount>15.03</amount>
+    <date>
+      <day>5</day>
+      <month>12</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>BFT Diesel</description>
+  </expense>
+  <expense>
+    <id>3434</id>
+    <amount>12.00</amount>
+    <date>
+      <day>4</day>
+      <month>12</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>TOOM LED Leuchte</description>
+  </expense>
+  <expense>
+    <id>3435</id>
+    <amount>12.20</amount>
+    <date>
+      <day>3</day>
+      <month>12</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Wilster</category>
+    <description>HORNBACH Eckschienenmoertel</description>
   </expense>
 </expenses>
