@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>3427</last_expense_id>
+  <last_expense_id>3432</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -40800,5 +40800,65 @@
     <withdrawn>No</withdrawn>
     <category>Cash</category>
     <description>part1 of 20Eur cash: cash for FOOD</description>
+  </expense>
+  <expense>
+    <id>3428</id>
+    <amount>5.57</amount>
+    <date>
+      <day>3</day>
+      <month>12</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>3429</id>
+    <amount>3.60</amount>
+    <date>
+      <day>4</day>
+      <month>12</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>3430</id>
+    <amount>14.99</amount>
+    <date>
+      <day>5</day>
+      <month>12</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Wilster</category>
+    <description>LIDL part 1 of 18.45 Hairdryer</description>
+  </expense>
+  <expense>
+    <id>3431</id>
+    <amount>3.46</amount>
+    <date>
+      <day>5</day>
+      <month>12</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL part 2 of 18.45</description>
+  </expense>
+  <expense>
+    <id>3432</id>
+    <amount>6.33</amount>
+    <date>
+      <day>6</day>
+      <month>12</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
   </expense>
 </expenses>
