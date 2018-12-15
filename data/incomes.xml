@@ -1,6 +1,22 @@
 <?xml version="1.0"?>
 <incomes>
 	<entry>
+        <amount>163.90</amount>
+        <date>
+            <month>11</month>
+            <year>2018</year>
+        </date>
+        <description>d-fine Bewerbungsgespraech Reisekosten</description>
+	</entry>
+	<entry>
+        <amount>3931.42</amount>
+        <date>
+            <month>11</month>
+            <year>2018</year>
+        </date>
+        <description>Salary 11/2018</description>
+	</entry>
+	<entry>
         <amount>15.77</amount>
         <date>
             <month>11</month>
