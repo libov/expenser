@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>3467</last_expense_id>
+  <last_expense_id>3473</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -41280,5 +41280,77 @@
     <withdrawn>No</withdrawn>
     <category>Wilster</category>
     <description>OBI Fliesenkleber, Tiefgrund, Profile</description>
+  </expense>
+  <expense>
+    <id>3468</id>
+    <amount>6.86</amount>
+    <date>
+      <day>17</day>
+      <month>12</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>3469</id>
+    <amount>4.25</amount>
+    <date>
+      <day>18</day>
+      <month>12</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>3470</id>
+    <amount>2.38</amount>
+    <date>
+      <day>18</day>
+      <month>12</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>3471</id>
+    <amount>5.90</amount>
+    <date>
+      <day>19</day>
+      <month>12</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>3472</id>
+    <amount>20.00</amount>
+    <date>
+      <day>20</day>
+      <month>12</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>TANKCENTER Diesel</description>
+  </expense>
+  <expense>
+    <id>3473</id>
+    <amount>20.00</amount>
+    <date>
+      <day>16</day>
+      <month>12</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>SHELL Diesel</description>
   </expense>
 </expenses>
