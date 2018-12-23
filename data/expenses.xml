@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>3475</last_expense_id>
+  <last_expense_id>3484</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -40905,7 +40905,7 @@
       <month>12</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>PAYPAL EBAY Stellmotor</description>
   </expense>
@@ -40917,7 +40917,7 @@
       <month>12</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>PAYPAL EBAY Steuergeraet</description>
   </expense>
@@ -40929,7 +40929,7 @@
       <month>12</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>PAYPAL EBAY Stellmotor LWR</description>
   </expense>
@@ -40941,7 +40941,7 @@
       <month>12</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -40953,7 +40953,7 @@
       <month>12</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -41025,7 +41025,7 @@
       <month>12</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>ALDI</description>
   </expense>
@@ -41073,7 +41073,7 @@
       <month>12</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Wilster</category>
     <description>ROLLER various</description>
   </expense>
@@ -41085,7 +41085,7 @@
       <month>12</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>NETTO</description>
   </expense>
@@ -41097,7 +41097,7 @@
       <month>12</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Restaurant</category>
     <description>ANDRONACO with paronts</description>
   </expense>
@@ -41133,7 +41133,7 @@
       <month>12</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Presents</category>
     <description>TCHIBO Coffee</description>
   </expense>
@@ -41145,7 +41145,7 @@
       <month>12</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Wilster</category>
     <description>IKEA Ablagetisch, Lampe, etc.</description>
   </expense>
@@ -41157,7 +41157,7 @@
       <month>12</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Wilster</category>
     <description>TOOM various</description>
   </expense>
@@ -41181,7 +41181,7 @@
       <month>12</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>TANKCENTER JULIA Diesel</description>
   </expense>
@@ -41229,7 +41229,7 @@
       <month>12</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>EDEKA</description>
   </expense>
@@ -41253,7 +41253,7 @@
       <month>12</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>ALDI</description>
   </expense>
@@ -41265,7 +41265,7 @@
       <month>12</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Wilster</category>
     <description>OBI Putzmoertel</description>
   </expense>
@@ -41277,7 +41277,7 @@
       <month>12</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Wilster</category>
     <description>OBI Fliesenkleber, Tiefgrund, Profile</description>
   </expense>
@@ -41349,7 +41349,7 @@
       <month>12</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>SHELL Diesel</description>
   </expense>
@@ -41376,5 +41376,113 @@
     <withdrawn>No</withdrawn>
     <category>Restaurant</category>
     <description>IKEA Hotdog Pommes</description>
+  </expense>
+  <expense>
+    <id>3476</id>
+    <amount>328.00</amount>
+    <date>
+      <day>22</day>
+      <month>12</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Wilster</category>
+    <description>IKEA Sofa + delivery</description>
+  </expense>
+  <expense>
+    <id>3477</id>
+    <amount>57.35</amount>
+    <date>
+      <day>21</day>
+      <month>12</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>TUEV</description>
+  </expense>
+  <expense>
+    <id>3478</id>
+    <amount>1.69</amount>
+    <date>
+      <day>20</day>
+      <month>12</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>WITTHOEFT Bremsreiniger</description>
+  </expense>
+  <expense>
+    <id>3479</id>
+    <amount>20.00</amount>
+    <date>
+      <day>21</day>
+      <month>12</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Cash</category>
+    <description>DESY - various</description>
+  </expense>
+  <expense>
+    <id>3480</id>
+    <amount>33.85</amount>
+    <date>
+      <day>21</day>
+      <month>12</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Wilster</category>
+    <description>PAYPAL FONQ Luftbett</description>
+  </expense>
+  <expense>
+    <id>3481</id>
+    <amount>31.19</amount>
+    <date>
+      <day>22</day>
+      <month>12</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Presents</category>
+    <description>TK MAXX Mom Halat etc.</description>
+  </expense>
+  <expense>
+    <id>3482</id>
+    <amount>1.99</amount>
+    <date>
+      <day>21</day>
+      <month>12</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Wilster</category>
+    <description>OBI Kappe</description>
+  </expense>
+  <expense>
+    <id>3483</id>
+    <amount>3.95</amount>
+    <date>
+      <day>20</day>
+      <month>12</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>3484</id>
+    <amount>240.00</amount>
+    <date>
+      <day>23</day>
+      <month>12</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Category unknown</category>
+    <description>cash from Mercedes -> spent over the last few months (not Dec 2018)</description>
   </expense>
 </expenses>

@@ -1,6 +1,14 @@
 <?xml version="1.0"?>
 <incomes>
 	<entry>
+        <amount>860</amount>
+        <date>
+            <month>12</month>
+            <year>2018</year>
+        </date>
+        <description>Mercedes Verkauf</description>
+	</entry>
+	<entry>
         <amount>163.90</amount>
         <date>
             <month>11</month>
