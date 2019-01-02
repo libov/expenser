@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>3504</last_expense_id>
+  <last_expense_id>3509</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -41724,5 +41724,65 @@
     <withdrawn>No</withdrawn>
     <category>Car</category>
     <description>STAR Diesel</description>
+  </expense>
+  <expense>
+    <id>3505</id>
+    <amount>27.09</amount>
+    <date>
+      <day>2</day>
+      <month>1</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>EDEKA MARKTKAUF</description>
+  </expense>
+  <expense>
+    <id>3506</id>
+    <amount>8.21</amount>
+    <date>
+      <day>2</day>
+      <month>1</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>3507</id>
+    <amount>8.50</amount>
+    <date>
+      <day>2</day>
+      <month>1</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>DM Cosmetics</description>
+  </expense>
+  <expense>
+    <id>3508</id>
+    <amount>13.40</amount>
+    <date>
+      <day>2</day>
+      <month>1</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Restaurant</category>
+    <description>ANDRONACO</description>
+  </expense>
+  <expense>
+    <id>3509</id>
+    <amount>2.28</amount>
+    <date>
+      <day>2</day>
+      <month>1</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>ANDRONACO drinks</description>
   </expense>
 </expenses>
