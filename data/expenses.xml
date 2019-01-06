@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>3512</last_expense_id>
+  <last_expense_id>3516</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -40898,18 +40898,6 @@
     <description>HORNBACH Eckschienenmoertel</description>
   </expense>
   <expense>
-    <id>3436</id>
-    <amount>23.40</amount>
-    <date>
-      <day>11</day>
-      <month>12</month>
-      <year>2018</year>
-    </date>
-    <withdrawn>Yes</withdrawn>
-    <category>Car</category>
-    <description>PAYPAL EBAY Stellmotor</description>
-  </expense>
-  <expense>
     <id>3437</id>
     <amount>55.10</amount>
     <date>
@@ -41037,7 +41025,7 @@
       <month>12</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Presents</category>
     <description>ROSSMANN Drugs Mummy</description>
   </expense>
@@ -41049,7 +41037,7 @@
       <month>12</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>NETTO Biriza Frej</description>
   </expense>
@@ -41241,7 +41229,7 @@
       <month>12</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>NETTO</description>
   </expense>
@@ -41289,7 +41277,7 @@
       <month>12</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -41301,7 +41289,7 @@
       <month>12</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -41820,5 +41808,53 @@
     <withdrawn>No</withdrawn>
     <category>Wilster</category>
     <description>EBAY Schneidkluppe</description>
+  </expense>
+  <expense>
+    <id>3513</id>
+    <amount>4.56</amount>
+    <date>
+      <day>3</day>
+      <month>1</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>3514</id>
+    <amount>30.01</amount>
+    <date>
+      <day>6</day>
+      <month>1</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>STAR Diesel</description>
+  </expense>
+  <expense>
+    <id>3515</id>
+    <amount>18.00</amount>
+    <date>
+      <day>17</day>
+      <month>12</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Car</category>
+    <description>EBAY Stellmotor</description>
+  </expense>
+  <expense>
+    <id>3516</id>
+    <amount>7.00</amount>
+    <date>
+      <day>17</day>
+      <month>12</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Car</category>
+    <description>EBAY Karroseriekleber fuer den Scheinwerfer</description>
   </expense>
 </expenses>
