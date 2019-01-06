@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>3519</last_expense_id>
+  <last_expense_id>3520</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -41385,7 +41385,7 @@
       <month>12</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>TUEV</description>
   </expense>
@@ -41481,7 +41481,7 @@
       <month>12</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Clothes</category>
     <description>KIK part 1 of 58.89</description>
   </expense>
@@ -41493,7 +41493,7 @@
       <month>12</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Wilster</category>
     <description>KIK part 2 of 58.89 - olive oil bottle</description>
   </expense>
@@ -41505,7 +41505,7 @@
       <month>12</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Presents</category>
     <description>KIK part 3 of 58.89 - for Mom, Dad, Artemis</description>
   </expense>
@@ -41589,7 +41589,7 @@
       <month>12</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>ALDI</description>
   </expense>
@@ -41892,5 +41892,17 @@
     <withdrawn>Yes</withdrawn>
     <category>No record</category>
     <description>NETTO </description>
+  </expense>
+  <expense>
+    <id>3520</id>
+    <amount>193.04</amount>
+    <date>
+      <day>30</day>
+      <month>12</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Wilster house purchase</category>
+    <description>SPARDA</description>
   </expense>
 </expenses>
