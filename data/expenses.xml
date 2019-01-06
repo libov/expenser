@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>3517</last_expense_id>
+  <last_expense_id>3519</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -41373,7 +41373,7 @@
       <month>12</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Wilster</category>
     <description>IKEA Sofa + delivery</description>
   </expense>
@@ -41421,7 +41421,7 @@
       <month>12</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Wilster</category>
     <description>PAYPAL FONQ Luftbett</description>
   </expense>
@@ -41445,7 +41445,7 @@
       <month>12</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Wilster</category>
     <description>OBI Kappe</description>
   </expense>
@@ -41517,7 +41517,7 @@
       <month>12</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Wilster</category>
     <description>OBI - Putzmoertel, Profile, LED Lampen, Hanf, etc.</description>
   </expense>
@@ -41529,7 +41529,7 @@
       <month>12</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>EDEKA</description>
   </expense>
@@ -41868,5 +41868,29 @@
     <withdrawn>Yes</withdrawn>
     <category>Flat</category>
     <description>KABELDEUTSCHLAND VODAFONE 12/2018</description>
+  </expense>
+  <expense>
+    <id>3518</id>
+    <amount>29.95</amount>
+    <date>
+      <day>27</day>
+      <month>12</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Presents</category>
+    <description>SIEMES Schuhcenter Mama</description>
+  </expense>
+  <expense>
+    <id>3519</id>
+    <amount>26.70</amount>
+    <date>
+      <day>22</day>
+      <month>12</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>No record</category>
+    <description>NETTO </description>
   </expense>
 </expenses>
