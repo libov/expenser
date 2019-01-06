@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>3516</last_expense_id>
+  <last_expense_id>3517</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -41325,7 +41325,7 @@
       <month>12</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>TANKCENTER Diesel</description>
   </expense>
@@ -41397,7 +41397,7 @@
       <month>12</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>WITTHOEFT Bremsreiniger</description>
   </expense>
@@ -41409,7 +41409,7 @@
       <month>12</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Cash</category>
     <description>DESY - various</description>
   </expense>
@@ -41433,7 +41433,7 @@
       <month>12</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Presents</category>
     <description>TK MAXX Mom Halat etc.</description>
   </expense>
@@ -41457,7 +41457,7 @@
       <month>12</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -41856,5 +41856,17 @@
     <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>EBAY Karroseriekleber fuer den Scheinwerfer</description>
+  </expense>
+  <expense>
+    <id>3517</id>
+    <amount>19.99</amount>
+    <date>
+      <day>21</day>
+      <month>12</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Flat</category>
+    <description>KABELDEUTSCHLAND VODAFONE 12/2018</description>
   </expense>
 </expenses>
