@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>3526</last_expense_id>
+  <last_expense_id>3535</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -41794,7 +41794,7 @@
       <year>2019</year>
     </date>
     <withdrawn>No</withdrawn>
-    <category>Music equipment</category>
+    <category>Other</category>
     <description>EBAY Super Hit</description>
   </expense>
   <expense>
@@ -41970,6 +41970,114 @@
     <amount>15.22</amount>
     <date>
       <day>31</day>
+      <month>12</month>
+      <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>NETTO</description>
+  </expense>
+  <expense>
+    <id>3527</id>
+    <amount>66.98</amount>
+    <date>
+      <day>8</day>
+      <month>1</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Wilster</category>
+    <description>EBAY Rohrpresszange</description>
+  </expense>
+  <expense>
+    <id>3528</id>
+    <amount>48.71</amount>
+    <date>
+      <day>8</day>
+      <month>1</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Wilster</category>
+    <description>SCHORNSTEINFEGER</description>
+  </expense>
+  <expense>
+    <id>3529</id>
+    <amount>20.07</amount>
+    <date>
+      <day>7</day>
+      <month>1</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Wilster</category>
+    <description>HORNBACH various</description>
+  </expense>
+  <expense>
+    <id>3530</id>
+    <amount>20.00</amount>
+    <date>
+      <day>9</day>
+      <month>1</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Cash</category>
+    <description>DESY for food</description>
+  </expense>
+  <expense>
+    <id>3531</id>
+    <amount>10.00</amount>
+    <date>
+      <day>9</day>
+      <month>1</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>VERWARNUNGSGELD / BUSSGELD</description>
+  </expense>
+  <expense>
+    <id>3532</id>
+    <amount>6.50</amount>
+    <date>
+      <day>9</day>
+      <month>1</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Wilster</category>
+    <description>EBAY Fliesenlaser</description>
+  </expense>
+  <expense>
+    <id>3533</id>
+    <amount>0.95</amount>
+    <date>
+      <day>7</day>
+      <month>1</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>3534</id>
+    <amount>11.91</amount>
+    <date>
+      <day>7</day>
+      <month>1</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>3535</id>
+    <amount>3.26</amount>
+    <date>
+      <day>29</day>
       <month>12</month>
       <year>2018</year>
     </date>
