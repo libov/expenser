@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>3535</last_expense_id>
+  <last_expense_id>3546</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -42080,6 +42080,138 @@
       <day>29</day>
       <month>12</month>
       <year>2018</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>NETTO</description>
+  </expense>
+  <expense>
+    <id>3536</id>
+    <amount>13.54</amount>
+    <date>
+      <day>11</day>
+      <month>1</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Wilster</category>
+    <description>OBI Putzmoertel</description>
+  </expense>
+  <expense>
+    <id>3537</id>
+    <amount>1.95</amount>
+    <date>
+      <day>9</day>
+      <month>1</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Wilster</category>
+    <description>HORNBACH Kreide</description>
+  </expense>
+  <expense>
+    <id>3538</id>
+    <amount>14.70</amount>
+    <date>
+      <day>10</day>
+      <month>1</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Restaurant</category>
+    <description>CANTON with Michael</description>
+  </expense>
+  <expense>
+    <id>3539</id>
+    <amount>4.37</amount>
+    <date>
+      <day>8</day>
+      <month>1</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>3540</id>
+    <amount>30.00</amount>
+    <date>
+      <day>11</day>
+      <month>1</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Entertainment</category>
+    <description>CASH back to Mom for Seehundestation Friedrichskoog 12/2018</description>
+  </expense>
+  <expense>
+    <id>3541</id>
+    <amount>3.99</amount>
+    <date>
+      <day>12</day>
+      <month>1</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>ROSSMANN pills</description>
+  </expense>
+  <expense>
+    <id>3542</id>
+    <amount>8.27</amount>
+    <date>
+      <day>12</day>
+      <month>1</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>NETTO</description>
+  </expense>
+  <expense>
+    <id>3543</id>
+    <amount>30.00</amount>
+    <date>
+      <day>13</day>
+      <month>1</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>STAR Diesel</description>
+  </expense>
+  <expense>
+    <id>3544</id>
+    <amount>16.93</amount>
+    <date>
+      <day>12</day>
+      <month>1</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Wilster</category>
+    <description>OBI Putzmoertel</description>
+  </expense>
+  <expense>
+    <id>3545</id>
+    <amount>13.54</amount>
+    <date>
+      <day>14</day>
+      <month>1</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Wilster</category>
+    <description>OBI Putzmoertel</description>
+  </expense>
+  <expense>
+    <id>3546</id>
+    <amount>8.49</amount>
+    <date>
+      <day>14</day>
+      <month>1</month>
+      <year>2019</year>
     </date>
     <withdrawn>No</withdrawn>
     <category>Food</category>
