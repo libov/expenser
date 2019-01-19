@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>3558</last_expense_id>
+  <last_expense_id>3561</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -41834,18 +41834,6 @@
     <description>STAR Diesel</description>
   </expense>
   <expense>
-    <id>3515</id>
-    <amount>18.00</amount>
-    <date>
-      <day>17</day>
-      <month>12</month>
-      <year>2018</year>
-    </date>
-    <withdrawn>Yes</withdrawn>
-    <category>Car</category>
-    <description>EBAY Stellmotor</description>
-  </expense>
-  <expense>
     <id>3516</id>
     <amount>7.00</amount>
     <date>
@@ -41913,7 +41901,7 @@
       <month>1</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Restaurant</category>
     <description>SCHWEINSKE</description>
   </expense>
@@ -41925,7 +41913,7 @@
       <month>1</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>DHL send back the parts eBAY</description>
   </expense>
@@ -41985,7 +41973,7 @@
       <month>1</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Wilster</category>
     <description>EBAY Rohrpresszange</description>
   </expense>
@@ -41997,7 +41985,7 @@
       <month>1</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Wilster</category>
     <description>SCHORNSTEINFEGER</description>
   </expense>
@@ -42009,7 +41997,7 @@
       <month>1</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Wilster</category>
     <description>HORNBACH various</description>
   </expense>
@@ -42021,7 +42009,7 @@
       <month>1</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Cash</category>
     <description>DESY for food</description>
   </expense>
@@ -42033,7 +42021,7 @@
       <month>1</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>VERWARNUNGSGELD / BUSSGELD</description>
   </expense>
@@ -42045,7 +42033,7 @@
       <month>1</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Wilster</category>
     <description>EBAY Fliesenlaser</description>
   </expense>
@@ -42093,7 +42081,7 @@
       <month>1</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Wilster</category>
     <description>OBI Putzmoertel</description>
   </expense>
@@ -42105,7 +42093,7 @@
       <month>1</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Wilster</category>
     <description>HORNBACH Kreide</description>
   </expense>
@@ -42117,7 +42105,7 @@
       <month>1</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Restaurant</category>
     <description>CANTON with Michael</description>
   </expense>
@@ -42129,7 +42117,7 @@
       <month>1</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -42141,7 +42129,7 @@
       <month>1</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Entertainment</category>
     <description>CASH back to Mom for Seehundestation Friedrichskoog 12/2018</description>
   </expense>
@@ -42153,7 +42141,7 @@
       <month>1</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>ROSSMANN pills</description>
   </expense>
@@ -42165,7 +42153,7 @@
       <month>1</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>NETTO</description>
   </expense>
@@ -42177,7 +42165,7 @@
       <month>1</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>STAR Diesel</description>
   </expense>
@@ -42189,7 +42177,7 @@
       <month>1</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Wilster</category>
     <description>OBI Putzmoertel</description>
   </expense>
@@ -42201,7 +42189,7 @@
       <month>1</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Wilster</category>
     <description>OBI Putzmoertel</description>
   </expense>
@@ -42213,7 +42201,7 @@
       <month>1</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>NETTO</description>
   </expense>
@@ -42225,7 +42213,7 @@
       <month>1</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Wilster</category>
     <description>EBAY test fitting</description>
   </expense>
@@ -42237,7 +42225,7 @@
       <month>1</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Restaurant</category>
     <description>ANDRONACO</description>
   </expense>
@@ -42249,7 +42237,7 @@
       <month>1</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Presents</category>
     <description>cash for mom - trip to Ungvar etc.</description>
   </expense>
@@ -42273,7 +42261,7 @@
       <month>1</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -42360,5 +42348,41 @@
     <withdrawn>Yes</withdrawn>
     <category>Flat</category>
     <description>WOHNGELD</description>
+  </expense>
+  <expense>
+    <id>3559</id>
+    <amount>18.04</amount>
+    <date>
+      <day>5</day>
+      <month>1</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>No record</category>
+    <description>NETTO</description>
+  </expense>
+  <expense>
+    <id>3560</id>
+    <amount>76.00</amount>
+    <date>
+      <day>10</day>
+      <month>1</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Wilster regular</category>
+    <description>STADTWERKE Teilbetrag</description>
+  </expense>
+  <expense>
+    <id>3561</id>
+    <amount>10.00</amount>
+    <date>
+      <day>16</day>
+      <month>1</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Other</category>
+    <description>SPARDA JAHRESGEBUEHR</description>
   </expense>
 </expenses>

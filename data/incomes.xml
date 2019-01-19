@@ -1,6 +1,14 @@
 <?xml version="1.0"?>
 <incomes>
 	<entry>
+        <amount>83.07</amount>
+        <date>
+            <month>01</month>
+            <year>2019</year>
+        </date>
+        <description>Stadtwerke Pinneberg</description>
+	</entry>
+	<entry>
         <amount>2745.99</amount>
         <date>
             <month>12</month>
