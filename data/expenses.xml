@@ -41661,7 +41661,7 @@
       <month>12</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Entertainment</category>
     <description>LIDL fireworks, presents etc.</description>
   </expense>
@@ -41745,7 +41745,7 @@
       <month>1</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>DM Cosmetics</description>
   </expense>
@@ -41949,7 +41949,7 @@
       <month>12</month>
       <year>2018</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>EDEKA</description>
   </expense>
