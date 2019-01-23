@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>3561</last_expense_id>
+  <last_expense_id>3567</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -42384,5 +42384,77 @@
     <withdrawn>Yes</withdrawn>
     <category>Other</category>
     <description>SPARDA JAHRESGEBUEHR</description>
+  </expense>
+  <expense>
+    <id>3562</id>
+    <amount>10.01</amount>
+    <date>
+      <day>20</day>
+      <month>1</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>TANKCENTER Diesel</description>
+  </expense>
+  <expense>
+    <id>3563</id>
+    <amount>2.97</amount>
+    <date>
+      <day>21</day>
+      <month>1</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Wilster</category>
+    <description>BAUHAUS Fitting, Kappe</description>
+  </expense>
+  <expense>
+    <id>3564</id>
+    <amount>89.90</amount>
+    <date>
+      <day>21</day>
+      <month>1</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Wilster</category>
+    <description>PAYPAL HEIZUNGSDISCOUNT Rohre, Fittings</description>
+  </expense>
+  <expense>
+    <id>3565</id>
+    <amount>69.95</amount>
+    <date>
+      <day>23</day>
+      <month>1</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Wilster</category>
+    <description>AMAZON Bohrhammer </description>
+  </expense>
+  <expense>
+    <id>3566</id>
+    <amount>14.03</amount>
+    <date>
+      <day>22</day>
+      <month>1</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>3567</id>
+    <amount>11.82</amount>
+    <date>
+      <day>21</day>
+      <month>1</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
   </expense>
 </expenses>
