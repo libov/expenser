@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>3567</last_expense_id>
+  <last_expense_id>3570</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -42456,5 +42456,41 @@
     <withdrawn>No</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>3568</id>
+    <amount>0.99</amount>
+    <date>
+      <day>22</day>
+      <month>1</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>APOTHEKE Paracetamol</description>
+  </expense>
+  <expense>
+    <id>3569</id>
+    <amount>5.35</amount>
+    <date>
+      <day>22</day>
+      <month>1</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>DM Vit C</description>
+  </expense>
+  <expense>
+    <id>3570</id>
+    <amount>12.15</amount>
+    <date>
+      <day>21</day>
+      <month>1</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Wilster</category>
+    <description>HORNBACH fuers Loeten</description>
   </expense>
 </expenses>
