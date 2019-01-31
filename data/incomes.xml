@@ -1,6 +1,14 @@
 <?xml version="1.0"?>
 <incomes>
 	<entry>
+        <amount>2776.73</amount>
+        <date>
+            <month>1</month>
+            <year>2019</year>
+        </date>
+        <description>Salary 1/2019</description>
+	</entry>
+	<entry>
         <amount>83.07</amount>
         <date>
             <month>01</month>
