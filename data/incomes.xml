@@ -1,6 +1,14 @@
 <?xml version="1.0"?>
 <incomes>
 	<entry>
+        <amount>171.03</amount>
+        <date>
+            <month>2</month>
+            <year>2019</year>
+        </date>
+        <description>Steuererstattung 2014</description>
+	</entry>
+	<entry>
         <amount>2776.73</amount>
         <date>
             <month>1</month>
