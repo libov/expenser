@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>3594</last_expense_id>
+  <last_expense_id>3618</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -42549,7 +42549,7 @@
       <month>1</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Other</category>
     <description>FONIC</description>
   </expense>
@@ -42705,7 +42705,7 @@
       <month>1</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Business trip</category>
     <description>PAYPAL DB Ticket Frankfurt</description>
   </expense>
@@ -42717,7 +42717,7 @@
       <month>1</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -42744,5 +42744,293 @@
     <withdrawn>Yes</withdrawn>
     <category>Wilster house purchase</category>
     <description>SPARDA KREDIT 1/2019</description>
+  </expense>
+  <expense>
+    <id>3595</id>
+    <amount>20.00</amount>
+    <date>
+      <day>1</day>
+      <month>2</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Cash</category>
+    <description>DESY for FOOD</description>
+  </expense>
+  <expense>
+    <id>3596</id>
+    <amount>8.35</amount>
+    <date>
+      <day>2</day>
+      <month>2</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>NETTO</description>
+  </expense>
+  <expense>
+    <id>3597</id>
+    <amount>1.41</amount>
+    <date>
+      <day>2</day>
+      <month>2</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>NETTO</description>
+  </expense>
+  <expense>
+    <id>3598</id>
+    <amount>5.50</amount>
+    <date>
+      <day>2</day>
+      <month>2</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>NETTO</description>
+  </expense>
+  <expense>
+    <id>3599</id>
+    <amount>5.66</amount>
+    <date>
+      <day>1</day>
+      <month>2</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>3600</id>
+    <amount>9.95</amount>
+    <date>
+      <day>1</day>
+      <month>2</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Music equipment</category>
+    <description>HORNBACH Tacker Bass traps</description>
+  </expense>
+  <expense>
+    <id>3601</id>
+    <amount>4.49</amount>
+    <date>
+      <day>1</day>
+      <month>2</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Wilster</category>
+    <description>HORNBACH Elektro</description>
+  </expense>
+  <expense>
+    <id>3602</id>
+    <amount>12.44</amount>
+    <date>
+      <day>2</day>
+      <month>2</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Wilster</category>
+    <description>OBI Sanitaer, Muetze</description>
+  </expense>
+  <expense>
+    <id>3603</id>
+    <amount>10.00</amount>
+    <date>
+      <day>1</day>
+      <month>2</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>ARAL Diesel</description>
+  </expense>
+  <expense>
+    <id>3604</id>
+    <amount>13.00</amount>
+    <date>
+      <day>5</day>
+      <month>2</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Other</category>
+    <description>ANTRAG Fuerhungszeugnis</description>
+  </expense>
+  <expense>
+    <id>3605</id>
+    <amount>8.17</amount>
+    <date>
+      <day>5</day>
+      <month>2</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>3606</id>
+    <amount>5.83</amount>
+    <date>
+      <day>4</day>
+      <month>2</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>3607</id>
+    <amount>11.95</amount>
+    <date>
+      <day>6</day>
+      <month>2</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>NETTO</description>
+  </expense>
+  <expense>
+    <id>3608</id>
+    <amount>44.95</amount>
+    <date>
+      <day>4</day>
+      <month>2</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Wilster</category>
+    <description>HORNBACH elektro</description>
+  </expense>
+  <expense>
+    <id>3609</id>
+    <amount>29.61</amount>
+    <date>
+      <day>7</day>
+      <month>2</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Wilster</category>
+    <description>OBI Verputzen</description>
+  </expense>
+  <expense>
+    <id>3610</id>
+    <amount>10.12</amount>
+    <date>
+      <day>4</day>
+      <month>2</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>STAR Diesel</description>
+  </expense>
+  <expense>
+    <id>3611</id>
+    <amount>6.18</amount>
+    <date>
+      <day>7</day>
+      <month>2</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>NETTO</description>
+  </expense>
+  <expense>
+    <id>3612</id>
+    <amount>25.00</amount>
+    <date>
+      <day>4</day>
+      <month>2</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>TANKCENTER Diesel</description>
+  </expense>
+  <expense>
+    <id>3613</id>
+    <amount>24.86</amount>
+    <date>
+      <day>6</day>
+      <month>2</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Wilster</category>
+    <description>OBI Verputzen</description>
+  </expense>
+  <expense>
+    <id>3614</id>
+    <amount>1.76</amount>
+    <date>
+      <day>7</day>
+      <month>2</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>NETTO</description>
+  </expense>
+  <expense>
+    <id>3615</id>
+    <amount>203.91</amount>
+    <date>
+      <day>1</day>
+      <month>2</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Flat</category>
+    <description>WEG 2/2019</description>
+  </expense>
+  <expense>
+    <id>3616</id>
+    <amount>76.00</amount>
+    <date>
+      <day>1</day>
+      <month>2</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Wilster regular</category>
+    <description>STADTWERKE 2/2019</description>
+  </expense>
+  <expense>
+    <id>3617</id>
+    <amount>6.00</amount>
+    <date>
+      <day>1</day>
+      <month>2</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Other</category>
+    <description>DOUGLAS</description>
+  </expense>
+  <expense>
+    <id>3618</id>
+    <amount>61.00</amount>
+    <date>
+      <day>1</day>
+      <month>2</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Wilster regular</category>
+    <description>MAINGAU Gas 01/2019</description>
   </expense>
 </expenses>
