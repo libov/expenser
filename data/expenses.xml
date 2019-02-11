@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>3618</last_expense_id>
+  <last_expense_id>3624</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -43032,5 +43032,77 @@
     <withdrawn>Yes</withdrawn>
     <category>Wilster regular</category>
     <description>MAINGAU Gas 01/2019</description>
+  </expense>
+  <expense>
+    <id>3619</id>
+    <amount>19.64</amount>
+    <date>
+      <day>9</day>
+      <month>2</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Wilster</category>
+    <description>OBI Verputzen</description>
+  </expense>
+  <expense>
+    <id>3620</id>
+    <amount>6.99</amount>
+    <date>
+      <day>8</day>
+      <month>2</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Wilster</category>
+    <description>Rossman part 1 of 13.94 -> Hygrometer</description>
+  </expense>
+  <expense>
+    <id>3621</id>
+    <amount>6.95</amount>
+    <date>
+      <day>8</day>
+      <month>2</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>Rossman part 2 of 13.94 -> cosmetics</description>
+  </expense>
+  <expense>
+    <id>3622</id>
+    <amount>13.99</amount>
+    <date>
+      <day>9</day>
+      <month>2</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Wilster</category>
+    <description>part 1 of 19.97 - Keramikpfanne</description>
+  </expense>
+  <expense>
+    <id>3623</id>
+    <amount>5.98</amount>
+    <date>
+      <day>9</day>
+      <month>2</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>part 2 of 19.97 - NETTO food</description>
+  </expense>
+  <expense>
+    <id>3624</id>
+    <amount>20.01</amount>
+    <date>
+      <day>10</day>
+      <month>2</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>TANKCENTER Diesel</description>
   </expense>
 </expenses>
