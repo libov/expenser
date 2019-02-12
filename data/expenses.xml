@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>3624</last_expense_id>
+  <last_expense_id>3626</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -43104,5 +43104,29 @@
     <withdrawn>No</withdrawn>
     <category>Car</category>
     <description>TANKCENTER Diesel</description>
+  </expense>
+  <expense>
+    <id>3625</id>
+    <amount>2.14</amount>
+    <date>
+      <day>11</day>
+      <month>2</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>3626</id>
+    <amount>2.67</amount>
+    <date>
+      <day>11</day>
+      <month>2</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
   </expense>
 </expenses>
