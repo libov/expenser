@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>3637</last_expense_id>
+  <last_expense_id>3639</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -43260,5 +43260,29 @@
     <withdrawn>No</withdrawn>
     <category>Food</category>
     <description>NETTO</description>
+  </expense>
+  <expense>
+    <id>3638</id>
+    <amount>7.90</amount>
+    <date>
+      <day>13</day>
+      <month>2</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Entertainment</category>
+    <description>KIOSK2000 Abschiedsparty</description>
+  </expense>
+  <expense>
+    <id>3639</id>
+    <amount>53.36</amount>
+    <date>
+      <day>16</day>
+      <month>2</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Travel</category>
+    <description>TANKCENTER Diesel Trip Ungvar</description>
   </expense>
 </expenses>
