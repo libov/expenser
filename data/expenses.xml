@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>3639</last_expense_id>
+  <last_expense_id>3643</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -43284,5 +43284,53 @@
     <withdrawn>No</withdrawn>
     <category>Travel</category>
     <description>TANKCENTER Diesel Trip Ungvar</description>
+  </expense>
+  <expense>
+    <id>3640</id>
+    <amount>20.80</amount>
+    <date>
+      <day>19</day>
+      <month>2</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Wilster</category>
+    <description>EBAY Modem</description>
+  </expense>
+  <expense>
+    <id>3641</id>
+    <amount>20.00</amount>
+    <date>
+      <day>21</day>
+      <month>2</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Travel</category>
+    <description>TESCO Diesel Trip Ungvar</description>
+  </expense>
+  <expense>
+    <id>3642</id>
+    <amount>17.90</amount>
+    <date>
+      <day>23</day>
+      <month>2</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Wilster</category>
+    <description>OBI Verputzen</description>
+  </expense>
+  <expense>
+    <id>3643</id>
+    <amount>10.00</amount>
+    <date>
+      <day>21</day>
+      <month>2</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Travel</category>
+    <description>TOTAL Diesel Trip Ungvar</description>
   </expense>
 </expenses>
