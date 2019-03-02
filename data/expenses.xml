@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>3671</last_expense_id>
+  <last_expense_id>3674</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -43173,7 +43173,7 @@
       <month>2</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>EDEKA</description>
   </expense>
@@ -43668,5 +43668,41 @@
     <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>ADAC 2019</description>
+  </expense>
+  <expense>
+    <id>3672</id>
+    <amount>140.26</amount>
+    <date>
+      <day>15</day>
+      <month>2</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Wilster regular</category>
+    <description>GRUNDSTEUER B + Niederschlagswasser 1/4</description>
+  </expense>
+  <expense>
+    <id>3673</id>
+    <amount>35.63</amount>
+    <date>
+      <day>15</day>
+      <month>2</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Flat</category>
+    <description>GRUNDSTEUER B</description>
+  </expense>
+  <expense>
+    <id>3674</id>
+    <amount>30.39</amount>
+    <date>
+      <day>15</day>
+      <month>2</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Wilster regular</category>
+    <description>Abfallgebuehr 2019 1/4</description>
   </expense>
 </expenses>
