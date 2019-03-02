@@ -1,6 +1,14 @@
 <?xml version="1.0"?>
 <incomes>
 	<entry>
+        <amount>1079.11</amount>
+        <date>
+            <month>2</month>
+            <year>2019</year>
+        </date>
+        <description>Schadenkosten Erstattung</description>
+	</entry>
+	<entry>
         <amount>171.03</amount>
         <date>
             <month>2</month>
