@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>3664</last_expense_id>
+  <last_expense_id>3670</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -43584,5 +43584,77 @@
     <withdrawn>No</withdrawn>
     <category>Clothes</category>
     <description>TK MAXX</description>
+  </expense>
+  <expense>
+    <id>3665</id>
+    <amount>17.12</amount>
+    <date>
+      <day>2</day>
+      <month>3</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>ROSSMANN cosmetics</description>
+  </expense>
+  <expense>
+    <id>3666</id>
+    <amount>3.00</amount>
+    <date>
+      <day>1</day>
+      <month>3</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Other</category>
+    <description>PARKSCHEIN</description>
+  </expense>
+  <expense>
+    <id>3667</id>
+    <amount>129.99</amount>
+    <date>
+      <day>1</day>
+      <month>3</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Clothes</category>
+    <description>DESIGNER OUTLET Anzug</description>
+  </expense>
+  <expense>
+    <id>3668</id>
+    <amount>2.21</amount>
+    <date>
+      <day>1</day>
+      <month>3</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>ALDI</description>
+  </expense>
+  <expense>
+    <id>3669</id>
+    <amount>7.96</amount>
+    <date>
+      <day>2</day>
+      <month>3</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>NETTO</description>
+  </expense>
+  <expense>
+    <id>3670</id>
+    <amount>49.12</amount>
+    <date>
+      <day>1</day>
+      <month>3</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Clothes</category>
+    <description>SALAMANDER Schuhe</description>
   </expense>
 </expenses>
