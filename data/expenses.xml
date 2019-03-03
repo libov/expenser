@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>3674</last_expense_id>
+  <last_expense_id>3675</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -43185,7 +43185,7 @@
       <month>2</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>NETTO</description>
   </expense>
@@ -43209,7 +43209,7 @@
       <month>2</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Presents</category>
     <description>LIDL Trip Ungvar</description>
   </expense>
@@ -43221,7 +43221,7 @@
       <month>2</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Presents</category>
     <description>MARKTKAUF Trip Ungvar</description>
   </expense>
@@ -43233,7 +43233,7 @@
       <month>2</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -43245,7 +43245,7 @@
       <month>2</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>EDEKA</description>
   </expense>
@@ -43704,5 +43704,17 @@
     <withdrawn>Yes</withdrawn>
     <category>Wilster regular</category>
     <description>Abfallgebuehr 2019 1/4</description>
+  </expense>
+  <expense>
+    <id>3675</id>
+    <amount>24.80</amount>
+    <date>
+      <day>17</day>
+      <month>2</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Travel</category>
+    <description>ORLEN Diesel Trip Ungvar</description>
   </expense>
 </expenses>
