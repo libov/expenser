@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>3675</last_expense_id>
+  <last_expense_id>3681</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -43257,7 +43257,7 @@
       <month>2</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>NETTO</description>
   </expense>
@@ -43281,7 +43281,7 @@
       <month>2</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Travel</category>
     <description>TANKCENTER Diesel Trip Ungvar</description>
   </expense>
@@ -43716,5 +43716,77 @@
     <withdrawn>Yes</withdrawn>
     <category>Travel</category>
     <description>ORLEN Diesel Trip Ungvar</description>
+  </expense>
+  <expense>
+    <id>3676</id>
+    <amount>15.00</amount>
+    <date>
+      <day>16</day>
+      <month>2</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Travel</category>
+    <description>part 1 of 300 - Autobahn Polen</description>
+  </expense>
+  <expense>
+    <id>3677</id>
+    <amount>30.00</amount>
+    <date>
+      <day>16</day>
+      <month>2</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Wilster</category>
+    <description>part 2 of 300 - Epicentre etc.</description>
+  </expense>
+  <expense>
+    <id>3678</id>
+    <amount>100.00</amount>
+    <date>
+      <day>16</day>
+      <month>2</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Presents</category>
+    <description>part 3 of 300 - cash Mom</description>
+  </expense>
+  <expense>
+    <id>3679</id>
+    <amount>7.00</amount>
+    <date>
+      <day>16</day>
+      <month>2</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Restaurant</category>
+    <description>part 4 of 300 - Chinese restaurant</description>
+  </expense>
+  <expense>
+    <id>3680</id>
+    <amount>3.00</amount>
+    <date>
+      <day>16</day>
+      <month>2</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Cash</category>
+    <description>part 5 of 300 - cash</description>
+  </expense>
+  <expense>
+    <id>3681</id>
+    <amount>145.00</amount>
+    <date>
+      <day>16</day>
+      <month>2</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Other</category>
+    <description>part 7 of 300 - cash - not spent yet</description>
   </expense>
 </expenses>
