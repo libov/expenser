@@ -1,6 +1,14 @@
 <?xml version="1.0"?>
 <incomes>
 	<entry>
+        <amount>4107.36</amount>
+        <date>
+            <month>2</month>
+            <year>2019</year>
+        </date>
+        <description>Salary 2/2019 + zus. RG Erstattung</description>
+	</entry>
+	<entry>
         <amount>1079.11</amount>
         <date>
             <month>2</month>
