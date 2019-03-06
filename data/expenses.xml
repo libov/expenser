@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>3683</last_expense_id>
+  <last_expense_id>3684</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -43812,5 +43812,17 @@
     <withdrawn>Yes</withdrawn>
     <category>Wilster house purchase</category>
     <description>SPARDA KREDIT</description>
+  </expense>
+  <expense>
+    <id>3684</id>
+    <amount>6.54</amount>
+    <date>
+      <day>6</day>
+      <month>3</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>REWE</description>
   </expense>
 </expenses>
