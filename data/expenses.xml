@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>3684</last_expense_id>
+  <last_expense_id>3688</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -43824,5 +43824,53 @@
     <withdrawn>No</withdrawn>
     <category>Food</category>
     <description>REWE</description>
+  </expense>
+  <expense>
+    <id>3685</id>
+    <amount>5.90</amount>
+    <date>
+      <day>8</day>
+      <month>3</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Restaurant</category>
+    <description>FRITTENWERK</description>
+  </expense>
+  <expense>
+    <id>3686</id>
+    <amount>2.80</amount>
+    <date>
+      <day>6</day>
+      <month>3</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>REWE</description>
+  </expense>
+  <expense>
+    <id>3687</id>
+    <amount>0.90</amount>
+    <date>
+      <day>8</day>
+      <month>3</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>REWE</description>
+  </expense>
+  <expense>
+    <id>3688</id>
+    <amount>16.40</amount>
+    <date>
+      <day>7</day>
+      <month>3</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Restaurant</category>
+    <description>SAIGON</description>
   </expense>
 </expenses>
