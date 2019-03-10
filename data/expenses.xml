@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>3688</last_expense_id>
+  <last_expense_id>3694</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -43872,5 +43872,77 @@
     <withdrawn>No</withdrawn>
     <category>Restaurant</category>
     <description>SAIGON</description>
+  </expense>
+  <expense>
+    <id>3689</id>
+    <amount>20.00</amount>
+    <date>
+      <day>9</day>
+      <month>3</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>STAR Diesel</description>
+  </expense>
+  <expense>
+    <id>3690</id>
+    <amount>42.67</amount>
+    <date>
+      <day>9</day>
+      <month>3</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Wilster</category>
+    <description>BAUHAUS Briefkasten etc.</description>
+  </expense>
+  <expense>
+    <id>3691</id>
+    <amount>55.15</amount>
+    <date>
+      <day>9</day>
+      <month>3</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Clothes</category>
+    <description>TKMAXX Hemden etc.</description>
+  </expense>
+  <expense>
+    <id>3692</id>
+    <amount>3.17</amount>
+    <date>
+      <day>9</day>
+      <month>3</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>3693</id>
+    <amount>6.66</amount>
+    <date>
+      <day>9</day>
+      <month>3</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>EDEKA </description>
+  </expense>
+  <expense>
+    <id>3694</id>
+    <amount>5.29</amount>
+    <date>
+      <day>9</day>
+      <month>3</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>NETTO</description>
   </expense>
 </expenses>
