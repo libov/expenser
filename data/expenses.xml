@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>3695</last_expense_id>
+  <last_expense_id>3697</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -43956,5 +43956,29 @@
     <withdrawn>No</withdrawn>
     <category>Travel</category>
     <description>VERWARNUNG</description>
+  </expense>
+  <expense>
+    <id>3696</id>
+    <amount>5.93</amount>
+    <date>
+      <day>11</day>
+      <month>3</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>TEGUT</description>
+  </expense>
+  <expense>
+    <id>3697</id>
+    <amount>7.90</amount>
+    <date>
+      <day>11</day>
+      <month>3</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Restaurant</category>
+    <description>FRITTENWERK</description>
   </expense>
 </expenses>
