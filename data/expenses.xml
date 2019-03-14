@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>3697</last_expense_id>
+  <last_expense_id>3698</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -43980,5 +43980,17 @@
     <withdrawn>No</withdrawn>
     <category>Restaurant</category>
     <description>FRITTENWERK</description>
+  </expense>
+  <expense>
+    <id>3698</id>
+    <amount>1.85</amount>
+    <date>
+      <day>14</day>
+      <month>3</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Travel</category>
+    <description>RMV Ticket</description>
   </expense>
 </expenses>
