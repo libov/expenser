@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>3701</last_expense_id>
+  <last_expense_id>3709</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -44028,5 +44028,101 @@
     <withdrawn>No</withdrawn>
     <category>Business trip</category>
     <description>TAXI</description>
+  </expense>
+  <expense>
+    <id>3702</id>
+    <amount>1678.41</amount>
+    <date>
+      <day>17</day>
+      <month>3</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Wilster</category>
+    <description>HAUPTHOFF Anbau Dach Material</description>
+  </expense>
+  <expense>
+    <id>3703</id>
+    <amount>10.99</amount>
+    <date>
+      <day>14</day>
+      <month>4</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>EBAY PAYPAL DPF Reiniger</description>
+  </expense>
+  <expense>
+    <id>3704</id>
+    <amount>1.65</amount>
+    <date>
+      <day>4</day>
+      <month>4</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Transport HH</category>
+    <description>Ticket</description>
+  </expense>
+  <expense>
+    <id>3705</id>
+    <amount>10.30</amount>
+    <date>
+      <day>29</day>
+      <month>3</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Presents</category>
+    <description>PAYPAL DB</description>
+  </expense>
+  <expense>
+    <id>3706</id>
+    <amount>59.90</amount>
+    <date>
+      <day>26</day>
+      <month>3</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Presents</category>
+    <description>PAYPAL DB</description>
+  </expense>
+  <expense>
+    <id>3707</id>
+    <amount>44.25</amount>
+    <date>
+      <day>16</day>
+      <month>3</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Wilster</category>
+    <description>HEIZUNGSDISCOUNT Fittings</description>
+  </expense>
+  <expense>
+    <id>3708</id>
+    <amount>58.14</amount>
+    <date>
+      <day>19</day>
+      <month>3</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Other</category>
+    <description>PAYPAL ALENSA Contact lenses</description>
+  </expense>
+  <expense>
+    <id>3709</id>
+    <amount>6.07</amount>
+    <date>
+      <day>27</day>
+      <month>3</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Wilster regular</category>
+    <description>O2 Internet 2/2019</description>
   </expense>
 </expenses>
