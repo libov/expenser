@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>3713</last_expense_id>
+  <last_expense_id>3720</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -44172,5 +44172,89 @@
     <withdrawn>No</withdrawn>
     <category>Food</category>
     <description>REWE</description>
+  </expense>
+  <expense>
+    <id>3714</id>
+    <amount>8.10</amount>
+    <date>
+      <day>13</day>
+      <month>4</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>NETTO</description>
+  </expense>
+  <expense>
+    <id>3715</id>
+    <amount>16.98</amount>
+    <date>
+      <day>13</day>
+      <month>4</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Restaurant</category>
+    <description>BURGER KING</description>
+  </expense>
+  <expense>
+    <id>3716</id>
+    <amount>3.35</amount>
+    <date>
+      <day>8</day>
+      <month>4</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>REWE</description>
+  </expense>
+  <expense>
+    <id>3717</id>
+    <amount>7.16</amount>
+    <date>
+      <day>11</day>
+      <month>4</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>REWE</description>
+  </expense>
+  <expense>
+    <id>3718</id>
+    <amount>20.00</amount>
+    <date>
+      <day>10</day>
+      <month>4</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Restaurant</category>
+    <description>Mutter Habenicht</description>
+  </expense>
+  <expense>
+    <id>3719</id>
+    <amount>60.00</amount>
+    <date>
+      <day>13</day>
+      <month>4</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Piano lessons</category>
+    <description>2x + debt</description>
+  </expense>
+  <expense>
+    <id>3720</id>
+    <amount>30.09</amount>
+    <date>
+      <day>8</day>
+      <month>4</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Business trip</category>
+    <description>TANKCENTER Diesel trip Braunschweig</description>
   </expense>
 </expenses>
