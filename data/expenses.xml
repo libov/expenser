@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>3710</last_expense_id>
+  <last_expense_id>3713</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -44136,5 +44136,41 @@
     <withdrawn>No</withdrawn>
     <category>Flat</category>
     <description>VODAFONE 3/2019</description>
+  </expense>
+  <expense>
+    <id>3711</id>
+    <amount>10.10</amount>
+    <date>
+      <day>6</day>
+      <month>4</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>STAR Diesel</description>
+  </expense>
+  <expense>
+    <id>3712</id>
+    <amount>11.69</amount>
+    <date>
+      <day>6</day>
+      <month>4</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>NETTO</description>
+  </expense>
+  <expense>
+    <id>3713</id>
+    <amount>10.80</amount>
+    <date>
+      <day>15</day>
+      <month>4</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>REWE</description>
   </expense>
 </expenses>
