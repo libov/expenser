@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>3738</last_expense_id>
+  <last_expense_id>3745</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -44472,5 +44472,89 @@
     <withdrawn>No</withdrawn>
     <category>Other</category>
     <description>ROSSMANN lenses, liquid</description>
+  </expense>
+  <expense>
+    <id>3739</id>
+    <amount>11.33</amount>
+    <date>
+      <day>4</day>
+      <month>4</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>NETTO</description>
+  </expense>
+  <expense>
+    <id>3740</id>
+    <amount>0.79</amount>
+    <date>
+      <day>4</day>
+      <month>4</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>3741</id>
+    <amount>1.32</amount>
+    <date>
+      <day>1</day>
+      <month>4</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>ALDI</description>
+  </expense>
+  <expense>
+    <id>3742</id>
+    <amount>4.04</amount>
+    <date>
+      <day>16</day>
+      <month>3</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>ALDI</description>
+  </expense>
+  <expense>
+    <id>3743</id>
+    <amount>10.01</amount>
+    <date>
+      <day>16</day>
+      <month>3</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>EDEKA</description>
+  </expense>
+  <expense>
+    <id>3744</id>
+    <amount>20.35</amount>
+    <date>
+      <day>30</day>
+      <month>3</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>EDEKA</description>
+  </expense>
+  <expense>
+    <id>3745</id>
+    <amount>10.09</amount>
+    <date>
+      <day>5</day>
+      <month>4</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>EDEKA</description>
   </expense>
 </expenses>
