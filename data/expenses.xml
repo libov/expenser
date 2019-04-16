@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>3746</last_expense_id>
+  <last_expense_id>3748</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -44568,5 +44568,29 @@
     <withdrawn>No</withdrawn>
     <category>Restaurant</category>
     <description>SCHWEINSKE</description>
+  </expense>
+  <expense>
+    <id>3747</id>
+    <amount>9.25</amount>
+    <date>
+      <day>1</day>
+      <month>4</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Restaurant</category>
+    <description>VAPIANO</description>
+  </expense>
+  <expense>
+    <id>3748</id>
+    <amount>19.20</amount>
+    <date>
+      <day>2</day>
+      <month>4</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Restaurant</category>
+    <description>VAPIANO</description>
   </expense>
 </expenses>
