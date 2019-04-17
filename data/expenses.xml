@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>3753</last_expense_id>
+  <last_expense_id>3760</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -44652,5 +44652,89 @@
     <withdrawn>No</withdrawn>
     <category>Restaurant</category>
     <description>CASAITALIA</description>
+  </expense>
+  <expense>
+    <id>3754</id>
+    <amount>2.44</amount>
+    <date>
+      <day>22</day>
+      <month>3</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>SPAR FFm Bbf</description>
+  </expense>
+  <expense>
+    <id>3755</id>
+    <amount>8.40</amount>
+    <date>
+      <day>6</day>
+      <month>4</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Wilster</category>
+    <description>HORNBACH Abflussrohre</description>
+  </expense>
+  <expense>
+    <id>3756</id>
+    <amount>17.75</amount>
+    <date>
+      <day>23</day>
+      <month>3</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Presents</category>
+    <description>RINDCHENs Wine for Eleonora</description>
+  </expense>
+  <expense>
+    <id>3757</id>
+    <amount>12.30</amount>
+    <date>
+      <day>1</day>
+      <month>4</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Restaurant</category>
+    <description>VINA TOWN Asian in Berlin</description>
+  </expense>
+  <expense>
+    <id>3758</id>
+    <amount>1.75</amount>
+    <date>
+      <day>1</day>
+      <month>4</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>PB Books  ITzehoe WAsser</description>
+  </expense>
+  <expense>
+    <id>3759</id>
+    <amount>10.01</amount>
+    <date>
+      <day>16</day>
+      <month>3</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>EDEKA</description>
+  </expense>
+  <expense>
+    <id>3760</id>
+    <amount>20.00</amount>
+    <date>
+      <day>23</day>
+      <month>3</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>TANKCENTER Diesel</description>
   </expense>
 </expenses>
