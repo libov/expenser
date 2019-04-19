@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>3760</last_expense_id>
+  <last_expense_id>3763</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -44736,5 +44736,41 @@
     <withdrawn>No</withdrawn>
     <category>Car</category>
     <description>TANKCENTER Diesel</description>
+  </expense>
+  <expense>
+    <id>3761</id>
+    <amount>50.00</amount>
+    <date>
+      <day>2</day>
+      <month>4</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Cash</category>
+    <description>TARGOBANK BERLIN to be detailed</description>
+  </expense>
+  <expense>
+    <id>3762</id>
+    <amount>60.19</amount>
+    <date>
+      <day>30</day>
+      <month>3</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Clothes</category>
+    <description>TKMAXX Suit</description>
+  </expense>
+  <expense>
+    <id>3763</id>
+    <amount>2.40</amount>
+    <date>
+      <day>8</day>
+      <month>4</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Business trip</category>
+    <description>Westfalen Bahn Ticket Braunschweig</description>
   </expense>
 </expenses>
