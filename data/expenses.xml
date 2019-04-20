@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>3764</last_expense_id>
+  <last_expense_id>3767</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -44784,5 +44784,41 @@
     <withdrawn>No</withdrawn>
     <category>Food</category>
     <description>BACK FACTORY</description>
+  </expense>
+  <expense>
+    <id>3765</id>
+    <amount>10.00</amount>
+    <date>
+      <day>18</day>
+      <month>4</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Presents</category>
+    <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>3766</id>
+    <amount>6.79</amount>
+    <date>
+      <day>18</day>
+      <month>4</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>3767</id>
+    <amount>67.55</amount>
+    <date>
+      <day>18</day>
+      <month>4</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Travel</category>
+    <description>SHELL Diesel trip Uzhgorod</description>
   </expense>
 </expenses>
