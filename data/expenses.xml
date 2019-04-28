@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>3770</last_expense_id>
+  <last_expense_id>3776</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -44851,6 +44851,78 @@
     <date>
       <day>25</day>
       <month>3</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>REWE</description>
+  </expense>
+  <expense>
+    <id>3771</id>
+    <amount>60.00</amount>
+    <date>
+      <day>18</day>
+      <month>4</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Presents</category>
+    <description>Fourside Artemaki</description>
+  </expense>
+  <expense>
+    <id>3772</id>
+    <amount>24.91</amount>
+    <date>
+      <day>27</day>
+      <month>4</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>EDEKA</description>
+  </expense>
+  <expense>
+    <id>3773</id>
+    <amount>9.15</amount>
+    <date>
+      <day>27</day>
+      <month>4</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>EDEKA</description>
+  </expense>
+  <expense>
+    <id>3774</id>
+    <amount>9.56</amount>
+    <date>
+      <day>23</day>
+      <month>4</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>EDEKA</description>
+  </expense>
+  <expense>
+    <id>3775</id>
+    <amount>4.98</amount>
+    <date>
+      <day>23</day>
+      <month>4</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>REWE</description>
+  </expense>
+  <expense>
+    <id>3776</id>
+    <amount>3.03</amount>
+    <date>
+      <day>26</day>
+      <month>4</month>
       <year>2019</year>
     </date>
     <withdrawn>No</withdrawn>
