@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>3796</last_expense_id>
+  <last_expense_id>3800</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -43401,7 +43401,7 @@
       <month>2</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Other</category>
     <description>FONIC</description>
   </expense>
@@ -43413,7 +43413,7 @@
       <month>2</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Flat</category>
     <description>KABELDEUTSCHLAND 2/2018</description>
   </expense>
@@ -43533,7 +43533,7 @@
       <month>2</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -43581,7 +43581,7 @@
       <month>2</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Clothes</category>
     <description>TK MAXX</description>
   </expense>
@@ -45168,5 +45168,53 @@
     <withdrawn>No</withdrawn>
     <category>Flat</category>
     <description>KABELDEUTSCHLAND 4/2019</description>
+  </expense>
+  <expense>
+    <id>3797</id>
+    <amount>107.00</amount>
+    <date>
+      <day>28</day>
+      <month>2</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Flat</category>
+    <description>STADTWERKE 02/2019</description>
+  </expense>
+  <expense>
+    <id>3798</id>
+    <amount>203.91</amount>
+    <date>
+      <day>28</day>
+      <month>2</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Flat</category>
+    <description>WEG Wohngeld 03/2019</description>
+  </expense>
+  <expense>
+    <id>3799</id>
+    <amount>76.00</amount>
+    <date>
+      <day>1</day>
+      <month>3</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Wilster regular</category>
+    <description>STADTWERKE 3/2019</description>
+  </expense>
+  <expense>
+    <id>3800</id>
+    <amount>61.00</amount>
+    <date>
+      <day>1</day>
+      <month>3</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Wilster regular</category>
+    <description>MAINGAU Gas 3/2019</description>
   </expense>
 </expenses>
