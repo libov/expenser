@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>3801</last_expense_id>
+  <last_expense_id>3803</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -43833,7 +43833,7 @@
       <month>3</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Restaurant</category>
     <description>FRITTENWERK</description>
   </expense>
@@ -43857,7 +43857,7 @@
       <month>3</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>REWE</description>
   </expense>
@@ -43881,7 +43881,7 @@
       <month>3</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>STAR Diesel</description>
   </expense>
@@ -43893,7 +43893,7 @@
       <month>3</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Wilster</category>
     <description>BAUHAUS Briefkasten etc.</description>
   </expense>
@@ -43905,7 +43905,7 @@
       <month>3</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Clothes</category>
     <description>TKMAXX Hemden etc.</description>
   </expense>
@@ -43917,7 +43917,7 @@
       <month>3</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -43929,7 +43929,7 @@
       <month>3</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>EDEKA </description>
   </expense>
@@ -43941,7 +43941,7 @@
       <month>3</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>NETTO</description>
   </expense>
@@ -43965,7 +43965,7 @@
       <month>3</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>TEGUT</description>
   </expense>
@@ -43977,7 +43977,7 @@
       <month>3</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Restaurant</category>
     <description>FRITTENWERK</description>
   </expense>
@@ -43989,7 +43989,7 @@
       <month>3</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Travel</category>
     <description>RMV Ticket</description>
   </expense>
@@ -44001,7 +44001,7 @@
       <month>3</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Wilster</category>
     <description>OBI Estrichzement</description>
   </expense>
@@ -44013,7 +44013,7 @@
       <month>3</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>TANKCENTER Diesel</description>
   </expense>
@@ -44037,7 +44037,7 @@
       <month>3</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Wilster</category>
     <description>HAUPTHOFF Anbau Dach Material</description>
   </expense>
@@ -44097,7 +44097,7 @@
       <month>3</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Wilster</category>
     <description>HEIZUNGSDISCOUNT Fittings</description>
   </expense>
@@ -44109,7 +44109,7 @@
       <month>3</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Other</category>
     <description>PAYPAL ALENSA Contact lenses</description>
   </expense>
@@ -44133,7 +44133,7 @@
       <month>3</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Flat</category>
     <description>VODAFONE 3/2019</description>
   </expense>
@@ -44361,7 +44361,7 @@
       <month>3</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>REWE</description>
   </expense>
@@ -44517,7 +44517,7 @@
       <month>3</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>ALDI</description>
   </expense>
@@ -44529,7 +44529,7 @@
       <month>3</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>EDEKA</description>
   </expense>
@@ -45069,7 +45069,7 @@
       <month>3</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Business trip</category>
     <description>OPNV Frankfurt</description>
   </expense>
@@ -45081,7 +45081,7 @@
       <month>3</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Business trip</category>
     <description>OPNV Frankfurt</description>
   </expense>
@@ -45093,7 +45093,7 @@
       <month>3</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Business trip</category>
     <description>OPNV Frankfurt</description>
   </expense>
@@ -45228,5 +45228,29 @@
     <withdrawn>Yes</withdrawn>
     <category>Wilster regular</category>
     <description>STADTWERKE Abschlussrechnung</description>
+  </expense>
+  <expense>
+    <id>3802</id>
+    <amount>222.05</amount>
+    <date>
+      <day>19</day>
+      <month>3</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Business trip</category>
+    <description>DB Ticket (reimbursing Artemis)</description>
+  </expense>
+  <expense>
+    <id>3803</id>
+    <amount>1.93</amount>
+    <date>
+      <day>15</day>
+      <month>3</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Other</category>
+    <description>ROSSMANN</description>
   </expense>
 </expenses>
