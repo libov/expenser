@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>3800</last_expense_id>
+  <last_expense_id>3801</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -43545,7 +43545,7 @@
       <month>2</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>NETTO</description>
   </expense>
@@ -43557,7 +43557,7 @@
       <month>3</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>SHELL Diesel</description>
   </expense>
@@ -43569,7 +43569,7 @@
       <month>3</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>ALDI</description>
   </expense>
@@ -43593,7 +43593,7 @@
       <month>3</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>ROSSMANN cosmetics</description>
   </expense>
@@ -43605,7 +43605,7 @@
       <month>3</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Other</category>
     <description>PARKSCHEIN</description>
   </expense>
@@ -43617,7 +43617,7 @@
       <month>3</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Clothes</category>
     <description>DESIGNER OUTLET Anzug</description>
   </expense>
@@ -43629,7 +43629,7 @@
       <month>3</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>ALDI</description>
   </expense>
@@ -43641,7 +43641,7 @@
       <month>3</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>NETTO</description>
   </expense>
@@ -43653,7 +43653,7 @@
       <month>3</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Clothes</category>
     <description>SALAMANDER Schuhe</description>
   </expense>
@@ -43821,7 +43821,7 @@
       <month>3</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>REWE</description>
   </expense>
@@ -43845,7 +43845,7 @@
       <month>3</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>REWE</description>
   </expense>
@@ -43869,7 +43869,7 @@
       <month>3</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Restaurant</category>
     <description>SAIGON</description>
   </expense>
@@ -43953,7 +43953,7 @@
       <month>3</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Travel</category>
     <description>VERWARNUNG</description>
   </expense>
@@ -45216,5 +45216,17 @@
     <withdrawn>Yes</withdrawn>
     <category>Wilster regular</category>
     <description>MAINGAU Gas 3/2019</description>
+  </expense>
+  <expense>
+    <id>3801</id>
+    <amount>236.29</amount>
+    <date>
+      <day>8</day>
+      <month>3</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Wilster regular</category>
+    <description>STADTWERKE Abschlussrechnung</description>
   </expense>
 </expenses>
