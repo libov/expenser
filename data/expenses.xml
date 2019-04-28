@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>3793</last_expense_id>
+  <last_expense_id>3796</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -45132,5 +45132,41 @@
     <withdrawn>No</withdrawn>
     <category>Business trip</category>
     <description>OPNV Frankfurt</description>
+  </expense>
+  <expense>
+    <id>3794</id>
+    <amount>1.65</amount>
+    <date>
+      <day>18</day>
+      <month>4</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Transport HH</category>
+    <description>HVV Kurzstrecke Pinneberg</description>
+  </expense>
+  <expense>
+    <id>3795</id>
+    <amount>9.99</amount>
+    <date>
+      <day>23</day>
+      <month>4</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Wilster regular</category>
+    <description>O2 Internet 03/2019</description>
+  </expense>
+  <expense>
+    <id>3796</id>
+    <amount>19.99</amount>
+    <date>
+      <day>19</day>
+      <month>4</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Flat</category>
+    <description>KABELDEUTSCHLAND 4/2019</description>
   </expense>
 </expenses>
