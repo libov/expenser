@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>3776</last_expense_id>
+  <last_expense_id>3793</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -44928,5 +44928,209 @@
     <withdrawn>No</withdrawn>
     <category>Food</category>
     <description>REWE</description>
+  </expense>
+  <expense>
+    <id>3777</id>
+    <amount>5.89</amount>
+    <date>
+      <day>27</day>
+      <month>4</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Wilster</category>
+    <description>OBI</description>
+  </expense>
+  <expense>
+    <id>3778</id>
+    <amount>12.99</amount>
+    <date>
+      <day>27</day>
+      <month>4</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Wilster</category>
+    <description>OBI</description>
+  </expense>
+  <expense>
+    <id>3779</id>
+    <amount>4.64</amount>
+    <date>
+      <day>24</day>
+      <month>4</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Other</category>
+    <description>ROSSMANN</description>
+  </expense>
+  <expense>
+    <id>3780</id>
+    <amount>2.75</amount>
+    <date>
+      <day>29</day>
+      <month>3</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Business trip</category>
+    <description>OPNV Frankfurt</description>
+  </expense>
+  <expense>
+    <id>3781</id>
+    <amount>2.75</amount>
+    <date>
+      <day>26</day>
+      <month>3</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Business trip</category>
+    <description>OPNV Frankfurt</description>
+  </expense>
+  <expense>
+    <id>3782</id>
+    <amount>2.75</amount>
+    <date>
+      <day>28</day>
+      <month>3</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Business trip</category>
+    <description>OPNV Frankfurt</description>
+  </expense>
+  <expense>
+    <id>3783</id>
+    <amount>2.75</amount>
+    <date>
+      <day>27</day>
+      <month>3</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Business trip</category>
+    <description>OPNV Frankfurt</description>
+  </expense>
+  <expense>
+    <id>3784</id>
+    <amount>2.75</amount>
+    <date>
+      <day>27</day>
+      <month>3</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Business trip</category>
+    <description>OPNV Frankfurt</description>
+  </expense>
+  <expense>
+    <id>3785</id>
+    <amount>2.75</amount>
+    <date>
+      <day>26</day>
+      <month>3</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Business trip</category>
+    <description>OPNV Frankfurt</description>
+  </expense>
+  <expense>
+    <id>3786</id>
+    <amount>2.75</amount>
+    <date>
+      <day>21</day>
+      <month>3</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Business trip</category>
+    <description>OPNV Frankfurt</description>
+  </expense>
+  <expense>
+    <id>3787</id>
+    <amount>2.75</amount>
+    <date>
+      <day>28</day>
+      <month>3</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Business trip</category>
+    <description>OPNV Frankfurt</description>
+  </expense>
+  <expense>
+    <id>3788</id>
+    <amount>2.75</amount>
+    <date>
+      <day>19</day>
+      <month>3</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Business trip</category>
+    <description>OPNV Frankfurt</description>
+  </expense>
+  <expense>
+    <id>3789</id>
+    <amount>2.75</amount>
+    <date>
+      <day>20</day>
+      <month>3</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Business trip</category>
+    <description>OPNV Frankfurt</description>
+  </expense>
+  <expense>
+    <id>3790</id>
+    <amount>2.75</amount>
+    <date>
+      <day>20</day>
+      <month>3</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Business trip</category>
+    <description>OPNV Frankfurt</description>
+  </expense>
+  <expense>
+    <id>3791</id>
+    <amount>2.75</amount>
+    <date>
+      <day>25</day>
+      <month>3</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Business trip</category>
+    <description>OPNV Frankfurt</description>
+  </expense>
+  <expense>
+    <id>3792</id>
+    <amount>2.75</amount>
+    <date>
+      <day>25</day>
+      <month>3</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Business trip</category>
+    <description>OPNV Frankfurt</description>
+  </expense>
+  <expense>
+    <id>3793</id>
+    <amount>8.60</amount>
+    <date>
+      <day>21</day>
+      <month>3</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Business trip</category>
+    <description>OPNV Frankfurt</description>
   </expense>
 </expenses>
