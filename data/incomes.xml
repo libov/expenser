@@ -1,6 +1,22 @@
 <?xml version="1.0"?>
 <incomes>
 	<entry>
+        <amount>506.30</amount>
+        <date>
+            <month>3</month>
+            <year>2019</year>
+        </date>
+        <description>Business trip</description>
+	</entry>
+	<entry>
+        <amount>248.70</amount>
+        <date>
+            <month>3</month>
+            <year>2019</year>
+        </date>
+        <description>Business trip</description>
+	</entry>
+	<entry>
         <amount>3098.12</amount>
         <date>
             <month>3</month>
