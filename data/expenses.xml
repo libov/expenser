@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>3821</last_expense_id>
+  <last_expense_id>3822</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -45444,5 +45444,17 @@
     <withdrawn>No</withdrawn>
     <category>Wilster</category>
     <description>HORNBACH various</description>
+  </expense>
+  <expense>
+    <id>3822</id>
+    <amount>3.39</amount>
+    <date>
+      <day>2</day>
+      <month>5</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>REWE</description>
   </expense>
 </expenses>
