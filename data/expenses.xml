@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>3823</last_expense_id>
+  <last_expense_id>3830</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -45468,5 +45468,89 @@
     <withdrawn>No</withdrawn>
     <category>Food</category>
     <description>REAL</description>
+  </expense>
+  <expense>
+    <id>3824</id>
+    <amount>79.99</amount>
+    <date>
+      <day>29</day>
+      <month>4</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Presents</category>
+    <description>TK MAXX Suitcase parents</description>
+  </expense>
+  <expense>
+    <id>3825</id>
+    <amount>20.09</amount>
+    <date>
+      <day>29</day>
+      <month>4</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>STAR Diesel</description>
+  </expense>
+  <expense>
+    <id>3826</id>
+    <amount>26.20</amount>
+    <date>
+      <day>29</day>
+      <month>4</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Restaurant</category>
+    <description>ANDRONACO Pizzas for everyone</description>
+  </expense>
+  <expense>
+    <id>3827</id>
+    <amount>20.04</amount>
+    <date>
+      <day>3</day>
+      <month>5</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>TANKCENTER Diesel</description>
+  </expense>
+  <expense>
+    <id>3828</id>
+    <amount>2.18</amount>
+    <date>
+      <day>2</day>
+      <month>5</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>REWE</description>
+  </expense>
+  <expense>
+    <id>3829</id>
+    <amount>12.53</amount>
+    <date>
+      <day>30</day>
+      <month>4</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>NETTO</description>
+  </expense>
+  <expense>
+    <id>3830</id>
+    <amount>7.31</amount>
+    <date>
+      <day>30</day>
+      <month>4</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>NETTO</description>
   </expense>
 </expenses>
