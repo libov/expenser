@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>3835</last_expense_id>
+  <last_expense_id>3840</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -44049,7 +44049,7 @@
       <month>4</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>EBAY PAYPAL DPF Reiniger</description>
   </expense>
@@ -44601,7 +44601,7 @@
       <month>4</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>REWE</description>
   </expense>
@@ -44793,7 +44793,7 @@
       <month>4</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Travel</category>
     <description>SHELL Diesel trip Ungvar</description>
   </expense>
@@ -45600,5 +45600,65 @@
     <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>VWFS Kantine</description>
+  </expense>
+  <expense>
+    <id>3836</id>
+    <amount>10.00</amount>
+    <date>
+      <day>18</day>
+      <month>4</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Travel</category>
+    <description>part1 of 50: Autobahn Poland</description>
+  </expense>
+  <expense>
+    <id>3837</id>
+    <amount>4.00</amount>
+    <date>
+      <day>18</day>
+      <month>4</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Travel</category>
+    <description>part2 of 50: parking Velke Slemence</description>
+  </expense>
+  <expense>
+    <id>3838</id>
+    <amount>10.00</amount>
+    <date>
+      <day>18</day>
+      <month>4</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Travel</category>
+    <description>part3 of 50: Taxi from Velke Slemence</description>
+  </expense>
+  <expense>
+    <id>3839</id>
+    <amount>11.00</amount>
+    <date>
+      <day>18</day>
+      <month>4</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Other</category>
+    <description>part4 of 50: Perukarka etc.</description>
+  </expense>
+  <expense>
+    <id>3840</id>
+    <amount>15.00</amount>
+    <date>
+      <day>18</day>
+      <month>4</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Other</category>
+    <description>part5 of 50: Teeth</description>
   </expense>
 </expenses>
