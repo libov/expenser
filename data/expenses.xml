@@ -44589,7 +44589,7 @@
       <month>4</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Restaurant</category>
     <description>SUSHI Braunschweig</description>
   </expense>
@@ -44781,7 +44781,7 @@
       <month>4</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Travel</category>
     <description>SHELL Diesel trip Uzhgorod</description>
   </expense>
@@ -44829,7 +44829,7 @@
       <month>4</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Presents</category>
     <description>Fourside Artemaki</description>
   </expense>
