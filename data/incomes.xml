@@ -1,9 +1,17 @@
 <?xml version="1.0"?>
 <incomes>
 	<entry>
+        <amount>1.59</amount>
+        <date>
+            <month>4</month>
+            <year>2019</year>
+        </date>
+        <description>Return VWFS Kanteen</description>
+	</entry>
+	<entry>
         <amount>3098.12</amount>
         <date>
-            <month>3</month>
+            <month>4</month>
             <year>2019</year>
         </date>
         <description>Salary 4/2019</description>
