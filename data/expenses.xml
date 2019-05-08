@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>3834</last_expense_id>
+  <last_expense_id>3835</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -44169,7 +44169,7 @@
       <month>4</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>REWE</description>
   </expense>
@@ -44181,7 +44181,7 @@
       <month>4</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>NETTO</description>
   </expense>
@@ -44193,7 +44193,7 @@
       <month>4</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Restaurant</category>
     <description>BURGER KING</description>
   </expense>
@@ -44217,7 +44217,7 @@
       <month>4</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>REWE</description>
   </expense>
@@ -44229,7 +44229,7 @@
       <month>4</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Restaurant</category>
     <description>Mutter Habenicht</description>
   </expense>
@@ -44280,18 +44280,6 @@
     <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>REWE</description>
-  </expense>
-  <expense>
-    <id>3723</id>
-    <amount>20.00</amount>
-    <date>
-      <day>15</day>
-      <month>4</month>
-      <year>2019</year>
-    </date>
-    <withdrawn>No</withdrawn>
-    <category>Food</category>
-    <description>CANTEEN VWFS</description>
   </expense>
   <expense>
     <id>3724</id>
@@ -45600,5 +45588,17 @@
     <withdrawn>No</withdrawn>
     <category>Presents</category>
     <description>FLIXBUS Artemaki</description>
+  </expense>
+  <expense>
+    <id>3835</id>
+    <amount>20.00</amount>
+    <date>
+      <day>15</day>
+      <month>4</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Food</category>
+    <description>VWFS Kantine</description>
   </expense>
 </expenses>
