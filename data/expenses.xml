@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>3842</last_expense_id>
+  <last_expense_id>3845</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -45684,5 +45684,41 @@
     <withdrawn>Yes</withdrawn>
     <category>Travel</category>
     <description>Autobahn 10 zl</description>
+  </expense>
+  <expense>
+    <id>3843</id>
+    <amount>4.16</amount>
+    <date>
+      <day>21</day>
+      <month>4</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Restaurant</category>
+    <description>McDonalds Autobahn</description>
+  </expense>
+  <expense>
+    <id>3844</id>
+    <amount>4.79</amount>
+    <date>
+      <day>21</day>
+      <month>4</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Travel</category>
+    <description>Autobahn Poland 16.2 zl</description>
+  </expense>
+  <expense>
+    <id>3845</id>
+    <amount>19.91</amount>
+    <date>
+      <day>19</day>
+      <month>4</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Travel</category>
+    <description>SHELL Poland Diesel</description>
   </expense>
 </expenses>
