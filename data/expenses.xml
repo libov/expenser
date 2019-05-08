@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>3840</last_expense_id>
+  <last_expense_id>3842</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -44805,7 +44805,7 @@
       <month>4</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>SHELL food</description>
   </expense>
@@ -45660,5 +45660,29 @@
     <withdrawn>Yes</withdrawn>
     <category>Other</category>
     <description>part5 of 50: Teeth</description>
+  </expense>
+  <expense>
+    <id>3841</id>
+    <amount>25.66</amount>
+    <date>
+      <day>21</day>
+      <month>4</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Travel</category>
+    <description>ORLEN Poland Diesel (105.44 zl)</description>
+  </expense>
+  <expense>
+    <id>3842</id>
+    <amount>3.34</amount>
+    <date>
+      <day>21</day>
+      <month>4</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Travel</category>
+    <description>Autobahn 10 zl</description>
   </expense>
 </expenses>
