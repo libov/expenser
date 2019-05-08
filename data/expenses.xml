@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>3846</last_expense_id>
+  <last_expense_id>3850</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -45732,5 +45732,53 @@
     <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>VWFS Kantine</description>
+  </expense>
+  <expense>
+    <id>3847</id>
+    <amount>25.00</amount>
+    <date>
+      <day>30</day>
+      <month>4</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Piano lessons</category>
+    <description>1x</description>
+  </expense>
+  <expense>
+    <id>3848</id>
+    <amount>30.00</amount>
+    <date>
+      <day>30</day>
+      <month>4</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Presents</category>
+    <description>cash for parents</description>
+  </expense>
+  <expense>
+    <id>3849</id>
+    <amount>13.14</amount>
+    <date>
+      <day>30</day>
+      <month>4</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Wilster house purchase</category>
+    <description>Kredit Sparda Tilgung Kontoloeschung</description>
+  </expense>
+  <expense>
+    <id>3850</id>
+    <amount>107.00</amount>
+    <date>
+      <day>29</day>
+      <month>4</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Flat</category>
+    <description>STADTWERKE PI 04/2019</description>
   </expense>
 </expenses>
