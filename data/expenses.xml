@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>3860</last_expense_id>
+  <last_expense_id>3867</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -44853,7 +44853,7 @@
       <month>4</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>EDEKA</description>
   </expense>
@@ -45117,7 +45117,7 @@
       <month>4</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Wilster regular</category>
     <description>O2 Internet 03/2019</description>
   </expense>
@@ -45417,7 +45417,7 @@
       <month>4</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>ANDRONACO</description>
   </expense>
@@ -45489,7 +45489,7 @@
       <month>4</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Restaurant</category>
     <description>ANDRONACO Pizzas for everyone</description>
   </expense>
@@ -45900,5 +45900,89 @@
     <withdrawn>No</withdrawn>
     <category>Food</category>
     <description>ALDI</description>
+  </expense>
+  <expense>
+    <id>3861</id>
+    <amount>79.99</amount>
+    <date>
+      <day>29</day>
+      <month>4</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Presents</category>
+    <description>TKMAXX Suitcase parents</description>
+  </expense>
+  <expense>
+    <id>3862</id>
+    <amount>19.61</amount>
+    <date>
+      <day>29</day>
+      <month>4</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>No record</category>
+    <description>EDEKA</description>
+  </expense>
+  <expense>
+    <id>3863</id>
+    <amount>10.00</amount>
+    <date>
+      <day>30</day>
+      <month>4</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Presents</category>
+    <description>FONIC mom</description>
+  </expense>
+  <expense>
+    <id>3864</id>
+    <amount>15.00</amount>
+    <date>
+      <day>9</day>
+      <month>5</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Restaurant</category>
+    <description>Turkish place</description>
+  </expense>
+  <expense>
+    <id>3865</id>
+    <amount>80.00</amount>
+    <date>
+      <day>11</day>
+      <month>5</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Restaurant</category>
+    <description>Greek place Birthdays</description>
+  </expense>
+  <expense>
+    <id>3866</id>
+    <amount>7.98</amount>
+    <date>
+      <day>11</day>
+      <month>5</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Presents</category>
+    <description>NETTO coffee</description>
+  </expense>
+  <expense>
+    <id>3867</id>
+    <amount>9.47</amount>
+    <date>
+      <day>13</day>
+      <month>5</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>REWE</description>
   </expense>
 </expenses>
