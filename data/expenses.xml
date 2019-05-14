@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>3856</last_expense_id>
+  <last_expense_id>3860</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -45852,5 +45852,53 @@
     <withdrawn>No</withdrawn>
     <category>Presents</category>
     <description>KIK Dad</description>
+  </expense>
+  <expense>
+    <id>3857</id>
+    <amount>13.24</amount>
+    <date>
+      <day>11</day>
+      <month>5</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>NETTO</description>
+  </expense>
+  <expense>
+    <id>3858</id>
+    <amount>1.50</amount>
+    <date>
+      <day>10</day>
+      <month>5</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>BACKFACTORY</description>
+  </expense>
+  <expense>
+    <id>3859</id>
+    <amount>35.18</amount>
+    <date>
+      <day>10</day>
+      <month>5</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Presents</category>
+    <description>TKMAXX for Artemis</description>
+  </expense>
+  <expense>
+    <id>3860</id>
+    <amount>15.23</amount>
+    <date>
+      <day>11</day>
+      <month>5</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>ALDI</description>
   </expense>
 </expenses>
