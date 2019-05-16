@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>3876</last_expense_id>
+  <last_expense_id>3877</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -46080,5 +46080,17 @@
     <withdrawn>Yes</withdrawn>
     <category>Business trip</category>
     <description>Braunschweig Verkehr</description>
+  </expense>
+  <expense>
+    <id>3877</id>
+    <amount>30.00</amount>
+    <date>
+      <day>10</day>
+      <month>5</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Presents</category>
+    <description>Cash Maman</description>
   </expense>
 </expenses>
