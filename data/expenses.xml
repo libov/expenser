@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>3870</last_expense_id>
+  <last_expense_id>3873</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -45333,7 +45333,7 @@
       <month>5</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>ALDI</description>
   </expense>
@@ -45345,7 +45345,7 @@
       <month>5</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>ALDI</description>
   </expense>
@@ -45429,7 +45429,7 @@
       <month>4</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Wilster</category>
     <description>HORNBACH various</description>
   </expense>
@@ -45456,18 +45456,6 @@
     <withdrawn>No</withdrawn>
     <category>Food</category>
     <description>REAL</description>
-  </expense>
-  <expense>
-    <id>3824</id>
-    <amount>79.99</amount>
-    <date>
-      <day>29</day>
-      <month>4</month>
-      <year>2019</year>
-    </date>
-    <withdrawn>No</withdrawn>
-    <category>Presents</category>
-    <description>TK MAXX Suitcase parents</description>
   </expense>
   <expense>
     <id>3825</id>
@@ -45525,7 +45513,7 @@
       <month>4</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>NETTO</description>
   </expense>
@@ -45537,7 +45525,7 @@
       <month>4</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>NETTO</description>
   </expense>
@@ -46020,5 +46008,41 @@
     <withdrawn>Yes</withdrawn>
     <category>Flat</category>
     <description>WEG 05/2019</description>
+  </expense>
+  <expense>
+    <id>3871</id>
+    <amount>354.55</amount>
+    <date>
+      <day>3</day>
+      <month>5</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Business trip</category>
+    <description>KREDITKARTE</description>
+  </expense>
+  <expense>
+    <id>3872</id>
+    <amount>10.00</amount>
+    <date>
+      <day>3</day>
+      <month>5</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Food</category>
+    <description>money back to Sebastian</description>
+  </expense>
+  <expense>
+    <id>3873</id>
+    <amount>10.00</amount>
+    <date>
+      <day>3</day>
+      <month>5</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Food</category>
+    <description>VW Aufwertung</description>
   </expense>
 </expenses>
