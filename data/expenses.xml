@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>3883</last_expense_id>
+  <last_expense_id>3887</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -46164,5 +46164,53 @@
     <withdrawn>No</withdrawn>
     <category>Wilster</category>
     <description>HORNBACH Waschmaschine Siphon</description>
+  </expense>
+  <expense>
+    <id>3884</id>
+    <amount>7.14</amount>
+    <date>
+      <day>18</day>
+      <month>5</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>ALDI</description>
+  </expense>
+  <expense>
+    <id>3885</id>
+    <amount>5.94</amount>
+    <date>
+      <day>18</day>
+      <month>5</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>EDEKA</description>
+  </expense>
+  <expense>
+    <id>3886</id>
+    <amount>7.90</amount>
+    <date>
+      <day>20</day>
+      <month>5</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>REWE</description>
+  </expense>
+  <expense>
+    <id>3887</id>
+    <amount>20.00</amount>
+    <date>
+      <day>18</day>
+      <month>5</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>TANKCENTER Diesel</description>
   </expense>
 </expenses>
