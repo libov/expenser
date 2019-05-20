@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>3877</last_expense_id>
+  <last_expense_id>3883</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -46092,5 +46092,77 @@
     <withdrawn>Yes</withdrawn>
     <category>Presents</category>
     <description>Cash Maman</description>
+  </expense>
+  <expense>
+    <id>3878</id>
+    <amount>5.00</amount>
+    <date>
+      <day>17</day>
+      <month>5</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>3879</id>
+    <amount>22.00</amount>
+    <date>
+      <day>20</day>
+      <month>5</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Business trip</category>
+    <description>BS Ticket</description>
+  </expense>
+  <expense>
+    <id>3880</id>
+    <amount>29.23</amount>
+    <date>
+      <day>18</day>
+      <month>5</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Wilster</category>
+    <description>OBI Estrich</description>
+  </expense>
+  <expense>
+    <id>3881</id>
+    <amount>25.06</amount>
+    <date>
+      <day>18</day>
+      <month>5</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Wilster</category>
+    <description>OBI Estrich</description>
+  </expense>
+  <expense>
+    <id>3882</id>
+    <amount>25.06</amount>
+    <date>
+      <day>18</day>
+      <month>5</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Wilster</category>
+    <description>OBI Estrich</description>
+  </expense>
+  <expense>
+    <id>3883</id>
+    <amount>35.35</amount>
+    <date>
+      <day>18</day>
+      <month>5</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Wilster</category>
+    <description>HORNBACH Waschmaschine Siphon</description>
   </expense>
 </expenses>
