@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>3887</last_expense_id>
+  <last_expense_id>3913</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -45789,7 +45789,7 @@
       <month>5</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Presents</category>
     <description>ROSSMANN nordic walking etc.</description>
   </expense>
@@ -45801,7 +45801,7 @@
       <month>5</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>ROSSMANN water</description>
   </expense>
@@ -45813,7 +45813,7 @@
       <month>5</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Presents</category>
     <description>EDEKA presents Dad, Artemis</description>
   </expense>
@@ -45825,7 +45825,7 @@
       <month>5</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Wilster</category>
     <description>HORNBACH Loettkolben und Hohlbohrkrone</description>
   </expense>
@@ -45837,7 +45837,7 @@
       <month>5</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Presents</category>
     <description>KIK Dad</description>
   </expense>
@@ -45849,7 +45849,7 @@
       <month>5</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>NETTO</description>
   </expense>
@@ -45861,7 +45861,7 @@
       <month>5</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>BACKFACTORY</description>
   </expense>
@@ -45873,7 +45873,7 @@
       <month>5</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Presents</category>
     <description>TKMAXX for Artemis</description>
   </expense>
@@ -45885,7 +45885,7 @@
       <month>5</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>ALDI</description>
   </expense>
@@ -45933,7 +45933,7 @@
       <month>5</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Restaurant</category>
     <description>Turkish place</description>
   </expense>
@@ -45945,7 +45945,7 @@
       <month>5</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Restaurant</category>
     <description>Greek place Birthdays</description>
   </expense>
@@ -45957,7 +45957,7 @@
       <month>5</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Presents</category>
     <description>NETTO coffee</description>
   </expense>
@@ -45969,7 +45969,7 @@
       <month>5</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>REWE</description>
   </expense>
@@ -46101,7 +46101,7 @@
       <month>5</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -46125,7 +46125,7 @@
       <month>5</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Wilster</category>
     <description>OBI Estrich</description>
   </expense>
@@ -46137,7 +46137,7 @@
       <month>5</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Wilster</category>
     <description>OBI Estrich</description>
   </expense>
@@ -46149,7 +46149,7 @@
       <month>5</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Wilster</category>
     <description>OBI Estrich</description>
   </expense>
@@ -46161,7 +46161,7 @@
       <month>5</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Wilster</category>
     <description>HORNBACH Waschmaschine Siphon</description>
   </expense>
@@ -46173,7 +46173,7 @@
       <month>5</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>ALDI</description>
   </expense>
@@ -46185,7 +46185,7 @@
       <month>5</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>EDEKA</description>
   </expense>
@@ -46197,7 +46197,7 @@
       <month>5</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>REWE</description>
   </expense>
@@ -46209,8 +46209,320 @@
       <month>5</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>TANKCENTER Diesel</description>
+  </expense>
+  <expense>
+    <id>3888</id>
+    <amount>19.38</amount>
+    <date>
+      <day>24</day>
+      <month>5</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>NETTO</description>
+  </expense>
+  <expense>
+    <id>3889</id>
+    <amount>19.64</amount>
+    <date>
+      <day>1</day>
+      <month>6</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>JANNIS</description>
+  </expense>
+  <expense>
+    <id>3890</id>
+    <amount>43.67</amount>
+    <date>
+      <day>1</day>
+      <month>6</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Clothes</category>
+    <description>TKMAXX</description>
+  </expense>
+  <expense>
+    <id>3891</id>
+    <amount>49.13</amount>
+    <date>
+      <day>1</day>
+      <month>6</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Wilster</category>
+    <description>HORNBACH</description>
+  </expense>
+  <expense>
+    <id>3892</id>
+    <amount>11.93</amount>
+    <date>
+      <day>31</day>
+      <month>5</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>LIDL</description>
+  </expense>
+  <expense>
+    <id>3893</id>
+    <amount>4.50</amount>
+    <date>
+      <day>29</day>
+      <month>5</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Other</category>
+    <description>FASSON Textilpflege Hemden</description>
+  </expense>
+  <expense>
+    <id>3894</id>
+    <amount>5.95</amount>
+    <date>
+      <day>31</day>
+      <month>5</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Wilster</category>
+    <description>OBI</description>
+  </expense>
+  <expense>
+    <id>3895</id>
+    <amount>20.01</amount>
+    <date>
+      <day>25</day>
+      <month>5</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Wilster</category>
+    <description>OBI</description>
+  </expense>
+  <expense>
+    <id>3896</id>
+    <amount>12.44</amount>
+    <date>
+      <day>25</day>
+      <month>5</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Wilster</category>
+    <description>OBI</description>
+  </expense>
+  <expense>
+    <id>3897</id>
+    <amount>55.20</amount>
+    <date>
+      <day>25</day>
+      <month>5</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Presents</category>
+    <description>ROSSMANN</description>
+  </expense>
+  <expense>
+    <id>3898</id>
+    <amount>11.25</amount>
+    <date>
+      <day>23</day>
+      <month>5</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Restaurant</category>
+    <description>MUTTERHABNICHT 11.25 part 1 of 21.25</description>
+  </expense>
+  <expense>
+    <id>3899</id>
+    <amount>10.00</amount>
+    <date>
+      <day>23</day>
+      <month>5</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Presents</category>
+    <description>cash for mom part 2 of 21.25</description>
+  </expense>
+  <expense>
+    <id>3900</id>
+    <amount>20.00</amount>
+    <date>
+      <day>31</day>
+      <month>5</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>SHELL Diesel</description>
+  </expense>
+  <expense>
+    <id>3901</id>
+    <amount>8.20</amount>
+    <date>
+      <day>24</day>
+      <month>5</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>FASSON Hemden</description>
+  </expense>
+  <expense>
+    <id>3902</id>
+    <amount>0.78</amount>
+    <date>
+      <day>21</day>
+      <month>5</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Food</category>
+    <description>REWE</description>
+  </expense>
+  <expense>
+    <id>3903</id>
+    <amount>1.99</amount>
+    <date>
+      <day>25</day>
+      <month>5</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>ROSSMANN</description>
+  </expense>
+  <expense>
+    <id>3904</id>
+    <amount>6.62</amount>
+    <date>
+      <day>31</day>
+      <month>5</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>ALDI</description>
+  </expense>
+  <expense>
+    <id>3905</id>
+    <amount>16.10</amount>
+    <date>
+      <day>25</day>
+      <month>5</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>ALDI</description>
+  </expense>
+  <expense>
+    <id>3906</id>
+    <amount>14.41</amount>
+    <date>
+      <day>31</day>
+      <month>5</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>NETTO</description>
+  </expense>
+  <expense>
+    <id>3907</id>
+    <amount>20.24</amount>
+    <date>
+      <day>31</day>
+      <month>5</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>EDEKA</description>
+  </expense>
+  <expense>
+    <id>3908</id>
+    <amount>20.00</amount>
+    <date>
+      <day>14</day>
+      <month>5</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Food</category>
+    <description>VWFS Kantine</description>
+  </expense>
+  <expense>
+    <id>3909</id>
+    <amount>10.00</amount>
+    <date>
+      <day>17</day>
+      <month>5</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Food</category>
+    <description>VWFS Kantine</description>
+  </expense>
+  <expense>
+    <id>3910</id>
+    <amount>20.00</amount>
+    <date>
+      <day>22</day>
+      <month>5</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>VWFS Kantine</description>
+  </expense>
+  <expense>
+    <id>3911</id>
+    <amount>35.63</amount>
+    <date>
+      <day>15</day>
+      <month>5</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Flat</category>
+    <description>GRUNDSTEUER B</description>
+  </expense>
+  <expense>
+    <id>3912</id>
+    <amount>140.24</amount>
+    <date>
+      <day>15</day>
+      <month>5</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Wilster regular</category>
+    <description>GRUNDSTEUER B</description>
+  </expense>
+  <expense>
+    <id>3913</id>
+    <amount>30.39</amount>
+    <date>
+      <day>15</day>
+      <month>5</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Wilster regular</category>
+    <description>STEINBURG Abfall</description>
   </expense>
 </expenses>
