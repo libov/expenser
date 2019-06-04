@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>3913</last_expense_id>
+  <last_expense_id>3917</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -46524,5 +46524,53 @@
     <withdrawn>Yes</withdrawn>
     <category>Wilster regular</category>
     <description>STEINBURG Abfall</description>
+  </expense>
+  <expense>
+    <id>3914</id>
+    <amount>2.81</amount>
+    <date>
+      <day>4</day>
+      <month>6</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>REAL</description>
+  </expense>
+  <expense>
+    <id>3915</id>
+    <amount>8.69</amount>
+    <date>
+      <day>3</day>
+      <month>6</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>REAL</description>
+  </expense>
+  <expense>
+    <id>3916</id>
+    <amount>0.74</amount>
+    <date>
+      <day>3</day>
+      <month>6</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>ROSSMANN</description>
+  </expense>
+  <expense>
+    <id>3917</id>
+    <amount>11.98</amount>
+    <date>
+      <day>1</day>
+      <month>6</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Other</category>
+    <description>REWE Condoms etc.</description>
   </expense>
 </expenses>
