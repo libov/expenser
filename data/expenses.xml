@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>3923</last_expense_id>
+  <last_expense_id>3930</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -46644,5 +46644,89 @@
     <withdrawn>No</withdrawn>
     <category>Wilster</category>
     <description>OBI Winkel</description>
+  </expense>
+  <expense>
+    <id>3924</id>
+    <amount>22.00</amount>
+    <date>
+      <day>19</day>
+      <month>6</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Business trip</category>
+    <description>BRAUNSCHWEIG Verkehr 10er Karte</description>
+  </expense>
+  <expense>
+    <id>3925</id>
+    <amount>22.00</amount>
+    <date>
+      <day>27</day>
+      <month>5</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Business trip</category>
+    <description>BRAUNSCHWEIG Verkehr 10er Karte</description>
+  </expense>
+  <expense>
+    <id>3926</id>
+    <amount>22.00</amount>
+    <date>
+      <day>11</day>
+      <month>6</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Business trip</category>
+    <description>BRAUNSCHWEIG Verkehr 10er Karte</description>
+  </expense>
+  <expense>
+    <id>3927</id>
+    <amount>3.51</amount>
+    <date>
+      <day>19</day>
+      <month>6</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>REWE</description>
+  </expense>
+  <expense>
+    <id>3928</id>
+    <amount>6.40</amount>
+    <date>
+      <day>17</day>
+      <month>6</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>REWE</description>
+  </expense>
+  <expense>
+    <id>3929</id>
+    <amount>8.24</amount>
+    <date>
+      <day>15</day>
+      <month>6</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Wilster</category>
+    <description>OBI Bausilikon</description>
+  </expense>
+  <expense>
+    <id>3930</id>
+    <amount>19.84</amount>
+    <date>
+      <day>16</day>
+      <month>6</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>SHELL Diesel</description>
   </expense>
 </expenses>
