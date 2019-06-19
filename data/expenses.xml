@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>3919</last_expense_id>
+  <last_expense_id>3923</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -46596,5 +46596,53 @@
     <withdrawn>No</withdrawn>
     <category>Food</category>
     <description>ROSSMANN</description>
+  </expense>
+  <expense>
+    <id>3920</id>
+    <amount>4.85</amount>
+    <date>
+      <day>18</day>
+      <month>6</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>REWE</description>
+  </expense>
+  <expense>
+    <id>3921</id>
+    <amount>19.00</amount>
+    <date>
+      <day>12</day>
+      <month>6</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Restaurant</category>
+    <description>Mutter Habenicht</description>
+  </expense>
+  <expense>
+    <id>3922</id>
+    <amount>8.00</amount>
+    <date>
+      <day>11</day>
+      <month>6</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>REAL</description>
+  </expense>
+  <expense>
+    <id>3923</id>
+    <amount>2.41</amount>
+    <date>
+      <day>15</day>
+      <month>6</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Wilster</category>
+    <description>OBI Winkel</description>
   </expense>
 </expenses>
