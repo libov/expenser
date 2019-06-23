@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>3940</last_expense_id>
+  <last_expense_id>3941</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -46848,5 +46848,17 @@
     <withdrawn>No</withdrawn>
     <category>Wilster</category>
     <description>EDEKA Muellsaecke</description>
+  </expense>
+  <expense>
+    <id>3941</id>
+    <amount>139.00</amount>
+    <date>
+      <day>15</day>
+      <month>6</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Presents</category>
+    <description>DOUGLAS Mama</description>
   </expense>
 </expenses>
