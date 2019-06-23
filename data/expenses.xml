@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>3941</last_expense_id>
+  <last_expense_id>3951</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -46341,7 +46341,7 @@
       <month>5</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Restaurant</category>
     <description>MUTTERHABNICHT 11.25 part 1 of 21.25</description>
   </expense>
@@ -46353,7 +46353,7 @@
       <month>5</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Presents</category>
     <description>cash for mom part 2 of 21.25</description>
   </expense>
@@ -46485,7 +46485,7 @@
       <month>5</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>VWFS Kantine</description>
   </expense>
@@ -46860,5 +46860,101 @@
     <withdrawn>No</withdrawn>
     <category>Presents</category>
     <description>DOUGLAS Mama</description>
+  </expense>
+  <expense>
+    <id>3942</id>
+    <amount>20.00</amount>
+    <date>
+      <day>5</day>
+      <month>6</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>VWFS Kantine</description>
+  </expense>
+  <expense>
+    <id>3943</id>
+    <amount>20.00</amount>
+    <date>
+      <day>12</day>
+      <month>6</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>VWFS Kantine</description>
+  </expense>
+  <expense>
+    <id>3944</id>
+    <amount>20.00</amount>
+    <date>
+      <day>19</day>
+      <month>6</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>VWFS Kantine</description>
+  </expense>
+  <expense>
+    <id>3945</id>
+    <amount>2.60</amount>
+    <date>
+      <day>7</day>
+      <month>6</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Business trip</category>
+    <description>DB</description>
+  </expense>
+  <expense>
+    <id>3946</id>
+    <amount>2.60</amount>
+    <date>
+      <day>3</day>
+      <month>6</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Business trip</category>
+    <description>DB</description>
+  </expense>
+  <expense>
+    <id>3947</id>
+    <amount>1.65</amount>
+    <date>
+      <day>20</day>
+      <month>5</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Business trip</category>
+    <description>HVV</description>
+  </expense>
+  <expense>
+    <id>3948</id>
+    <amount>10.00</amount>
+    <date>
+      <day>29</day>
+      <month>5</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>PAYPAL VWFS Kantine Sebastian Werner</description>
+  </expense>
+  <expense>
+    <id>3951</id>
+    <amount>35.00</amount>
+    <date>
+      <day>27</day>
+      <month>5</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Food</category>
+    <description>Ueberweisung Andreas Lohs VWFS Kantine</description>
   </expense>
 </expenses>
