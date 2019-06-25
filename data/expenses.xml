@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>3959</last_expense_id>
+  <last_expense_id>3966</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -47052,5 +47052,89 @@
     <withdrawn>Yes</withdrawn>
     <category>Presents</category>
     <description>parents</description>
+  </expense>
+  <expense>
+    <id>3960</id>
+    <amount>20.00</amount>
+    <date>
+      <day>24</day>
+      <month>6</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>VFWS Kantine</description>
+  </expense>
+  <expense>
+    <id>3961</id>
+    <amount>5.92</amount>
+    <date>
+      <day>24</day>
+      <month>6</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>EDEKA</description>
+  </expense>
+  <expense>
+    <id>3962</id>
+    <amount>22.66</amount>
+    <date>
+      <day>8</day>
+      <month>6</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>ALDI</description>
+  </expense>
+  <expense>
+    <id>3963</id>
+    <amount>2.60</amount>
+    <date>
+      <day>6</day>
+      <month>6</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>REWE</description>
+  </expense>
+  <expense>
+    <id>3964</id>
+    <amount>10.18</amount>
+    <date>
+      <day>8</day>
+      <month>6</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Wilster</category>
+    <description>OBI Gips</description>
+  </expense>
+  <expense>
+    <id>3965</id>
+    <amount>11.97</amount>
+    <date>
+      <day>24</day>
+      <month>6</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Presents</category>
+    <description>REWE Kuchen dfine</description>
+  </expense>
+  <expense>
+    <id>3966</id>
+    <amount>33.66</amount>
+    <date>
+      <day>23</day>
+      <month>6</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Restaurant</category>
+    <description>BURGER KING</description>
   </expense>
 </expenses>
