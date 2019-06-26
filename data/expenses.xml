@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>3970</last_expense_id>
+  <last_expense_id>3973</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -46365,7 +46365,7 @@
       <month>5</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>SHELL Diesel</description>
   </expense>
@@ -47184,5 +47184,41 @@
     <withdrawn>No</withdrawn>
     <category>Food</category>
     <description>EDEKA</description>
+  </expense>
+  <expense>
+    <id>3971</id>
+    <amount>203.91</amount>
+    <date>
+      <day>3</day>
+      <month>6</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Flat</category>
+    <description>WEG Wohngeld 06/2019</description>
+  </expense>
+  <expense>
+    <id>3972</id>
+    <amount>76.00</amount>
+    <date>
+      <day>3</day>
+      <month>6</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Wilster regular</category>
+    <description>Stadtwerke Wilster 6/2019</description>
+  </expense>
+  <expense>
+    <id>3973</id>
+    <amount>61.00</amount>
+    <date>
+      <day>3</day>
+      <month>6</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Wilster regular</category>
+    <description>MAINGAU Gas 6/2019</description>
   </expense>
 </expenses>
