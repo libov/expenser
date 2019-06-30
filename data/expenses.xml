@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>3973</last_expense_id>
+  <last_expense_id>3978</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -47220,5 +47220,65 @@
     <withdrawn>Yes</withdrawn>
     <category>Wilster regular</category>
     <description>MAINGAU Gas 6/2019</description>
+  </expense>
+  <expense>
+    <id>3974</id>
+    <amount>2.65</amount>
+    <date>
+      <day>27</day>
+      <month>6</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>EDEKA</description>
+  </expense>
+  <expense>
+    <id>3975</id>
+    <amount>28.90</amount>
+    <date>
+      <day>28</day>
+      <month>6</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Wilster</category>
+    <description>HORNBACH Daemmung</description>
+  </expense>
+  <expense>
+    <id>3976</id>
+    <amount>3.00</amount>
+    <date>
+      <day>28</day>
+      <month>6</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>BACK Hannover</description>
+  </expense>
+  <expense>
+    <id>3977</id>
+    <amount>20.00</amount>
+    <date>
+      <day>30</day>
+      <month>6</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>STAR Diesel</description>
+  </expense>
+  <expense>
+    <id>3978</id>
+    <amount>0.94</amount>
+    <date>
+      <day>28</day>
+      <month>6</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>ROSSMANN</description>
   </expense>
 </expenses>
