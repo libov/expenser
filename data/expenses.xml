@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>3991</last_expense_id>
+  <last_expense_id>3997</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -47436,5 +47436,77 @@
     <withdrawn>No</withdrawn>
     <category>Food</category>
     <description>NETTO</description>
+  </expense>
+  <expense>
+    <id>3992</id>
+    <amount>9.44</amount>
+    <date>
+      <day>13</day>
+      <month>7</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>EDEKA</description>
+  </expense>
+  <expense>
+    <id>3993</id>
+    <amount>14.12</amount>
+    <date>
+      <day>6</day>
+      <month>7</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>NETTO </description>
+  </expense>
+  <expense>
+    <id>3994</id>
+    <amount>20.78</amount>
+    <date>
+      <day>12</day>
+      <month>7</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>NETTO </description>
+  </expense>
+  <expense>
+    <id>3995</id>
+    <amount>2.68</amount>
+    <date>
+      <day>13</day>
+      <month>7</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>NETTO </description>
+  </expense>
+  <expense>
+    <id>3996</id>
+    <amount>5.11</amount>
+    <date>
+      <day>8</day>
+      <month>7</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>REWE</description>
+  </expense>
+  <expense>
+    <id>3997</id>
+    <amount>0.55</amount>
+    <date>
+      <day>8</day>
+      <month>7</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>REWE</description>
   </expense>
 </expenses>
