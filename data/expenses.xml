@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>3999</last_expense_id>
+  <last_expense_id>4002</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -47532,5 +47532,41 @@
     <withdrawn>No</withdrawn>
     <category>Restaurant</category>
     <description>MUTTER HABE NICHT</description>
+  </expense>
+  <expense>
+    <id>4000</id>
+    <amount>20.18</amount>
+    <date>
+      <day>4</day>
+      <month>7</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>HEM Diesel</description>
+  </expense>
+  <expense>
+    <id>4001</id>
+    <amount>2.70</amount>
+    <date>
+      <day>5</day>
+      <month>7</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>Baeckerei Kaffee</description>
+  </expense>
+  <expense>
+    <id>4002</id>
+    <amount>12.12</amount>
+    <date>
+      <day>4</day>
+      <month>7</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>OBI</description>
   </expense>
 </expenses>
