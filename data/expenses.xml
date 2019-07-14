@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>4008</last_expense_id>
+  <last_expense_id>4012</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -47634,6 +47634,54 @@
     <amount>1.31</amount>
     <date>
       <day>3</day>
+      <month>7</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>TESCO</description>
+  </expense>
+  <expense>
+    <id>4009</id>
+    <amount>1.00</amount>
+    <date>
+      <day>4</day>
+      <month>7</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>Krakow Airport Balice WAter</description>
+  </expense>
+  <expense>
+    <id>4010</id>
+    <amount>26.04</amount>
+    <date>
+      <day>3</day>
+      <month>7</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Travel</category>
+    <description>TESCO Benzin rental car</description>
+  </expense>
+  <expense>
+    <id>4011</id>
+    <amount>0.36</amount>
+    <date>
+      <day>2</day>
+      <month>7</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>TESCO</description>
+  </expense>
+  <expense>
+    <id>4012</id>
+    <amount>6.21</amount>
+    <date>
+      <day>2</day>
       <month>7</month>
       <year>2019</year>
     </date>
