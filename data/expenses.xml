@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>4016</last_expense_id>
+  <last_expense_id>4020</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -47736,5 +47736,53 @@
     <withdrawn>No</withdrawn>
     <category>Food</category>
     <description>REWE</description>
+  </expense>
+  <expense>
+    <id>4017</id>
+    <amount>1.25</amount>
+    <date>
+      <day>15</day>
+      <month>7</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>ITZEHOE BAHNHOF Water</description>
+  </expense>
+  <expense>
+    <id>4018</id>
+    <amount>2.90</amount>
+    <date>
+      <day>15</day>
+      <month>7</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>BACK FACTORY sandwich</description>
+  </expense>
+  <expense>
+    <id>4019</id>
+    <amount>3.99</amount>
+    <date>
+      <day>12</day>
+      <month>7</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Restaurant</category>
+    <description>BURGER KING</description>
+  </expense>
+  <expense>
+    <id>4020</id>
+    <amount>21.00</amount>
+    <date>
+      <day>15</day>
+      <month>7</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Business trip</category>
+    <description>Fahrkarte Braunschweig</description>
   </expense>
 </expenses>
