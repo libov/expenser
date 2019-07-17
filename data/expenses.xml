@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>4020</last_expense_id>
+  <last_expense_id>4021</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -47784,5 +47784,17 @@
     <withdrawn>No</withdrawn>
     <category>Business trip</category>
     <description>Fahrkarte Braunschweig</description>
+  </expense>
+  <expense>
+    <id>4021</id>
+    <amount>58.52</amount>
+    <date>
+      <day>17</day>
+      <month>7</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Wilster regular</category>
+    <description>SCHORNSTEINFEGER 2019 Willi Tesch</description>
   </expense>
 </expenses>
