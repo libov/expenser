@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>4022</last_expense_id>
+  <last_expense_id>4030</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -47808,5 +47808,101 @@
     <withdrawn>No</withdrawn>
     <category>Wilster</category>
     <description>HAUPTHOFF Gipskarton etc.</description>
+  </expense>
+  <expense>
+    <id>4023</id>
+    <amount>191.13</amount>
+    <date>
+      <day>17</day>
+      <month>7</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Wilster</category>
+    <description>HAUPTHOFF Bauder etc.</description>
+  </expense>
+  <expense>
+    <id>4024</id>
+    <amount>14.80</amount>
+    <date>
+      <day>17</day>
+      <month>7</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Wilster</category>
+    <description>HAUPTHOFF Schrauben, Duebel</description>
+  </expense>
+  <expense>
+    <id>4025</id>
+    <amount>6.58</amount>
+    <date>
+      <day>29</day>
+      <month>7</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>REWE</description>
+  </expense>
+  <expense>
+    <id>4026</id>
+    <amount>6.30</amount>
+    <date>
+      <day>5</day>
+      <month>7</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>NETTO</description>
+  </expense>
+  <expense>
+    <id>4027</id>
+    <amount>7.16</amount>
+    <date>
+      <day>19</day>
+      <month>7</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>NETTO</description>
+  </expense>
+  <expense>
+    <id>4028</id>
+    <amount>5.65</amount>
+    <date>
+      <day>20</day>
+      <month>7</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>NETTO</description>
+  </expense>
+  <expense>
+    <id>4029</id>
+    <amount>18.24</amount>
+    <date>
+      <day>26</day>
+      <month>7</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>NETTO</description>
+  </expense>
+  <expense>
+    <id>4030</id>
+    <amount>9.27</amount>
+    <date>
+      <day>27</day>
+      <month>7</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>NETTO</description>
   </expense>
 </expenses>
