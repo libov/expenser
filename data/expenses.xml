@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>4038</last_expense_id>
+  <last_expense_id>4041</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -48000,5 +48000,41 @@
     <withdrawn>No</withdrawn>
     <category>Business trip</category>
     <description>BS Verkehr</description>
+  </expense>
+  <expense>
+    <id>4039</id>
+    <amount>4.40</amount>
+    <date>
+      <day>2</day>
+      <month>8</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>NETTO</description>
+  </expense>
+  <expense>
+    <id>4040</id>
+    <amount>1.62</amount>
+    <date>
+      <day>31</day>
+      <month>7</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>REWE</description>
+  </expense>
+  <expense>
+    <id>4041</id>
+    <amount>5.24</amount>
+    <date>
+      <day>5</day>
+      <month>8</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>REWE</description>
   </expense>
 </expenses>
