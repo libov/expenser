@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>4041</last_expense_id>
+  <last_expense_id>4053</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -48036,5 +48036,149 @@
     <withdrawn>No</withdrawn>
     <category>Food</category>
     <description>REWE</description>
+  </expense>
+  <expense>
+    <id>4042</id>
+    <amount>101.99</amount>
+    <date>
+      <day>7</day>
+      <month>8</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Presents</category>
+    <description>MONEYGRAM for Mom</description>
+  </expense>
+  <expense>
+    <id>4043</id>
+    <amount>10.00</amount>
+    <date>
+      <day>4</day>
+      <month>8</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Presents</category>
+    <description>Fine Car Artemaki</description>
+  </expense>
+  <expense>
+    <id>4044</id>
+    <amount>3.79</amount>
+    <date>
+      <day>7</day>
+      <month>8</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>REWE</description>
+  </expense>
+  <expense>
+    <id>4045</id>
+    <amount>3.55</amount>
+    <date>
+      <day>8</day>
+      <month>8</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>REWE</description>
+  </expense>
+  <expense>
+    <id>4046</id>
+    <amount>4.22</amount>
+    <date>
+      <day>13</day>
+      <month>8</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>REWE</description>
+  </expense>
+  <expense>
+    <id>4047</id>
+    <amount>3.69</amount>
+    <date>
+      <day>7</day>
+      <month>8</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>REWE</description>
+  </expense>
+  <expense>
+    <id>4048</id>
+    <amount>84.89</amount>
+    <date>
+      <day>3</day>
+      <month>8</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Wilster</category>
+    <description>HAUPTHOFF Bauder etc.</description>
+  </expense>
+  <expense>
+    <id>4049</id>
+    <amount>14.00</amount>
+    <date>
+      <day>6</day>
+      <month>8</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Restaurant</category>
+    <description>Peter Pane</description>
+  </expense>
+  <expense>
+    <id>4050</id>
+    <amount>0.74</amount>
+    <date>
+      <day>9</day>
+      <month>8</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>ROSSMANN Wasser</description>
+  </expense>
+  <expense>
+    <id>4051</id>
+    <amount>23.09</amount>
+    <date>
+      <day>9</day>
+      <month>8</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>NETTO</description>
+  </expense>
+  <expense>
+    <id>4052</id>
+    <amount>2.50</amount>
+    <date>
+      <day>9</day>
+      <month>8</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>BACKFACTORY</description>
+  </expense>
+  <expense>
+    <id>4053</id>
+    <amount>1.50</amount>
+    <date>
+      <day>12</day>
+      <month>8</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>BACKFACTORY</description>
   </expense>
 </expenses>
