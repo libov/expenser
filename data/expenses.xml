@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>4056</last_expense_id>
+  <last_expense_id>4057</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -48216,5 +48216,17 @@
     <withdrawn>No</withdrawn>
     <category>Food</category>
     <description>EDEKA</description>
+  </expense>
+  <expense>
+    <id>4057</id>
+    <amount>7.74</amount>
+    <date>
+      <day>12</day>
+      <month>8</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>REWE</description>
   </expense>
 </expenses>
