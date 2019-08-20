@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>4061</last_expense_id>
+  <last_expense_id>4067</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -48270,6 +48270,78 @@
     <amount>1.24</amount>
     <date>
       <day>16</day>
+      <month>8</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>REWE</description>
+  </expense>
+  <expense>
+    <id>4062</id>
+    <amount>8.72</amount>
+    <date>
+      <day>17</day>
+      <month>8</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Wilster</category>
+    <description>OBI Grill</description>
+  </expense>
+  <expense>
+    <id>4063</id>
+    <amount>4.30</amount>
+    <date>
+      <day>17</day>
+      <month>8</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Restaurant</category>
+    <description>TCHIBO Kafedaki</description>
+  </expense>
+  <expense>
+    <id>4064</id>
+    <amount>20.78</amount>
+    <date>
+      <day>17</day>
+      <month>8</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>NETTO</description>
+  </expense>
+  <expense>
+    <id>4065</id>
+    <amount>6.26</amount>
+    <date>
+      <day>17</day>
+      <month>8</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>NETTO</description>
+  </expense>
+  <expense>
+    <id>4066</id>
+    <amount>7.20</amount>
+    <date>
+      <day>19</day>
+      <month>8</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>REWE</description>
+  </expense>
+  <expense>
+    <id>4067</id>
+    <amount>3.99</amount>
+    <date>
+      <day>20</day>
       <month>8</month>
       <year>2019</year>
     </date>
