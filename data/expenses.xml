@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>4067</last_expense_id>
+  <last_expense_id>4072</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -48348,5 +48348,65 @@
     <withdrawn>No</withdrawn>
     <category>Food</category>
     <description>REWE</description>
+  </expense>
+  <expense>
+    <id>4068</id>
+    <amount>110.00</amount>
+    <date>
+      <day>1</day>
+      <month>7</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Category unknown</category>
+    <description>??? cash</description>
+  </expense>
+  <expense>
+    <id>4069</id>
+    <amount>76.00</amount>
+    <date>
+      <day>1</day>
+      <month>7</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Wilster regular</category>
+    <description>STADTWERKE WILSTER</description>
+  </expense>
+  <expense>
+    <id>4070</id>
+    <amount>100.00</amount>
+    <date>
+      <day>1</day>
+      <month>7</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Flat</category>
+    <description>VODAFONE</description>
+  </expense>
+  <expense>
+    <id>4071</id>
+    <amount>61.00</amount>
+    <date>
+      <day>1</day>
+      <month>7</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Wilster regular</category>
+    <description>MAINGAU</description>
+  </expense>
+  <expense>
+    <id>4072</id>
+    <amount>2.00</amount>
+    <date>
+      <day>27</day>
+      <month>6</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Food</category>
+    <description>PAYPAL Sebastian ice cream</description>
   </expense>
 </expenses>
