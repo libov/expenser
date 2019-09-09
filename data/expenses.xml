@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>4089</last_expense_id>
+  <last_expense_id>4093</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -48612,5 +48612,53 @@
     <withdrawn>No</withdrawn>
     <category>Restaurant</category>
     <description>JUNGE Fruehstueck</description>
+  </expense>
+  <expense>
+    <id>4090</id>
+    <amount>1.84</amount>
+    <date>
+      <day>9</day>
+      <month>9</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>REWE</description>
+  </expense>
+  <expense>
+    <id>4091</id>
+    <amount>5.27</amount>
+    <date>
+      <day>28</day>
+      <month>8</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>REWE</description>
+  </expense>
+  <expense>
+    <id>4092</id>
+    <amount>7.76</amount>
+    <date>
+      <day>28</day>
+      <month>8</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>REWE</description>
+  </expense>
+  <expense>
+    <id>4093</id>
+    <amount>27.40</amount>
+    <date>
+      <day>30</day>
+      <month>8</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>AUTOTEILE WITTHOFT Oel, Oelfilter</description>
   </expense>
 </expenses>
