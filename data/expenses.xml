@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>4086</last_expense_id>
+  <last_expense_id>4089</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -48576,5 +48576,41 @@
     <withdrawn>No</withdrawn>
     <category>Presents</category>
     <description>TKMAXX Hemd etc.</description>
+  </expense>
+  <expense>
+    <id>4087</id>
+    <amount>2.98</amount>
+    <date>
+      <day>29</day>
+      <month>8</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>REAL</description>
+  </expense>
+  <expense>
+    <id>4088</id>
+    <amount>10.94</amount>
+    <date>
+      <day>30</day>
+      <month>8</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>NETTO</description>
+  </expense>
+  <expense>
+    <id>4089</id>
+    <amount>7.17</amount>
+    <date>
+      <day>9</day>
+      <month>9</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Restaurant</category>
+    <description>JUNGE Fruehstueck</description>
   </expense>
 </expenses>
