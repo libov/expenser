@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>4139</last_expense_id>
+  <last_expense_id>4151</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -49212,5 +49212,137 @@
     <withdrawn>No</withdrawn>
     <category>Food</category>
     <description>EDEKA</description>
+  </expense>
+  <expense>
+    <id>4140</id>
+    <amount>13.80</amount>
+    <date>
+      <day>1</day>
+      <month>10</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Restaurant</category>
+    <description>CHINA RESTAURANT</description>
+  </expense>
+  <expense>
+    <id>4141</id>
+    <amount>2.65</amount>
+    <date>
+      <day>30</day>
+      <month>9</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>NETTO</description>
+  </expense>
+  <expense>
+    <id>4142</id>
+    <amount>12.49</amount>
+    <date>
+      <day>1</day>
+      <month>10</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>NETTO</description>
+  </expense>
+  <expense>
+    <id>4144</id>
+    <amount>7.49</amount>
+    <date>
+      <day>1</day>
+      <month>10</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>NETTO</description>
+  </expense>
+  <expense>
+    <id>4145</id>
+    <amount>15.39</amount>
+    <date>
+      <day>1</day>
+      <month>10</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Wilster</category>
+    <description>JET DIesel Mietauto Umzug</description>
+  </expense>
+  <expense>
+    <id>4146</id>
+    <amount>25.20</amount>
+    <date>
+      <day>2</day>
+      <month>10</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>PI Vermietung</category>
+    <description>HORNBACH Badezimmer</description>
+  </expense>
+  <expense>
+    <id>4147</id>
+    <amount>32.07</amount>
+    <date>
+      <day>2</day>
+      <month>10</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>PI Vermietung</category>
+    <description>HORNBACH Badezimmer</description>
+  </expense>
+  <expense>
+    <id>4148</id>
+    <amount>2.42</amount>
+    <date>
+      <day>2</day>
+      <month>10</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>PI Vermietung</category>
+    <description>OBI Badezimmer</description>
+  </expense>
+  <expense>
+    <id>4149</id>
+    <amount>2.78</amount>
+    <date>
+      <day>2</day>
+      <month>10</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>EDEKA</description>
+  </expense>
+  <expense>
+    <id>4150</id>
+    <amount>5.09</amount>
+    <date>
+      <day>2</day>
+      <month>10</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>NETTO</description>
+  </expense>
+  <expense>
+    <id>4151</id>
+    <amount>7.99</amount>
+    <date>
+      <day>2</day>
+      <month>10</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Other</category>
+    <description>ROSSMANN Kontaktlinsenaufbewahrung</description>
   </expense>
 </expenses>
