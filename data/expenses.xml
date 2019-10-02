@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>4134</last_expense_id>
+  <last_expense_id>4137</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -49152,5 +49152,41 @@
     <withdrawn>No</withdrawn>
     <category>Food</category>
     <description>ALDI</description>
+  </expense>
+  <expense>
+    <id>4135</id>
+    <amount>5.19</amount>
+    <date>
+      <day>20</day>
+      <month>9</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>NETTO</description>
+  </expense>
+  <expense>
+    <id>4136</id>
+    <amount>4.43</amount>
+    <date>
+      <day>2</day>
+      <month>10</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>EDEKA</description>
+  </expense>
+  <expense>
+    <id>4137</id>
+    <amount>15.26</amount>
+    <date>
+      <day>2</day>
+      <month>10</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>JULIA HOFER Diesel</description>
   </expense>
 </expenses>
