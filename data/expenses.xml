@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>4128</last_expense_id>
+  <last_expense_id>4132</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -49080,5 +49080,53 @@
     <withdrawn>No</withdrawn>
     <category>Food</category>
     <description>ALDI</description>
+  </expense>
+  <expense>
+    <id>4129</id>
+    <amount>200.00</amount>
+    <date>
+      <day>28</day>
+      <month>9</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Presents</category>
+    <description>Cash for Parents</description>
+  </expense>
+  <expense>
+    <id>4130</id>
+    <amount>7.99</amount>
+    <date>
+      <day>30</day>
+      <month>9</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>EDEKA</description>
+  </expense>
+  <expense>
+    <id>4131</id>
+    <amount>15.00</amount>
+    <date>
+      <day>30</day>
+      <month>9</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>JULIA HOFER Diesel</description>
+  </expense>
+  <expense>
+    <id>4132</id>
+    <amount>22.85</amount>
+    <date>
+      <day>30</day>
+      <month>9</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Wilster</category>
+    <description>HORNBACH Umzug</description>
   </expense>
 </expenses>
