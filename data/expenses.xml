@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>4155</last_expense_id>
+  <last_expense_id>4160</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -49392,5 +49392,65 @@
     <withdrawn>No</withdrawn>
     <category>Food</category>
     <description>EDEKA</description>
+  </expense>
+  <expense>
+    <id>4156</id>
+    <amount>4.46</amount>
+    <date>
+      <day>17</day>
+      <month>10</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>REWE</description>
+  </expense>
+  <expense>
+    <id>4157</id>
+    <amount>6.00</amount>
+    <date>
+      <day>18</day>
+      <month>10</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Clothes</category>
+    <description>KIK</description>
+  </expense>
+  <expense>
+    <id>4158</id>
+    <amount>2.65</amount>
+    <date>
+      <day>16</day>
+      <month>10</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>REWE</description>
+  </expense>
+  <expense>
+    <id>4159</id>
+    <amount>5.44</amount>
+    <date>
+      <day>14</day>
+      <month>10</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>REWE</description>
+  </expense>
+  <expense>
+    <id>4160</id>
+    <amount>5.03</amount>
+    <date>
+      <day>15</day>
+      <month>10</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>REWE</description>
   </expense>
 </expenses>
