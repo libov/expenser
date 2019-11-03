@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>4205</last_expense_id>
+  <last_expense_id>4206</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -49986,6 +49986,18 @@
     <amount>4.24</amount>
     <date>
       <day>8</day>
+      <month>10</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>REWE</description>
+  </expense>
+  <expense>
+    <id>4206</id>
+    <amount>9.47</amount>
+    <date>
+      <day>7</day>
       <month>10</month>
       <year>2019</year>
     </date>
