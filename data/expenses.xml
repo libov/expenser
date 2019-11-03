@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>4191</last_expense_id>
+  <last_expense_id>4195</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -49824,5 +49824,53 @@
     <withdrawn>No</withdrawn>
     <category>Food</category>
     <description>EDEKA</description>
+  </expense>
+  <expense>
+    <id>4192</id>
+    <amount>8.91</amount>
+    <date>
+      <day>1</day>
+      <month>11</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>NETTO</description>
+  </expense>
+  <expense>
+    <id>4193</id>
+    <amount>6.67</amount>
+    <date>
+      <day>2</day>
+      <month>11</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>NETTO</description>
+  </expense>
+  <expense>
+    <id>4194</id>
+    <amount>11.84</amount>
+    <date>
+      <day>2</day>
+      <month>11</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>NETTO</description>
+  </expense>
+  <expense>
+    <id>4195</id>
+    <amount>17.26</amount>
+    <date>
+      <day>2</day>
+      <month>11</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Wilster</category>
+    <description>OBI</description>
   </expense>
 </expenses>
