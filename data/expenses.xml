@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>4207</last_expense_id>
+  <last_expense_id>4208</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -50016,5 +50016,17 @@
     <withdrawn>No</withdrawn>
     <category>Restaurant</category>
     <description>BURGER KING</description>
+  </expense>
+  <expense>
+    <id>4208</id>
+    <amount>8.90</amount>
+    <date>
+      <day>12</day>
+      <month>10</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>PI Vermietung</category>
+    <description>HORNBACH</description>
   </expense>
 </expenses>
