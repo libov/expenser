@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>4200</last_expense_id>
+  <last_expense_id>4203</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -49932,5 +49932,41 @@
     <withdrawn>No</withdrawn>
     <category>Food</category>
     <description>ALDI</description>
+  </expense>
+  <expense>
+    <id>4201</id>
+    <amount>5.20</amount>
+    <date>
+      <day>13</day>
+      <month>10</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>BAECKEREI BALZER</description>
+  </expense>
+  <expense>
+    <id>4202</id>
+    <amount>9.79</amount>
+    <date>
+      <day>11</day>
+      <month>10</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>NETTO</description>
+  </expense>
+  <expense>
+    <id>4203</id>
+    <amount>3.83</amount>
+    <date>
+      <day>12</day>
+      <month>10</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>NETTO</description>
   </expense>
 </expenses>
