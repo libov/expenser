@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>4223</last_expense_id>
+  <last_expense_id>4226</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -50208,5 +50208,41 @@
     <withdrawn>No</withdrawn>
     <category>Food</category>
     <description>REWE</description>
+  </expense>
+  <expense>
+    <id>4224</id>
+    <amount>2.29</amount>
+    <date>
+      <day>7</day>
+      <month>11</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>REWE</description>
+  </expense>
+  <expense>
+    <id>4225</id>
+    <amount>4.73</amount>
+    <date>
+      <day>7</day>
+      <month>11</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>ROSSMANN</description>
+  </expense>
+  <expense>
+    <id>4226</id>
+    <amount>2.12</amount>
+    <date>
+      <day>7</day>
+      <month>11</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>ALDI</description>
   </expense>
 </expenses>
