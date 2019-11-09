@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>4226</last_expense_id>
+  <last_expense_id>4230</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -50244,5 +50244,53 @@
     <withdrawn>No</withdrawn>
     <category>Food</category>
     <description>ALDI</description>
+  </expense>
+  <expense>
+    <id>4227</id>
+    <amount>26.89</amount>
+    <date>
+      <day>9</day>
+      <month>11</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>NETTO</description>
+  </expense>
+  <expense>
+    <id>4228</id>
+    <amount>9.46</amount>
+    <date>
+      <day>9</day>
+      <month>11</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>EDEKA</description>
+  </expense>
+  <expense>
+    <id>4229</id>
+    <amount>20.70</amount>
+    <date>
+      <day>9</day>
+      <month>11</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Restaurant</category>
+    <description>ANDRONACO</description>
+  </expense>
+  <expense>
+    <id>4230</id>
+    <amount>31.98</amount>
+    <date>
+      <day>9</day>
+      <month>11</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Wilster</category>
+    <description>IKEA</description>
   </expense>
 </expenses>
