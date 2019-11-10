@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>4236</last_expense_id>
+  <last_expense_id>4238</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -50364,5 +50364,29 @@
     <withdrawn>No</withdrawn>
     <category>Food</category>
     <description>REWE</description>
+  </expense>
+  <expense>
+    <id>4237</id>
+    <amount>17.00</amount>
+    <date>
+      <day>25</day>
+      <month>8</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Restaurant</category>
+    <description>BOK</description>
+  </expense>
+  <expense>
+    <id>4238</id>
+    <amount>7.09</amount>
+    <date>
+      <day>26</day>
+      <month>8</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Restaurant</category>
+    <description>JUNGE BAECKEREI</description>
   </expense>
 </expenses>
