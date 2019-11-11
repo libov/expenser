@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>4242</last_expense_id>
+  <last_expense_id>4244</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -50436,5 +50436,29 @@
     <withdrawn>No</withdrawn>
     <category>Wilster</category>
     <description>HORNBACH Alublech fuers Dach</description>
+  </expense>
+  <expense>
+    <id>4243</id>
+    <amount>11.95</amount>
+    <date>
+      <day>11</day>
+      <month>11</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>ROSSMANN dobavki etc.</description>
+  </expense>
+  <expense>
+    <id>4244</id>
+    <amount>13.96</amount>
+    <date>
+      <day>11</day>
+      <month>11</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Wilster</category>
+    <description>EDEKA Muellsaecke, Eimer</description>
   </expense>
 </expenses>
