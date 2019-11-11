@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>4245</last_expense_id>
+  <last_expense_id>4250</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -50472,5 +50472,65 @@
     <withdrawn>No</withdrawn>
     <category>Presents</category>
     <description>ROSSMANN dobavki mamapapa</description>
+  </expense>
+  <expense>
+    <id>4246</id>
+    <amount>2.49</amount>
+    <date>
+      <day>4</day>
+      <month>10</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>PI Vermietung</category>
+    <description>OBI Schleifstreifen</description>
+  </expense>
+  <expense>
+    <id>4247</id>
+    <amount>197.17</amount>
+    <date>
+      <day>4</day>
+      <month>10</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>PI Vermietung</category>
+    <description>BAUHAUS WC etc.</description>
+  </expense>
+  <expense>
+    <id>4248</id>
+    <amount>8.07</amount>
+    <date>
+      <day>5</day>
+      <month>10</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>PI Vermietung</category>
+    <description>HORNBACH</description>
+  </expense>
+  <expense>
+    <id>4249</id>
+    <amount>6.82</amount>
+    <date>
+      <day>5</day>
+      <month>10</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>PI Vermietung</category>
+    <description>BAUHAUS</description>
+  </expense>
+  <expense>
+    <id>4250</id>
+    <amount>8.90</amount>
+    <date>
+      <day>12</day>
+      <month>10</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>PI Vermietung</category>
+    <description>HORNBACH</description>
   </expense>
 </expenses>
