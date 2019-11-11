@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>4241</last_expense_id>
+  <last_expense_id>4242</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -50424,5 +50424,17 @@
     <withdrawn>No</withdrawn>
     <category>Car</category>
     <description>OBI KFZ Kennzeichen Halterung,  Lampen</description>
+  </expense>
+  <expense>
+    <id>4242</id>
+    <amount>59.60</amount>
+    <date>
+      <day>24</day>
+      <month>8</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Wilster</category>
+    <description>HORNBACH Alublech fuers Dach</description>
   </expense>
 </expenses>
