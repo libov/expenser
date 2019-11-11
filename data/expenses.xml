@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>4239</last_expense_id>
+  <last_expense_id>4241</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -50400,5 +50400,29 @@
     <withdrawn>Yes</withdrawn>
     <category>Flat</category>
     <description>WEG WOHNGELD</description>
+  </expense>
+  <expense>
+    <id>4240</id>
+    <amount>17.60</amount>
+    <date>
+      <day>11</day>
+      <month>11</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>AUTO Ummelden Itzehoe</description>
+  </expense>
+  <expense>
+    <id>4241</id>
+    <amount>8.90</amount>
+    <date>
+      <day>11</day>
+      <month>11</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>OBI KFZ Kennzeichen Halterung,  Lampen</description>
   </expense>
 </expenses>
