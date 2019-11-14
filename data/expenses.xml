@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>4254</last_expense_id>
+  <last_expense_id>4256</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -50580,5 +50580,29 @@
     <withdrawn>No</withdrawn>
     <category>Other</category>
     <description>ZAHNSCHUBSER</description>
+  </expense>
+  <expense>
+    <id>4255</id>
+    <amount>0.59</amount>
+    <date>
+      <day>13</day>
+      <month>11</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>EDEKA</description>
+  </expense>
+  <expense>
+    <id>4256</id>
+    <amount>6.74</amount>
+    <date>
+      <day>12</day>
+      <month>11</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>EDEKA</description>
   </expense>
 </expenses>
