@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>4253</last_expense_id>
+  <last_expense_id>4254</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -50568,5 +50568,17 @@
     <withdrawn>No</withdrawn>
     <category>Food</category>
     <description>VWFS Kantine</description>
+  </expense>
+  <expense>
+    <id>4254</id>
+    <amount>50.62</amount>
+    <date>
+      <day>1</day>
+      <month>11</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Other</category>
+    <description>ZAHNSCHUBSER</description>
   </expense>
 </expenses>
