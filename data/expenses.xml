@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>4259</last_expense_id>
+  <last_expense_id>4265</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -50640,5 +50640,77 @@
     <withdrawn>No</withdrawn>
     <category>Food</category>
     <description>VWFS Kantine</description>
+  </expense>
+  <expense>
+    <id>4260</id>
+    <amount>6.82</amount>
+    <date>
+      <day>15</day>
+      <month>11</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>EDEKA</description>
+  </expense>
+  <expense>
+    <id>4261</id>
+    <amount>5.53</amount>
+    <date>
+      <day>19</day>
+      <month>11</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>REWE</description>
+  </expense>
+  <expense>
+    <id>4262</id>
+    <amount>3.83</amount>
+    <date>
+      <day>15</day>
+      <month>11</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>EDEKA</description>
+  </expense>
+  <expense>
+    <id>4263</id>
+    <amount>49.55</amount>
+    <date>
+      <day>15</day>
+      <month>11</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>NETTO</description>
+  </expense>
+  <expense>
+    <id>4264</id>
+    <amount>4.99</amount>
+    <date>
+      <day>19</day>
+      <month>11</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>ROSSMANN VIt C</description>
+  </expense>
+  <expense>
+    <id>4265</id>
+    <amount>2.00</amount>
+    <date>
+      <day>15</day>
+      <month>11</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>HEINEMANN HH Airport Water</description>
   </expense>
 </expenses>
