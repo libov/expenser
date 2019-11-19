@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>4266</last_expense_id>
+  <last_expense_id>4268</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -47241,7 +47241,7 @@
       <month>6</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Wilster</category>
     <description>HORNBACH Daemmung</description>
   </expense>
@@ -47277,7 +47277,7 @@
       <month>6</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>ROSSMANN</description>
   </expense>
@@ -47361,7 +47361,7 @@
       <month>7</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Wilster</category>
     <description>LIDL Wasserwaage set</description>
   </expense>
@@ -47373,7 +47373,7 @@
       <month>7</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -47385,7 +47385,7 @@
       <month>7</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Wilster</category>
     <description>MARKTKAUF Bindfaden</description>
   </expense>
@@ -47397,7 +47397,7 @@
       <month>7</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Wilster</category>
     <description>HORNBACH Daemmung etc.</description>
   </expense>
@@ -47421,7 +47421,7 @@
       <month>7</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>NETTO</description>
   </expense>
@@ -47433,7 +47433,7 @@
       <month>7</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>NETTO</description>
   </expense>
@@ -50724,5 +50724,29 @@
     <withdrawn>No</withdrawn>
     <category>Food</category>
     <description>COOP Baguette</description>
+  </expense>
+  <expense>
+    <id>4267</id>
+    <amount>1.44</amount>
+    <date>
+      <day>30</day>
+      <month>6</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>No record</category>
+    <description>rossmann no receipt</description>
+  </expense>
+  <expense>
+    <id>4268</id>
+    <amount>2382.65</amount>
+    <date>
+      <day>3</day>
+      <month>7</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Business trip</category>
+    <description>KREDITKARTE</description>
   </expense>
 </expenses>
