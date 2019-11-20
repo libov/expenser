@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>4268</last_expense_id>
+  <last_expense_id>4269</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -50748,5 +50748,17 @@
     <withdrawn>Yes</withdrawn>
     <category>Business trip</category>
     <description>KREDITKARTE</description>
+  </expense>
+  <expense>
+    <id>4269</id>
+    <amount>1.09</amount>
+    <date>
+      <day>20</day>
+      <month>11</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>REWE</description>
   </expense>
 </expenses>
