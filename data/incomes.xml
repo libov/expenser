@@ -1,5 +1,13 @@
 <?xml version="1.0"?>
 <incomes>
+    <entry>
+        <amount>3244.90</amount>
+        <date>
+            <month>7</month>
+            <year>2019</year>
+        </date>
+        <description>Travel Reimbursement ID X</description>
+	</entry>
 	<entry>
         <amount>0.57</amount>
         <date>
