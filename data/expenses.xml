@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>4274</last_expense_id>
+  <last_expense_id>4277</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -47457,7 +47457,7 @@
       <month>7</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>NETTO </description>
   </expense>
@@ -47553,7 +47553,7 @@
       <month>7</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>Baeckerei Kaffee</description>
   </expense>
@@ -47565,7 +47565,7 @@
       <month>7</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>OBI</description>
   </expense>
@@ -47589,7 +47589,7 @@
       <month>7</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>NETTO</description>
   </expense>
@@ -47601,7 +47601,7 @@
       <month>7</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>NETTO</description>
   </expense>
@@ -47613,7 +47613,7 @@
       <month>7</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>Baeckerei Kaffee</description>
   </expense>
@@ -47625,7 +47625,7 @@
       <month>7</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Restaurant</category>
     <description>Baeckerei Balzer breakfast</description>
   </expense>
@@ -50820,5 +50820,41 @@
     <withdrawn>No</withdrawn>
     <category>Food</category>
     <description>ALDI</description>
+  </expense>
+  <expense>
+    <id>4275</id>
+    <amount>308.00</amount>
+    <date>
+      <day>8</day>
+      <month>7</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Car</category>
+    <description>KFZ STEUER 2020</description>
+  </expense>
+  <expense>
+    <id>4276</id>
+    <amount>3.00</amount>
+    <date>
+      <day>7</day>
+      <month>7</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>No record</category>
+    <description>MCDONALDS no receipt</description>
+  </expense>
+  <expense>
+    <id>4277</id>
+    <amount>3.20</amount>
+    <date>
+      <day>4</day>
+      <month>7</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Transport HH</category>
+    <description>Einzelkarte</description>
   </expense>
 </expenses>
