@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>4286</last_expense_id>
+  <last_expense_id>4288</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -47937,7 +47937,7 @@
       <month>7</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>REWE</description>
   </expense>
@@ -47997,7 +47997,7 @@
       <month>7</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Business trip</category>
     <description>BS Verkehr</description>
   </expense>
@@ -50964,5 +50964,29 @@
     <withdrawn>Yes</withdrawn>
     <category>Presents</category>
     <description>DB Ticket for Artemis</description>
+  </expense>
+  <expense>
+    <id>4287</id>
+    <amount>6.31</amount>
+    <date>
+      <day>21</day>
+      <month>7</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Transport HH</category>
+    <description>HVV Tageskarte</description>
+  </expense>
+  <expense>
+    <id>4288</id>
+    <amount>1.65</amount>
+    <date>
+      <day>22</day>
+      <month>7</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Transport HH</category>
+    <description>HVV Kurzstrecke</description>
   </expense>
 </expenses>
