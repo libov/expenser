@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>4278</last_expense_id>
+  <last_expense_id>4282</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -50868,5 +50868,53 @@
     <withdrawn>Yes</withdrawn>
     <category>Transport HH</category>
     <description>Einzelkarte</description>
+  </expense>
+  <expense>
+    <id>4279</id>
+    <amount>16.44</amount>
+    <date>
+      <day>23</day>
+      <month>11</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>ALDI</description>
+  </expense>
+  <expense>
+    <id>4280</id>
+    <amount>1.97</amount>
+    <date>
+      <day>22</day>
+      <month>11</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>ALDI</description>
+  </expense>
+  <expense>
+    <id>4281</id>
+    <amount>7.32</amount>
+    <date>
+      <day>23</day>
+      <month>11</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>EDEKA</description>
+  </expense>
+  <expense>
+    <id>4282</id>
+    <amount>42.50</amount>
+    <date>
+      <day>23</day>
+      <month>11</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Wilster</category>
+    <description>OBI flowers etc.</description>
   </expense>
 </expenses>
