@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>4282</last_expense_id>
+  <last_expense_id>4286</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -47445,7 +47445,7 @@
       <month>7</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>EDEKA</description>
   </expense>
@@ -47469,7 +47469,7 @@
       <month>7</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>NETTO </description>
   </expense>
@@ -47481,7 +47481,7 @@
       <month>7</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>NETTO </description>
   </expense>
@@ -47517,7 +47517,7 @@
       <month>7</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>REWE</description>
   </expense>
@@ -47529,7 +47529,7 @@
       <month>7</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Restaurant</category>
     <description>MUTTER HABE NICHT</description>
   </expense>
@@ -47721,7 +47721,7 @@
       <month>7</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>REWE</description>
   </expense>
@@ -47745,7 +47745,7 @@
       <month>7</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>ITZEHOE BAHNHOF Water</description>
   </expense>
@@ -47769,7 +47769,7 @@
       <month>7</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Restaurant</category>
     <description>BURGER KING</description>
   </expense>
@@ -50916,5 +50916,53 @@
     <withdrawn>No</withdrawn>
     <category>Wilster</category>
     <description>OBI flowers etc.</description>
+  </expense>
+  <expense>
+    <id>4283</id>
+    <amount>20.00</amount>
+    <date>
+      <day>24</day>
+      <month>11</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Presents</category>
+    <description>Mama</description>
+  </expense>
+  <expense>
+    <id>4284</id>
+    <amount>20.00</amount>
+    <date>
+      <day>9</day>
+      <month>7</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>No record</category>
+    <description>VWFS Aufwertung</description>
+  </expense>
+  <expense>
+    <id>4285</id>
+    <amount>1.65</amount>
+    <date>
+      <day>8</day>
+      <month>7</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Transport HH</category>
+    <description>HVV Ticket</description>
+  </expense>
+  <expense>
+    <id>4286</id>
+    <amount>12.55</amount>
+    <date>
+      <day>14</day>
+      <month>7</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Presents</category>
+    <description>DB Ticket for Artemis</description>
   </expense>
 </expenses>
