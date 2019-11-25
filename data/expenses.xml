@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>4288</last_expense_id>
+  <last_expense_id>4291</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -50988,5 +50988,41 @@
     <withdrawn>Yes</withdrawn>
     <category>Transport HH</category>
     <description>HVV Kurzstrecke</description>
+  </expense>
+  <expense>
+    <id>4289</id>
+    <amount>6.42</amount>
+    <date>
+      <day>25</day>
+      <month>11</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>REWE</description>
+  </expense>
+  <expense>
+    <id>4290</id>
+    <amount>20.97</amount>
+    <date>
+      <day>25</day>
+      <month>11</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Clothes</category>
+    <description>TK MAXX</description>
+  </expense>
+  <expense>
+    <id>4291</id>
+    <amount>12.99</amount>
+    <date>
+      <day>25</day>
+      <month>11</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Presents</category>
+    <description>TK MAXX Oral B Mama</description>
   </expense>
 </expenses>
