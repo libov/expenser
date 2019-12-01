@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>4320</last_expense_id>
+  <last_expense_id>4324</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -48093,7 +48093,7 @@
       <month>8</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>REWE</description>
   </expense>
@@ -48141,7 +48141,7 @@
       <month>8</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>ROSSMANN Wasser</description>
   </expense>
@@ -48153,7 +48153,7 @@
       <month>8</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>NETTO</description>
   </expense>
@@ -48177,7 +48177,7 @@
       <month>8</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>BACKFACTORY</description>
   </expense>
@@ -48201,7 +48201,7 @@
       <month>8</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Wilster</category>
     <description>OBI</description>
   </expense>
@@ -48225,7 +48225,7 @@
       <month>8</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>REWE</description>
   </expense>
@@ -48249,7 +48249,7 @@
       <month>8</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>REWE</description>
   </expense>
@@ -48261,7 +48261,7 @@
       <month>8</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>REWE</description>
   </expense>
@@ -49581,7 +49581,7 @@
       <month>8</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>VWFS Kantine</description>
   </expense>
@@ -51360,5 +51360,53 @@
     <withdrawn>Yes</withdrawn>
     <category>Presents</category>
     <description>DB PAYPAL Ticket Artemis</description>
+  </expense>
+  <expense>
+    <id>4321</id>
+    <amount>35.63</amount>
+    <date>
+      <day>15</day>
+      <month>8</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Flat</category>
+    <description>GRUNDSTEUER B</description>
+  </expense>
+  <expense>
+    <id>4322</id>
+    <amount>30.39</amount>
+    <date>
+      <day>15</day>
+      <month>8</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Wilster regular</category>
+    <description>ABFALL Wilster</description>
+  </expense>
+  <expense>
+    <id>4323</id>
+    <amount>140.24</amount>
+    <date>
+      <day>15</day>
+      <month>8</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Wilster regular</category>
+    <description>GRUNDSTEUER / Niederschlagswasser Wilster</description>
+  </expense>
+  <expense>
+    <id>4324</id>
+    <amount>10.49</amount>
+    <date>
+      <day>12</day>
+      <month>8</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Presents</category>
+    <description>AMAZON Book Artemis</description>
   </expense>
 </expenses>
