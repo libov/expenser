@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>4298</last_expense_id>
+  <last_expense_id>4300</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -51108,5 +51108,29 @@
     <withdrawn>No</withdrawn>
     <category>Food</category>
     <description>NETTO</description>
+  </expense>
+  <expense>
+    <id>4299</id>
+    <amount>5.16</amount>
+    <date>
+      <day>30</day>
+      <month>11</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>EDEKA</description>
+  </expense>
+  <expense>
+    <id>4300</id>
+    <amount>2.90</amount>
+    <date>
+      <day>30</day>
+      <month>11</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Wilster</category>
+    <description>OBI Messstab</description>
   </expense>
 </expenses>
