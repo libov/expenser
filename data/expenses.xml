@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>4300</last_expense_id>
+  <last_expense_id>4304</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -51132,5 +51132,41 @@
     <withdrawn>No</withdrawn>
     <category>Wilster</category>
     <description>OBI Messstab</description>
+  </expense>
+  <expense>
+    <id>4301</id>
+    <amount>2.83</amount>
+    <date>
+      <day>26</day>
+      <month>11</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>REWE</description>
+  </expense>
+  <expense>
+    <id>4303</id>
+    <amount>3.97</amount>
+    <date>
+      <day>27</day>
+      <month>11</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>REWE</description>
+  </expense>
+  <expense>
+    <id>4304</id>
+    <amount>131.29</amount>
+    <date>
+      <day>29</day>
+      <month>11</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Presents</category>
+    <description>DAD Drops</description>
   </expense>
 </expenses>
