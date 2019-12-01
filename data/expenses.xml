@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>4291</last_expense_id>
+  <last_expense_id>4298</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -51024,5 +51024,89 @@
     <withdrawn>No</withdrawn>
     <category>Presents</category>
     <description>TK MAXX Oral B Mama</description>
+  </expense>
+  <expense>
+    <id>4292</id>
+    <amount>30.67</amount>
+    <date>
+      <day>26</day>
+      <month>11</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>PAYPAL KFZTEILE Oel, Oelfilter</description>
+  </expense>
+  <expense>
+    <id>4293</id>
+    <amount>30.00</amount>
+    <date>
+      <day>1</day>
+      <month>12</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Presents</category>
+    <description>cash for Mom</description>
+  </expense>
+  <expense>
+    <id>4294</id>
+    <amount>30.00</amount>
+    <date>
+      <day>1</day>
+      <month>12</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Entertainment</category>
+    <description>cash Christmas Market</description>
+  </expense>
+  <expense>
+    <id>4295</id>
+    <amount>30.00</amount>
+    <date>
+      <day>1</day>
+      <month>12</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Cash</category>
+    <description>10 at Christmas Market, 20 remains</description>
+  </expense>
+  <expense>
+    <id>4296</id>
+    <amount>1.24</amount>
+    <date>
+      <day>1</day>
+      <month>12</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>EDEKA</description>
+  </expense>
+  <expense>
+    <id>4297</id>
+    <amount>21.62</amount>
+    <date>
+      <day>30</day>
+      <month>11</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>ALDI</description>
+  </expense>
+  <expense>
+    <id>4298</id>
+    <amount>21.81</amount>
+    <date>
+      <day>30</day>
+      <month>11</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>NETTO</description>
   </expense>
 </expenses>
