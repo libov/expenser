@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>4324</last_expense_id>
+  <last_expense_id>4325</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -51408,5 +51408,17 @@
     <withdrawn>Yes</withdrawn>
     <category>Presents</category>
     <description>AMAZON Book Artemis</description>
+  </expense>
+  <expense>
+    <id>4325</id>
+    <amount>119.60</amount>
+    <date>
+      <day>1</day>
+      <month>12</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Wilster</category>
+    <description>AMAZON Rohrisolierung</description>
   </expense>
 </expenses>
