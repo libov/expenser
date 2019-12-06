@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>4325</last_expense_id>
+  <last_expense_id>4329</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -51420,5 +51420,53 @@
     <withdrawn>No</withdrawn>
     <category>Wilster</category>
     <description>AMAZON Rohrisolierung</description>
+  </expense>
+  <expense>
+    <id>4326</id>
+    <amount>4.69</amount>
+    <date>
+      <day>4</day>
+      <month>12</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>REWE</description>
+  </expense>
+  <expense>
+    <id>4327</id>
+    <amount>6.69</amount>
+    <date>
+      <day>3</day>
+      <month>12</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>REWE</description>
+  </expense>
+  <expense>
+    <id>4328</id>
+    <amount>35.00</amount>
+    <date>
+      <day>2</day>
+      <month>12</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Restaurant</category>
+    <description>OX STEAK HOUSE</description>
+  </expense>
+  <expense>
+    <id>4329</id>
+    <amount>3.20</amount>
+    <date>
+      <day>5</day>
+      <month>12</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>REWE</description>
   </expense>
 </expenses>
