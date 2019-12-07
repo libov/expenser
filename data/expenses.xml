@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>4329</last_expense_id>
+  <last_expense_id>4333</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -51468,5 +51468,53 @@
     <withdrawn>No</withdrawn>
     <category>Food</category>
     <description>REWE</description>
+  </expense>
+  <expense>
+    <id>4330</id>
+    <amount>93.40</amount>
+    <date>
+      <day>7</day>
+      <month>12</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Wilster</category>
+    <description>HORNBACH for windows installation</description>
+  </expense>
+  <expense>
+    <id>4331</id>
+    <amount>15.67</amount>
+    <date>
+      <day>7</day>
+      <month>12</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>NETTO</description>
+  </expense>
+  <expense>
+    <id>4332</id>
+    <amount>11.20</amount>
+    <date>
+      <day>6</day>
+      <month>12</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>EDEKA</description>
+  </expense>
+  <expense>
+    <id>4333</id>
+    <amount>26.00</amount>
+    <date>
+      <day>7</day>
+      <month>12</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Restaurant</category>
+    <description>SCHWEINSKE</description>
   </expense>
 </expenses>
