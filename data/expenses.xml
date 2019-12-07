@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>4333</last_expense_id>
+  <last_expense_id>4334</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -48237,7 +48237,7 @@
       <month>8</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>REWE</description>
   </expense>
@@ -48273,7 +48273,7 @@
       <month>8</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>REWE</description>
   </expense>
@@ -48285,7 +48285,7 @@
       <month>8</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Wilster</category>
     <description>OBI Grill</description>
   </expense>
@@ -48297,7 +48297,7 @@
       <month>8</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Restaurant</category>
     <description>TCHIBO Kafedaki</description>
   </expense>
@@ -48309,7 +48309,7 @@
       <month>8</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>NETTO</description>
   </expense>
@@ -48321,7 +48321,7 @@
       <month>8</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>NETTO</description>
   </expense>
@@ -48333,7 +48333,7 @@
       <month>8</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>REWE</description>
   </expense>
@@ -49569,7 +49569,7 @@
       <month>8</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>VWFS Kantine</description>
   </expense>
@@ -49641,7 +49641,7 @@
       <month>8</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Cash</category>
     <description>dunno</description>
   </expense>
@@ -51516,5 +51516,17 @@
     <withdrawn>No</withdrawn>
     <category>Restaurant</category>
     <description>SCHWEINSKE</description>
+  </expense>
+  <expense>
+    <id>4334</id>
+    <amount>1.65</amount>
+    <date>
+      <day>16</day>
+      <month>8</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Transport HH</category>
+    <description>HVV Kurzstrecke</description>
   </expense>
 </expenses>
