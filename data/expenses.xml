@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>4344</last_expense_id>
+  <last_expense_id>4347</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -51630,6 +51630,42 @@
     <amount>1.01</amount>
     <date>
       <day>11</day>
+      <month>12</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>ALDI</description>
+  </expense>
+  <expense>
+    <id>4345</id>
+    <amount>16.17</amount>
+    <date>
+      <day>14</day>
+      <month>12</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>EDEKA</description>
+  </expense>
+  <expense>
+    <id>4346</id>
+    <amount>28.05</amount>
+    <date>
+      <day>14</day>
+      <month>12</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>EDEKA</description>
+  </expense>
+  <expense>
+    <id>4347</id>
+    <amount>8.35</amount>
+    <date>
+      <day>14</day>
       <month>12</month>
       <year>2019</year>
     </date>
