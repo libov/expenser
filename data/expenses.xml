@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>4347</last_expense_id>
+  <last_expense_id>4349</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -51672,5 +51672,29 @@
     <withdrawn>No</withdrawn>
     <category>Food</category>
     <description>ALDI</description>
+  </expense>
+  <expense>
+    <id>4348</id>
+    <amount>15.00</amount>
+    <date>
+      <day>15</day>
+      <month>12</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>BUSSGELD/VERWARNUNSGELD Trip Ungbar</description>
+  </expense>
+  <expense>
+    <id>4349</id>
+    <amount>77.34</amount>
+    <date>
+      <day>13</day>
+      <month>12</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Wilster</category>
+    <description>HORNBACH for the Window installation</description>
   </expense>
 </expenses>
