@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>4351</last_expense_id>
+  <last_expense_id>4353</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -51720,5 +51720,29 @@
     <withdrawn>No</withdrawn>
     <category>Food</category>
     <description>REWE</description>
+  </expense>
+  <expense>
+    <id>4352</id>
+    <amount>7.99</amount>
+    <date>
+      <day>17</day>
+      <month>12</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Wilster</category>
+    <description>PAYPAL EBAY TV  Wandhalterung</description>
+  </expense>
+  <expense>
+    <id>4353</id>
+    <amount>9.99</amount>
+    <date>
+      <day>17</day>
+      <month>12</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Wilster regular</category>
+    <description>O2</description>
   </expense>
 </expenses>
