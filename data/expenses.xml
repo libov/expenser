@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>4353</last_expense_id>
+  <last_expense_id>4354</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -51744,5 +51744,17 @@
     <withdrawn>No</withdrawn>
     <category>Wilster regular</category>
     <description>O2</description>
+  </expense>
+  <expense>
+    <id>4354</id>
+    <amount>20.00</amount>
+    <date>
+      <day>18</day>
+      <month>12</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>VWFS Canteen</description>
   </expense>
 </expenses>
