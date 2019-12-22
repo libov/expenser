@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>4354</last_expense_id>
+  <last_expense_id>4358</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -51756,5 +51756,53 @@
     <withdrawn>No</withdrawn>
     <category>Food</category>
     <description>VWFS Canteen</description>
+  </expense>
+  <expense>
+    <id>4355</id>
+    <amount>6.96</amount>
+    <date>
+      <day>18</day>
+      <month>12</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>REWE</description>
+  </expense>
+  <expense>
+    <id>4356</id>
+    <amount>2.42</amount>
+    <date>
+      <day>18</day>
+      <month>12</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>ALDI</description>
+  </expense>
+  <expense>
+    <id>4357</id>
+    <amount>3.06</amount>
+    <date>
+      <day>19</day>
+      <month>12</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>ALDI</description>
+  </expense>
+  <expense>
+    <id>4358</id>
+    <amount>19.86</amount>
+    <date>
+      <day>21</day>
+      <month>12</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>SHELL Diesel</description>
   </expense>
 </expenses>
