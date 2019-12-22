@@ -1,6 +1,14 @@
 <?xml version="1.0"?>
 <incomes>
     <entry>
+        <amount>100</amount>
+        <date>
+            <month>8</month>
+            <year>2019</year>
+        </date>
+        <description>VODAFONE Return of Modem Fee</description>
+	</entry>
+    <entry>
         <amount>3173.70</amount>
         <date>
             <month>8</month>
