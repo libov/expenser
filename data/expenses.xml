@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>4359</last_expense_id>
+  <last_expense_id>4360</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -48417,7 +48417,7 @@
       <month>8</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>REWE</description>
   </expense>
@@ -48429,7 +48429,7 @@
       <month>8</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>REWE</description>
   </expense>
@@ -48441,7 +48441,7 @@
       <month>8</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Restaurant</category>
     <description>ALEX Braunschweig</description>
   </expense>
@@ -48465,7 +48465,7 @@
       <month>8</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Cash</category>
     <description>back to Artemis (incl. 20 for piano and 20 for some oldler stuff)</description>
   </expense>
@@ -50337,7 +50337,7 @@
       <month>8</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>NETTO</description>
   </expense>
@@ -50349,7 +50349,7 @@
       <month>8</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>NETTO</description>
   </expense>
@@ -50373,7 +50373,7 @@
       <month>8</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Restaurant</category>
     <description>BOK</description>
   </expense>
@@ -51816,5 +51816,17 @@
     <withdrawn>Yes</withdrawn>
     <category>No record</category>
     <description>ROSSMANN no receipt</description>
+  </expense>
+  <expense>
+    <id>4360</id>
+    <amount>25.74</amount>
+    <date>
+      <day>27</day>
+      <month>8</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Wilster</category>
+    <description>HAUPTHOFF</description>
   </expense>
 </expenses>
