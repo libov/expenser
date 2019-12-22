@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>4358</last_expense_id>
+  <last_expense_id>4359</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -48345,7 +48345,7 @@
       <month>8</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>REWE</description>
   </expense>
@@ -49557,7 +49557,7 @@
       <month>8</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>VWFS Kantine</description>
   </expense>
@@ -51804,5 +51804,17 @@
     <withdrawn>No</withdrawn>
     <category>Car</category>
     <description>SHELL Diesel</description>
+  </expense>
+  <expense>
+    <id>4359</id>
+    <amount>4.99</amount>
+    <date>
+      <day>21</day>
+      <month>8</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>No record</category>
+    <description>ROSSMANN no receipt</description>
   </expense>
 </expenses>
