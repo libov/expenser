@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>4368</last_expense_id>
+  <last_expense_id>4370</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -51924,5 +51924,29 @@
     <withdrawn>No</withdrawn>
     <category>Food</category>
     <description>ALDI</description>
+  </expense>
+  <expense>
+    <id>4369</id>
+    <amount>150.00</amount>
+    <date>
+      <day>23</day>
+      <month>12</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Presents</category>
+    <description>Dad - Doctor Wilster</description>
+  </expense>
+  <expense>
+    <id>4370</id>
+    <amount>160.00</amount>
+    <date>
+      <day>23</day>
+      <month>12</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Presents</category>
+    <description>Dad - Drops</description>
   </expense>
 </expenses>
