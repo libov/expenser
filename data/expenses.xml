@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>4370</last_expense_id>
+  <last_expense_id>4374</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -51948,5 +51948,53 @@
     <withdrawn>No</withdrawn>
     <category>Presents</category>
     <description>Dad - Drops</description>
+  </expense>
+  <expense>
+    <id>4371</id>
+    <amount>60.20</amount>
+    <date>
+      <day>25</day>
+      <month>12</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Travel</category>
+    <description>STAR Trip Ungvar</description>
+  </expense>
+  <expense>
+    <id>4372</id>
+    <amount>32.47</amount>
+    <date>
+      <day>26</day>
+      <month>12</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Travel</category>
+    <description>ORLEN Diesel Trip Ungvar</description>
+  </expense>
+  <expense>
+    <id>4373</id>
+    <amount>100.00</amount>
+    <date>
+      <day>25</day>
+      <month>12</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Other</category>
+    <description>Cash for Ungvar (dentist, food, etc.)</description>
+  </expense>
+  <expense>
+    <id>4374</id>
+    <amount>50.00</amount>
+    <date>
+      <day>25</day>
+      <month>12</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Presents</category>
+    <description>for Mama</description>
   </expense>
 </expenses>
