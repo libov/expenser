@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>4375</last_expense_id>
+  <last_expense_id>4382</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -52008,5 +52008,89 @@
     <withdrawn>No</withdrawn>
     <category>Restaurant</category>
     <description>CHILI PIZZA Ungvar</description>
+  </expense>
+  <expense>
+    <id>4376</id>
+    <amount>107.00</amount>
+    <date>
+      <day>28</day>
+      <month>12</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Presents</category>
+    <description>TESCO Food for Mum and stuff for Pavlenki</description>
+  </expense>
+  <expense>
+    <id>4377</id>
+    <amount>283.33</amount>
+    <date>
+      <day>28</day>
+      <month>12</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Presents</category>
+    <description>EXIsport for Pavlenki (133.33) and Cash for Parents (150)</description>
+  </expense>
+  <expense>
+    <id>4378</id>
+    <amount>29.31</amount>
+    <date>
+      <day>28</day>
+      <month>12</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Presents</category>
+    <description>PEPCO Nadja, Mom, Olga Vlad</description>
+  </expense>
+  <expense>
+    <id>4379</id>
+    <amount>22.98</amount>
+    <date>
+      <day>28</day>
+      <month>12</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Presents</category>
+    <description>NEW YORKER Polina</description>
+  </expense>
+  <expense>
+    <id>4380</id>
+    <amount>24.98</amount>
+    <date>
+      <day>28</day>
+      <month>12</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Presents</category>
+    <description>NEW YORKER Andrew</description>
+  </expense>
+  <expense>
+    <id>4381</id>
+    <amount>35.06</amount>
+    <date>
+      <day>28</day>
+      <month>12</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Travel</category>
+    <description>SLOVNAFT Diesel</description>
+  </expense>
+  <expense>
+    <id>4382</id>
+    <amount>13.49</amount>
+    <date>
+      <day>28</day>
+      <month>12</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>SLOVNAFT Coffee and Hotdog</description>
   </expense>
 </expenses>
