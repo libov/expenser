@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>4420</last_expense_id>
+  <last_expense_id>4422</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -52536,5 +52536,29 @@
     <withdrawn>No</withdrawn>
     <category>Travel</category>
     <description>SLOVNAFT Diesel Trip Ungvar</description>
+  </expense>
+  <expense>
+    <id>4421</id>
+    <amount>15.10</amount>
+    <date>
+      <day>3</day>
+      <month>1</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>TOTAL Diesel</description>
+  </expense>
+  <expense>
+    <id>4422</id>
+    <amount>28.57</amount>
+    <date>
+      <day>11</day>
+      <month>1</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Wilster</category>
+    <description>HORNBACH</description>
   </expense>
 </expenses>
