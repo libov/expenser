@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>4422</last_expense_id>
+  <last_expense_id>4424</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -52560,5 +52560,29 @@
     <withdrawn>No</withdrawn>
     <category>Wilster</category>
     <description>HORNBACH</description>
+  </expense>
+  <expense>
+    <id>4423</id>
+    <amount>1.92</amount>
+    <date>
+      <day>15</day>
+      <month>1</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>ALDI</description>
+  </expense>
+  <expense>
+    <id>4424</id>
+    <amount>2.74</amount>
+    <date>
+      <day>15</day>
+      <month>1</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>REWE</description>
   </expense>
 </expenses>
