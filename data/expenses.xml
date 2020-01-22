@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>4433</last_expense_id>
+  <last_expense_id>4434</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -52692,5 +52692,17 @@
     <withdrawn>No</withdrawn>
     <category>Restaurant</category>
     <description>GEFUNDENES FRESSEN</description>
+  </expense>
+  <expense>
+    <id>4434</id>
+    <amount>5.26</amount>
+    <date>
+      <day>22</day>
+      <month>1</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>REWE</description>
   </expense>
 </expenses>
