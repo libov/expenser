@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>4435</last_expense_id>
+  <last_expense_id>4441</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -52716,5 +52716,77 @@
     <withdrawn>No</withdrawn>
     <category>Food</category>
     <description>VWFS Kantine</description>
+  </expense>
+  <expense>
+    <id>4436</id>
+    <amount>5.24</amount>
+    <date>
+      <day>22</day>
+      <month>1</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>REWE</description>
+  </expense>
+  <expense>
+    <id>4437</id>
+    <amount>4.28</amount>
+    <date>
+      <day>23</day>
+      <month>1</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>REWE</description>
+  </expense>
+  <expense>
+    <id>4438</id>
+    <amount>33.06</amount>
+    <date>
+      <day>15</day>
+      <month>2</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Wilster regular</category>
+    <description>ABFALLGEBUEHR</description>
+  </expense>
+  <expense>
+    <id>4439</id>
+    <amount>33.06</amount>
+    <date>
+      <day>15</day>
+      <month>5</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Wilster regular</category>
+    <description>ABFALLGEBUEHR</description>
+  </expense>
+  <expense>
+    <id>4440</id>
+    <amount>33.06</amount>
+    <date>
+      <day>15</day>
+      <month>8</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Wilster regular</category>
+    <description>ABFALLGEBUEHR</description>
+  </expense>
+  <expense>
+    <id>4441</id>
+    <amount>33.06</amount>
+    <date>
+      <day>15</day>
+      <month>11</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Wilster regular</category>
+    <description>ABFALLGEBUEHR</description>
   </expense>
 </expenses>
