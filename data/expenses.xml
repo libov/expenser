@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>4456</last_expense_id>
+  <last_expense_id>4457</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -52968,5 +52968,17 @@
     <withdrawn>No</withdrawn>
     <category>Presents</category>
     <description>TESCO for Mom and Vika</description>
+  </expense>
+  <expense>
+    <id>4457</id>
+    <amount>6.35</amount>
+    <date>
+      <day>31</day>
+      <month>1</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>ALDI</description>
   </expense>
 </expenses>
