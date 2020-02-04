@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>4461</last_expense_id>
+  <last_expense_id>4463</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -48633,7 +48633,7 @@
       <month>8</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>REWE</description>
   </expense>
@@ -48645,7 +48645,7 @@
       <month>8</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>REWE</description>
   </expense>
@@ -53028,5 +53028,29 @@
     <withdrawn>No</withdrawn>
     <category>Wilster</category>
     <description>PAYPAL EBAY Bohrkrone</description>
+  </expense>
+  <expense>
+    <id>4462</id>
+    <amount>61.00</amount>
+    <date>
+      <day>2</day>
+      <month>9</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Wilster regular</category>
+    <description>MAINGAU</description>
+  </expense>
+  <expense>
+    <id>4463</id>
+    <amount>203.91</amount>
+    <date>
+      <day>2</day>
+      <month>9</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Flat</category>
+    <description>WEG</description>
   </expense>
 </expenses>
