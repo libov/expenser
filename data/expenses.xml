@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>4459</last_expense_id>
+  <last_expense_id>4460</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -53004,5 +53004,17 @@
     <withdrawn>No</withdrawn>
     <category>Travel</category>
     <description>SHELL Diesel Trip Ungvar</description>
+  </expense>
+  <expense>
+    <id>4460</id>
+    <amount>5.25</amount>
+    <date>
+      <day>4</day>
+      <month>2</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>REWE</description>
   </expense>
 </expenses>
