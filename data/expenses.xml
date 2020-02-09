@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>4473</last_expense_id>
+  <last_expense_id>4477</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -53172,5 +53172,53 @@
     <withdrawn>No</withdrawn>
     <category>Wilster</category>
     <description>OBI</description>
+  </expense>
+  <expense>
+    <id>4474</id>
+    <amount>140.26</amount>
+    <date>
+      <day>15</day>
+      <month>2</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Wilster regular</category>
+    <description>GRUNDST B, NIEDERSCHLAGSWASSERGEBUEHR</description>
+  </expense>
+  <expense>
+    <id>4475</id>
+    <amount>140.24</amount>
+    <date>
+      <day>15</day>
+      <month>5</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Wilster regular</category>
+    <description>GRUNDST B, NIEDERSCHLAGSWASSERGEBUEHR</description>
+  </expense>
+  <expense>
+    <id>4476</id>
+    <amount>140.24</amount>
+    <date>
+      <day>15</day>
+      <month>8</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Wilster regular</category>
+    <description>GRUNDST B, NIEDERSCHLAGSWASSERGEBUEHR</description>
+  </expense>
+  <expense>
+    <id>4477</id>
+    <amount>140.24</amount>
+    <date>
+      <day>15</day>
+      <month>11</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Wilster regular</category>
+    <description>GRUNDST B, NIEDERSCHLAGSWASSERGEBUEHR</description>
   </expense>
 </expenses>
