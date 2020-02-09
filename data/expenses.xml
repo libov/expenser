@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>4463</last_expense_id>
+  <last_expense_id>4469</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -53047,10 +53047,82 @@
     <date>
       <day>2</day>
       <month>9</month>
-      <year>2020</year>
+      <year>2019</year>
     </date>
     <withdrawn>Yes</withdrawn>
     <category>Flat</category>
     <description>WEG</description>
+  </expense>
+  <expense>
+    <id>4464</id>
+    <amount>1232.48</amount>
+    <date>
+      <day>4</day>
+      <month>3</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Business trip</category>
+    <description>AIRPLUS ABRECHNUNG</description>
+  </expense>
+  <expense>
+    <id>4465</id>
+    <amount>18.38</amount>
+    <date>
+      <day>9</day>
+      <month>2</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Restaurant</category>
+    <description>BURGER KING</description>
+  </expense>
+  <expense>
+    <id>4466</id>
+    <amount>7.12</amount>
+    <date>
+      <day>8</day>
+      <month>2</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>NETTO</description>
+  </expense>
+  <expense>
+    <id>4467</id>
+    <amount>11.95</amount>
+    <date>
+      <day>8</day>
+      <month>2</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>NETTO</description>
+  </expense>
+  <expense>
+    <id>4468</id>
+    <amount>3.18</amount>
+    <date>
+      <day>6</day>
+      <month>2</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>REWE</description>
+  </expense>
+  <expense>
+    <id>4469</id>
+    <amount>1.62</amount>
+    <date>
+      <day>5</day>
+      <month>2</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>REWE</description>
   </expense>
 </expenses>
