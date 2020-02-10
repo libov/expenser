@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>4477</last_expense_id>
+  <last_expense_id>4479</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -53220,5 +53220,29 @@
     <withdrawn>No</withdrawn>
     <category>Wilster regular</category>
     <description>GRUNDST B, NIEDERSCHLAGSWASSERGEBUEHR</description>
+  </expense>
+  <expense>
+    <id>4478</id>
+    <amount>5.40</amount>
+    <date>
+      <day>9</day>
+      <month>2</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>BALZER</description>
+  </expense>
+  <expense>
+    <id>4479</id>
+    <amount>158.95</amount>
+    <date>
+      <day>10</day>
+      <month>2</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Presents</category>
+    <description>PAYPAL RYANAIR Alicante Parents</description>
   </expense>
 </expenses>
