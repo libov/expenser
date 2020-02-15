@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>4517</last_expense_id>
+  <last_expense_id>4519</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -50589,7 +50589,7 @@
       <month>11</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>REWE</description>
   </expense>
@@ -50601,7 +50601,7 @@
       <month>11</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Restaurant</category>
     <description>MUTTER HABENICHT</description>
   </expense>
@@ -50613,7 +50613,7 @@
       <month>11</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>VWFS Kantine</description>
   </expense>
@@ -50637,7 +50637,7 @@
       <month>11</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>REWE</description>
   </expense>
@@ -50649,7 +50649,7 @@
       <month>11</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>EDEKA</description>
   </expense>
@@ -50661,7 +50661,7 @@
       <month>11</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>NETTO</description>
   </expense>
@@ -50673,7 +50673,7 @@
       <month>11</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>ROSSMANN VIt C</description>
   </expense>
@@ -50685,7 +50685,7 @@
       <month>11</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>HEINEMANN HH Airport Water</description>
   </expense>
@@ -50733,7 +50733,7 @@
       <month>11</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>REWE</description>
   </expense>
@@ -50781,7 +50781,7 @@
       <month>11</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>REWE</description>
   </expense>
@@ -50793,7 +50793,7 @@
       <month>11</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>ALDI</description>
   </expense>
@@ -50865,7 +50865,7 @@
       <month>11</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>ALDI</description>
   </expense>
@@ -50877,7 +50877,7 @@
       <month>11</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>EDEKA</description>
   </expense>
@@ -53652,5 +53652,29 @@
     <withdrawn>Yes</withdrawn>
     <category>PI Vermietung</category>
     <description>GRUNDSTEUER B</description>
+  </expense>
+  <expense>
+    <id>4518</id>
+    <amount>5.24</amount>
+    <date>
+      <day>15</day>
+      <month>11</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Travel</category>
+    <description>HVV Ticket trip Geneva</description>
+  </expense>
+  <expense>
+    <id>4519</id>
+    <amount>5.24</amount>
+    <date>
+      <day>17</day>
+      <month>11</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Travel</category>
+    <description>HVV Ticket trip Geneva</description>
   </expense>
 </expenses>
