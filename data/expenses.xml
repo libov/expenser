@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>4526</last_expense_id>
+  <last_expense_id>4528</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -51975,13 +51975,13 @@
   </expense>
   <expense>
     <id>4376</id>
-    <amount>107.00</amount>
+    <amount>107.10</amount>
     <date>
       <day>28</day>
       <month>12</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Presents</category>
     <description>TESCO Food for Mum and stuff for Pavlenki</description>
   </expense>
@@ -51993,7 +51993,7 @@
       <month>12</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Presents</category>
     <description>EXIsport for Pavlenki (133.33) and Cash for Parents (150)</description>
   </expense>
@@ -52017,7 +52017,7 @@
       <month>12</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Presents</category>
     <description>NEW YORKER Polina</description>
   </expense>
@@ -52065,7 +52065,7 @@
       <month>12</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Presents</category>
     <description>ORSAY for Mom</description>
   </expense>
@@ -52077,7 +52077,7 @@
       <month>12</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>TESCO</description>
   </expense>
@@ -52101,7 +52101,7 @@
       <month>12</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Presents</category>
     <description>SPORTISSIMO Mama, Dad</description>
   </expense>
@@ -52401,7 +52401,7 @@
       <month>12</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Restaurant</category>
     <description>CHILLI PIZZA with Parents</description>
   </expense>
@@ -52497,7 +52497,7 @@
       <month>1</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Travel</category>
     <description>SLOVNAFT Diesel Trip Ungvar</description>
   </expense>
@@ -53760,5 +53760,29 @@
     <withdrawn>No</withdrawn>
     <category>Food</category>
     <description>ALDI</description>
+  </expense>
+  <expense>
+    <id>4527</id>
+    <amount>1.60</amount>
+    <date>
+      <day>20</day>
+      <month>12</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Other</category>
+    <description>Rechnungsabschluss</description>
+  </expense>
+  <expense>
+    <id>4528</id>
+    <amount>1704.48</amount>
+    <date>
+      <day>3</day>
+      <month>1</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Business trip</category>
+    <description>AIRPLUS</description>
   </expense>
 </expenses>
