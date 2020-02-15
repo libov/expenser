@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>4495</last_expense_id>
+  <last_expense_id>4497</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -50001,7 +50001,7 @@
       <month>10</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Restaurant</category>
     <description>BURGER KING</description>
   </expense>
@@ -50025,7 +50025,7 @@
       <month>10</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>EDEKA</description>
   </expense>
@@ -50037,7 +50037,7 @@
       <month>10</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -50049,7 +50049,7 @@
       <month>10</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -50061,7 +50061,7 @@
       <month>10</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>LIDL</description>
   </expense>
@@ -50073,7 +50073,7 @@
       <month>10</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Restaurant</category>
     <description>BAECKER SCHLUETER</description>
   </expense>
@@ -50097,7 +50097,7 @@
       <month>10</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>STAR Diesel</description>
   </expense>
@@ -50109,7 +50109,7 @@
       <month>10</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>NETTO</description>
   </expense>
@@ -50469,7 +50469,7 @@
       <month>10</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>PI Vermietung</category>
     <description>OBI Schleifstreifen</description>
   </expense>
@@ -50493,7 +50493,7 @@
       <month>10</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>PI Vermietung</category>
     <description>HORNBACH</description>
   </expense>
@@ -53412,5 +53412,29 @@
     <withdrawn>Yes</withdrawn>
     <category>Business trip</category>
     <description>AIRPLUS</description>
+  </expense>
+  <expense>
+    <id>4496</id>
+    <amount>10.30</amount>
+    <date>
+      <day>5</day>
+      <month>10</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Restaurant</category>
+    <description>RIALTO No receipt</description>
+  </expense>
+  <expense>
+    <id>4497</id>
+    <amount>49.99</amount>
+    <date>
+      <day>6</day>
+      <month>10</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Presents</category>
+    <description>PAYPAL NETTO for Artemis</description>
   </expense>
 </expenses>
