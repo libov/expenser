@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>4497</last_expense_id>
+  <last_expense_id>4499</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -49497,7 +49497,7 @@
       <month>10</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>VWFS Kantine</description>
   </expense>
@@ -49965,7 +49965,7 @@
       <month>10</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>REWE</description>
   </expense>
@@ -49977,7 +49977,7 @@
       <month>10</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>REWE</description>
   </expense>
@@ -49989,7 +49989,7 @@
       <month>10</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>REWE</description>
   </expense>
@@ -50481,7 +50481,7 @@
       <month>10</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>PI Vermietung</category>
     <description>BAUHAUS WC etc.</description>
   </expense>
@@ -50505,7 +50505,7 @@
       <month>10</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>PI Vermietung</category>
     <description>BAUHAUS</description>
   </expense>
@@ -53436,5 +53436,29 @@
     <withdrawn>Yes</withdrawn>
     <category>Presents</category>
     <description>PAYPAL NETTO for Artemis</description>
+  </expense>
+  <expense>
+    <id>4498</id>
+    <amount>49.50</amount>
+    <date>
+      <day>14</day>
+      <month>2</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Restaurant</category>
+    <description>THE SALOON STEAKHOUSE with Artemaki</description>
+  </expense>
+  <expense>
+    <id>4499</id>
+    <amount>4.19</amount>
+    <date>
+      <day>15</day>
+      <month>2</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>EDEKA</description>
   </expense>
 </expenses>
