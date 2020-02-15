@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>4493</last_expense_id>
+  <last_expense_id>4495</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -48873,7 +48873,7 @@
       <month>9</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>STAR Diesel</description>
   </expense>
@@ -48897,7 +48897,7 @@
       <month>9</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>STAR Diesel</description>
   </expense>
@@ -49113,7 +49113,7 @@
       <month>9</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>JULIA HOFER Diesel</description>
   </expense>
@@ -49137,7 +49137,7 @@
       <month>9</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Wilster</category>
     <description>HORNBACH Umzug</description>
   </expense>
@@ -49173,7 +49173,7 @@
       <month>10</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>EDEKA</description>
   </expense>
@@ -49185,21 +49185,9 @@
       <month>10</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>JULIA HOFER Diesel</description>
-  </expense>
-  <expense>
-    <id>4138</id>
-    <amount>59.80</amount>
-    <date>
-      <day>1</day>
-      <month>10</month>
-      <year>2019</year>
-    </date>
-    <withdrawn>No</withdrawn>
-    <category>Wilster</category>
-    <description>SIXT Mietauto</description>
   </expense>
   <expense>
     <id>4139</id>
@@ -49209,7 +49197,7 @@
       <month>10</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>EDEKA</description>
   </expense>
@@ -49221,7 +49209,7 @@
       <month>10</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Restaurant</category>
     <description>CHINA RESTAURANT</description>
   </expense>
@@ -49233,7 +49221,7 @@
       <month>9</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>NETTO</description>
   </expense>
@@ -49245,7 +49233,7 @@
       <month>10</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>NETTO</description>
   </expense>
@@ -49257,7 +49245,7 @@
       <month>10</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>NETTO</description>
   </expense>
@@ -49269,7 +49257,7 @@
       <month>10</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Wilster</category>
     <description>JET DIesel Mietauto Umzug</description>
   </expense>
@@ -49281,7 +49269,7 @@
       <month>10</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>PI Vermietung</category>
     <description>HORNBACH Badezimmer</description>
   </expense>
@@ -49293,7 +49281,7 @@
       <month>10</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>PI Vermietung</category>
     <description>HORNBACH Badezimmer</description>
   </expense>
@@ -49305,7 +49293,7 @@
       <month>10</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>PI Vermietung</category>
     <description>OBI Badezimmer</description>
   </expense>
@@ -49317,7 +49305,7 @@
       <month>10</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>EDEKA</description>
   </expense>
@@ -49329,7 +49317,7 @@
       <month>10</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>NETTO</description>
   </expense>
@@ -49341,7 +49329,7 @@
       <month>10</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Other</category>
     <description>ROSSMANN Kontaktlinsenaufbewahrung</description>
   </expense>
@@ -50097,7 +50085,7 @@
       <month>9</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Restaurant</category>
     <description>BAECKER SCHLUETER</description>
   </expense>
@@ -53400,5 +53388,29 @@
     <withdrawn>Yes</withdrawn>
     <category>Wilster regular</category>
     <description>MAINGAU</description>
+  </expense>
+  <expense>
+    <id>4494</id>
+    <amount>59.08</amount>
+    <date>
+      <day>1</day>
+      <month>10</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Wilster</category>
+    <description>SIXT Moving from PI</description>
+  </expense>
+  <expense>
+    <id>4495</id>
+    <amount>1915.74</amount>
+    <date>
+      <day>4</day>
+      <month>10</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Business trip</category>
+    <description>AIRPLUS</description>
   </expense>
 </expenses>
