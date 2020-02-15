@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>4489</last_expense_id>
+  <last_expense_id>4493</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -48885,7 +48885,7 @@
       <month>9</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Restaurant</category>
     <description>BAECKER SCHLUETER Franzies</description>
   </expense>
@@ -48909,7 +48909,7 @@
       <month>9</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Presents</category>
     <description>H&M Polina</description>
   </expense>
@@ -48921,7 +48921,7 @@
       <month>9</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Presents</category>
     <description>TKMAXX Mum, Artemis</description>
   </expense>
@@ -48993,7 +48993,7 @@
       <month>9</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>NETTO</description>
   </expense>
@@ -49065,7 +49065,7 @@
       <month>9</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>EDEKA</description>
   </expense>
@@ -49077,7 +49077,7 @@
       <month>9</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>ALDI</description>
   </expense>
@@ -49101,7 +49101,7 @@
       <month>9</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>EDEKA</description>
   </expense>
@@ -49125,7 +49125,7 @@
       <month>9</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Wilster</category>
     <description>HORNBACH Umzug</description>
   </expense>
@@ -53352,5 +53352,53 @@
     <withdrawn>Yes</withdrawn>
     <category>No record</category>
     <description>EDEKA no receipt</description>
+  </expense>
+  <expense>
+    <id>4490</id>
+    <amount>107.00</amount>
+    <date>
+      <day>30</day>
+      <month>9</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Flat</category>
+    <description>STADTWERKE PINNEBERG</description>
+  </expense>
+  <expense>
+    <id>4491</id>
+    <amount>203.91</amount>
+    <date>
+      <day>1</day>
+      <month>10</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Flat</category>
+    <description>WEG WOHNGELD</description>
+  </expense>
+  <expense>
+    <id>4492</id>
+    <amount>76.00</amount>
+    <date>
+      <day>1</day>
+      <month>10</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Wilster regular</category>
+    <description>STADTWERKE Wilster</description>
+  </expense>
+  <expense>
+    <id>4493</id>
+    <amount>61.00</amount>
+    <date>
+      <day>1</day>
+      <month>10</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Wilster regular</category>
+    <description>MAINGAU</description>
   </expense>
 </expenses>
