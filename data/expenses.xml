@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>4482</last_expense_id>
+  <last_expense_id>4485</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -48525,7 +48525,7 @@
       <month>8</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>EDEKA</description>
   </expense>
@@ -48549,7 +48549,7 @@
       <month>9</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>ROSSMANN</description>
   </expense>
@@ -48597,7 +48597,7 @@
       <month>8</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>NETTO</description>
   </expense>
@@ -48657,7 +48657,7 @@
       <month>8</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>AUTOTEILE WITTHOFT Oel, Oelfilter</description>
   </expense>
@@ -48669,7 +48669,7 @@
       <month>9</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Entertainment</category>
     <description>HSV</description>
   </expense>
@@ -48681,7 +48681,7 @@
       <month>9</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Transport HH</category>
     <description>Einzelkarte</description>
   </expense>
@@ -53280,5 +53280,41 @@
     <withdrawn>No</withdrawn>
     <category>Food</category>
     <description>REWE</description>
+  </expense>
+  <expense>
+    <id>4483</id>
+    <amount>20.00</amount>
+    <date>
+      <day>13</day>
+      <month>2</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>VWFS</description>
+  </expense>
+  <expense>
+    <id>4484</id>
+    <amount>76.00</amount>
+    <date>
+      <day>2</day>
+      <month>9</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Wilster regular</category>
+    <description>STADTWERKE WILSTER</description>
+  </expense>
+  <expense>
+    <id>4485</id>
+    <amount>1638.70</amount>
+    <date>
+      <day>2</day>
+      <month>9</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Business trip</category>
+    <description>AIRPLUS</description>
   </expense>
 </expenses>
