@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>4506</last_expense_id>
+  <last_expense_id>4511</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -49785,7 +49785,7 @@
       <month>11</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>EDEKA</description>
   </expense>
@@ -49797,7 +49797,7 @@
       <month>11</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>EDEKA</description>
   </expense>
@@ -49809,7 +49809,7 @@
       <month>11</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>EDEKA</description>
   </expense>
@@ -49821,7 +49821,7 @@
       <month>11</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>NETTO</description>
   </expense>
@@ -49833,7 +49833,7 @@
       <month>11</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>NETTO</description>
   </expense>
@@ -49845,7 +49845,7 @@
       <month>11</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>NETTO</description>
   </expense>
@@ -49857,7 +49857,7 @@
       <month>11</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Wilster</category>
     <description>OBI</description>
   </expense>
@@ -49869,7 +49869,7 @@
       <month>11</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>BAECKEREI BAELZER</description>
   </expense>
@@ -49881,7 +49881,7 @@
       <month>10</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>BAECKEREI BAELZER</description>
   </expense>
@@ -49893,7 +49893,7 @@
       <month>10</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Travel</category>
     <description>Ungvar Trip attempt</description>
   </expense>
@@ -49905,7 +49905,7 @@
       <month>10</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Travel</category>
     <description>Ungvar Trip attempt</description>
   </expense>
@@ -50133,7 +50133,7 @@
       <month>11</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>REWE</description>
   </expense>
@@ -50553,7 +50553,7 @@
       <month>11</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Other</category>
     <description>ZAHNSCHUBSER</description>
   </expense>
@@ -53532,5 +53532,53 @@
     <withdrawn>Yes</withdrawn>
     <category>No record</category>
     <description>VWFS canteen no receipt</description>
+  </expense>
+  <expense>
+    <id>4507</id>
+    <amount>61.00</amount>
+    <date>
+      <day>1</day>
+      <month>11</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Wilster regular</category>
+    <description>MAINGAU</description>
+  </expense>
+  <expense>
+    <id>4508</id>
+    <amount>76.00</amount>
+    <date>
+      <day>1</day>
+      <month>11</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Wilster regular</category>
+    <description>STADTWERKE WILSTER</description>
+  </expense>
+  <expense>
+    <id>4510</id>
+    <amount>203.91</amount>
+    <date>
+      <day>1</day>
+      <month>11</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Flat</category>
+    <description>WEG WOHNGELD</description>
+  </expense>
+  <expense>
+    <id>4511</id>
+    <amount>2008.56</amount>
+    <date>
+      <day>4</day>
+      <month>11</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Business trip</category>
+    <description>AIRPLUS</description>
   </expense>
 </expenses>
