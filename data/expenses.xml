@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>4511</last_expense_id>
+  <last_expense_id>4512</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -50169,7 +50169,7 @@
       <month>11</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>REWE</description>
   </expense>
@@ -50193,7 +50193,7 @@
       <month>11</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>REWE</description>
   </expense>
@@ -50205,7 +50205,7 @@
       <month>11</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>ROSSMANN</description>
   </expense>
@@ -50217,7 +50217,7 @@
       <month>11</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>ALDI</description>
   </expense>
@@ -50241,7 +50241,7 @@
       <month>11</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>EDEKA</description>
   </expense>
@@ -50253,7 +50253,7 @@
       <month>11</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Restaurant</category>
     <description>ANDRONACO</description>
   </expense>
@@ -50289,7 +50289,7 @@
       <month>11</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>ANDRONACO</description>
   </expense>
@@ -50301,7 +50301,7 @@
       <month>11</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Presents</category>
     <description>TKMAXX Cream</description>
   </expense>
@@ -53580,5 +53580,17 @@
     <withdrawn>Yes</withdrawn>
     <category>Business trip</category>
     <description>AIRPLUS</description>
+  </expense>
+  <expense>
+    <id>4512</id>
+    <amount>28.18</amount>
+    <date>
+      <day>9</day>
+      <month>11</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>No record</category>
+    <description>TKMAXX no receipt</description>
   </expense>
 </expenses>

@@ -1,6 +1,14 @@
 <?xml version="1.0"?>
 <incomes>
     <entry>
+        <amount>940</amount>
+        <date>
+            <month>11</month>
+            <year>2019</year>
+        </date>
+        <description>KAUTION JACILENE</description>
+	</entry>
+    <entry>
         <amount>3697.63</amount>
         <date>
             <month>10</month>
