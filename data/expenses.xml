@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>4486</last_expense_id>
+  <last_expense_id>4489</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -48753,7 +48753,7 @@
       <month>9</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>REWE</description>
   </expense>
@@ -48765,7 +48765,7 @@
       <month>9</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>REWE</description>
   </expense>
@@ -48777,7 +48777,7 @@
       <month>9</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Presents</category>
     <description>TESCO</description>
   </expense>
@@ -48837,7 +48837,7 @@
       <month>9</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Restaurant</category>
     <description>shitty restaurant on A4</description>
   </expense>
@@ -48849,7 +48849,7 @@
       <month>9</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>REWE</description>
   </expense>
@@ -48861,7 +48861,7 @@
       <month>9</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>REWE</description>
   </expense>
@@ -48933,7 +48933,7 @@
       <month>9</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>REWE</description>
   </expense>
@@ -49005,7 +49005,7 @@
       <month>9</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>EDEKA</description>
   </expense>
@@ -49017,7 +49017,7 @@
       <month>9</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Presents</category>
     <description>ROSSMANN</description>
   </expense>
@@ -49053,7 +49053,7 @@
       <month>9</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Wilster</category>
     <description>OBI Propan</description>
   </expense>
@@ -49149,7 +49149,7 @@
       <month>9</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>ALDI</description>
   </expense>
@@ -49161,7 +49161,7 @@
       <month>9</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>NETTO</description>
   </expense>
@@ -49521,7 +49521,7 @@
       <month>9</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>VWFS Kantine</description>
   </expense>
@@ -53316,5 +53316,41 @@
     <withdrawn>Yes</withdrawn>
     <category>No record</category>
     <description>no receipt</description>
+  </expense>
+  <expense>
+    <id>4487</id>
+    <amount>10.00</amount>
+    <date>
+      <day>20</day>
+      <month>9</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Presents</category>
+    <description>FONIC Mom</description>
+  </expense>
+  <expense>
+    <id>4488</id>
+    <amount>10.00</amount>
+    <date>
+      <day>20</day>
+      <month>9</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Presents</category>
+    <description>FONIC Mom</description>
+  </expense>
+  <expense>
+    <id>4489</id>
+    <amount>7.55</amount>
+    <date>
+      <day>21</day>
+      <month>9</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>No record</category>
+    <description>EDEKA no receipt</description>
   </expense>
 </expenses>
