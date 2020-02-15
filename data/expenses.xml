@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>4521</last_expense_id>
+  <last_expense_id>4523</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -51501,7 +51501,7 @@
       <month>12</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Presents</category>
     <description>FONIC Mom</description>
   </expense>
@@ -51513,7 +51513,7 @@
       <month>12</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Presents</category>
     <description>FONIC Mom</description>
   </expense>
@@ -51525,7 +51525,7 @@
       <month>12</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Wilster</category>
     <description>PAYPAL EBAY ROCKWOOL 800</description>
   </expense>
@@ -51537,7 +51537,7 @@
       <month>12</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>REWE</description>
   </expense>
@@ -51561,7 +51561,7 @@
       <month>12</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>REWE</description>
   </expense>
@@ -51573,7 +51573,7 @@
       <month>12</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>REWE</description>
   </expense>
@@ -51585,7 +51585,7 @@
       <month>12</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>REWE</description>
   </expense>
@@ -51597,7 +51597,7 @@
       <month>12</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>ALDI</description>
   </expense>
@@ -51645,7 +51645,7 @@
       <month>12</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>BUSSGELD/VERWARNUNSGELD Trip Ungbar</description>
   </expense>
@@ -53700,5 +53700,29 @@
     <withdrawn>Yes</withdrawn>
     <category>Business trip</category>
     <description>AIRPLUS</description>
+  </expense>
+  <expense>
+    <id>4522</id>
+    <amount>20.00</amount>
+    <date>
+      <day>12</day>
+      <month>12</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>No record</category>
+    <description>VWFS Kantine</description>
+  </expense>
+  <expense>
+    <id>4523</id>
+    <amount>338.40</amount>
+    <date>
+      <day>16</day>
+      <month>12</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Wilster</category>
+    <description>HAUPTHOFF Window Kitchen</description>
   </expense>
 </expenses>
