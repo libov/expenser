@@ -49353,7 +49353,7 @@
       <month>10</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>REWE</description>
   </expense>
@@ -49389,7 +49389,7 @@
       <month>10</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>REWE</description>
   </expense>
@@ -49413,7 +49413,7 @@
       <month>10</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>REWE</description>
   </expense>
@@ -49425,7 +49425,7 @@
       <month>10</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>REWE</description>
   </expense>
@@ -49437,7 +49437,7 @@
       <month>10</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>REWE</description>
   </expense>
@@ -49449,7 +49449,7 @@
       <month>10</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Clothes</category>
     <description>TKMAXX Shoes etc.</description>
   </expense>
@@ -49485,7 +49485,7 @@
       <month>10</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>VWFS Kantine</description>
   </expense>
@@ -49725,7 +49725,7 @@
       <month>10</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>REWE</description>
   </expense>
@@ -49941,7 +49941,7 @@
       <month>10</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>NETTO</description>
   </expense>
@@ -49953,7 +49953,7 @@
       <month>10</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>NETTO</description>
   </expense>
@@ -50004,18 +50004,6 @@
     <withdrawn>Yes</withdrawn>
     <category>Restaurant</category>
     <description>BURGER KING</description>
-  </expense>
-  <expense>
-    <id>4208</id>
-    <amount>8.90</amount>
-    <date>
-      <day>12</day>
-      <month>10</month>
-      <year>2019</year>
-    </date>
-    <withdrawn>No</withdrawn>
-    <category>PI Vermietung</category>
-    <description>HORNBACH</description>
   </expense>
   <expense>
     <id>4209</id>
@@ -50517,7 +50505,7 @@
       <month>10</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>PI Vermietung</category>
     <description>HORNBACH</description>
   </expense>
