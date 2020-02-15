@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>4523</last_expense_id>
+  <last_expense_id>4526</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -53724,5 +53724,41 @@
     <withdrawn>Yes</withdrawn>
     <category>Wilster</category>
     <description>HAUPTHOFF Window Kitchen</description>
+  </expense>
+  <expense>
+    <id>4524</id>
+    <amount>2.00</amount>
+    <date>
+      <day>15</day>
+      <month>2</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>ROSSMANN</description>
+  </expense>
+  <expense>
+    <id>4525</id>
+    <amount>3.18</amount>
+    <date>
+      <day>15</day>
+      <month>2</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>NETTO</description>
+  </expense>
+  <expense>
+    <id>4526</id>
+    <amount>1.68</amount>
+    <date>
+      <day>14</day>
+      <month>2</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>ALDI</description>
   </expense>
 </expenses>
