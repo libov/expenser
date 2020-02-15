@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>4512</last_expense_id>
+  <last_expense_id>4517</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -50229,7 +50229,7 @@
       <month>11</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>NETTO</description>
   </expense>
@@ -50265,7 +50265,7 @@
       <month>11</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Wilster</category>
     <description>IKEA</description>
   </expense>
@@ -50277,7 +50277,7 @@
       <month>11</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Other</category>
     <description>PAYPAL SPEX Kontaktlinsen</description>
   </expense>
@@ -50385,7 +50385,7 @@
       <month>11</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>AUTO Ummelden Itzehoe</description>
   </expense>
@@ -50397,7 +50397,7 @@
       <month>11</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>OBI KFZ Kennzeichen Halterung,  Lampen</description>
   </expense>
@@ -50421,7 +50421,7 @@
       <month>11</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>ROSSMANN dobavki etc.</description>
   </expense>
@@ -50433,7 +50433,7 @@
       <month>11</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Wilster</category>
     <description>EDEKA Muellsaecke, Eimer</description>
   </expense>
@@ -50445,7 +50445,7 @@
       <month>11</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Presents</category>
     <description>ROSSMANN dobavki mamapapa</description>
   </expense>
@@ -50517,7 +50517,7 @@
       <month>11</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Wilster</category>
     <description>OBI Blumentopf, Kaktuse</description>
   </expense>
@@ -50529,7 +50529,7 @@
       <month>11</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>ALDI</description>
   </expense>
@@ -50541,7 +50541,7 @@
       <month>11</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>VWFS Kantine</description>
   </expense>
@@ -50565,7 +50565,7 @@
       <month>11</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>EDEKA</description>
   </expense>
@@ -50577,7 +50577,7 @@
       <month>11</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>EDEKA</description>
   </expense>
@@ -50625,7 +50625,7 @@
       <month>11</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>EDEKA</description>
   </expense>
@@ -50697,7 +50697,7 @@
       <month>11</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>COOP Baguette</description>
   </expense>
@@ -53592,5 +53592,65 @@
     <withdrawn>Yes</withdrawn>
     <category>No record</category>
     <description>TKMAXX no receipt</description>
+  </expense>
+  <expense>
+    <id>4513</id>
+    <amount>20.00</amount>
+    <date>
+      <day>10</day>
+      <month>11</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>No record</category>
+    <description>SANTANDER CASH dont know </description>
+  </expense>
+  <expense>
+    <id>4514</id>
+    <amount>200.00</amount>
+    <date>
+      <day>10</day>
+      <month>11</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>No record</category>
+    <description>SANTANDER CASH dont know </description>
+  </expense>
+  <expense>
+    <id>4515</id>
+    <amount>140.24</amount>
+    <date>
+      <day>15</day>
+      <month>11</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Wilster regular</category>
+    <description>GRUNDSTEUER B, NIEDERSCHLAGSWASSER</description>
+  </expense>
+  <expense>
+    <id>4516</id>
+    <amount>30.39</amount>
+    <date>
+      <day>15</day>
+      <month>11</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Wilster regular</category>
+    <description>ABFALLGEBUEHR</description>
+  </expense>
+  <expense>
+    <id>4517</id>
+    <amount>35.63</amount>
+    <date>
+      <day>15</day>
+      <month>11</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>PI Vermietung</category>
+    <description>GRUNDSTEUER B</description>
   </expense>
 </expenses>
