@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>4519</last_expense_id>
+  <last_expense_id>4521</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -50985,7 +50985,7 @@
       <month>11</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Clothes</category>
     <description>TK MAXX</description>
   </expense>
@@ -50997,7 +50997,7 @@
       <month>11</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Presents</category>
     <description>TK MAXX Oral B Mama</description>
   </expense>
@@ -51009,7 +51009,7 @@
       <month>11</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>PAYPAL KFZTEILE Oel, Oelfilter</description>
   </expense>
@@ -51021,7 +51021,7 @@
       <month>12</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Presents</category>
     <description>cash for Mom</description>
   </expense>
@@ -51033,7 +51033,7 @@
       <month>12</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Entertainment</category>
     <description>cash Christmas Market</description>
   </expense>
@@ -51045,7 +51045,7 @@
       <month>12</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Cash</category>
     <description>10 at Christmas Market, 20 remains</description>
   </expense>
@@ -51057,7 +51057,7 @@
       <month>12</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>EDEKA</description>
   </expense>
@@ -51069,7 +51069,7 @@
       <month>11</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>ALDI</description>
   </expense>
@@ -51081,7 +51081,7 @@
       <month>11</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>NETTO</description>
   </expense>
@@ -51093,7 +51093,7 @@
       <month>11</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>EDEKA</description>
   </expense>
@@ -51105,7 +51105,7 @@
       <month>11</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Wilster</category>
     <description>OBI Messstab</description>
   </expense>
@@ -51117,7 +51117,7 @@
       <month>11</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>REWE</description>
   </expense>
@@ -51129,7 +51129,7 @@
       <month>11</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>REWE</description>
   </expense>
@@ -51141,7 +51141,7 @@
       <month>11</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Presents</category>
     <description>DAD Drops</description>
   </expense>
@@ -51189,7 +51189,7 @@
       <month>11</month>
       <year>2019</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Wilster regular</category>
     <description>O2 11/2019</description>
   </expense>
@@ -53676,5 +53676,29 @@
     <withdrawn>Yes</withdrawn>
     <category>Travel</category>
     <description>HVV Ticket trip Geneva</description>
+  </expense>
+  <expense>
+    <id>4520</id>
+    <amount>61.00</amount>
+    <date>
+      <day>2</day>
+      <month>12</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Wilster regular</category>
+    <description>MAINGAU</description>
+  </expense>
+  <expense>
+    <id>4521</id>
+    <amount>2145.09</amount>
+    <date>
+      <day>3</day>
+      <month>12</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Business trip</category>
+    <description>AIRPLUS</description>
   </expense>
 </expenses>
