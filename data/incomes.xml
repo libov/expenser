@@ -1,6 +1,14 @@
 <?xml version="1.0"?>
 <incomes>
     <entry>
+        <amount>222.19</amount>
+        <date>
+            <month>01</month>
+            <year>2020</year>
+        </date>
+        <description>STEUER RUECKZAHLUNG 2015</description>
+	</entry>
+    <entry>
         <amount>124.03</amount>
         <date>
             <month>01</month>

@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>4555</last_expense_id>
+  <last_expense_id>4556</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -52413,7 +52413,7 @@
       <month>1</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>REWE</description>
   </expense>
@@ -52425,7 +52425,7 @@
       <month>1</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>ALDI</description>
   </expense>
@@ -52437,7 +52437,7 @@
       <month>1</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>REWE</description>
   </expense>
@@ -52533,7 +52533,7 @@
       <month>1</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>ALDI</description>
   </expense>
@@ -52545,7 +52545,7 @@
       <month>1</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>REWE</description>
   </expense>
@@ -52557,7 +52557,7 @@
       <month>1</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>REWE</description>
   </expense>
@@ -52569,7 +52569,7 @@
       <month>1</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>ALDI</description>
   </expense>
@@ -52581,7 +52581,7 @@
       <month>1</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>VWFS Kantine</description>
   </expense>
@@ -52629,7 +52629,7 @@
       <month>1</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Restaurant</category>
     <description>DULFS BURGER</description>
   </expense>
@@ -52641,7 +52641,7 @@
       <month>1</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Restaurant</category>
     <description>Mr Cherng</description>
   </expense>
@@ -52653,7 +52653,7 @@
       <month>1</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Restaurant</category>
     <description>GEFUNDENES FRESSEN</description>
   </expense>
@@ -54108,5 +54108,17 @@
     <withdrawn>No</withdrawn>
     <category>Wilster regular</category>
     <description>STADTWERKE WILSTER</description>
+  </expense>
+  <expense>
+    <id>4556</id>
+    <amount>10.00</amount>
+    <date>
+      <day>16</day>
+      <month>1</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Other</category>
+    <description>SPARDA JAHRESGEBUEHR</description>
   </expense>
 </expenses>
