@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>4558</last_expense_id>
+  <last_expense_id>4560</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -54144,5 +54144,29 @@
     <withdrawn>Yes</withdrawn>
     <category>Wilster regular</category>
     <description>MAINGAU Nachzahlung 2019</description>
+  </expense>
+  <expense>
+    <id>4559</id>
+    <amount>5.67</amount>
+    <date>
+      <day>15</day>
+      <month>2</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>NETTO</description>
+  </expense>
+  <expense>
+    <id>4560</id>
+    <amount>2.41</amount>
+    <date>
+      <day>16</day>
+      <month>2</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>NETTO</description>
   </expense>
 </expenses>
