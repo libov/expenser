@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>4530</last_expense_id>
+  <last_expense_id>4542</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -52113,7 +52113,7 @@
       <month>1</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Piano lessons</category>
     <description>2x</description>
   </expense>
@@ -52125,7 +52125,7 @@
       <month>1</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>ROSSMANN paper etc.</description>
   </expense>
@@ -52137,7 +52137,7 @@
       <month>1</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>EDEKA</description>
   </expense>
@@ -52209,7 +52209,7 @@
       <month>1</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>NETTO</description>
   </expense>
@@ -52221,7 +52221,7 @@
       <month>1</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Other</category>
     <description>ROSSMANN Hefttacker</description>
   </expense>
@@ -52233,7 +52233,7 @@
       <month>1</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>ROSSMANN</description>
   </expense>
@@ -52365,7 +52365,7 @@
       <month>1</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Other</category>
     <description>EBAY NAG CHAMPA</description>
   </expense>
@@ -52377,7 +52377,7 @@
       <month>1</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Wilster</category>
     <description>PAYPAL BOETTCHER Monitor</description>
   </expense>
@@ -52449,7 +52449,7 @@
       <month>1</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>NETTO</description>
   </expense>
@@ -52473,7 +52473,7 @@
       <month>1</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>EDEKA</description>
   </expense>
@@ -52509,7 +52509,7 @@
       <month>1</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>TOTAL Diesel</description>
   </expense>
@@ -53808,5 +53808,149 @@
     <withdrawn>Yes</withdrawn>
     <category>Wilster regular</category>
     <description>MAINGAU Gas 12/2019</description>
+  </expense>
+  <expense>
+    <id>4531</id>
+    <amount>9.99</amount>
+    <date>
+      <day>30</day>
+      <month>1</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Wilster regular</category>
+    <description>O2 DSL</description>
+  </expense>
+  <expense>
+    <id>4532</id>
+    <amount>9.99</amount>
+    <date>
+      <day>29</day>
+      <month>2</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Wilster regular</category>
+    <description>O2 DSL</description>
+  </expense>
+  <expense>
+    <id>4533</id>
+    <amount>9.99</amount>
+    <date>
+      <day>31</day>
+      <month>3</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Wilster regular</category>
+    <description>O2 DSL</description>
+  </expense>
+  <expense>
+    <id>4534</id>
+    <amount>9.99</amount>
+    <date>
+      <day>30</day>
+      <month>4</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Wilster regular</category>
+    <description>O2 DSL</description>
+  </expense>
+  <expense>
+    <id>4535</id>
+    <amount>9.99</amount>
+    <date>
+      <day>31</day>
+      <month>5</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Wilster regular</category>
+    <description>O2 DSL</description>
+  </expense>
+  <expense>
+    <id>4536</id>
+    <amount>9.99</amount>
+    <date>
+      <day>30</day>
+      <month>6</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Wilster regular</category>
+    <description>O2 DSL</description>
+  </expense>
+  <expense>
+    <id>4537</id>
+    <amount>9.99</amount>
+    <date>
+      <day>31</day>
+      <month>7</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Wilster regular</category>
+    <description>O2 DSL</description>
+  </expense>
+  <expense>
+    <id>4538</id>
+    <amount>9.99</amount>
+    <date>
+      <day>31</day>
+      <month>8</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Wilster regular</category>
+    <description>O2 DSL</description>
+  </expense>
+  <expense>
+    <id>4539</id>
+    <amount>9.99</amount>
+    <date>
+      <day>30</day>
+      <month>9</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Wilster regular</category>
+    <description>O2 DSL</description>
+  </expense>
+  <expense>
+    <id>4540</id>
+    <amount>9.99</amount>
+    <date>
+      <day>31</day>
+      <month>10</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Wilster regular</category>
+    <description>O2 DSL</description>
+  </expense>
+  <expense>
+    <id>4541</id>
+    <amount>9.99</amount>
+    <date>
+      <day>30</day>
+      <month>11</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Wilster regular</category>
+    <description>O2 DSL</description>
+  </expense>
+  <expense>
+    <id>4542</id>
+    <amount>9.99</amount>
+    <date>
+      <day>31</day>
+      <month>12</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Wilster regular</category>
+    <description>O2 DSL</description>
   </expense>
 </expenses>
