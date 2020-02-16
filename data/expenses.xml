@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>4543</last_expense_id>
+  <last_expense_id>4555</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -52161,7 +52161,7 @@
       <month>1</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>NETTO</description>
   </expense>
@@ -52173,7 +52173,7 @@
       <month>1</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>NETTO</description>
   </expense>
@@ -52257,7 +52257,7 @@
       <month>1</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>ARAL Diesel</description>
   </expense>
@@ -52281,7 +52281,7 @@
       <month>1</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Wilster</category>
     <description>OBI</description>
   </expense>
@@ -52305,7 +52305,7 @@
       <month>1</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Wilster</category>
     <description>OBI</description>
   </expense>
@@ -52329,7 +52329,7 @@
       <month>1</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Wilster</category>
     <description>HORNBACH</description>
   </expense>
@@ -52461,7 +52461,7 @@
       <month>1</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>EDEKA</description>
   </expense>
@@ -52485,7 +52485,7 @@
       <month>1</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Travel</category>
     <description>ARAL Diesel Trip Luebeck</description>
   </expense>
@@ -52521,7 +52521,7 @@
       <month>1</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Wilster</category>
     <description>HORNBACH</description>
   </expense>
@@ -53964,5 +53964,149 @@
     <withdrawn>Yes</withdrawn>
     <category>Piano lessons</category>
     <description>2x</description>
+  </expense>
+  <expense>
+    <id>4544</id>
+    <amount>250.50</amount>
+    <date>
+      <day>13</day>
+      <month>1</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Wilster regular</category>
+    <description>STADTWERKE WILSTER Nachzahlung 2019</description>
+  </expense>
+  <expense>
+    <id>4545</id>
+    <amount>99.00</amount>
+    <date>
+      <day>10</day>
+      <month>1</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Wilster regular</category>
+    <description>STADTWERKE WILSTER</description>
+  </expense>
+  <expense>
+    <id>4546</id>
+    <amount>99.00</amount>
+    <date>
+      <day>1</day>
+      <month>2</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Wilster regular</category>
+    <description>STADTWERKE WILSTER</description>
+  </expense>
+  <expense>
+    <id>4547</id>
+    <amount>99.00</amount>
+    <date>
+      <day>1</day>
+      <month>3</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Wilster regular</category>
+    <description>STADTWERKE WILSTER</description>
+  </expense>
+  <expense>
+    <id>4548</id>
+    <amount>99.00</amount>
+    <date>
+      <day>1</day>
+      <month>4</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Wilster regular</category>
+    <description>STADTWERKE WILSTER</description>
+  </expense>
+  <expense>
+    <id>4549</id>
+    <amount>99.00</amount>
+    <date>
+      <day>1</day>
+      <month>5</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Wilster regular</category>
+    <description>STADTWERKE WILSTER</description>
+  </expense>
+  <expense>
+    <id>4550</id>
+    <amount>99.00</amount>
+    <date>
+      <day>1</day>
+      <month>6</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Wilster regular</category>
+    <description>STADTWERKE WILSTER</description>
+  </expense>
+  <expense>
+    <id>4551</id>
+    <amount>99.00</amount>
+    <date>
+      <day>1</day>
+      <month>7</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Wilster regular</category>
+    <description>STADTWERKE WILSTER</description>
+  </expense>
+  <expense>
+    <id>4552</id>
+    <amount>99.00</amount>
+    <date>
+      <day>1</day>
+      <month>8</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Wilster regular</category>
+    <description>STADTWERKE WILSTER</description>
+  </expense>
+  <expense>
+    <id>4553</id>
+    <amount>99.00</amount>
+    <date>
+      <day>1</day>
+      <month>9</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Wilster regular</category>
+    <description>STADTWERKE WILSTER</description>
+  </expense>
+  <expense>
+    <id>4554</id>
+    <amount>99.00</amount>
+    <date>
+      <day>1</day>
+      <month>10</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Wilster regular</category>
+    <description>STADTWERKE WILSTER</description>
+  </expense>
+  <expense>
+    <id>4555</id>
+    <amount>99.00</amount>
+    <date>
+      <day>1</day>
+      <month>11</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Wilster regular</category>
+    <description>STADTWERKE WILSTER</description>
   </expense>
 </expenses>
