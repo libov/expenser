@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>4528</last_expense_id>
+  <last_expense_id>4530</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -53784,5 +53784,29 @@
     <withdrawn>Yes</withdrawn>
     <category>Business trip</category>
     <description>AIRPLUS</description>
+  </expense>
+  <expense>
+    <id>4529</id>
+    <amount>379.42</amount>
+    <date>
+      <day>2</day>
+      <month>1</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Car</category>
+    <description>HUK24 2020</description>
+  </expense>
+  <expense>
+    <id>4530</id>
+    <amount>61.00</amount>
+    <date>
+      <day>31</day>
+      <month>12</month>
+      <year>2019</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Wilster regular</category>
+    <description>MAINGAU Gas 12/2019</description>
   </expense>
 </expenses>
