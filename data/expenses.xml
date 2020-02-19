@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>4561</last_expense_id>
+  <last_expense_id>4563</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -54180,5 +54180,29 @@
     <withdrawn>No</withdrawn>
     <category>Food</category>
     <description>REWE</description>
+  </expense>
+  <expense>
+    <id>4562</id>
+    <amount>7.65</amount>
+    <date>
+      <day>19</day>
+      <month>2</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>REWE</description>
+  </expense>
+  <expense>
+    <id>4563</id>
+    <amount>20.00</amount>
+    <date>
+      <day>18</day>
+      <month>2</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>VWFS Kantine</description>
   </expense>
 </expenses>
