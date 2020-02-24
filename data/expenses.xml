@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>4563</last_expense_id>
+  <last_expense_id>4566</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -54204,5 +54204,41 @@
     <withdrawn>No</withdrawn>
     <category>Food</category>
     <description>VWFS Kantine</description>
+  </expense>
+  <expense>
+    <id>4564</id>
+    <amount>5.59</amount>
+    <date>
+      <day>18</day>
+      <month>2</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>REWE</description>
+  </expense>
+  <expense>
+    <id>4565</id>
+    <amount>3.82</amount>
+    <date>
+      <day>20</day>
+      <month>2</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>REWE</description>
+  </expense>
+  <expense>
+    <id>4566</id>
+    <amount>60.00</amount>
+    <date>
+      <day>21</day>
+      <month>2</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Piano lessons</category>
+    <description>return to Artemaki</description>
   </expense>
 </expenses>
