@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>4581</last_expense_id>
+  <last_expense_id>4588</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -54420,5 +54420,89 @@
     <withdrawn>No</withdrawn>
     <category>Other</category>
     <description>ROSSMANN Weights</description>
+  </expense>
+  <expense>
+    <id>4582</id>
+    <amount>4.60</amount>
+    <date>
+      <day>1</day>
+      <month>3</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>BALZERS</description>
+  </expense>
+  <expense>
+    <id>4583</id>
+    <amount>4.60</amount>
+    <date>
+      <day>29</day>
+      <month>2</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>BALZERS</description>
+  </expense>
+  <expense>
+    <id>4584</id>
+    <amount>8.66</amount>
+    <date>
+      <day>29</day>
+      <month>2</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>EDEKA</description>
+  </expense>
+  <expense>
+    <id>4585</id>
+    <amount>6.99</amount>
+    <date>
+      <day>29</day>
+      <month>2</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Presents</category>
+    <description>ROSSMANN 14.99 part 1 - weights for Roulka</description>
+  </expense>
+  <expense>
+    <id>4586</id>
+    <amount>7.99</amount>
+    <date>
+      <day>29</day>
+      <month>2</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Other</category>
+    <description>ROSSMANN 14.99 part 2 - Augentropfen</description>
+  </expense>
+  <expense>
+    <id>4587</id>
+    <amount>4.85</amount>
+    <date>
+      <day>29</day>
+      <month>2</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>NETTO</description>
+  </expense>
+  <expense>
+    <id>4588</id>
+    <amount>9.01</amount>
+    <date>
+      <day>29</day>
+      <month>2</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Wilster</category>
+    <description>OBI Rundrohr</description>
   </expense>
 </expenses>
