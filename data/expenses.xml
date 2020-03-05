@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>4592</last_expense_id>
+  <last_expense_id>4596</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -54552,5 +54552,53 @@
     <withdrawn>No</withdrawn>
     <category>Food</category>
     <description>ROSSMANN</description>
+  </expense>
+  <expense>
+    <id>4593</id>
+    <amount>15.23</amount>
+    <date>
+      <day>5</day>
+      <month>3</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>EDEKA</description>
+  </expense>
+  <expense>
+    <id>4594</id>
+    <amount>1.79</amount>
+    <date>
+      <day>5</day>
+      <month>3</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>ROSSMANN</description>
+  </expense>
+  <expense>
+    <id>4595</id>
+    <amount>9.90</amount>
+    <date>
+      <day>5</day>
+      <month>3</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Other</category>
+    <description>APOTHEKE Desinfektionsmittel</description>
+  </expense>
+  <expense>
+    <id>4596</id>
+    <amount>37.85</amount>
+    <date>
+      <day>5</day>
+      <month>3</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Wilster</category>
+    <description>HORNBACH Daemmung etc.</description>
   </expense>
 </expenses>
