@@ -1,6 +1,14 @@
 <?xml version="1.0"?>
 <incomes>
     <entry>
+        <amount>3191.40</amount>
+        <date>
+            <month>2</month>
+            <year>2020</year>
+        </date>
+        <description>Travel Reimbursement ID 11</description>
+	</entry>
+    <entry>
         <amount>3115.18</amount>
         <date>
             <month>2</month>
@@ -27,7 +35,7 @@
     <entry>
         <amount>222.19</amount>
         <date>
-            <month>01</month>
+            <month>1</month>
             <year>2020</year>
         </date>
         <description>STEUER RUECKZAHLUNG 2015</description>
@@ -35,7 +43,7 @@
     <entry>
         <amount>124.03</amount>
         <date>
-            <month>01</month>
+            <month>1</month>
             <year>2020</year>
         </date>
         <description>STADTWERKE PINNEBERG</description>
