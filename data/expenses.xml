@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>4599</last_expense_id>
+  <last_expense_id>4612</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -52953,7 +52953,7 @@
       <month>2</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>REWE</description>
   </expense>
@@ -52965,7 +52965,7 @@
       <month>2</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Travel</category>
     <description>SHELL Diesel Trip Ungvar</description>
   </expense>
@@ -52977,7 +52977,7 @@
       <month>2</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>REWE</description>
   </expense>
@@ -52989,7 +52989,7 @@
       <month>2</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Wilster</category>
     <description>PAYPAL EBAY Bohrkrone</description>
   </expense>
@@ -53073,7 +53073,7 @@
       <month>2</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>REWE</description>
   </expense>
@@ -53085,7 +53085,7 @@
       <month>2</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>REWE</description>
   </expense>
@@ -53097,7 +53097,7 @@
       <month>2</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>BALZER</description>
   </expense>
@@ -53109,7 +53109,7 @@
       <month>2</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>ALDI</description>
   </expense>
@@ -53133,7 +53133,7 @@
       <month>2</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Wilster</category>
     <description>OBI</description>
   </expense>
@@ -53193,7 +53193,7 @@
       <month>2</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>BALZER</description>
   </expense>
@@ -53997,7 +53997,7 @@
       <month>2</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Wilster regular</category>
     <description>STADTWERKE WILSTER</description>
   </expense>
@@ -54636,5 +54636,161 @@
     <withdrawn>Yes</withdrawn>
     <category>Business trip</category>
     <description>AIRPLUS</description>
+  </expense>
+  <expense>
+    <id>4600</id>
+    <amount>131.00</amount>
+    <date>
+      <day>31</day>
+      <month>1</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Wilster regular</category>
+    <description>MAINGAU</description>
+  </expense>
+  <expense>
+    <id>4601</id>
+    <amount>131.00</amount>
+    <date>
+      <day>29</day>
+      <month>2</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Wilster regular</category>
+    <description>MAINGAU</description>
+  </expense>
+  <expense>
+    <id>4602</id>
+    <amount>131.00</amount>
+    <date>
+      <day>31</day>
+      <month>3</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Wilster regular</category>
+    <description>MAINGAU</description>
+  </expense>
+  <expense>
+    <id>4603</id>
+    <amount>131.00</amount>
+    <date>
+      <day>30</day>
+      <month>4</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Wilster regular</category>
+    <description>MAINGAU</description>
+  </expense>
+  <expense>
+    <id>4604</id>
+    <amount>131.00</amount>
+    <date>
+      <day>31</day>
+      <month>5</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Wilster regular</category>
+    <description>MAINGAU</description>
+  </expense>
+  <expense>
+    <id>4605</id>
+    <amount>131.00</amount>
+    <date>
+      <day>30</day>
+      <month>6</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Wilster regular</category>
+    <description>MAINGAU</description>
+  </expense>
+  <expense>
+    <id>4606</id>
+    <amount>131.00</amount>
+    <date>
+      <day>31</day>
+      <month>7</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Wilster regular</category>
+    <description>MAINGAU</description>
+  </expense>
+  <expense>
+    <id>4607</id>
+    <amount>131.00</amount>
+    <date>
+      <day>31</day>
+      <month>8</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Wilster regular</category>
+    <description>MAINGAU</description>
+  </expense>
+  <expense>
+    <id>4608</id>
+    <amount>131.00</amount>
+    <date>
+      <day>30</day>
+      <month>9</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Wilster regular</category>
+    <description>MAINGAU</description>
+  </expense>
+  <expense>
+    <id>4609</id>
+    <amount>131.00</amount>
+    <date>
+      <day>31</day>
+      <month>10</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Wilster regular</category>
+    <description>MAINGAU</description>
+  </expense>
+  <expense>
+    <id>4610</id>
+    <amount>131.00</amount>
+    <date>
+      <day>30</day>
+      <month>11</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Wilster regular</category>
+    <description>MAINGAU</description>
+  </expense>
+  <expense>
+    <id>4611</id>
+    <amount>131.00</amount>
+    <date>
+      <day>31</day>
+      <month>12</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Wilster regular</category>
+    <description>MAINGAU</description>
+  </expense>
+  <expense>
+    <id>4612</id>
+    <amount>20.00</amount>
+    <date>
+      <day>6</day>
+      <month>2</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>No record</category>
+    <description>VWFS Kantine</description>
   </expense>
 </expenses>
