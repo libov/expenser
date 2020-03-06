@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>4613</last_expense_id>
+  <last_expense_id>4615</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -44234,18 +44234,6 @@
     <description>Mutter Habenicht</description>
   </expense>
   <expense>
-    <id>3719</id>
-    <amount>60.00</amount>
-    <date>
-      <day>13</day>
-      <month>4</month>
-      <year>2019</year>
-    </date>
-    <withdrawn>No</withdrawn>
-    <category>Piano lessons</category>
-    <description>2x + debt</description>
-  </expense>
-  <expense>
     <id>3720</id>
     <amount>30.09</amount>
     <date>
@@ -48120,18 +48108,6 @@
     <withdrawn>Yes</withdrawn>
     <category>Wilster</category>
     <description>HAUPTHOFF Bauder etc.</description>
-  </expense>
-  <expense>
-    <id>4049</id>
-    <amount>14.00</amount>
-    <date>
-      <day>6</day>
-      <month>8</month>
-      <year>2019</year>
-    </date>
-    <withdrawn>No</withdrawn>
-    <category>Restaurant</category>
-    <description>Peter Pane</description>
   </expense>
   <expense>
     <id>4050</id>
@@ -53025,7 +53001,7 @@
       <month>3</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Business trip</category>
     <description>AIRPLUS ABRECHNUNG</description>
   </expense>
@@ -54009,7 +53985,7 @@
       <month>3</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Wilster regular</category>
     <description>STADTWERKE WILSTER</description>
   </expense>
@@ -54417,7 +54393,7 @@
       <month>2</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Other</category>
     <description>ROSSMANN Weights</description>
   </expense>
@@ -54429,7 +54405,7 @@
       <month>3</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>BALZERS</description>
   </expense>
@@ -54441,7 +54417,7 @@
       <month>2</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>BALZERS</description>
   </expense>
@@ -54453,7 +54429,7 @@
       <month>2</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>EDEKA</description>
   </expense>
@@ -54465,7 +54441,7 @@
       <month>2</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Presents</category>
     <description>ROSSMANN 14.99 part 1 - weights for Roulka</description>
   </expense>
@@ -54477,7 +54453,7 @@
       <month>2</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Other</category>
     <description>ROSSMANN 14.99 part 2 - Augentropfen</description>
   </expense>
@@ -54489,7 +54465,7 @@
       <month>2</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>NETTO</description>
   </expense>
@@ -54501,7 +54477,7 @@
       <month>2</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Wilster</category>
     <description>OBI Rundrohr</description>
   </expense>
@@ -54513,7 +54489,7 @@
       <month>3</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>REWE</description>
   </expense>
@@ -54525,7 +54501,7 @@
       <month>3</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>REWE</description>
   </expense>
@@ -54537,7 +54513,7 @@
       <month>3</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>REWE</description>
   </expense>
@@ -54549,7 +54525,7 @@
       <month>3</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>ROSSMANN</description>
   </expense>
@@ -54561,7 +54537,7 @@
       <month>3</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>EDEKA</description>
   </expense>
@@ -54585,7 +54561,7 @@
       <month>3</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Other</category>
     <description>APOTHEKE Desinfektionsmittel</description>
   </expense>
@@ -54657,7 +54633,7 @@
       <month>2</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Wilster regular</category>
     <description>MAINGAU</description>
   </expense>
@@ -54804,5 +54780,17 @@
     <withdrawn>Yes</withdrawn>
     <category>PI Vermietung</category>
     <description>GRUNDSTEUER B PI</description>
+  </expense>
+  <expense>
+    <id>4614</id>
+    <amount>262.79</amount>
+    <date>
+      <day>4</day>
+      <month>3</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Presents</category>
+    <description>AIRBNB Alicante Parents</description>
   </expense>
 </expenses>
