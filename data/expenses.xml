@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>4616</last_expense_id>
+  <last_expense_id>4617</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -54798,6 +54798,18 @@
     <amount>3.13</amount>
     <date>
       <day>6</day>
+      <month>3</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>EDEKA</description>
+  </expense>
+  <expense>
+    <id>4617</id>
+    <amount>9.60</amount>
+    <date>
+      <day>7</day>
       <month>3</month>
       <year>2020</year>
     </date>
