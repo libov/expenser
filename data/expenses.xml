@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>4617</last_expense_id>
+  <last_expense_id>4619</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -54573,7 +54573,7 @@
       <month>3</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Wilster</category>
     <description>HORNBACH Daemmung etc.</description>
   </expense>
@@ -54801,7 +54801,7 @@
       <month>3</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>EDEKA</description>
   </expense>
@@ -54813,8 +54813,32 @@
       <month>3</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>EDEKA</description>
+  </expense>
+  <expense>
+    <id>4618</id>
+    <amount>20.00</amount>
+    <date>
+      <day>9</day>
+      <month>3</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>VWFS Kantine</description>
+  </expense>
+  <expense>
+    <id>4619</id>
+    <amount>1729.20</amount>
+    <date>
+      <day>2</day>
+      <month>4</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Business trip</category>
+    <description>AIRPLUS d-fine</description>
   </expense>
 </expenses>
