@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>4628</last_expense_id>
+  <last_expense_id>4630</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -54948,5 +54948,29 @@
     <withdrawn>No</withdrawn>
     <category>Music equipment</category>
     <description>PAYPAL EBAY VESA Adapter</description>
+  </expense>
+  <expense>
+    <id>4629</id>
+    <amount>29.39</amount>
+    <date>
+      <day>18</day>
+      <month>3</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>NETTO</description>
+  </expense>
+  <expense>
+    <id>4630</id>
+    <amount>2.17</amount>
+    <date>
+      <day>18</day>
+      <month>3</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Music equipment</category>
+    <description>PAYPAL EBAY HDMI</description>
   </expense>
 </expenses>
