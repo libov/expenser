@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>4630</last_expense_id>
+  <last_expense_id>4632</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -54972,5 +54972,29 @@
     <withdrawn>Yes</withdrawn>
     <category>Music equipment</category>
     <description>PAYPAL EBAY HDMI</description>
+  </expense>
+  <expense>
+    <id>4631</id>
+    <amount>9.99</amount>
+    <date>
+      <day>20</day>
+      <month>3</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Wilster</category>
+    <description>OBI</description>
+  </expense>
+  <expense>
+    <id>4632</id>
+    <amount>6.69</amount>
+    <date>
+      <day>21</day>
+      <month>3</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Music equipment</category>
+    <description>EBAY PAYPAL VESA Adapter</description>
   </expense>
 </expenses>
