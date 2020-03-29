@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>4632</last_expense_id>
+  <last_expense_id>4637</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -53817,7 +53817,7 @@
       <month>3</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Wilster regular</category>
     <description>O2 DSL</description>
   </expense>
@@ -54981,7 +54981,7 @@
       <month>3</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Wilster</category>
     <description>OBI</description>
   </expense>
@@ -54993,8 +54993,68 @@
       <month>3</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Music equipment</category>
     <description>EBAY PAYPAL VESA Adapter</description>
+  </expense>
+  <expense>
+    <id>4633</id>
+    <amount>2.92</amount>
+    <date>
+      <day>28</day>
+      <month>3</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>NETTO</description>
+  </expense>
+  <expense>
+    <id>4634</id>
+    <amount>56.72</amount>
+    <date>
+      <day>27</day>
+      <month>3</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>NETTO</description>
+  </expense>
+  <expense>
+    <id>4635</id>
+    <amount>8.52</amount>
+    <date>
+      <day>23</day>
+      <month>3</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Food</category>
+    <description>NETTO</description>
+  </expense>
+  <expense>
+    <id>4636</id>
+    <amount>8.66</amount>
+    <date>
+      <day>23</day>
+      <month>3</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Food</category>
+    <description>ROSSMANN</description>
+  </expense>
+  <expense>
+    <id>4637</id>
+    <amount>1.93</amount>
+    <date>
+      <day>27</day>
+      <month>3</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Wilster</category>
+    <description>OBI Abzweigkasten</description>
   </expense>
 </expenses>
