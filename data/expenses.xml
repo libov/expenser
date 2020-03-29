@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>4637</last_expense_id>
+  <last_expense_id>4647</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -55056,5 +55056,125 @@
     <withdrawn>No</withdrawn>
     <category>Wilster</category>
     <description>OBI Abzweigkasten</description>
+  </expense>
+  <expense>
+    <id>4638</id>
+    <amount>611.73</amount>
+    <date>
+      <day>23</day>
+      <month>3</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>PI Vermietung</category>
+    <description>WEG 01/2020-03/2020</description>
+  </expense>
+  <expense>
+    <id>4639</id>
+    <amount>203.91</amount>
+    <date>
+      <day>1</day>
+      <month>4</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>PI Vermietung</category>
+    <description>WEG </description>
+  </expense>
+  <expense>
+    <id>4640</id>
+    <amount>203.91</amount>
+    <date>
+      <day>1</day>
+      <month>5</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>PI Vermietung</category>
+    <description>WEG </description>
+  </expense>
+  <expense>
+    <id>4641</id>
+    <amount>203.91</amount>
+    <date>
+      <day>1</day>
+      <month>6</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>PI Vermietung</category>
+    <description>WEG </description>
+  </expense>
+  <expense>
+    <id>4642</id>
+    <amount>203.91</amount>
+    <date>
+      <day>1</day>
+      <month>7</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>PI Vermietung</category>
+    <description>WEG </description>
+  </expense>
+  <expense>
+    <id>4643</id>
+    <amount>203.91</amount>
+    <date>
+      <day>1</day>
+      <month>8</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>PI Vermietung</category>
+    <description>WEG </description>
+  </expense>
+  <expense>
+    <id>4644</id>
+    <amount>203.91</amount>
+    <date>
+      <day>1</day>
+      <month>9</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>PI Vermietung</category>
+    <description>WEG </description>
+  </expense>
+  <expense>
+    <id>4645</id>
+    <amount>203.91</amount>
+    <date>
+      <day>1</day>
+      <month>10</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>PI Vermietung</category>
+    <description>WEG </description>
+  </expense>
+  <expense>
+    <id>4646</id>
+    <amount>203.91</amount>
+    <date>
+      <day>1</day>
+      <month>11</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>PI Vermietung</category>
+    <description>WEG </description>
+  </expense>
+  <expense>
+    <id>4647</id>
+    <amount>203.91</amount>
+    <date>
+      <day>1</day>
+      <month>12</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>PI Vermietung</category>
+    <description>WEG </description>
   </expense>
 </expenses>
