@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>4650</last_expense_id>
+  <last_expense_id>4655</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -55185,7 +55185,7 @@
       <month>4</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>PAYPAL EBAY Tyres</description>
   </expense>
@@ -55209,8 +55209,68 @@
       <month>4</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Other</category>
     <description>ROSSMANN Tetradka</description>
+  </expense>
+  <expense>
+    <id>4651</id>
+    <amount>54.79</amount>
+    <date>
+      <day>7</day>
+      <month>4</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Wilster</category>
+    <description>OBI various</description>
+  </expense>
+  <expense>
+    <id>4652</id>
+    <amount>18.56</amount>
+    <date>
+      <day>8</day>
+      <month>4</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>NETTO</description>
+  </expense>
+  <expense>
+    <id>4653</id>
+    <amount>3.20</amount>
+    <date>
+      <day>11</day>
+      <month>4</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>NETTO</description>
+  </expense>
+  <expense>
+    <id>4654</id>
+    <amount>20.71</amount>
+    <date>
+      <day>10</day>
+      <month>4</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>STAR Diesel</description>
+  </expense>
+  <expense>
+    <id>4655</id>
+    <amount>11.68</amount>
+    <date>
+      <day>13</day>
+      <month>4</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>No record</category>
+    <description>NETTO but no receipt</description>
   </expense>
 </expenses>
