@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>4658</last_expense_id>
+  <last_expense_id>4659</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -55308,5 +55308,17 @@
     <withdrawn>No</withdrawn>
     <category>Music equipment</category>
     <description>SIXT TRUCK</description>
+  </expense>
+  <expense>
+    <id>4659</id>
+    <amount>130.00</amount>
+    <date>
+      <day>14</day>
+      <month>4</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Music equipment</category>
+    <description>KLAVIER</description>
   </expense>
 </expenses>
