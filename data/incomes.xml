@@ -1,6 +1,54 @@
 <?xml version="1.0"?>
 <incomes>
     <entry>
+        <amount>2397.60</amount>
+        <date>
+            <month>4</month>
+            <year>2020</year>
+        </date>
+        <description>Travel Reimbursement ID ZZ</description>
+	</entry>
+    <entry>
+        <amount>470</amount>
+        <date>
+            <month>4</month>
+            <year>2020</year>
+        </date>
+        <description>PI VERMIETUNG</description>
+	</entry>
+    <entry>
+        <amount>2146.09</amount>
+        <date>
+            <month>4</month>
+            <year>2020</year>
+        </date>
+        <description>PI VERMIETUNG</description>
+	</entry>
+    <entry>
+        <amount>3115.18</amount>
+        <date>
+            <month>4</month>
+            <year>2020</year>
+        </date>
+        <description>Salary 4/2020</description>
+	</entry>
+    <entry>
+        <amount>211.65</amount>
+        <date>
+            <month>4</month>
+            <year>2020</year>
+        </date>
+        <description>STADTWERKE Schlussrechnung</description>
+	</entry>
+    <entry>
+        <amount>0.01</amount>
+        <date>
+            <month>4</month>
+            <year>2020</year>
+        </date>
+        <description>EBAY???</description>
+	</entry>
+    <entry>
         <amount>470.00</amount>
         <date>
             <month>3</month>
@@ -11,7 +59,7 @@
     <entry>
         <amount>3115.18</amount>
         <date>
-            <month>2</month>
+            <month>3</month>
             <year>2020</year>
         </date>
         <description>Salary 3/2020</description>
