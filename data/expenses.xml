@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>4683</last_expense_id>
+  <last_expense_id>4685</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -55608,5 +55608,29 @@
     <withdrawn>Yes</withdrawn>
     <category>Music equipment</category>
     <description>KLAVIERSTIMMUNG</description>
+  </expense>
+  <expense>
+    <id>4684</id>
+    <amount>232.05</amount>
+    <date>
+      <day>28</day>
+      <month>4</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Presents</category>
+    <description>PAYPAL APPLE Artemis</description>
+  </expense>
+  <expense>
+    <id>4685</id>
+    <amount>28.30</amount>
+    <date>
+      <day>3</day>
+      <month>5</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Presents</category>
+    <description>PAYPAL Roula</description>
   </expense>
 </expenses>
