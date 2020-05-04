@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>4685</last_expense_id>
+  <last_expense_id>4686</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -54009,7 +54009,7 @@
       <month>5</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Wilster regular</category>
     <description>STADTWERKE WILSTER</description>
   </expense>
@@ -54657,7 +54657,7 @@
       <month>4</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Wilster regular</category>
     <description>MAINGAU</description>
   </expense>
@@ -55569,7 +55569,7 @@
       <month>5</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>EDEKA</description>
   </expense>
@@ -55632,5 +55632,17 @@
     <withdrawn>No</withdrawn>
     <category>Presents</category>
     <description>PAYPAL Roula</description>
+  </expense>
+  <expense>
+    <id>4686</id>
+    <amount>736.25</amount>
+    <date>
+      <day>4</day>
+      <month>5</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Business trip</category>
+    <description>AIRPLUS d-fine</description>
   </expense>
 </expenses>
