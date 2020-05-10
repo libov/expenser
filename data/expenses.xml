@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>4689</last_expense_id>
+  <last_expense_id>4695</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -55680,5 +55680,77 @@
     <withdrawn>Yes</withdrawn>
     <category>Presents</category>
     <description>ROSSMANN</description>
+  </expense>
+  <expense>
+    <id>4690</id>
+    <amount>4.80</amount>
+    <date>
+      <day>10</day>
+      <month>5</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Restaurant</category>
+    <description>BALZERs Mett</description>
+  </expense>
+  <expense>
+    <id>4691</id>
+    <amount>4.80</amount>
+    <date>
+      <day>9</day>
+      <month>5</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Restaurant</category>
+    <description>BALZERs Mett</description>
+  </expense>
+  <expense>
+    <id>4692</id>
+    <amount>7.33</amount>
+    <date>
+      <day>8</day>
+      <month>5</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>EDEKA</description>
+  </expense>
+  <expense>
+    <id>4693</id>
+    <amount>20.92</amount>
+    <date>
+      <day>8</day>
+      <month>5</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>NETTO</description>
+  </expense>
+  <expense>
+    <id>4694</id>
+    <amount>11.97</amount>
+    <date>
+      <day>6</day>
+      <month>5</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>NETTO</description>
+  </expense>
+  <expense>
+    <id>4695</id>
+    <amount>17.35</amount>
+    <date>
+      <day>9</day>
+      <month>5</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>NETTO</description>
   </expense>
 </expenses>
