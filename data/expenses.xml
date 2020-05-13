@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>4699</last_expense_id>
+  <last_expense_id>4700</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -54782,18 +54782,6 @@
     <description>GRUNDSTEUER B PI</description>
   </expense>
   <expense>
-    <id>4614</id>
-    <amount>262.79</amount>
-    <date>
-      <day>4</day>
-      <month>3</month>
-      <year>2020</year>
-    </date>
-    <withdrawn>Yes</withdrawn>
-    <category>Presents</category>
-    <description>AIRBNB Alicante Parents</description>
-  </expense>
-  <expense>
     <id>4616</id>
     <amount>3.13</amount>
     <date>
@@ -55689,7 +55677,7 @@
       <month>5</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Restaurant</category>
     <description>BALZERs Mett</description>
   </expense>
@@ -55701,7 +55689,7 @@
       <month>5</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Restaurant</category>
     <description>BALZERs Mett</description>
   </expense>
@@ -55725,7 +55713,7 @@
       <month>5</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>NETTO</description>
   </expense>
@@ -55749,7 +55737,7 @@
       <month>5</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>NETTO</description>
   </expense>
@@ -55761,7 +55749,7 @@
       <month>5</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>NETTO</description>
   </expense>
@@ -55773,7 +55761,7 @@
       <month>5</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>EDEKA</description>
   </expense>
@@ -55785,7 +55773,7 @@
       <month>5</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>NETTO</description>
   </expense>
@@ -55797,8 +55785,20 @@
       <month>5</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Restaurant</category>
     <description>BALZER</description>
+  </expense>
+  <expense>
+    <id>4700</id>
+    <amount>15.99</amount>
+    <date>
+      <day>11</day>
+      <month>5</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Other</category>
+    <description>NETFLIX</description>
   </expense>
 </expenses>
