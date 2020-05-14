@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>4700</last_expense_id>
+  <last_expense_id>4702</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -55800,5 +55800,29 @@
     <withdrawn>Yes</withdrawn>
     <category>Other</category>
     <description>NETFLIX</description>
+  </expense>
+  <expense>
+    <id>4701</id>
+    <amount>430.53</amount>
+    <date>
+      <day>14</day>
+      <month>5</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Other</category>
+    <description>STEUER</description>
+  </expense>
+  <expense>
+    <id>4702</id>
+    <amount>3.68</amount>
+    <date>
+      <day>12</day>
+      <month>5</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Food</category>
+    <description>NETTO</description>
   </expense>
 </expenses>
