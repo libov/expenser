@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>4716</last_expense_id>
+  <last_expense_id>4720</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -52701,7 +52701,7 @@
       <month>5</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Wilster regular</category>
     <description>ABFALLGEBUEHR</description>
   </expense>
@@ -53133,7 +53133,7 @@
       <month>5</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Wilster regular</category>
     <description>GRUNDST B, NIEDERSCHLAGSWASSERGEBUEHR</description>
   </expense>
@@ -54773,7 +54773,7 @@
     <id>4613</id>
     <amount>35.63</amount>
     <date>
-      <day>17</day>
+      <day>15</day>
       <month>2</month>
       <year>2020</year>
     </date>
@@ -55845,7 +55845,7 @@
       <month>5</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>EDEKA</description>
   </expense>
@@ -55857,7 +55857,7 @@
       <month>5</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>NETTO</description>
   </expense>
@@ -55869,7 +55869,7 @@
       <month>5</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>REWE</description>
   </expense>
@@ -55881,7 +55881,7 @@
       <month>5</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>EDEKA</description>
   </expense>
@@ -55893,7 +55893,7 @@
       <month>5</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>NETTO</description>
   </expense>
@@ -55905,7 +55905,7 @@
       <month>5</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>STAR Diesel</description>
   </expense>
@@ -55917,7 +55917,7 @@
       <month>5</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Restaurant</category>
     <description>KOEZ URFA</description>
   </expense>
@@ -55929,7 +55929,7 @@
       <month>5</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Restaurant</category>
     <description>KOEZ URFA</description>
   </expense>
@@ -55965,7 +55965,7 @@
       <month>5</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Wilster</category>
     <description>OBI</description>
   </expense>
@@ -55992,5 +55992,53 @@
     <withdrawn>No</withdrawn>
     <category>Wilster</category>
     <description>HORNBACH Fliesen etc.</description>
+  </expense>
+  <expense>
+    <id>4717</id>
+    <amount>2.00</amount>
+    <date>
+      <day>17</day>
+      <month>5</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Restaurant</category>
+    <description>McDonalds</description>
+  </expense>
+  <expense>
+    <id>4718</id>
+    <amount>35.63</amount>
+    <date>
+      <day>15</day>
+      <month>5</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>PI Vermietung</category>
+    <description>GRUNDSTEUER B Pinneberg</description>
+  </expense>
+  <expense>
+    <id>4719</id>
+    <amount>35.63</amount>
+    <date>
+      <day>15</day>
+      <month>8</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>PI Vermietung</category>
+    <description>GRUNDSTEUER B Pinneberg</description>
+  </expense>
+  <expense>
+    <id>4720</id>
+    <amount>35.63</amount>
+    <date>
+      <day>15</day>
+      <month>11</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>PI Vermietung</category>
+    <description>GRUNDSTEUER B Pinneberg</description>
   </expense>
 </expenses>
