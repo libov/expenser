@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>4712</last_expense_id>
+  <last_expense_id>4716</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -55944,5 +55944,53 @@
     <withdrawn>No</withdrawn>
     <category>Restaurant</category>
     <description>ESS BAHN</description>
+  </expense>
+  <expense>
+    <id>4713</id>
+    <amount>7.75</amount>
+    <date>
+      <day>22</day>
+      <month>5</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Wilster</category>
+    <description>OBI</description>
+  </expense>
+  <expense>
+    <id>4714</id>
+    <amount>14.13</amount>
+    <date>
+      <day>16</day>
+      <month>5</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Wilster</category>
+    <description>OBI</description>
+  </expense>
+  <expense>
+    <id>4715</id>
+    <amount>239.99</amount>
+    <date>
+      <day>22</day>
+      <month>5</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Wilster</category>
+    <description>OBI BAdewanne</description>
+  </expense>
+  <expense>
+    <id>4716</id>
+    <amount>409.82</amount>
+    <date>
+      <day>22</day>
+      <month>5</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Wilster</category>
+    <description>HORNBACH Fliesen etc.</description>
   </expense>
 </expenses>
