@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>4702</last_expense_id>
+  <last_expense_id>4708</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -55822,6 +55822,78 @@
       <year>2020</year>
     </date>
     <withdrawn>Yes</withdrawn>
+    <category>Food</category>
+    <description>NETTO</description>
+  </expense>
+  <expense>
+    <id>4703</id>
+    <amount>5.95</amount>
+    <date>
+      <day>22</day>
+      <month>5</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>EDEK</description>
+  </expense>
+  <expense>
+    <id>4704</id>
+    <amount>19.00</amount>
+    <date>
+      <day>19</day>
+      <month>5</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>EDEKA</description>
+  </expense>
+  <expense>
+    <id>4705</id>
+    <amount>21.05</amount>
+    <date>
+      <day>16</day>
+      <month>5</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>NETTO</description>
+  </expense>
+  <expense>
+    <id>4706</id>
+    <amount>1.74</amount>
+    <date>
+      <day>16</day>
+      <month>5</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>REWE</description>
+  </expense>
+  <expense>
+    <id>4707</id>
+    <amount>11.96</amount>
+    <date>
+      <day>15</day>
+      <month>5</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>EDEKA</description>
+  </expense>
+  <expense>
+    <id>4708</id>
+    <amount>6.00</amount>
+    <date>
+      <day>20</day>
+      <month>5</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
     <category>Food</category>
     <description>NETTO</description>
   </expense>
