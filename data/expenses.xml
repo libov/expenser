@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>4720</last_expense_id>
+  <last_expense_id>4726</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -53841,7 +53841,7 @@
       <month>5</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Wilster regular</category>
     <description>O2 DSL</description>
   </expense>
@@ -55833,7 +55833,7 @@
       <month>5</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>EDEK</description>
   </expense>
@@ -55941,7 +55941,7 @@
       <month>5</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Restaurant</category>
     <description>ESS BAHN</description>
   </expense>
@@ -55953,7 +55953,7 @@
       <month>5</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Wilster</category>
     <description>OBI</description>
   </expense>
@@ -55977,7 +55977,7 @@
       <month>5</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Wilster</category>
     <description>OBI BAdewanne</description>
   </expense>
@@ -55989,7 +55989,7 @@
       <month>5</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Wilster</category>
     <description>HORNBACH Fliesen etc.</description>
   </expense>
@@ -56040,5 +56040,77 @@
     <withdrawn>No</withdrawn>
     <category>PI Vermietung</category>
     <description>GRUNDSTEUER B Pinneberg</description>
+  </expense>
+  <expense>
+    <id>4721</id>
+    <amount>101.90</amount>
+    <date>
+      <day>28</day>
+      <month>5</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Presents</category>
+    <description>WESTERNUNION Mom</description>
+  </expense>
+  <expense>
+    <id>4722</id>
+    <amount>37.00</amount>
+    <date>
+      <day>25</day>
+      <month>5</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Car</category>
+    <description>SUSI Reifen</description>
+  </expense>
+  <expense>
+    <id>4723</id>
+    <amount>25.00</amount>
+    <date>
+      <day>27</day>
+      <month>5</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Car</category>
+    <description>STAR Diesel</description>
+  </expense>
+  <expense>
+    <id>4724</id>
+    <amount>22.82</amount>
+    <date>
+      <day>23</day>
+      <month>5</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Food</category>
+    <description>NETTO</description>
+  </expense>
+  <expense>
+    <id>4725</id>
+    <amount>4.99</amount>
+    <date>
+      <day>23</day>
+      <month>5</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Other</category>
+    <description>ROSSMANN </description>
+  </expense>
+  <expense>
+    <id>4726</id>
+    <amount>6.36</amount>
+    <date>
+      <day>23</day>
+      <month>5</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Food</category>
+    <description>EDEKA</description>
   </expense>
 </expenses>
