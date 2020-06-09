@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>4732</last_expense_id>
+  <last_expense_id>4739</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -56184,5 +56184,89 @@
     <withdrawn>No</withdrawn>
     <category>Wilster</category>
     <description>HORNBACH</description>
+  </expense>
+  <expense>
+    <id>4733</id>
+    <amount>4.80</amount>
+    <date>
+      <day>7</day>
+      <month>6</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Restaurant</category>
+    <description>BALZERS</description>
+  </expense>
+  <expense>
+    <id>4734</id>
+    <amount>8.95</amount>
+    <date>
+      <day>5</day>
+      <month>6</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>EDEKA</description>
+  </expense>
+  <expense>
+    <id>4735</id>
+    <amount>10.89</amount>
+    <date>
+      <day>2</day>
+      <month>6</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>NETTO</description>
+  </expense>
+  <expense>
+    <id>4736</id>
+    <amount>13.50</amount>
+    <date>
+      <day>3</day>
+      <month>6</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>NETTO</description>
+  </expense>
+  <expense>
+    <id>4737</id>
+    <amount>9.05</amount>
+    <date>
+      <day>4</day>
+      <month>6</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>NETTO</description>
+  </expense>
+  <expense>
+    <id>4738</id>
+    <amount>5.59</amount>
+    <date>
+      <day>6</day>
+      <month>6</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>NETTO</description>
+  </expense>
+  <expense>
+    <id>4739</id>
+    <amount>12.00</amount>
+    <date>
+      <day>6</day>
+      <month>6</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>NETTO</description>
   </expense>
 </expenses>
