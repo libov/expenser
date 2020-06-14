@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>4746</last_expense_id>
+  <last_expense_id>4750</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -56352,5 +56352,53 @@
     <withdrawn>No</withdrawn>
     <category>Other</category>
     <description>NETFLIX</description>
+  </expense>
+  <expense>
+    <id>4747</id>
+    <amount>479.99</amount>
+    <date>
+      <day>14</day>
+      <month>6</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Music equipment</category>
+    <description>THOMANN Faderport etc.</description>
+  </expense>
+  <expense>
+    <id>4748</id>
+    <amount>20.00</amount>
+    <date>
+      <day>13</day>
+      <month>6</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Other</category>
+    <description>CASH give back to Artemis </description>
+  </expense>
+  <expense>
+    <id>4749</id>
+    <amount>9.77</amount>
+    <date>
+      <day>13</day>
+      <month>6</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>NETTO</description>
+  </expense>
+  <expense>
+    <id>4750</id>
+    <amount>23.17</amount>
+    <date>
+      <day>12</day>
+      <month>6</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>NETTO</description>
   </expense>
 </expenses>
