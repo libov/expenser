@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>4754</last_expense_id>
+  <last_expense_id>4757</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -54021,7 +54021,7 @@
       <month>6</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Wilster regular</category>
     <description>STADTWERKE WILSTER</description>
   </expense>
@@ -54669,7 +54669,7 @@
       <month>5</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Wilster regular</category>
     <description>MAINGAU</description>
   </expense>
@@ -55089,7 +55089,7 @@
       <month>6</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>PI Vermietung</category>
     <description>WEG </description>
   </expense>
@@ -56121,7 +56121,7 @@
       <month>5</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>NETTO</description>
   </expense>
@@ -56133,7 +56133,7 @@
       <month>6</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Restaurant</category>
     <description>BURGER KING</description>
   </expense>
@@ -56145,7 +56145,7 @@
       <month>5</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Restaurant</category>
     <description>ANDRONACO</description>
   </expense>
@@ -56157,7 +56157,7 @@
       <month>5</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>NETTO</description>
   </expense>
@@ -56169,7 +56169,7 @@
       <month>5</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Wilster</category>
     <description>OBI</description>
   </expense>
@@ -56181,7 +56181,7 @@
       <month>5</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Wilster</category>
     <description>HORNBACH</description>
   </expense>
@@ -56193,7 +56193,7 @@
       <month>6</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Restaurant</category>
     <description>BALZERS</description>
   </expense>
@@ -56205,7 +56205,7 @@
       <month>6</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>EDEKA</description>
   </expense>
@@ -56217,7 +56217,7 @@
       <month>6</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>NETTO</description>
   </expense>
@@ -56229,7 +56229,7 @@
       <month>6</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>NETTO</description>
   </expense>
@@ -56241,7 +56241,7 @@
       <month>6</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>NETTO</description>
   </expense>
@@ -56253,7 +56253,7 @@
       <month>6</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>NETTO</description>
   </expense>
@@ -56265,7 +56265,7 @@
       <month>6</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>NETTO</description>
   </expense>
@@ -56277,7 +56277,7 @@
       <month>6</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>ARAL Diesel</description>
   </expense>
@@ -56289,7 +56289,7 @@
       <month>6</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Music equipment</category>
     <description>HORNBACH Daemmung Bass trap</description>
   </expense>
@@ -56301,7 +56301,7 @@
       <month>6</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Music equipment</category>
     <description>HORNBACH Daemmung Bass Trap</description>
   </expense>
@@ -56313,7 +56313,7 @@
       <month>6</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>NETTO</description>
   </expense>
@@ -56325,7 +56325,7 @@
       <month>6</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>NETTO</description>
   </expense>
@@ -56349,7 +56349,7 @@
       <month>6</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Other</category>
     <description>NETFLIX</description>
   </expense>
@@ -56361,7 +56361,7 @@
       <month>6</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Music equipment</category>
     <description>THOMANN Faderport etc.</description>
   </expense>
@@ -56409,7 +56409,7 @@
       <month>6</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>EDEKA</description>
   </expense>
@@ -56448,5 +56448,41 @@
     <withdrawn>No</withdrawn>
     <category>Wilster</category>
     <description>OBI</description>
+  </expense>
+  <expense>
+    <id>4755</id>
+    <amount>40.00</amount>
+    <date>
+      <day>6</day>
+      <month>6</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Piano lessons</category>
+    <description>CASH 30 + debt 10</description>
+  </expense>
+  <expense>
+    <id>4756</id>
+    <amount>3.86</amount>
+    <date>
+      <day>8</day>
+      <month>6</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Wilster</category>
+    <description>OBI</description>
+  </expense>
+  <expense>
+    <id>4757</id>
+    <amount>30.00</amount>
+    <date>
+      <day>14</day>
+      <month>6</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Car</category>
+    <description>VERWARNUNGSGELD BUSSGELD</description>
   </expense>
 </expenses>
