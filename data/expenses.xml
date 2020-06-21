@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>4762</last_expense_id>
+  <last_expense_id>4769</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -56544,5 +56544,89 @@
     <withdrawn>No</withdrawn>
     <category>Food</category>
     <description>NETTO</description>
+  </expense>
+  <expense>
+    <id>4763</id>
+    <amount>11.00</amount>
+    <date>
+      <day>18</day>
+      <month>6</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>NETTO</description>
+  </expense>
+  <expense>
+    <id>4764</id>
+    <amount>50.79</amount>
+    <date>
+      <day>19</day>
+      <month>6</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Other</category>
+    <description>ALENSA Lenses</description>
+  </expense>
+  <expense>
+    <id>4765</id>
+    <amount>8.89</amount>
+    <date>
+      <day>20</day>
+      <month>6</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>NETTO</description>
+  </expense>
+  <expense>
+    <id>4766</id>
+    <amount>9.26</amount>
+    <date>
+      <day>20</day>
+      <month>6</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>NETTO</description>
+  </expense>
+  <expense>
+    <id>4767</id>
+    <amount>10.20</amount>
+    <date>
+      <day>19</day>
+      <month>6</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Restaurant</category>
+    <description>ESS BAHN Doener</description>
+  </expense>
+  <expense>
+    <id>4768</id>
+    <amount>69.59</amount>
+    <date>
+      <day>19</day>
+      <month>6</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Wilster</category>
+    <description>HORNBACH</description>
+  </expense>
+  <expense>
+    <id>4769</id>
+    <amount>22.10</amount>
+    <date>
+      <day>20</day>
+      <month>6</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Wilster</category>
+    <description>OBI</description>
   </expense>
 </expenses>
