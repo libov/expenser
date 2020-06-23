@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>4769</last_expense_id>
+  <last_expense_id>4772</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -56628,5 +56628,41 @@
     <withdrawn>No</withdrawn>
     <category>Wilster</category>
     <description>OBI</description>
+  </expense>
+  <expense>
+    <id>4770</id>
+    <amount>84.92</amount>
+    <date>
+      <day>22</day>
+      <month>6</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Wilster regular</category>
+    <description>SCHORNSTEINFEGER 2020</description>
+  </expense>
+  <expense>
+    <id>4771</id>
+    <amount>9.24</amount>
+    <date>
+      <day>22</day>
+      <month>6</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>NETTO</description>
+  </expense>
+  <expense>
+    <id>4772</id>
+    <amount>5.20</amount>
+    <date>
+      <day>23</day>
+      <month>6</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>NETTO</description>
   </expense>
 </expenses>
