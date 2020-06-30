@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>4784</last_expense_id>
+  <last_expense_id>4788</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -56808,5 +56808,53 @@
     <withdrawn>No</withdrawn>
     <category>Food</category>
     <description>EDEKA</description>
+  </expense>
+  <expense>
+    <id>4785</id>
+    <amount>15.47</amount>
+    <date>
+      <day>13</day>
+      <month>6</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>REIFEN MEYENBURG</description>
+  </expense>
+  <expense>
+    <id>4786</id>
+    <amount>15.01</amount>
+    <date>
+      <day>24</day>
+      <month>6</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>STAR Diesel</description>
+  </expense>
+  <expense>
+    <id>4787</id>
+    <amount>15.01</amount>
+    <date>
+      <day>27</day>
+      <month>6</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>STAR Diesel</description>
+  </expense>
+  <expense>
+    <id>4788</id>
+    <amount>197.63</amount>
+    <date>
+      <day>25</day>
+      <month>6</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Wilster</category>
+    <description>HORNBACH</description>
   </expense>
 </expenses>
