@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>4775</last_expense_id>
+  <last_expense_id>4777</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -56700,5 +56700,29 @@
     <withdrawn>No</withdrawn>
     <category>Food</category>
     <description>ROSSMANN</description>
+  </expense>
+  <expense>
+    <id>4776</id>
+    <amount>30.69</amount>
+    <date>
+      <day>29</day>
+      <month>6</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Music equipment</category>
+    <description>THOMANN</description>
+  </expense>
+  <expense>
+    <id>4777</id>
+    <amount>3.93</amount>
+    <date>
+      <day>30</day>
+      <month>6</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>NETTO</description>
   </expense>
 </expenses>
