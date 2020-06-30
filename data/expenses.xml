@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>4780</last_expense_id>
+  <last_expense_id>4784</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -56760,5 +56760,53 @@
     <withdrawn>No</withdrawn>
     <category>Restaurant</category>
     <description>CHINA</description>
+  </expense>
+  <expense>
+    <id>4781</id>
+    <amount>9.55</amount>
+    <date>
+      <day>26</day>
+      <month>6</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>NETTO</description>
+  </expense>
+  <expense>
+    <id>4782</id>
+    <amount>1.19</amount>
+    <date>
+      <day>12</day>
+      <month>6</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>NETTO</description>
+  </expense>
+  <expense>
+    <id>4783</id>
+    <amount>5.46</amount>
+    <date>
+      <day>26</day>
+      <month>6</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>NETTO</description>
+  </expense>
+  <expense>
+    <id>4784</id>
+    <amount>13.25</amount>
+    <date>
+      <day>24</day>
+      <month>6</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>EDEKA</description>
   </expense>
 </expenses>
