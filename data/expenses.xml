@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>4803</last_expense_id>
+  <last_expense_id>4806</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -57036,5 +57036,41 @@
     <withdrawn>No</withdrawn>
     <category>Restaurant</category>
     <description>SCHWEINSKE</description>
+  </expense>
+  <expense>
+    <id>4804</id>
+    <amount>4.59</amount>
+    <date>
+      <day>4</day>
+      <month>7</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>NETTO</description>
+  </expense>
+  <expense>
+    <id>4805</id>
+    <amount>225.71</amount>
+    <date>
+      <day>3</day>
+      <month>7</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Wilster</category>
+    <description>HORNBACH</description>
+  </expense>
+  <expense>
+    <id>4806</id>
+    <amount>15.00</amount>
+    <date>
+      <day>3</day>
+      <month>7</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>STAR Diesel</description>
   </expense>
 </expenses>
