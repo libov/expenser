@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>4812</last_expense_id>
+  <last_expense_id>4813</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -57144,5 +57144,17 @@
     <withdrawn>Yes</withdrawn>
     <category>Wilster</category>
     <description>HORNBACH Return</description>
+  </expense>
+  <expense>
+    <id>4813</id>
+    <amount>25.00</amount>
+    <date>
+      <day>5</day>
+      <month>7</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Car</category>
+    <description>VERWARNUNGSGELD</description>
   </expense>
 </expenses>
