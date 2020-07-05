@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>4806</last_expense_id>
+  <last_expense_id>4812</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -53853,7 +53853,7 @@
       <month>6</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Wilster regular</category>
     <description>O2 DSL</description>
   </expense>
@@ -54033,7 +54033,7 @@
       <month>7</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Wilster regular</category>
     <description>STADTWERKE WILSTER</description>
   </expense>
@@ -54681,7 +54681,7 @@
       <month>6</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Wilster regular</category>
     <description>MAINGAU</description>
   </expense>
@@ -55101,7 +55101,7 @@
       <month>7</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>PI Vermietung</category>
     <description>WEG </description>
   </expense>
@@ -56337,7 +56337,7 @@
       <month>6</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>PAYPAL EBAY Spurstangenkopf</description>
   </expense>
@@ -56373,7 +56373,7 @@
       <month>6</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Other</category>
     <description>CASH give back to Artemis </description>
   </expense>
@@ -56385,7 +56385,7 @@
       <month>6</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>NETTO</description>
   </expense>
@@ -56397,7 +56397,7 @@
       <month>6</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>NETTO</description>
   </expense>
@@ -56421,7 +56421,7 @@
       <month>6</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>EDEKA</description>
   </expense>
@@ -56433,7 +56433,7 @@
       <month>6</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>STAR Diesel</description>
   </expense>
@@ -56445,7 +56445,7 @@
       <month>6</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Wilster</category>
     <description>OBI</description>
   </expense>
@@ -56493,7 +56493,7 @@
       <month>6</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>NETTO</description>
   </expense>
@@ -56505,7 +56505,7 @@
       <month>6</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>NETTO</description>
   </expense>
@@ -56517,7 +56517,7 @@
       <month>6</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>NETTO</description>
   </expense>
@@ -56529,7 +56529,7 @@
       <month>6</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>NETTO</description>
   </expense>
@@ -56541,7 +56541,7 @@
       <month>6</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>NETTO</description>
   </expense>
@@ -56553,7 +56553,7 @@
       <month>6</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>NETTO</description>
   </expense>
@@ -56565,7 +56565,7 @@
       <month>6</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Other</category>
     <description>ALENSA Lenses</description>
   </expense>
@@ -56577,7 +56577,7 @@
       <month>6</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>NETTO</description>
   </expense>
@@ -56589,7 +56589,7 @@
       <month>6</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>NETTO</description>
   </expense>
@@ -56601,7 +56601,7 @@
       <month>6</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Restaurant</category>
     <description>ESS BAHN Doener</description>
   </expense>
@@ -56613,7 +56613,7 @@
       <month>6</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Wilster</category>
     <description>HORNBACH</description>
   </expense>
@@ -56625,7 +56625,7 @@
       <month>6</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Wilster</category>
     <description>OBI</description>
   </expense>
@@ -56637,7 +56637,7 @@
       <month>6</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Wilster regular</category>
     <description>SCHORNSTEINFEGER 2020</description>
   </expense>
@@ -56649,7 +56649,7 @@
       <month>6</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>NETTO</description>
   </expense>
@@ -56661,7 +56661,7 @@
       <month>6</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>NETTO</description>
   </expense>
@@ -56673,7 +56673,7 @@
       <month>6</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>NETTO</description>
   </expense>
@@ -56685,7 +56685,7 @@
       <month>6</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>EDEKA</description>
   </expense>
@@ -56697,7 +56697,7 @@
       <month>6</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>ROSSMANN</description>
   </expense>
@@ -56709,7 +56709,7 @@
       <month>6</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Music equipment</category>
     <description>THOMANN</description>
   </expense>
@@ -56721,7 +56721,7 @@
       <month>6</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>NETTO</description>
   </expense>
@@ -56733,7 +56733,7 @@
       <month>6</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>NETTO</description>
   </expense>
@@ -56745,7 +56745,7 @@
       <month>6</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>NETTO</description>
   </expense>
@@ -56757,7 +56757,7 @@
       <month>6</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Restaurant</category>
     <description>CHINA</description>
   </expense>
@@ -56769,7 +56769,7 @@
       <month>6</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>NETTO</description>
   </expense>
@@ -56781,7 +56781,7 @@
       <month>6</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>NETTO</description>
   </expense>
@@ -56793,7 +56793,7 @@
       <month>6</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>NETTO</description>
   </expense>
@@ -56805,7 +56805,7 @@
       <month>6</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>EDEKA</description>
   </expense>
@@ -56817,7 +56817,7 @@
       <month>6</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>REIFEN MEYENBURG</description>
   </expense>
@@ -56829,7 +56829,7 @@
       <month>6</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>STAR Diesel</description>
   </expense>
@@ -56841,7 +56841,7 @@
       <month>6</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>STAR Diesel</description>
   </expense>
@@ -56853,7 +56853,7 @@
       <month>6</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Wilster</category>
     <description>HORNBACH</description>
   </expense>
@@ -56865,7 +56865,7 @@
       <month>6</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Wilster</category>
     <description>IKEA</description>
   </expense>
@@ -56877,7 +56877,7 @@
       <month>6</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Wilster</category>
     <description>IKEA</description>
   </expense>
@@ -56889,7 +56889,7 @@
       <month>6</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Wilster</category>
     <description>IKEA</description>
   </expense>
@@ -56901,7 +56901,7 @@
       <month>6</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Wilster</category>
     <description>HAGEBAUMARKT</description>
   </expense>
@@ -56913,7 +56913,7 @@
       <month>6</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>NETTO</description>
   </expense>
@@ -56925,7 +56925,7 @@
       <month>7</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>NETTO</description>
   </expense>
@@ -56937,7 +56937,7 @@
       <month>7</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>NETTO</description>
   </expense>
@@ -57072,5 +57072,77 @@
     <withdrawn>No</withdrawn>
     <category>Car</category>
     <description>STAR Diesel</description>
+  </expense>
+  <expense>
+    <id>4807</id>
+    <amount>175.00</amount>
+    <date>
+      <day>15</day>
+      <month>6</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Wilster regular</category>
+    <description>ARD 10.2019 bis 07.2020</description>
+  </expense>
+  <expense>
+    <id>4808</id>
+    <amount>-9.90</amount>
+    <date>
+      <day>19</day>
+      <month>6</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Wilster</category>
+    <description>HORNBACH Return</description>
+  </expense>
+  <expense>
+    <id>4809</id>
+    <amount>4.99</amount>
+    <date>
+      <day>25</day>
+      <month>6</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Restaurant</category>
+    <description>BURGER KING</description>
+  </expense>
+  <expense>
+    <id>4810</id>
+    <amount>0.80</amount>
+    <date>
+      <day>30</day>
+      <month>6</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>No record</category>
+    <description>Rechnungsabschluss</description>
+  </expense>
+  <expense>
+    <id>4811</id>
+    <amount>104.35</amount>
+    <date>
+      <day>29</day>
+      <month>6</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Music equipment</category>
+    <description>STUDIO ONE 4</description>
+  </expense>
+  <expense>
+    <id>4812</id>
+    <amount>-12.40</amount>
+    <date>
+      <day>27</day>
+      <month>6</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Wilster</category>
+    <description>HORNBACH Return</description>
   </expense>
 </expenses>
