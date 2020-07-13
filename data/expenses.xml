@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>4819</last_expense_id>
+  <last_expense_id>4827</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -57228,5 +57228,101 @@
     <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>ARAL Diesel</description>
+  </expense>
+  <expense>
+    <id>4820</id>
+    <amount>8.41</amount>
+    <date>
+      <day>11</day>
+      <month>7</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>NETTO</description>
+  </expense>
+  <expense>
+    <id>4821</id>
+    <amount>9.84</amount>
+    <date>
+      <day>7</day>
+      <month>7</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>NETTO</description>
+  </expense>
+  <expense>
+    <id>4822</id>
+    <amount>17.50</amount>
+    <date>
+      <day>10</day>
+      <month>7</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Other</category>
+    <description>FIELMANN Brille</description>
+  </expense>
+  <expense>
+    <id>4823</id>
+    <amount>12.47</amount>
+    <date>
+      <day>10</day>
+      <month>7</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>EDEKA</description>
+  </expense>
+  <expense>
+    <id>4824</id>
+    <amount>18.92</amount>
+    <date>
+      <day>11</day>
+      <month>7</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>EDEKA</description>
+  </expense>
+  <expense>
+    <id>4825</id>
+    <amount>20.78</amount>
+    <date>
+      <day>10</day>
+      <month>7</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Wilster</category>
+    <description>OBI</description>
+  </expense>
+  <expense>
+    <id>4826</id>
+    <amount>31.17</amount>
+    <date>
+      <day>9</day>
+      <month>7</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Wilster</category>
+    <description>OBI</description>
+  </expense>
+  <expense>
+    <id>4827</id>
+    <amount>22.32</amount>
+    <date>
+      <day>9</day>
+      <month>7</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>EDEKA</description>
   </expense>
 </expenses>
