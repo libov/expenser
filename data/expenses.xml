@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>4866</last_expense_id>
+  <last_expense_id>4871</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -57792,5 +57792,65 @@
     <withdrawn>No</withdrawn>
     <category>Car</category>
     <description>STAR Diesel</description>
+  </expense>
+  <expense>
+    <id>4867</id>
+    <amount>8.32</amount>
+    <date>
+      <day>21</day>
+      <month>7</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Wilster</category>
+    <description>OBI</description>
+  </expense>
+  <expense>
+    <id>4868</id>
+    <amount>14.34</amount>
+    <date>
+      <day>18</day>
+      <month>7</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>ROSSMANN cleaning</description>
+  </expense>
+  <expense>
+    <id>4869</id>
+    <amount>4.80</amount>
+    <date>
+      <day>19</day>
+      <month>7</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Restaurant</category>
+    <description>BALZERS</description>
+  </expense>
+  <expense>
+    <id>4870</id>
+    <amount>2.94</amount>
+    <date>
+      <day>19</day>
+      <month>7</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>SHELL Coke</description>
+  </expense>
+  <expense>
+    <id>4871</id>
+    <amount>17.18</amount>
+    <date>
+      <day>16</day>
+      <month>7</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Wilster</category>
+    <description>OBI Steckdosen mit Abdeckrahmen</description>
   </expense>
 </expenses>
