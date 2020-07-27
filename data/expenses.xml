@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>4873</last_expense_id>
+  <last_expense_id>4876</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -57876,5 +57876,41 @@
     <withdrawn>No</withdrawn>
     <category>Food</category>
     <description>EDEKA</description>
+  </expense>
+  <expense>
+    <id>4874</id>
+    <amount>70.87</amount>
+    <date>
+      <day>27</day>
+      <month>7</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Wilster</category>
+    <description>IKEA various</description>
+  </expense>
+  <expense>
+    <id>4875</id>
+    <amount>141.83</amount>
+    <date>
+      <day>27</day>
+      <month>7</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Wilster</category>
+    <description>HORNBACH Spiegelschrank</description>
+  </expense>
+  <expense>
+    <id>4876</id>
+    <amount>5.44</amount>
+    <date>
+      <day>27</day>
+      <month>7</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>NETTO</description>
   </expense>
 </expenses>
