@@ -57722,18 +57722,6 @@
     <description>NETTO</description>
   </expense>
   <expense>
-    <id>4861</id>
-    <amount>6.31</amount>
-    <date>
-      <day>24</day>
-      <month>7</month>
-      <year>2020</year>
-    </date>
-    <withdrawn>No</withdrawn>
-    <category>Food</category>
-    <description>EDEKA</description>
-  </expense>
-  <expense>
     <id>4862</id>
     <amount>8.64</amount>
     <date>
