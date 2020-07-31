@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>4884</last_expense_id>
+  <last_expense_id>4889</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -57996,5 +57996,65 @@
     <withdrawn>Yes</withdrawn>
     <category>Cash</category>
     <description>obi mostly return</description>
+  </expense>
+  <expense>
+    <id>4885</id>
+    <amount>69.13</amount>
+    <date>
+      <day>31</day>
+      <month>7</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Travel</category>
+    <description>Hotel Amsterdam</description>
+  </expense>
+  <expense>
+    <id>4886</id>
+    <amount>4.50</amount>
+    <date>
+      <day>31</day>
+      <month>7</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Restaurant</category>
+    <description>Beer</description>
+  </expense>
+  <expense>
+    <id>4887</id>
+    <amount>18.00</amount>
+    <date>
+      <day>31</day>
+      <month>7</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Music equipment</category>
+    <description>Polotno</description>
+  </expense>
+  <expense>
+    <id>4888</id>
+    <amount>7.70</amount>
+    <date>
+      <day>31</day>
+      <month>7</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>Beers Amsterdam</description>
+  </expense>
+  <expense>
+    <id>4889</id>
+    <amount>5.50</amount>
+    <date>
+      <day>31</day>
+      <month>7</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Travel</category>
+    <description>P+R public transport ticket</description>
   </expense>
 </expenses>
