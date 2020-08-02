@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>4889</last_expense_id>
+  <last_expense_id>4900</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -57945,7 +57945,7 @@
       <month>7</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>SHELL Diesel</description>
   </expense>
@@ -58056,5 +58056,137 @@
     <withdrawn>No</withdrawn>
     <category>Travel</category>
     <description>P+R public transport ticket</description>
+  </expense>
+  <expense>
+    <id>4890</id>
+    <amount>21.00</amount>
+    <date>
+      <day>1</day>
+      <month>8</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Restaurant</category>
+    <description>LUZAS Breakfast</description>
+  </expense>
+  <expense>
+    <id>4891</id>
+    <amount>44.90</amount>
+    <date>
+      <day>31</day>
+      <month>7</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Restaurant</category>
+    <description>CANNIBALE ROYALE</description>
+  </expense>
+  <expense>
+    <id>4892</id>
+    <amount>6.00</amount>
+    <date>
+      <day>1</day>
+      <month>8</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Restaurant</category>
+    <description>Cookie</description>
+  </expense>
+  <expense>
+    <id>4893</id>
+    <amount>5.50</amount>
+    <date>
+      <day>1</day>
+      <month>8</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Travel</category>
+    <description>P+R</description>
+  </expense>
+  <expense>
+    <id>4894</id>
+    <amount>1.00</amount>
+    <date>
+      <day>1</day>
+      <month>8</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Travel</category>
+    <description>Parking Amsterdam</description>
+  </expense>
+  <expense>
+    <id>4895</id>
+    <amount>1.00</amount>
+    <date>
+      <day>1</day>
+      <month>8</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Travel</category>
+    <description>Parking Amsterdam</description>
+  </expense>
+  <expense>
+    <id>4896</id>
+    <amount>11.70</amount>
+    <date>
+      <day>1</day>
+      <month>8</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Restaurant</category>
+    <description>STARBUCKs</description>
+  </expense>
+  <expense>
+    <id>4897</id>
+    <amount>48.90</amount>
+    <date>
+      <day>31</day>
+      <month>7</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Travel</category>
+    <description>STAR Diesel</description>
+  </expense>
+  <expense>
+    <id>4898</id>
+    <amount>19.28</amount>
+    <date>
+      <day>31</day>
+      <month>7</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Wilster</category>
+    <description>OBI</description>
+  </expense>
+  <expense>
+    <id>4899</id>
+    <amount>4.34</amount>
+    <date>
+      <day>30</day>
+      <month>7</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>NETTO</description>
+  </expense>
+  <expense>
+    <id>4900</id>
+    <amount>16.32</amount>
+    <date>
+      <day>30</day>
+      <month>7</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Food</category>
+    <description>NETTO</description>
   </expense>
 </expenses>
