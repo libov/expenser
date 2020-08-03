@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>4900</last_expense_id>
+  <last_expense_id>4902</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -58188,5 +58188,29 @@
     <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>NETTO</description>
+  </expense>
+  <expense>
+    <id>4901</id>
+    <amount>2.99</amount>
+    <date>
+      <day>3</day>
+      <month>8</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>NETTO</description>
+  </expense>
+  <expense>
+    <id>4902</id>
+    <amount>20.00</amount>
+    <date>
+      <day>1</day>
+      <month>8</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Other</category>
+    <description>TATANKA</description>
   </expense>
 </expenses>
