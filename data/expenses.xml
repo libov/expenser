@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>4902</last_expense_id>
+  <last_expense_id>4903</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -54045,7 +54045,7 @@
       <month>8</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Wilster regular</category>
     <description>STADTWERKE WILSTER</description>
   </expense>
@@ -54693,7 +54693,7 @@
       <month>7</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Wilster regular</category>
     <description>MAINGAU</description>
   </expense>
@@ -58017,7 +58017,7 @@
       <month>7</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Restaurant</category>
     <description>Beer</description>
   </expense>
@@ -58029,7 +58029,7 @@
       <month>7</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Music equipment</category>
     <description>Polotno</description>
   </expense>
@@ -58041,7 +58041,7 @@
       <month>7</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>Beers Amsterdam</description>
   </expense>
@@ -58053,7 +58053,7 @@
       <month>7</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Travel</category>
     <description>P+R public transport ticket</description>
   </expense>
@@ -58065,7 +58065,7 @@
       <month>8</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Restaurant</category>
     <description>LUZAS Breakfast</description>
   </expense>
@@ -58077,7 +58077,7 @@
       <month>7</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Restaurant</category>
     <description>CANNIBALE ROYALE</description>
   </expense>
@@ -58089,7 +58089,7 @@
       <month>8</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Restaurant</category>
     <description>Cookie</description>
   </expense>
@@ -58101,7 +58101,7 @@
       <month>8</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Travel</category>
     <description>P+R</description>
   </expense>
@@ -58113,7 +58113,7 @@
       <month>8</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Travel</category>
     <description>Parking Amsterdam</description>
   </expense>
@@ -58125,7 +58125,7 @@
       <month>8</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Travel</category>
     <description>Parking Amsterdam</description>
   </expense>
@@ -58137,7 +58137,7 @@
       <month>8</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Restaurant</category>
     <description>STARBUCKs</description>
   </expense>
@@ -58173,7 +58173,7 @@
       <month>7</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>NETTO</description>
   </expense>
@@ -58209,8 +58209,20 @@
       <month>8</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Other</category>
     <description>TATANKA</description>
+  </expense>
+  <expense>
+    <id>4903</id>
+    <amount>13.50</amount>
+    <date>
+      <day>1</day>
+      <month>8</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Other</category>
+    <description>AZARIUS</description>
   </expense>
 </expenses>
