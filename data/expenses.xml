@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>4915</last_expense_id>
+  <last_expense_id>4918</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -58362,6 +58362,42 @@
     <amount>9.24</amount>
     <date>
       <day>6</day>
+      <month>8</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>NETTO</description>
+  </expense>
+  <expense>
+    <id>4916</id>
+    <amount>46.80</amount>
+    <date>
+      <day>8</day>
+      <month>8</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Restaurant</category>
+    <description>HB</description>
+  </expense>
+  <expense>
+    <id>4917</id>
+    <amount>15.28</amount>
+    <date>
+      <day>7</day>
+      <month>8</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>STAR Diesel</description>
+  </expense>
+  <expense>
+    <id>4918</id>
+    <amount>3.68</amount>
+    <date>
+      <day>8</day>
       <month>8</month>
       <year>2020</year>
     </date>
