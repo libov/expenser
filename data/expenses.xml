@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>4920</last_expense_id>
+  <last_expense_id>4926</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -58422,6 +58422,78 @@
     <amount>12.84</amount>
     <date>
       <day>8</day>
+      <month>8</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>NETTO</description>
+  </expense>
+  <expense>
+    <id>4921</id>
+    <amount>0.96</amount>
+    <date>
+      <day>13</day>
+      <month>8</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>NETTO</description>
+  </expense>
+  <expense>
+    <id>4922</id>
+    <amount>2.90</amount>
+    <date>
+      <day>13</day>
+      <month>8</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>ROSSMANN Spruehflasche</description>
+  </expense>
+  <expense>
+    <id>4923</id>
+    <amount>7.56</amount>
+    <date>
+      <day>11</day>
+      <month>8</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>NETTO</description>
+  </expense>
+  <expense>
+    <id>4924</id>
+    <amount>8.09</amount>
+    <date>
+      <day>12</day>
+      <month>8</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>NETTO</description>
+  </expense>
+  <expense>
+    <id>4925</id>
+    <amount>1.63</amount>
+    <date>
+      <day>10</day>
+      <month>8</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>NETTO</description>
+  </expense>
+  <expense>
+    <id>4926</id>
+    <amount>1.63</amount>
+    <date>
+      <day>11</day>
       <month>8</month>
       <year>2020</year>
     </date>
