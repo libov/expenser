@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>4945</last_expense_id>
+  <last_expense_id>4950</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -58722,6 +58722,66 @@
     <amount>7.48</amount>
     <date>
       <day>18</day>
+      <month>8</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>NETTO</description>
+  </expense>
+  <expense>
+    <id>4946</id>
+    <amount>6.50</amount>
+    <date>
+      <day>21</day>
+      <month>8</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>NETTO</description>
+  </expense>
+  <expense>
+    <id>4947</id>
+    <amount>1.40</amount>
+    <date>
+      <day>19</day>
+      <month>8</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>NETTO</description>
+  </expense>
+  <expense>
+    <id>4948</id>
+    <amount>12.42</amount>
+    <date>
+      <day>19</day>
+      <month>8</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>NETTO</description>
+  </expense>
+  <expense>
+    <id>4949</id>
+    <amount>7.31</amount>
+    <date>
+      <day>22</day>
+      <month>8</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>NETTO</description>
+  </expense>
+  <expense>
+    <id>4950</id>
+    <amount>3.57</amount>
+    <date>
+      <day>20</day>
       <month>8</month>
       <year>2020</year>
     </date>
