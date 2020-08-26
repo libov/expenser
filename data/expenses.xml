@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>4965</last_expense_id>
+  <last_expense_id>4968</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -58968,5 +58968,41 @@
     <withdrawn>No</withdrawn>
     <category>Other</category>
     <description>BAHN.DE Ticket to Altona</description>
+  </expense>
+  <expense>
+    <id>4966</id>
+    <amount>3.46</amount>
+    <date>
+      <day>26</day>
+      <month>8</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>NETTO</description>
+  </expense>
+  <expense>
+    <id>4967</id>
+    <amount>8.25</amount>
+    <date>
+      <day>25</day>
+      <month>8</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>NETTO</description>
+  </expense>
+  <expense>
+    <id>4968</id>
+    <amount>4.82</amount>
+    <date>
+      <day>25</day>
+      <month>8</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>NETTO</description>
   </expense>
 </expenses>
