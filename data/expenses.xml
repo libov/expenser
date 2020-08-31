@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>4969</last_expense_id>
+  <last_expense_id>4975</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -59016,5 +59016,77 @@
     <withdrawn>No</withdrawn>
     <category>Presents</category>
     <description>MONEYGRAM Parents</description>
+  </expense>
+  <expense>
+    <id>4970</id>
+    <amount>2.11</amount>
+    <date>
+      <day>31</day>
+      <month>8</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>NETTO</description>
+  </expense>
+  <expense>
+    <id>4971</id>
+    <amount>15.64</amount>
+    <date>
+      <day>29</day>
+      <month>8</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>NETTO</description>
+  </expense>
+  <expense>
+    <id>4972</id>
+    <amount>1.29</amount>
+    <date>
+      <day>29</day>
+      <month>8</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>NETTO</description>
+  </expense>
+  <expense>
+    <id>4973</id>
+    <amount>2.35</amount>
+    <date>
+      <day>28</day>
+      <month>8</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>NETTO</description>
+  </expense>
+  <expense>
+    <id>4974</id>
+    <amount>8.15</amount>
+    <date>
+      <day>27</day>
+      <month>8</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>NETTO</description>
+  </expense>
+  <expense>
+    <id>4975</id>
+    <amount>4.85</amount>
+    <date>
+      <day>27</day>
+      <month>8</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>NETTO</description>
   </expense>
 </expenses>
