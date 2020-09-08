@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>4986</last_expense_id>
+  <last_expense_id>4993</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -59220,5 +59220,89 @@
     <withdrawn>No</withdrawn>
     <category>Other</category>
     <description>ROSSMANN</description>
+  </expense>
+  <expense>
+    <id>4987</id>
+    <amount>2.77</amount>
+    <date>
+      <day>7</day>
+      <month>9</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>NETTO</description>
+  </expense>
+  <expense>
+    <id>4988</id>
+    <amount>13.49</amount>
+    <date>
+      <day>7</day>
+      <month>9</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>NETTO</description>
+  </expense>
+  <expense>
+    <id>4989</id>
+    <amount>4.22</amount>
+    <date>
+      <day>5</day>
+      <month>9</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>NETTO</description>
+  </expense>
+  <expense>
+    <id>4990</id>
+    <amount>3.80</amount>
+    <date>
+      <day>5</day>
+      <month>9</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>NETTO</description>
+  </expense>
+  <expense>
+    <id>4991</id>
+    <amount>9.39</amount>
+    <date>
+      <day>4</day>
+      <month>9</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>NETTO</description>
+  </expense>
+  <expense>
+    <id>4992</id>
+    <amount>6.13</amount>
+    <date>
+      <day>4</day>
+      <month>9</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>NETTO</description>
+  </expense>
+  <expense>
+    <id>4993</id>
+    <amount>8.90</amount>
+    <date>
+      <day>5</day>
+      <month>9</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>NETTO</description>
   </expense>
 </expenses>
