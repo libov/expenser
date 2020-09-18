@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>5014</last_expense_id>
+  <last_expense_id>5020</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -59556,5 +59556,77 @@
     <withdrawn>No</withdrawn>
     <category>Wilster</category>
     <description>HAUPTHOFF Gipskartonprofile, Daemmung</description>
+  </expense>
+  <expense>
+    <id>5015</id>
+    <amount>2.81</amount>
+    <date>
+      <day>16</day>
+      <month>9</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>SILPO (MasterCard)</description>
+  </expense>
+  <expense>
+    <id>5016</id>
+    <amount>2.28</amount>
+    <date>
+      <day>13</day>
+      <month>9</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Travel</category>
+    <description>A4 Fee (MasterCard)</description>
+  </expense>
+  <expense>
+    <id>5017</id>
+    <amount>2.28</amount>
+    <date>
+      <day>13</day>
+      <month>9</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Travel</category>
+    <description>A4 Fee (MasterCard)</description>
+  </expense>
+  <expense>
+    <id>5018</id>
+    <amount>3.70</amount>
+    <date>
+      <day>13</day>
+      <month>9</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Travel</category>
+    <description>A4 Fee (MasterCard)</description>
+  </expense>
+  <expense>
+    <id>5019</id>
+    <amount>11.48</amount>
+    <date>
+      <day>13</day>
+      <month>9</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>SILPO (MasterCard)</description>
+  </expense>
+  <expense>
+    <id>5020</id>
+    <amount>25.82</amount>
+    <date>
+      <day>13</day>
+      <month>9</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Travel</category>
+    <description>ORLEN Diesel (MasterCard)</description>
   </expense>
 </expenses>
