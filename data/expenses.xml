@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>5007</last_expense_id>
+  <last_expense_id>5008</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -59472,5 +59472,17 @@
     <withdrawn>No</withdrawn>
     <category>Food</category>
     <description>EDEKA (MasterCard)</description>
+  </expense>
+  <expense>
+    <id>5008</id>
+    <amount>0.79</amount>
+    <date>
+      <day>12</day>
+      <month>9</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Wilster</category>
+    <description>OBI</description>
   </expense>
 </expenses>
