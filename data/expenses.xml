@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>5002</last_expense_id>
+  <last_expense_id>5007</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -59412,5 +59412,65 @@
     <withdrawn>No</withdrawn>
     <category>Food</category>
     <description>EDEKA</description>
+  </expense>
+  <expense>
+    <id>5003</id>
+    <amount>5.11</amount>
+    <date>
+      <day>12</day>
+      <month>9</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>NETTO</description>
+  </expense>
+  <expense>
+    <id>5004</id>
+    <amount>57.01</amount>
+    <date>
+      <day>12</day>
+      <month>9</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>NETTO</description>
+  </expense>
+  <expense>
+    <id>5005</id>
+    <amount>6.71</amount>
+    <date>
+      <day>12</day>
+      <month>9</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>NETTO</description>
+  </expense>
+  <expense>
+    <id>5006</id>
+    <amount>8.23</amount>
+    <date>
+      <day>12</day>
+      <month>9</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>EDEKA</description>
+  </expense>
+  <expense>
+    <id>5007</id>
+    <amount>5.78</amount>
+    <date>
+      <day>11</day>
+      <month>9</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>EDEKA (MasterCard)</description>
   </expense>
 </expenses>
