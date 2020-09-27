@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>5023</last_expense_id>
+  <last_expense_id>5026</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -59664,5 +59664,41 @@
     <withdrawn>No</withdrawn>
     <category>Food</category>
     <description>SILPO Ungvar</description>
+  </expense>
+  <expense>
+    <id>5024</id>
+    <amount>2.28</amount>
+    <date>
+      <day>20</day>
+      <month>9</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>A4 Fee</description>
+  </expense>
+  <expense>
+    <id>5025</id>
+    <amount>2.28</amount>
+    <date>
+      <day>20</day>
+      <month>9</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>A4 Fee</description>
+  </expense>
+  <expense>
+    <id>5026</id>
+    <amount>3.69</amount>
+    <date>
+      <day>20</day>
+      <month>9</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>A4 Fee</description>
   </expense>
 </expenses>
