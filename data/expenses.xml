@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>5026</last_expense_id>
+  <last_expense_id>5029</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -59674,7 +59674,7 @@
       <year>2020</year>
     </date>
     <withdrawn>No</withdrawn>
-    <category>Food</category>
+    <category>Travel</category>
     <description>A4 Fee</description>
   </expense>
   <expense>
@@ -59686,7 +59686,7 @@
       <year>2020</year>
     </date>
     <withdrawn>No</withdrawn>
-    <category>Food</category>
+    <category>Travel</category>
     <description>A4 Fee</description>
   </expense>
   <expense>
@@ -59698,7 +59698,43 @@
       <year>2020</year>
     </date>
     <withdrawn>No</withdrawn>
-    <category>Food</category>
+    <category>Travel</category>
     <description>A4 Fee</description>
+  </expense>
+  <expense>
+    <id>5027</id>
+    <amount>1.71</amount>
+    <date>
+      <day>20</day>
+      <month>9</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>ORLEN HotDog</description>
+  </expense>
+  <expense>
+    <id>5028</id>
+    <amount>1.37</amount>
+    <date>
+      <day>20</day>
+      <month>9</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>ORLEN Coffee</description>
+  </expense>
+  <expense>
+    <id>5029</id>
+    <amount>20860.00</amount>
+    <date>
+      <day>20</day>
+      <month>9</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Travel</category>
+    <description>LIPIA Diesel</description>
   </expense>
 </expenses>
