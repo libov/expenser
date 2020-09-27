@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>5021</last_expense_id>
+  <last_expense_id>5023</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -59640,5 +59640,29 @@
     <withdrawn>No</withdrawn>
     <category>Travel</category>
     <description>TESCO Diesel Ungvar Trip</description>
+  </expense>
+  <expense>
+    <id>5022</id>
+    <amount>16.88</amount>
+    <date>
+      <day>17</day>
+      <month>9</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Presents</category>
+    <description>EPICENTR Badewannearmatur Mom</description>
+  </expense>
+  <expense>
+    <id>5023</id>
+    <amount>7.11</amount>
+    <date>
+      <day>18</day>
+      <month>9</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>SILPO Ungvar</description>
   </expense>
 </expenses>
