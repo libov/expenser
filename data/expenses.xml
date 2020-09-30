@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>5040</last_expense_id>
+  <last_expense_id>5044</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -59868,5 +59868,53 @@
     <withdrawn>No</withdrawn>
     <category>Food</category>
     <description>NETTO</description>
+  </expense>
+  <expense>
+    <id>5041</id>
+    <amount>75.00</amount>
+    <date>
+      <day>12</day>
+      <month>9</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Presents</category>
+    <description>part 1 of 200: cash for mom</description>
+  </expense>
+  <expense>
+    <id>5042</id>
+    <amount>85.00</amount>
+    <date>
+      <day>12</day>
+      <month>9</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Other</category>
+    <description>part 2 of 200: Teeth</description>
+  </expense>
+  <expense>
+    <id>5043</id>
+    <amount>20.00</amount>
+    <date>
+      <day>12</day>
+      <month>9</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Food</category>
+    <description>part 3 of 200: Cash Ungvar mom</description>
+  </expense>
+  <expense>
+    <id>5044</id>
+    <amount>20.00</amount>
+    <date>
+      <day>12</day>
+      <month>9</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Cash</category>
+    <description>part 4 of 200: rest</description>
   </expense>
 </expenses>
