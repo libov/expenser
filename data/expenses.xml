@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>5044</last_expense_id>
+  <last_expense_id>5047</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -54069,7 +54069,7 @@
       <month>10</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Wilster regular</category>
     <description>STADTWERKE WILSTER</description>
   </expense>
@@ -54729,7 +54729,7 @@
       <month>10</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Wilster regular</category>
     <description>MAINGAU</description>
   </expense>
@@ -59865,7 +59865,7 @@
       <month>9</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>NETTO</description>
   </expense>
@@ -59916,5 +59916,41 @@
     <withdrawn>Yes</withdrawn>
     <category>Cash</category>
     <description>part 4 of 200: rest</description>
+  </expense>
+  <expense>
+    <id>5045</id>
+    <amount>3.97</amount>
+    <date>
+      <day>30</day>
+      <month>9</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>EDEKA</description>
+  </expense>
+  <expense>
+    <id>5046</id>
+    <amount>6.32</amount>
+    <date>
+      <day>30</day>
+      <month>9</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>ROSSMANN</description>
+  </expense>
+  <expense>
+    <id>5047</id>
+    <amount>2.60</amount>
+    <date>
+      <day>30</day>
+      <month>9</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>EDEKA</description>
   </expense>
 </expenses>
