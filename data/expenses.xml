@@ -60122,18 +60122,6 @@
     <description>BAELYERS</description>
   </expense>
   <expense>
-    <id>5062</id>
-    <amount>4.80</amount>
-    <date>
-      <day>11</day>
-      <month>10</month>
-      <year>2020</year>
-    </date>
-    <withdrawn>No</withdrawn>
-    <category>Food</category>
-    <description>BAELZERS</description>
-  </expense>
-  <expense>
     <id>5063</id>
     <amount>6.05</amount>
     <date>
