@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>5066</last_expense_id>
+  <last_expense_id>5067</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -60153,7 +60153,7 @@
       <month>10</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>NETTO</description>
   </expense>
@@ -60166,8 +60166,8 @@
       <year>2020</year>
     </date>
     <withdrawn>Yes</withdrawn>
-    <category>No record</category>
-    <description>NETTO-no receipt</description>
+    <category>Food</category>
+    <description>NETTO</description>
   </expense>
   <expense>
     <id>5066</id>
@@ -60180,5 +60180,17 @@
     <withdrawn>Yes</withdrawn>
     <category>Wilster</category>
     <description>OBI</description>
+  </expense>
+  <expense>
+    <id>5067</id>
+    <amount>8.99</amount>
+    <date>
+      <day>14</day>
+      <month>10</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
+    <category>Food</category>
+    <description>EDEKA</description>
   </expense>
 </expenses>
