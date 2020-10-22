@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>5067</last_expense_id>
+  <last_expense_id>5074</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -60178,6 +60178,90 @@
       <year>2020</year>
     </date>
     <withdrawn>Yes</withdrawn>
+    <category>Food</category>
+    <description>EDEKA</description>
+  </expense>
+  <expense>
+    <id>5068</id>
+    <amount>2.45</amount>
+    <date>
+      <day>21</day>
+      <month>10</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>EDEKA</description>
+  </expense>
+  <expense>
+    <id>5069</id>
+    <amount>2.28</amount>
+    <date>
+      <day>20</day>
+      <month>10</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>EDEKA</description>
+  </expense>
+  <expense>
+    <id>5070</id>
+    <amount>5.08</amount>
+    <date>
+      <day>19</day>
+      <month>10</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>EDEKA</description>
+  </expense>
+  <expense>
+    <id>5071</id>
+    <amount>13.30</amount>
+    <date>
+      <day>17</day>
+      <month>10</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>EDEKA</description>
+  </expense>
+  <expense>
+    <id>5072</id>
+    <amount>5.63</amount>
+    <date>
+      <day>16</day>
+      <month>10</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>EDEKA</description>
+  </expense>
+  <expense>
+    <id>5073</id>
+    <amount>13.98</amount>
+    <date>
+      <day>16</day>
+      <month>10</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>EDEKA</description>
+  </expense>
+  <expense>
+    <id>5074</id>
+    <amount>4.37</amount>
+    <date>
+      <day>15</day>
+      <month>10</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
     <category>Food</category>
     <description>EDEKA</description>
   </expense>
