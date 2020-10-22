@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>5079</last_expense_id>
+  <last_expense_id>5083</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -60324,5 +60324,53 @@
     <withdrawn>No</withdrawn>
     <category>Wilster</category>
     <description>HORNBACH</description>
+  </expense>
+  <expense>
+    <id>5080</id>
+    <amount>18.00</amount>
+    <date>
+      <day>16</day>
+      <month>10</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Other</category>
+    <description>Konsulat</description>
+  </expense>
+  <expense>
+    <id>5081</id>
+    <amount>185.00</amount>
+    <date>
+      <day>16</day>
+      <month>10</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Other</category>
+    <description>Konsulat</description>
+  </expense>
+  <expense>
+    <id>5082</id>
+    <amount>81.76</amount>
+    <date>
+      <day>17</day>
+      <month>10</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Wilster</category>
+    <description>OBI Tuerzarge</description>
+  </expense>
+  <expense>
+    <id>5083</id>
+    <amount>12.56</amount>
+    <date>
+      <day>17</day>
+      <month>10</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Wilster</category>
+    <description>OBI Schluesselsatz etc.</description>
   </expense>
 </expenses>
