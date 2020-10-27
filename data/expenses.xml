@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>5099</last_expense_id>
+  <last_expense_id>5100</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -60564,5 +60564,17 @@
     <withdrawn>No</withdrawn>
     <category>Wilster</category>
     <description>OBI</description>
+  </expense>
+  <expense>
+    <id>5100</id>
+    <amount>4.80</amount>
+    <date>
+      <day>25</day>
+      <month>10</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>Balzers</description>
   </expense>
 </expenses>
