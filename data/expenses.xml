@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>5102</last_expense_id>
+  <last_expense_id>5104</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -60564,5 +60564,29 @@
     <withdrawn>No</withdrawn>
     <category>Food</category>
     <description>NETTO</description>
+  </expense>
+  <expense>
+    <id>5103</id>
+    <amount>101.90</amount>
+    <date>
+      <day>29</day>
+      <month>10</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Presents</category>
+    <description>Westernunion Mom</description>
+  </expense>
+  <expense>
+    <id>5104</id>
+    <amount>11.99</amount>
+    <date>
+      <day>29</day>
+      <month>10</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Presents</category>
+    <description>PAYPAL Ticket Flixbus for Dad</description>
   </expense>
 </expenses>
