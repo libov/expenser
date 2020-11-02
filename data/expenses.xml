@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>5107</last_expense_id>
+  <last_expense_id>5110</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -60624,5 +60624,41 @@
     <withdrawn>No</withdrawn>
     <category>Business trip</category>
     <description>TANKCENTER PI Diesel</description>
+  </expense>
+  <expense>
+    <id>5108</id>
+    <amount>10.65</amount>
+    <date>
+      <day>2</day>
+      <month>11</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>REWE</description>
+  </expense>
+  <expense>
+    <id>5109</id>
+    <amount>11.18</amount>
+    <date>
+      <day>2</day>
+      <month>11</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>REWE</description>
+  </expense>
+  <expense>
+    <id>5110</id>
+    <amount>9.11</amount>
+    <date>
+      <day>30</day>
+      <month>10</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>NETTO</description>
   </expense>
 </expenses>
