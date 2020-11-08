@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>5113</last_expense_id>
+  <last_expense_id>5114</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -60696,5 +60696,17 @@
     <withdrawn>No</withdrawn>
     <category>Food</category>
     <description>REWE</description>
+  </expense>
+  <expense>
+    <id>5114</id>
+    <amount>9.93</amount>
+    <date>
+      <day>6</day>
+      <month>11</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>NETTO</description>
   </expense>
 </expenses>
