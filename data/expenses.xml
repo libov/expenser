@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>5117</last_expense_id>
+  <last_expense_id>5120</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -60738,6 +60738,42 @@
     <amount>5.24</amount>
     <date>
       <day>9</day>
+      <month>11</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>REWE</description>
+  </expense>
+  <expense>
+    <id>5118</id>
+    <amount>4.98</amount>
+    <date>
+      <day>12</day>
+      <month>11</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>REWE</description>
+  </expense>
+  <expense>
+    <id>5119</id>
+    <amount>3.15</amount>
+    <date>
+      <day>11</day>
+      <month>11</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>REWE</description>
+  </expense>
+  <expense>
+    <id>5120</id>
+    <amount>4.80</amount>
+    <date>
+      <day>10</day>
       <month>11</month>
       <year>2020</year>
     </date>
