@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>5129</last_expense_id>
+  <last_expense_id>5134</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -60888,5 +60888,65 @@
     <withdrawn>No</withdrawn>
     <category>Food</category>
     <description>EDEKA</description>
+  </expense>
+  <expense>
+    <id>5130</id>
+    <amount>4.86</amount>
+    <date>
+      <day>14</day>
+      <month>11</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>ROSSMANN Lens Liquid</description>
+  </expense>
+  <expense>
+    <id>5131</id>
+    <amount>14.62</amount>
+    <date>
+      <day>14</day>
+      <month>11</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Music equipment</category>
+    <description>MEDIAMARKT Label Machine</description>
+  </expense>
+  <expense>
+    <id>5132</id>
+    <amount>5.22</amount>
+    <date>
+      <day>15</day>
+      <month>11</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>BALZERs</description>
+  </expense>
+  <expense>
+    <id>5133</id>
+    <amount>4.30</amount>
+    <date>
+      <day>14</day>
+      <month>11</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>NETTO</description>
+  </expense>
+  <expense>
+    <id>5134</id>
+    <amount>10.76</amount>
+    <date>
+      <day>16</day>
+      <month>11</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>REWE</description>
   </expense>
 </expenses>
