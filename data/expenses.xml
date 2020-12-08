@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>5140</last_expense_id>
+  <last_expense_id>5144</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -61011,7 +61011,7 @@
   </expense>
   <expense>
     <id>5140</id>
-    <amount>28.00</amount>
+    <amount>18.00</amount>
     <date>
       <day>28</day>
       <month>11</month>
@@ -61020,5 +61020,53 @@
     <withdrawn>No</withdrawn>
     <category>Wilster</category>
     <description>AMAZON 4x S Stueck </description>
+  </expense>
+  <expense>
+    <id>5141</id>
+    <amount>123.00</amount>
+    <date>
+      <day>8</day>
+      <month>12</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>ATW Zahnriemensatz etc.</description>
+  </expense>
+  <expense>
+    <id>5142</id>
+    <amount>39.73</amount>
+    <date>
+      <day>6</day>
+      <month>12</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>PAYPAL eBay Werkzeug</description>
+  </expense>
+  <expense>
+    <id>5143</id>
+    <amount>27.64</amount>
+    <date>
+      <day>1</day>
+      <month>12</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>PAYPAL EBAY Luftschlauch</description>
+  </expense>
+  <expense>
+    <id>5144</id>
+    <amount>36.92</amount>
+    <date>
+      <day>15</day>
+      <month>11</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>PayPal KFZTeile Oel etc.</description>
   </expense>
 </expenses>
