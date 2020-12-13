@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>5144</last_expense_id>
+  <last_expense_id>5150</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -61068,5 +61068,77 @@
     <withdrawn>No</withdrawn>
     <category>Car</category>
     <description>PayPal KFZTeile Oel etc.</description>
+  </expense>
+  <expense>
+    <id>5145</id>
+    <amount>9.99</amount>
+    <date>
+      <day>13</day>
+      <month>12</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>Schlauchschellen</description>
+  </expense>
+  <expense>
+    <id>5146</id>
+    <amount>34.91</amount>
+    <date>
+      <day>13</day>
+      <month>12</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>Pumpe, Filter, etc.</description>
+  </expense>
+  <expense>
+    <id>5147</id>
+    <amount>3.16</amount>
+    <date>
+      <day>12</day>
+      <month>12</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>HVV</description>
+  </expense>
+  <expense>
+    <id>5148</id>
+    <amount>2.14</amount>
+    <date>
+      <day>12</day>
+      <month>12</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>HVV</description>
+  </expense>
+  <expense>
+    <id>5149</id>
+    <amount>16.10</amount>
+    <date>
+      <day>12</day>
+      <month>12</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>DB</description>
+  </expense>
+  <expense>
+    <id>5150</id>
+    <amount>16.10</amount>
+    <date>
+      <day>12</day>
+      <month>12</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>DB</description>
   </expense>
 </expenses>
