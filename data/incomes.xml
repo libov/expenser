@@ -1,6 +1,46 @@
 <?xml version="1.0"?>
 <incomes>
     <entry>
+        <amount>570</amount>
+        <date>
+            <month>12</month>
+            <year>2020</year>
+        </date>
+        <description>PI VERMIETUNG</description>
+	</entry> 
+    <entry>
+        <amount>0.39</amount>
+        <date>
+            <month>11</month>
+            <year>2020</year>
+        </date>
+        <description>Sparda Dividende</description>
+	</entry> 
+    <entry>
+        <amount>246.58</amount>
+        <date>
+            <month>11</month>
+            <year>2020</year>
+        </date>
+        <description>PI VERMIETUNG WEG Ausgleich</description>
+	</entry> 
+    <entry>
+        <amount>3459.04</amount>
+        <date>
+            <month>11</month>
+            <year>2020</year>
+        </date>
+        <description>Salary 11/2020</description>
+	</entry>
+    <entry>
+        <amount>640</amount>
+        <date>
+            <month>10</month>
+            <year>2020</year>
+        </date>
+        <description>PI VERMIETUNG</description>
+	</entry> 
+    <entry>
         <amount>33.72</amount>
         <date>
             <month>10</month>
