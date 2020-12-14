@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>5189</last_expense_id>
+  <last_expense_id>5191</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -61596,5 +61596,29 @@
     <withdrawn>Yes</withdrawn>
     <category>Cash</category>
     <description>back from OBi Mietauto (part2 of 200)  - cash, food in Frankfurt KFW Canteen, etc. etc.</description>
+  </expense>
+  <expense>
+    <id>5190</id>
+    <amount>4.71</amount>
+    <date>
+      <day>14</day>
+      <month>12</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>EDEKA</description>
+  </expense>
+  <expense>
+    <id>5191</id>
+    <amount>7.08</amount>
+    <date>
+      <day>14</day>
+      <month>12</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>NETTO</description>
   </expense>
 </expenses>
