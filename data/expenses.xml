@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>5191</last_expense_id>
+  <last_expense_id>5192</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -59781,7 +59781,7 @@
       <month>12</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Wilster regular</category>
     <description>ARD Rundfunkbeitrag</description>
   </expense>
@@ -61065,7 +61065,7 @@
       <month>12</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>Schlauchschellen</description>
   </expense>
@@ -61077,7 +61077,7 @@
       <month>12</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>Pumpe, Filter, etc.</description>
   </expense>
@@ -61089,7 +61089,7 @@
       <month>12</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>HVV</description>
   </expense>
@@ -61101,7 +61101,7 @@
       <month>12</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>HVV</description>
   </expense>
@@ -61161,7 +61161,7 @@
       <month>12</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>PAYPAL WD40 Kontaktspraz</description>
   </expense>
@@ -61605,7 +61605,7 @@
       <month>12</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>EDEKA</description>
   </expense>
@@ -61617,7 +61617,19 @@
       <month>12</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
+    <category>Food</category>
+    <description>NETTO</description>
+  </expense>
+  <expense>
+    <id>5192</id>
+    <amount>3.46</amount>
+    <date>
+      <day>15</day>
+      <month>12</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>NETTO</description>
   </expense>
