@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>5192</last_expense_id>
+  <last_expense_id>5201</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -61630,6 +61630,114 @@
       <year>2020</year>
     </date>
     <withdrawn>Yes</withdrawn>
+    <category>Food</category>
+    <description>NETTO</description>
+  </expense>
+  <expense>
+    <id>5193</id>
+    <amount>5.59</amount>
+    <date>
+      <day>18</day>
+      <month>12</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>NETTO</description>
+  </expense>
+  <expense>
+    <id>5194</id>
+    <amount>3.77</amount>
+    <date>
+      <day>18</day>
+      <month>12</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>EDEKA</description>
+  </expense>
+  <expense>
+    <id>5195</id>
+    <amount>16.10</amount>
+    <date>
+      <day>20</day>
+      <month>12</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>Bahn Ticket</description>
+  </expense>
+  <expense>
+    <id>5196</id>
+    <amount>16.10</amount>
+    <date>
+      <day>20</day>
+      <month>12</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>Bahn Ticket</description>
+  </expense>
+  <expense>
+    <id>5197</id>
+    <amount>2.14</amount>
+    <date>
+      <day>20</day>
+      <month>12</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>HVV Ticket</description>
+  </expense>
+  <expense>
+    <id>5198</id>
+    <amount>2.14</amount>
+    <date>
+      <day>20</day>
+      <month>12</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Car</category>
+    <description>HVV Ticket</description>
+  </expense>
+  <expense>
+    <id>5199</id>
+    <amount>8.56</amount>
+    <date>
+      <day>19</day>
+      <month>12</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>ROSSMANN</description>
+  </expense>
+  <expense>
+    <id>5200</id>
+    <amount>7.50</amount>
+    <date>
+      <day>19</day>
+      <month>12</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>EDEKA</description>
+  </expense>
+  <expense>
+    <id>5201</id>
+    <amount>6.90</amount>
+    <date>
+      <day>19</day>
+      <month>12</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
     <category>Food</category>
     <description>NETTO</description>
   </expense>
