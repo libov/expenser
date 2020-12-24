@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>5203</last_expense_id>
+  <last_expense_id>5208</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -61764,5 +61764,65 @@
     <withdrawn>No</withdrawn>
     <category>Car</category>
     <description>DB Ticket</description>
+  </expense>
+  <expense>
+    <id>5204</id>
+    <amount>4.85</amount>
+    <date>
+      <day>23</day>
+      <month>12</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>NETTO</description>
+  </expense>
+  <expense>
+    <id>5205</id>
+    <amount>1.92</amount>
+    <date>
+      <day>22</day>
+      <month>12</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>NETTO</description>
+  </expense>
+  <expense>
+    <id>5206</id>
+    <amount>1.16</amount>
+    <date>
+      <day>21</day>
+      <month>12</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>NETTO</description>
+  </expense>
+  <expense>
+    <id>5207</id>
+    <amount>10.28</amount>
+    <date>
+      <day>24</day>
+      <month>12</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>EDEKA</description>
+  </expense>
+  <expense>
+    <id>5208</id>
+    <amount>4.10</amount>
+    <date>
+      <day>22</day>
+      <month>12</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>EDEKA</description>
   </expense>
 </expenses>
