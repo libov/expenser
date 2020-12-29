@@ -53138,18 +53138,6 @@
     <description>BALZER</description>
   </expense>
   <expense>
-    <id>4479</id>
-    <amount>158.95</amount>
-    <date>
-      <day>10</day>
-      <month>2</month>
-      <year>2020</year>
-    </date>
-    <withdrawn>Yes</withdrawn>
-    <category>Presents</category>
-    <description>PAYPAL RYANAIR Alicante Parents</description>
-  </expense>
-  <expense>
     <id>4480</id>
     <amount>34.99</amount>
     <date>
@@ -53889,7 +53877,7 @@
       <month>12</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Wilster regular</category>
     <description>O2 DSL</description>
   </expense>
@@ -61113,7 +61101,7 @@
       <month>12</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>DB</description>
   </expense>
@@ -61125,7 +61113,7 @@
       <month>12</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>DB</description>
   </expense>
@@ -61641,7 +61629,7 @@
       <month>12</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>NETTO</description>
   </expense>
@@ -61689,7 +61677,7 @@
       <month>12</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>HVV Ticket</description>
   </expense>
@@ -61701,7 +61689,7 @@
       <month>12</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Car</category>
     <description>HVV Ticket</description>
   </expense>
@@ -61713,7 +61701,7 @@
       <month>12</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>ROSSMANN</description>
   </expense>
@@ -61737,7 +61725,7 @@
       <month>12</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>NETTO</description>
   </expense>
@@ -61773,7 +61761,7 @@
       <month>12</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>NETTO</description>
   </expense>
@@ -61785,7 +61773,7 @@
       <month>12</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>NETTO</description>
   </expense>
@@ -61797,7 +61785,7 @@
       <month>12</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>NETTO</description>
   </expense>
@@ -61809,7 +61797,7 @@
       <month>12</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>EDEKA</description>
   </expense>
@@ -61821,7 +61809,7 @@
       <month>12</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>EDEKA</description>
   </expense>
@@ -61833,7 +61821,7 @@
       <month>12</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>NETTO</description>
   </expense>
@@ -61857,7 +61845,7 @@
       <month>12</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>NETTO</description>
   </expense>
@@ -61869,7 +61857,7 @@
       <month>12</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Food</category>
     <description>NETTO</description>
   </expense>
@@ -61881,7 +61869,7 @@
       <month>12</month>
       <year>2020</year>
     </date>
-    <withdrawn>No</withdrawn>
+    <withdrawn>Yes</withdrawn>
     <category>Presents</category>
     <description>WESTERN Union Parents</description>
   </expense>
