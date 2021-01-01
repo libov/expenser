@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>5213</last_expense_id>
+  <last_expense_id>5217</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -61872,5 +61872,53 @@
     <withdrawn>Yes</withdrawn>
     <category>Presents</category>
     <description>WESTERN Union Parents</description>
+  </expense>
+  <expense>
+    <id>5214</id>
+    <amount>7.43</amount>
+    <date>
+      <day>29</day>
+      <month>12</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>EDEKA</description>
+  </expense>
+  <expense>
+    <id>5215</id>
+    <amount>2.44</amount>
+    <date>
+      <day>29</day>
+      <month>12</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>NETTO</description>
+  </expense>
+  <expense>
+    <id>5216</id>
+    <amount>9.85</amount>
+    <date>
+      <day>30</day>
+      <month>12</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>NETTO</description>
+  </expense>
+  <expense>
+    <id>5217</id>
+    <amount>9.53</amount>
+    <date>
+      <day>30</day>
+      <month>12</month>
+      <year>2020</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>EDEKA</description>
   </expense>
 </expenses>
