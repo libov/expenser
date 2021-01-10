@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>5226</last_expense_id>
+  <last_expense_id>5230</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -62028,5 +62028,53 @@
     <withdrawn>No</withdrawn>
     <category>Food</category>
     <description>NETTO</description>
+  </expense>
+  <expense>
+    <id>5227</id>
+    <amount>1.80</amount>
+    <date>
+      <day>9</day>
+      <month>1</month>
+      <year>2021</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>MARKTKAUF</description>
+  </expense>
+  <expense>
+    <id>5228</id>
+    <amount>5.63</amount>
+    <date>
+      <day>8</day>
+      <month>1</month>
+      <year>2021</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>EDEKA</description>
+  </expense>
+  <expense>
+    <id>5229</id>
+    <amount>8.93</amount>
+    <date>
+      <day>9</day>
+      <month>1</month>
+      <year>2021</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>NETTO</description>
+  </expense>
+  <expense>
+    <id>5230</id>
+    <amount>9.86</amount>
+    <date>
+      <day>9</day>
+      <month>1</month>
+      <year>2021</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>EDEKA</description>
   </expense>
 </expenses>
