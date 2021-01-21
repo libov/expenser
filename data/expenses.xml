@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>5241</last_expense_id>
+  <last_expense_id>5242</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -62208,5 +62208,17 @@
     <withdrawn>No</withdrawn>
     <category>Presents</category>
     <description>ROSSMANN Biodobavki Parents</description>
+  </expense>
+  <expense>
+    <id>5242</id>
+    <amount>14.17</amount>
+    <date>
+      <day>19</day>
+      <month>1</month>
+      <year>2021</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Travel</category>
+    <description>TEAM Benzin Trip Ungvar</description>
   </expense>
 </expenses>
