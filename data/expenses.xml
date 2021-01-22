@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <expenses>
-  <last_expense_id>5242</last_expense_id>
+  <last_expense_id>5247</last_expense_id>
   <expense>
     <id>1</id>
     <amount>10.24</amount>
@@ -62220,5 +62220,65 @@
     <withdrawn>No</withdrawn>
     <category>Travel</category>
     <description>TEAM Benzin Trip Ungvar</description>
+  </expense>
+  <expense>
+    <id>5243</id>
+    <amount>5.14</amount>
+    <date>
+      <day>21</day>
+      <month>1</month>
+      <year>2021</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>NETTO</description>
+  </expense>
+  <expense>
+    <id>5244</id>
+    <amount>51.68</amount>
+    <date>
+      <day>21</day>
+      <month>1</month>
+      <year>2021</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Presents</category>
+    <description>NETTO</description>
+  </expense>
+  <expense>
+    <id>5245</id>
+    <amount>5.72</amount>
+    <date>
+      <day>20</day>
+      <month>1</month>
+      <year>2021</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Food</category>
+    <description>EDEKA</description>
+  </expense>
+  <expense>
+    <id>5246</id>
+    <amount>7.48</amount>
+    <date>
+      <day>20</day>
+      <month>1</month>
+      <year>2021</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Presents</category>
+    <description>ROSSMANN Bio for parents</description>
+  </expense>
+  <expense>
+    <id>5247</id>
+    <amount>39.44</amount>
+    <date>
+      <day>21</day>
+      <month>1</month>
+      <year>2021</year>
+    </date>
+    <withdrawn>No</withdrawn>
+    <category>Presents</category>
+    <description>EDEKA Trip Ungvar</description>
   </expense>
 </expenses>
